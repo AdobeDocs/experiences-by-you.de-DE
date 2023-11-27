@@ -1,0 +1,31 @@
+---
+title: AEM Champion Tips and Tricks - [!DNL Cloud Manager] Umgebungstypen
+description: Lesen Sie diese Tipps zu [!DNL Cloud Manager]'s Umgebungstypen von AEM Champion und Experte, Rakesh Pasupuleti.
+version: Cloud Service
+feature-set: Marketo Engage, Experience Manager, Experience Manager Cloud Manager
+solution: Experience Manager Cloud Manager, Marketo Engage, Experience Manager Cloud Manager
+feature: Cloud Manager
+topic: Administration
+role: Admin, Architect
+level: Beginner
+doc-type: Value Video
+last-substantial-update: 2023-05-11T00:00:00Z
+jira: KT-13229
+exl-id: 682c97c0-d563-4cfa-be6b-0eb22c675d21
+source-git-commit: 7bbe86435c683f41509a8cbe6b117b354309644a
+workflow-type: tm+mt
+source-wordcount: '97'
+ht-degree: 54%
+
+---
+
+# AEM Champion Tips and Tricks - [!DNL Cloud Manager] Umgebungstypen
+
+Sehen Sie sich diese Tipps von Rakesh Pasupuleti an, der wie Sie als technische Führungskraft tätig ist. Rakesh ist eine [!DNL Adobe] Experience Manager Champion, und er erklärt, wie man [!DNL Cloud Manager]-Umgebungstypen.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3419297?quality=12&learn=on)
+
+## Weitere Ressourcen {#additional-resources}
+
+* [Umgebungen verwalten](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-environments.html?lang=de) – Dokumentation zur Umgebungs-Verwaltung in AEM as a Cloud Service
+* [Schnelle Entwicklungsumgebungen](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/rapid-development-environments.html?lang=de) – Dokumentation zu RDEs in AEM as a Cloud Service
