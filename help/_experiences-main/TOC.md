@@ -1,18 +1,18 @@
 ---
-user-guide-title: Erlebnisse von Ihnen
-user-guide-description: Adobe kundengenerierte Inhalte
-breadcrumb-title: Erlebnisse von Ihnen
+user-guide-title: Experiences by You
+user-guide-description: Von Adobe-Kundinnen und -Kunden generierte Inhalte
+breadcrumb-title: Experiences by You
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
 source-wordcount: '288'
-ht-degree: 74%
+ht-degree: 81%
 
 ---
 
 
-# Erlebnisse von Ihnen {#experiences-by-you}
+# Experiences by You {#experiences-by-you}
 
-+ [Erlebnisse von Ihnen](/help/overview.md)
++ [Experiences by You](/help/overview.md)
 
 + [!DNL Analytics] von Ihnen {#analytics}
    + [Übersicht](/help/analytics/overview.md)
@@ -64,7 +64,7 @@ ht-degree: 74%
       + [Fehlerbehebung für Marketing-Fachleute](/help/campaign/acs/troubleshooting-for-marketers.md)
    + Strategie- und Gedankenführerschaft{#strategy}
       + [Zehn Best Practices zum Erfolg von  [!DNL Adobe Campaign]  für Marketing-Fachleute](/help/campaign/10-best-practices-for-marketers.md)
-+ Experience Manager nach Ihnen {#experience-manager}
++ Experience Manager für dich {#experience-manager}
    + [Übersicht](/help/experience-manager/overview.md)
    + AEM Sites {#sites}
       + [AEM Sites-Reifegradbewertung](/help/experience-manager/sites/expert-resources/maturity-assessment.md)
