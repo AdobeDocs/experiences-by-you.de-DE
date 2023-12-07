@@ -1,6 +1,6 @@
 ---
-title: Experience Manager nach Ihnen
-description: Experience Manager von Ihnen bietet benutzergenerierte Inhalte, die von Alltagsbenutzern erstellt werden, die mit ihrem Wissen über Adobe Experience Manager ein gewisses Maß an Expertise und Einfluss erworben haben.
+title: Experience Manager für dich
+description: „Experience Manager für Euch“ bietet benutzergenerierte Inhalte, die von Alltagsbenutzerinnen und -benutzern erstellt werden, die mit ihrem Wissen über Adobe Experience Manager ein gewisses Maß an Expertise und Einfluss erworben haben.
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview
@@ -8,8 +8,8 @@ solution: Experience Manager
 exl-id: f6aa9dbd-fb4f-40fa-b607-174755a1ca9f
 source-git-commit: d8dff20274341594e7b00ee36671e3d5dd6a67ba
 workflow-type: tm+mt
-source-wordcount: '204'
-ht-degree: 32%
+source-wordcount: '188'
+ht-degree: 26%
 
 ---
 
@@ -53,7 +53,7 @@ Die mächtigste Sache an [!DNL Adobe] Experience Cloud-Lösungen? Du. Die Benutz
     </a>
     </div>
     <p>
-    <em>Das Onboarding-Playbook hilft Ihnen und anderen neuen Admins und Entwicklungspersonen für AEM as a Cloud Service, sich auf die vorliegenden Aufgaben vorzubereiten.</em>
+    <em>Die Onboarding-Playbook hilft Ihnen als neuer Administrator und Entwickler für AEM as a Cloud Service.</em>
     <p>
   </td>
   <td>

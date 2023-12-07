@@ -1,6 +1,6 @@
 ---
-title: Kampagne von Ihnen
-description: Campaign by You bietet benutzergenerierte Inhalte, die von Alltagsbenutzern erstellt werden, die mit ihrem Wissen über Adobe Campaign ein gewisses Maß an Expertise und Einfluss erworben haben.
+title: Campaign für dich
+description: „Campaign für Euch“ bietet benutzergenerierte Inhalte, die von Alltagsbenutzerinnen und -benutzern erstellt werden, die mit ihrem Wissen über Adobe Campaign ein gewisses Maß an Expertise und Einfluss erworben haben.
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview
@@ -9,8 +9,8 @@ thumbnail: null
 exl-id: cb9a03bd-8ce1-4681-929f-68f6ff435f6c
 source-git-commit: d8dff20274341594e7b00ee36671e3d5dd6a67ba
 workflow-type: tm+mt
-source-wordcount: '226'
-ht-degree: 33%
+source-wordcount: '195'
+ht-degree: 27%
 
 ---
 
@@ -50,7 +50,7 @@ Die mächtigste Sache an [!DNL Adobe] Experience Cloud-Lösungen? Du. Die Benutz
     </a>
     <div>
       <a href="/help/campaign/acs/troubleshooting-for-marketers.md">
-    <strong>Fehlerbehebung für Marketing-Fachleute: 5 allgemeine Workflow- und Bereitstellungsfehler</strong>
+    <strong>Fehlerbehebung für Marketingexperten: 5 häufige Workflow- und Bereitstellungsfehler</strong>
     </a>
     </div>
     <p>
@@ -59,11 +59,11 @@ Die mächtigste Sache an [!DNL Adobe] Experience Cloud-Lösungen? Du. Die Benutz
   </td>
   <td>
     <a href="/help/campaign/10-best-practices-for-marketers.md">
-      <img alt="Zehn Best Practices zum Erfolg mit Adobe Campaign für Marketing-Fachleute" src="https://cdn.experienceleague.adobe.com/thumb/docs-campaign.png" />
+      <img alt="Zehn Best Practices zum Erfolg von Adobe Campaign für Marketing-Fachleute" src="https://cdn.experienceleague.adobe.com/thumb/docs-campaign.png" />
     </a>
     <div>
       <a href="/help/campaign/10-best-practices-for-marketers.md">
-    <strong>Zehn Best Practices zum Erfolg mit Adobe Campaign für Marketing-Fachleute</strong>
+    <strong>Zehn Best Practices für den Erfolg von Adobe Campaign für Marketing-Experten</strong>
     </a>
     </div>
     <p>

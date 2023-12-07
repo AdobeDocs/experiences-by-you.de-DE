@@ -1,6 +1,6 @@
 ---
-title: Analytics by You
-description: Analytics by You bietet benutzergenerierte Inhalte, die von Alltagsbenutzern erstellt werden, die mit ihrem Wissen über Adobe Analytics ein gewisses Maß an Expertise und Einfluss erworben haben.
+title: Analytics für dich
+description: „Analytics für Euch“ bietet benutzergenerierte Inhalte, die von Alltagsbenutzerinnen und -benutzern erstellt werden, die mit ihrem Wissen über Adobe Analytics ein gewisses Maß an Expertise und Einfluss erworben haben.
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview
@@ -8,8 +8,8 @@ solution: Analytics
 exl-id: a8dd4631-950b-4504-9af7-7953165ef175
 source-git-commit: d8dff20274341594e7b00ee36671e3d5dd6a67ba
 workflow-type: tm+mt
-source-wordcount: '213'
-ht-degree: 21%
+source-wordcount: '196'
+ht-degree: 23%
 
 ---
 

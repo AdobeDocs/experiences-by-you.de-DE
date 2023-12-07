@@ -1,6 +1,6 @@
 ---
-title: Marketo by You
-description: Marketo by You bietet benutzergenerierte Inhalte, die von Alltagsbenutzern erstellt werden, die mit ihrem Wissen über Adobe Marketo ein hohes Maß an Fachwissen und Einfluss erworben haben.
+title: Marketo für dich
+description: „Marketo für Euch“ bietet benutzergenerierte Inhalte, die von Alltagsbenutzerinnen und -benutzern erstellt werden, die mit ihrem Wissen über Adobe Marketo ein gewisses Maß an Expertise und Einfluss erworben haben.
 role: User, Developer, Data Engineer, Architect, Data Architect, Admin, Leader
 level: Beginner
 doc-type: overview
@@ -8,8 +8,8 @@ solution: Marketo Engage
 exl-id: 5145c189-cc92-4472-bf99-981b43c2c5ba
 source-git-commit: d8dff20274341594e7b00ee36671e3d5dd6a67ba
 workflow-type: tm+mt
-source-wordcount: '218'
-ht-degree: 24%
+source-wordcount: '205'
+ht-degree: 16%
 
 ---
 
@@ -40,16 +40,16 @@ Die mächtigste Sache an [!DNL Adobe] Experience Cloud-Lösungen? Du. Die Benutz
     </a>
     </div>
     <p>
-    <em>Erfahren Sie, wie Sie die Benutzeroberfläche navigieren, und machen Sie sich vertraut mit der [!DNL Marketo Engage]-Plattform.</em>
+    <em>Erfahren Sie, wie Sie in der Benutzeroberfläche navigieren und sich mit Ihrem Weg durch die [!DNL Marketo Engage] Plattform.</em>
     <p>
   </td>
   <td>
     <a href="/help/marketo/reporting/reporting-and-analytics.md">
-      <img alt="Reporting und Analysen" src="https://video.tv.adobe.com/v/3419295?format=jpeg" />
+      <img alt="Berichterstellung und Analyse" src="https://video.tv.adobe.com/v/3419295?format=jpeg" />
     </a>
     <div>
       <a href="/help/marketo/reporting/reporting-and-analytics.md">
-    <strong>Reporting und Analysen</strong>
+    <strong>Berichterstellung und Analyse</strong>
     </a>
     </div>
     <p>
