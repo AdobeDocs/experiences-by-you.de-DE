@@ -8,7 +8,7 @@ level: Beginner
 doc-type: article
 kt: KT-13118
 exl-id: baeaa90e-8cce-4ddd-b099-fecd266e410c
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+source-git-commit: 849ec510944d3299c3515fcecd5fc57d74c3fa26
 workflow-type: tm+mt
 source-wordcount: '1267'
 ht-degree: 97%
@@ -60,11 +60,11 @@ Insgesamt sind sowohl die Schnellsegmente als auch Segment Builder hervorragende
 
 Dieses Dokument wurde verfasst von:
 
-![Mandy George](assets/mandy-george.jpg)
+![Mandy George](assets/mandy-george-2.png)
 
 **Mandy George**, Digital Analyst III bei Best Buy Canada
 
-[!DNL Adobe Analytics] Champion
+Adobe Analytics-Experte
 
 ## Download
 
