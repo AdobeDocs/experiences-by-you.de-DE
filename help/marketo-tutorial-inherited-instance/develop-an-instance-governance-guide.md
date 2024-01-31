@@ -11,9 +11,9 @@ jira: KT-14103
 thumbnail: KT-14103.jpeg
 hide: false
 exl-id: e127b84d-ef92-4527-a0e6-a36af35b7ee0
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+source-git-commit: 26805f8f9edf3a3a3a38c4cb954e07378f13920d
 workflow-type: tm+mt
-source-wordcount: '933'
+source-wordcount: '905'
 ht-degree: 1%
 
 ---
@@ -52,7 +52,7 @@ Ein Governance-Leitfaden dient als &quot;Source of Truth&quot; für die Anforder
 
 ### Schritt 2: Identifizieren Sie die Elemente, die in Ihre [!DNL] aufgenommen werden sollen. [!DNL Marketo Engage]] Dokumentation und [!DNL Changelogs]
 
-Das Format variiert von einer Cloud-basierten Plattform zu einem freigegebenen Dokument. Sie können das Format entwerfen, das den Anforderungen Ihres Unternehmens entspricht. [Hier finden Sie eine einfache Vorlage für Dokumentation und changelog-Excel.](/help/marketo-tutorial-inherited-instance/_assets/downloads/[!DNL Adobe]_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx), die die wichtigen Elemente abdecken, mit denen Sie beginnen können. Dazu gehören:
+Das Format variiert von einer Cloud-basierten Plattform zu einem freigegebenen Dokument. Sie können das Format entwerfen, das den Anforderungen Ihres Unternehmens entspricht. [Hier finden Sie eine einfache Vorlage für Dokumentation und changelog-Excel.](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx) die wichtigen Elemente, mit denen Sie beginnen können. Dazu gehören:
 
 * Dokumentation
    * Name der Programmvorlage
@@ -94,7 +94,7 @@ Planen Sie regelmäßige Überprüfungen Ihrer Dokumentation, um sicherzustellen
 
 ## Wie geht es weiter?
 
-Erste Schritte - Herunterladen [einfache Vorlage](/help/marketo-tutorial-inherited-instance/_assets/downloads/[!DNL Adobe]_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx).
+Erste Schritte - Herunterladen [einfache Vorlage](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx).
 
 Gehen Sie wie oben beschrieben vor, um Ihr Governance-Handbuch und Ihre Dokumentation zu entwickeln. Beachten Sie beim Durcharbeiten des Prozesses die folgenden Faustregeln:
 
