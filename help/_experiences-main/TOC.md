@@ -1,22 +1,22 @@
 ---
-user-guide-title: Experiences by You
+user-guide-title: Experiences für Euch
 user-guide-description: Von Adobe-Kundinnen und -Kunden generierte Inhalte
-breadcrumb-title: Experiences by You
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+breadcrumb-title: Experiences für Euch
+source-git-commit: ab1af7dd740f61ba1c7bf8c2ad44826a3a013fc3
 workflow-type: tm+mt
-source-wordcount: '288'
-ht-degree: 81%
+source-wordcount: '293'
+ht-degree: 73%
 
 ---
 
 
-# Experiences by You {#experiences-by-you}
+# Experiences für Euch {#experiences-by-you}
 
-+ [Experiences by You](/help/overview.md)
++ [Experiences für Euch](/help/overview.md)
 
 + [!DNL Analytics] von Ihnen {#analytics}
    + [Übersicht](/help/analytics/overview.md)
-   + Einführung in [!DNL Analytics]{#intro-to-analytics}
+   + Einführung in [!DNL Analytics] {#intro-to-analytics}
       + Wechsel von anderen Plattformen {#transitioning-from-other-platforms}
          + [Übergang von [!DNL Google Analytics]](/help/analytics/intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
    + Analysis Workspace {#analysis-workspace}
@@ -40,7 +40,7 @@ ht-degree: 81%
          + [Rechtsklick-Tipps und -Tricks für effizientere Workflows](/help/analytics/analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
    + Administration {#administration}
       + Wichtige Admin-Fähigkeiten {#key-admin-skills}
-         + [Aufbau einer starken Community](/help/analytics/administration/key-admin-skills/empowered-community.md)
+         + [Aufbau einer gestärkten Community](/help/analytics/administration/key-admin-skills/empowered-community.md)
          + [Vereinfachen und Verkürzen der Benutzerschulung](/help/analytics/administration/key-admin-skills/simplify-training-users.md)
          + [Etwas mitzureden haben](/help/analytics/administration/key-admin-skills/gaining-a-seat-at-the-table.md)
          + [Mit Daten aussagekräftige Geschichten erzählen](/help/analytics/administration/key-admin-skills/telling-impactful-stories-with-data.md)
@@ -59,12 +59,12 @@ ht-degree: 81%
 + [!DNL Campaign] von Ihnen {#campaign}
    + [Übersicht](/help/campaign/overview.md)
    + [!DNL Campaign Classic v7] {#campaign-classic-v7}
-      + [Best Practices für Workflows](/help/campaign/ac-v7/workflow-best-practices-for-marketers.md)
+      + [Best Practices bei Workflows](/help/campaign/ac-v7/workflow-best-practices-for-marketers.md)
    + [!DNL Campaign Standard] {#campaign-standard}
       + [Fehlerbehebung für Marketing-Fachleute](/help/campaign/acs/troubleshooting-for-marketers.md)
    + Strategie- und Gedankenführerschaft{#strategy}
-      + [Zehn Best Practices zum Erfolg von  [!DNL Adobe Campaign]  für Marketing-Fachleute](/help/campaign/10-best-practices-for-marketers.md)
-+ Experience Manager für dich {#experience-manager}
+      + [Zehn Best Practices für [!DNL Adobe Campaign] Erfolg für Marketing-Experten](/help/campaign/10-best-practices-for-marketers.md)
++ Experience Manager nach Ihnen {#experience-manager}
    + [Übersicht](/help/experience-manager/overview.md)
    + AEM Sites {#sites}
       + [AEM Sites-Reifegradbewertung](/help/experience-manager/sites/expert-resources/maturity-assessment.md)
@@ -75,6 +75,8 @@ ht-degree: 81%
       + [[!DNL Cloud Manager] Onboarding-Playbook](/help/experience-manager/cloud-service/expert-resources/aem-champions/onboarding-playbook.md)
       + [[!DNL Cloud Manager] Umgebungstypen](/help/experience-manager/cloud-service/expert-resources/aem-champions/environment-types.md)
       + [[!DNL Cloud Manager] Benutzeroberfläche](/help/experience-manager/cloud-service/expert-resources/aem-champions/cloud-manager-ui.md)
+      + Best Practices {#cloud-manager-best-practices}
+         + [Verwenden von Protokollen in Cloud Manager](/help/experience-manager/cloud-service/expert-resources/aem-champions/cloud-manager-using-logs.md)
 + [!DNL Marketo Engage] von Ihnen {#marketo-engage}
    + [Übersicht](/help/marketo/overview.md)
    + Grundlagen {#fundamentals}
@@ -83,5 +85,5 @@ ht-degree: 81%
    + Programme und Kampagnen {#programs-and-campaigns}
       + [E-Mail-Programme](/help/marketo/programs/email-programs.md)
       + [Interaktionsprogramme](/help/marketo/programs/engagement-programs.md)
-   + Reporting und Analysen {#reporting-and-analytics}
-      + [Reporting und Analysen](/help/marketo/reporting/reporting-and-analytics.md)
+   + Berichterstellung und Analyse {#reporting-and-analytics}
+      + [Berichterstellung und Analyse](/help/marketo/reporting/reporting-and-analytics.md)
