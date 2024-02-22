@@ -2,10 +2,10 @@
 user-guide-title: Experiences für Euch
 user-guide-description: Von Adobe-Kundinnen und -Kunden generierte Inhalte
 breadcrumb-title: Experiences für Euch
-source-git-commit: ab1af7dd740f61ba1c7bf8c2ad44826a3a013fc3
+source-git-commit: 90e94736bc5f29829211cb954f6b9d54684c8eb7
 workflow-type: tm+mt
-source-wordcount: '293'
-ht-degree: 73%
+source-wordcount: '297'
+ht-degree: 72%
 
 ---
 
@@ -38,6 +38,7 @@ ht-degree: 73%
          + [Entfesseln der Möglichkeiten der schreibgeschützten Freigabe](/help/analytics/analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
       + Tipps und Tricks {#tips-and-tricks}
          + [Rechtsklick-Tipps und -Tricks für effizientere Workflows](/help/analytics/analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
+         + [#Tags - Ihr persönlicher Assistent](/help/analytics/analysis-workspace/tips-and-tricks/tags-your-personal-assistant.md)
    + Administration {#administration}
       + Wichtige Admin-Fähigkeiten {#key-admin-skills}
          + [Aufbau einer gestärkten Community](/help/analytics/administration/key-admin-skills/empowered-community.md)
