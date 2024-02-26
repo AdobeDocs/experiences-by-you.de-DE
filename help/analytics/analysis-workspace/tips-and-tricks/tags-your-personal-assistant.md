@@ -9,9 +9,9 @@ duration: 36000
 last-substantial-update: 2024-02-22T00:00:00Z
 jira: KT-14963
 thumbnail: KT-14963.jpeg
-source-git-commit: ec969f6bf8d8fc3b2d60f9d30685646cc32dab95
+source-git-commit: 718a4fcd0ae06f544d1a78926b0c4d13cda8808a
 workflow-type: tm+mt
-source-wordcount: '1403'
+source-wordcount: '1427'
 ht-degree: 0%
 
 ---
@@ -23,29 +23,30 @@ _Erfahren Sie, wie #TAGS Ihre digitale Analyse optimieren kann, indem Sie als Ih
 
 Jeder erinnert sich daran, ein gutes Spiel mit Tags zu spielen oder sich sogar zu verstecken und zu suchen, als wir Kinder waren, nicht wahr?
 
-![Kinder spielen](assets/kids-playing.jpeg)
+![Kinder spielen](assets/kids-playing2.jpeg)
 
 Das Beste daran war, als wir diejenigen waren, die entweder zum Stützpunkt zurückkehrten (Tag) oder am längsten versteckt blieben (verstecken und suchen), bis wir jemanden schreien hörten: &quot;Olly Olly oxen free!&quot; (&quot;Alles, was ihr frei ausgeht&quot;, abgeleitet aus dem Deutschen: &quot;alle auch sind frei!&quot;).  Das bedeutete letztendlich, dass alle anderen es entweder zu Basis geschafft hatten, gefunden wurden oder jemand &quot;es&quot; getaggt wurde, und wir waren noch frei, eine andere Runde zu spielen!
 
 Der wichtige Teil ist, ob das Spiel Tag war oder versteckt und suchen, wir spielten eine lustige Aktivität, wo jeder wieder und wieder gefunden wurde.
 
-Wenn wir uns auf unsere tägliche Arbeit konzentrieren, scheint die Suche nach Dingen viel weniger abenteuerlich und viel mühsamer zu werden. Es muss jedoch nicht sein, wenn wir bereit sind, nur ein wenig Arbeit an der Front zu leisten.  Ein Satz, den meine Familie gut kennt, lautet: &quot;Die meisten Schmerzen sind selbstverschuldet&quot;, aber ein berühmter Satz, obwohl es heutzutage ein wenig altmodisch erscheinen mag, das auch hier sehr wichtig ist, ist: &quot;Eine Zeitnaht spart neun.&quot; - Benjamin Franklin
+Wenn wir uns auf unsere tägliche Arbeit konzentrieren, scheint die Suche nach Dingen viel weniger abenteuerlich und viel mühsamer zu werden. Aber es muss nicht sein, wenn wir bereit sind, nur ein wenig Arbeit an der Front zu leisten.  Ein Satz, den meine Familie gut kennt, lautet: &quot;Die meisten Schmerzen sind selbstverschuldet.&quot; Obwohl es heutzutage etwas altmodisch erscheinen mag, gibt es einen berühmteren Satz, der auch in dieser Situation von großer Bedeutung ist: &quot;Eine Zeitnaht spart neun&quot;. - Benjamin Franklin
 
-Lassen Sie mich nun, da ich Ihre Aufmerksamkeit habe, mit einer Frage beginnen:
+Da ich Ihre Aufmerksamkeit habe, möchte ich zunächst eine Frage stellen:
 
 
-![Handlinie](assets/hand-outline.png) ![Wie viele von euch](assets/how-many-of-you.png)
+![Wie viele von euch](assets/how-many-of-you.jpg)
 
-Wie viele von euch haben das gemacht?  Sie haben begonnen, nach einer **Dimension**, **Datumsbereich**, **Segment** oder **berechnete Metrik** und Sie mit dieser riesigen Liste überflutet werden (siehe **Abbildung 1**) von allem, was Sie NICHT wollen.  ***Analyse ****Arbeitsbereich*** hält es für hilfreich, aber in Wirklichkeit ist es nur gelungen, überhaupt nicht hilfreich zu sein.  Hübsch janky, habe ich recht?
+Wie viele von euch haben das gemacht?  Sie haben begonnen, nach einer **Dimension**, **Datumsbereich**, **Segment** oder **berechnete Metrik** und Sie mit dieser riesigen Liste überflutet werden (siehe **Abbildung 1**) von allem, was Sie NICHT wollen.  ***Analysis Workspace*** hält es für hilfreich, aber in Wirklichkeit ist es nur gelungen, überhaupt nicht hilfreich zu sein.
 
-![Abbildung 1 Suche im Jahr](assets/figure-1-search-for-year.png)
+![Abbildung 1 Suche im Jahr](assets/tags-example-year.jpg)
 
 *Abbildung 1: Suche nach &quot;year&quot;*
 
 Besser noch, du bist weg und hast ein paar erstellt *new* **Datumsbereiche** und **Segmente** und weil sie &quot;so neu&quot;sind, sollten Sie denken, dass zumindest diese Elemente schnell und einfach zu finden sind, wenn Sie das nächste Mal ***Adobe Workspace***. Habe ich recht?
 
-Ich hasse es, deine Blase zu platzen, aber versuch nur, zu gehen ***Adobe Analytics*** nachdem Sie gerade all Ihre neuesten &quot;kleinen Freunde&quot; erschaffen haben und wenn Sie zurückkehren, sind die meisten einfach weggelaufen.  Wenn du Glück hast, *vielleicht* Einer von ihnen blieb zurück, um auf Sie zu warten, aber der Rest ist schon längst weg und spielt Verstecken.
+Nun, ich hasse es, Ihre Blase zu platzen, aber versuchen Sie einfach, zu gehen ***Adobe Analytics*** Nachdem Sie gerade all Ihre neuesten &quot;kleinen Freunde&quot; erschaffen haben und wenn Sie zurückkehren, sind die meisten einfach weggelaufen.  Wenn du Glück hast, *vielleicht* Einer von ihnen blieb zurück, um auf Sie zu warten, aber der Rest ist schon längst weg und spielt Verstecken.
 
+## Neuschreiben des Regelbuchs
 
 Das war also schon seit dem ersten Tag, aber was wäre, wenn wir die Regeln ändern könnten?
 
@@ -66,6 +67,7 @@ Fass es an, Leute!  Sie nennen es, wir haben alle Ausreden dafür gesehen und ge
 
 &quot;Oh, hey, aber das ist einfach.  Ich kann immer später zurückkommen und diese Dinge einfach in ein paar Mittagspausen aktualisieren, oder vielleicht auch während ich auf einer Konferenz sitze und *Alles erwischen*,&quot;sagte jeder, der NIE GETAN HAT.
 
+## Inhalt der Toolbox
 
 **Adobe** hat sogar WE THE PEOPLE den Dienst erledigt, einen ausgewählten #TAGS-Satz direkt zu erstellen, weil sie uns irgendwo anfangen mussten.  Ich werde ein paar zusätzliche Einschränkungen in nur ein wenig, aber was ich Ihnen als Erstes demonstriere, wird Ihnen den größten Knall für Ihren Buck geben!
 
@@ -75,12 +77,13 @@ Bevor Sie eine eigene erstellen, müssen Sie zunächst wissen, wie Sie nach vorh
 
 Unabhängig davon, ob Sie sich in einem neuen oder einem vorhandenen Projekt befinden, müssen Sie nur die Suchleiste der Komponente aufrufen, einen #hashtag eingeben und einen dieser Hauptbegriffe eingeben (nur Video ansehen) und EINGABETASTE drücken. Alternativ können Sie einfach mit dem Scrollen beginnen, bis Sie einen erkennbaren Begriff finden.
 
-ERSTE CAVEAT: Wenn Sie beim Erstellen Ihrer *own* Tags, etwa jede *großgeschrieben* Tag, das Sie sehen *sollte* und ich werde mit diesem Wort &quot;sollte&quot; vorsichtig sein, ein **Adobe**, vordefiniertes getaggtes Element.  Stellen Sie also sicher, dass alle von Ihnen erstellten Tags in LOWERCASE vorliegen.
+ERSTE CAVEAT: Wenn Sie beim Erstellen Ihrer *own* Tags, etwa jede *großgeschrieben* Tag, das Sie sehen *sollte* und ich werde mit diesem Wort &quot;sollte&quot; vorsichtig sein, ein **Adobe**, vordefiniertes getaggtes Element.  Stellen Sie also sicher, dass sich alle von Ihnen erstellten Tags in **Kleinbuchstabe**.
 
+## Erstellen einer eigenen persönlichen Assistenzkraft
 
 Nun, lassen Sie uns zu dem zurückkehren, was ich vorhin über eine &quot;persönliche Assistentin&quot; gesagt habe.  Was wäre, wenn ich Ihnen sage, dass Sie anfangen könnten, einige Ihrer bevorzugten, vorhandenen Komponenten auszuwählen und sie dann zu den einzigen machen könnten, die Sie sehen?
 
-![3 Screens-Tags](assets/3-screens-tags.png)
+![3 Screens-Tags](assets/3-screens-tags.jpg)
 
 
 1. Wenn Sie mehrere Komponenten auswählen (STRG+LINKS KLICKEN), werden oben einige Symbole angezeigt.  Eines davon ist das TAG-Symbol.
@@ -91,9 +94,11 @@ Nun, lassen Sie uns zu dem zurückkehren, was ich vorhin über eine &quot;persö
 
 Verzeihen Sie die Puppe, aber &quot;#tag, Sie sind es!&quot;  Du hast dich in der Zukunft nur noch viel weniger gesucht!  Jetzt können Sie sehen, wo Ihre Sorgfaltspflicht und harte Arbeit endlich ins Spiel kommen.
 
-Angenommen, wir arbeiten im **Reisebranche** und wir erstellen einen Bericht für ihre **Kerngeschäftszeiten**.  Wenn wir mit der Suche nach dem Begriff &quot;REISE&quot; beginnen würden, könnten wir viel mehr Ergebnisse erzielen, als wir vielleicht benötigen würden.  Wenn wir einfach einen **Arbeitsbereich** mit nur der Hälfte der benötigten Ergebnisse, die Komponenten bleiben immer noch nicht verfügbar.
+## Die persönliche Assistenzkraft zur Arbeit bringen
 
-![Zugeschnittene Tags](assets/crooked-tags.png)
+Angenommen, wir arbeiten im **Reisebranche** und wir erstellen einen Bericht für ihre **Kerngeschäftszeiten**.  Wenn wir mit der Suche nach dem Begriff &quot;REISE&quot; beginnen würden, könnten wir viel mehr Ergebnisse erzielen, als wir vielleicht benötigen würden.  Wenn wir einfach einen **Arbeitsbereich** mit nur der Hälfte der Ergebnisse, die wir dabei benötigten, würden die Komponenten weiterhin nicht ohne weiteres verfügbar sein.
+
+![Zugeschnittene Tags](assets/tags-example-travel.jpg)
 
 Wenn wir jedoch täglich arbeiten, haben wir regelmäßig unsere **Segmente**, **Metriken** und anderen relevanten **Komponenten** Wenn wir gehen und vielleicht nur ein paar neue erstellen, dann erstellen wir unsere neue **Arbeitsbereich**, haben wir ernsthaft gezeigt, wie wir das Regelbuch zu unseren Gunsten umschreiben können!
 
@@ -116,9 +121,11 @@ Möchten Sie weitere Beispiele aus der realen Welt? Beachten Sie Folgendes:
 
 ![Real World 2](assets/real-world-2.png)
 
+## Jetzt raus und spiele!
+
 Sicher, Verstecken war als Kind Spaß, aber jetzt sind wir erwachsen.  Wir haben keine Zeit, ständig nach den wichtigen Dingen zu suchen, also vergewissern Sie sich, dass Sie sich einen Gefallen tun, und verschwenden Sie nicht mehr Zeit, um das Werkzeug zu bekämpfen.  Schreiben Sie die Regeln neu und lassen Sie das Tool für Sie funktionieren.
 
-## Taggen Sie es!
+### Taggen Sie es!
 
 
 ## Autor
