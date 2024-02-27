@@ -9,7 +9,7 @@ duration: 36000
 last-substantial-update: 2024-02-22T00:00:00Z
 jira: KT-14963
 thumbnail: KT-14963.jpeg
-source-git-commit: 718a4fcd0ae06f544d1a78926b0c4d13cda8808a
+source-git-commit: e63d6cf68e70622ddcdbe92064d84ad72ca483c3
 workflow-type: tm+mt
 source-wordcount: '1427'
 ht-degree: 0%
@@ -50,7 +50,7 @@ Nun, ich hasse es, Ihre Blase zu platzen, aber versuchen Sie einfach, zu gehen *
 
 Das war also schon seit dem ersten Tag, aber was wäre, wenn wir die Regeln ändern könnten?
 
-Was wäre, wenn wir unsere eigene persönliche Assistentin schaffen könnten, um diese Rollen endgültig zu wechseln?
+Was wäre, wenn wir unsere eigene persönliche Assistentin schaffen könnten, um diese Regeln für immer zu ändern?
 
 Im Ernst, worüber wir hier sprechen, ist TAGS!  Das stimmt!  Es ist unser Freund, das Hashtag, früher bekannt als &quot;Zahl&quot; und &quot;Pfund-Zeichen&quot;, genau wie wir es auf unseren Telefonen gesehen haben.  Jene von uns Musikern nennen es sogar &quot;scharf&quot;.
 
