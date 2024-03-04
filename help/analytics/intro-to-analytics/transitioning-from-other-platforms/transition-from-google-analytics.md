@@ -7,11 +7,10 @@ role: User
 level: Beginner
 kt: 9830
 thumbnail: 34749.jpg
-exl-id: b2be6081-a1c0-4435-affb-454ed5a74662
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+source-git-commit: c6c9e5b19c601592811151450aecd8dfdd084ff6
 workflow-type: tm+mt
-source-wordcount: '3290'
-ht-degree: 75%
+source-wordcount: '3323'
+ht-degree: 72%
 
 ---
 
@@ -31,7 +30,7 @@ Lassen Sie uns kurz die Terminologie vergleichen:
 
 ## 2. Die Benutzeroberfläche
 
-Wenn Menschen vergleichen [!DNL Adobe Analytics] und Google [!DNL Analytics], kommentieren sie Folgendes [!DNL Adobe]Die Benutzeroberfläche von ist anfangs beängstigend. Das stimmt, es ist aber – ob Sie es glauben oder nicht – eine Stärke und keine Schwäche. [!DNL Adobe] bietet eine breite Palette von Werkzeugen und große Flexibilität bei der Datenvisualisierung, sodass Sie viel mehr Freiheit in der visuellen Darstellung haben.
+Wenn Menschen vergleichen [!DNL Adobe Analytics] und Google [!DNL Analytics], kommentieren sie Folgendes [!DNL Adobe]Die Benutzeroberfläche von ist anfangs beängstigend. Das stimmt, es ist aber – ob Sie es glauben oder nicht – eine Stärke und keine Schwäche. [!DNL Adobe] bietet eine breite Palette von Tools und Flexibilität in Ihrer Datenvisualisierung, sodass Sie viel mehr Freiheit beim Erstellen Ihrer Daten haben.
 
 Beginnen wir mit dem „In-Site“-Reporting.
 
@@ -43,7 +42,7 @@ Beide [!DNL Adobe Analytics] und Google [!DNL Analytics] bieten eine Möglichkei
 
 ##### 2.1.1.1. Arbeitsbereich/Startbildschirm für benutzerdefinierte Sets ([!DNL Adobe Analytics])
 
-[!DNL Adobe Analytics] erstellt keinen vorgefertigten Bericht, der allen Benutzern bei der Anmeldung präsentiert wird. Die standardmäßige Startseite bringt Benutzende zum Startbildschirm für Workspace, auf dem für alle Benutzenden Workspace-Berichte angezeigt werden, die sie erstellt haben oder die für sie freigegeben wurden. Außerdem haben alle Benutzenden die Möglichkeit, einen dieser Berichte als Startbildschirm festzulegen, wenn sie dies möchten.
+[!DNL Adobe Analytics] Es wird nicht davon ausgegangen, dass ein vordefinierter Bericht erstellt wird, der allen Benutzern bei der Anmeldung angezeigt wird. Die standardmäßige Startseite bringt Benutzende zum Startbildschirm für Workspace, auf dem für alle Benutzenden Workspace-Berichte angezeigt werden, die sie erstellt haben oder die für sie freigegeben wurden. Außerdem haben alle Benutzenden die Möglichkeit, einen dieser Berichte als Startbildschirm festzulegen, wenn sie dies möchten.
 
 ![workspace-create-project](assets/ga-to-aa_1.png)
 
@@ -55,7 +54,7 @@ Weitere Einzelheiten zu Workspace werden später in diesem Handbuch erläutert. 
 
 
 
-##### 2.1.1.2. Startbildschirm-Insights (Google [!DNL Analytics])
+##### 2.1.1.2. Home Screen Insights (Google) [!DNL Analytics])
 
 * Google [!DNL Analytics] Der Startbildschirm enthält einige vordefinierte Visualisierungen für Sie. Diese umfassen u. a. Folgendes:
 * Benutzende, Sitzungen, Absprungrate und Sitzungsdauer in den letzten sieben Tagen
@@ -158,7 +157,7 @@ Google und [!DNL Adobe] verfügen über einige navigierbare Berichte, die aus in
 
 ##### 2.1.3.1. [!DNL Adobe Analytics] Berichte
 
-[!DNL Adobe Analytics] verfügt auch über einen Abschnitt „Berichte“, der jedoch schrittweise zugunsten von Analysis Workspace eingestellt wird. Tatsächlich wurde das Ende des Lebenszyklus für diese Benutzeroberfläche angekündigt, da Workspace ein leistungsfähigeres Tool ist. Die meisten dieser Tabellen können einfacher erstellt und geändert werden. [!DNL Adobe]Die Abschnitte von sind weitaus mehr aufgeschlüsselt, und das kann beängstigend sein:
+[!DNL Adobe Analytics] Es gibt auch einen Abschnitt Berichte , der jedoch schrittweise zugunsten von Analysis Workspace eingestellt wird. Tatsächlich wurde das Ende des Lebenszyklus für diese Benutzeroberfläche angekündigt, da Workspace ein leistungsfähigeres Tool ist. Die meisten dieser Tabellen können einfacher erstellt und geändert werden. [!DNL Adobe]Die Abschnitte von sind weitaus mehr aufgeschlüsselt, und das kann beängstigend sein:
 
 ![analytics-site-metrics](assets/ga-to-aa_6.png)
 
@@ -174,9 +173,9 @@ Mobile ist eine Gruppierung mobilgerätespezifischer Daten, einschließlich Ger�
 
 Pfade sind in Workspace nicht verfügbar. Workspace verfügt über ein Flussdiagramm, in dem Sie die Ein- und Ausgangsströme für eine einzelne Seite/einen einzelnen Wert sehen können. Im Gegensatz dazu können Sie mit „Paths“ die am häufigsten verwendeten Pfade in Ihrer Website anzeigen. Standardmäßig ist „Seiten“ der erste Pfadbericht, der für Sie eingerichtet wird. Sie können dieses jedoch für benutzerdefinierte Eigenschaften wie den Wert „Seitentyp“ aktivieren. Sie können sich die Pfade innerhalb der Seitentypen ansehen. Ein weiterer Punkt, der mir persönlich an der Funktion „Pfade“ gefällt, ist die einfache Art und Weise, in der die Informationen präsentiert werden... Das Flussdiagramm in Workspace kann (abhängig von der angezeigten Datenmenge) schnell überwältigend werden. Ich empfehle, beide auszuprobieren... beide haben ihren Nutzen und Wert, je nachdem, was Sie erreichen wollen. Es sollte beachtet werden, dass für „Flüsse“ jede Dimension verwendet werden kann, während die Pfadbestimmung in einer Prop in der Verwaltungskonsole eingerichtet werden muss.
 
-Traffic-Quellen [!DNL Campaign]Die Berichte &quot;s&quot;und &quot;Marketing-Kanäle&quot;ähneln dem Akquise-Bericht des Google-Produkts. Traffic-Quellen konzentrieren sich auf tatsächliche Referrer, [!DNL Campaign]Fokus auf Ihre [!DNL Campaign] Codes und Marketingkanäle konzentrieren sich ebenfalls auf [!DNL Campaign] Codes, wendet aber auch zusätzliche Logik an, die von Ihnen für die Verarbeitung der Informationen festgelegt wird. [!DNL Adobe] bietet mehr Freiheit beim Einrichten von Regeln. Im Gegensatz dazu erledigt Google zahlreiche Dinge für Sie, und das bedeutet ein Umdenken. Die Google-Attribution für [!DNL Campaign] Die Codes sind sechs Monate. [!DNL Adobe]Die Attribution von ist standardmäßig auf eine Woche eingestellt. Sie können dies zwar in Ihren Admin-Einstellungen ändern, aber in Workspace können Sie tatsächlich eine benutzerdefinierte Attribution auf jede Dimension anwenden, was Ihnen viel mehr spontanen Spielraum bietet.
+Traffic-Quellen [!DNL Campaign]Die Berichte &quot;s&quot;und &quot;Marketing-Kanäle&quot;ähneln dem Akquise-Bericht des Google-Produkts. Traffic-Quellen konzentrieren sich auf tatsächliche Referrer, [!DNL Campaign]Fokus auf Ihre [!DNL Campaign] Codes und Marketingkanäle konzentrieren sich ebenfalls auf [!DNL Campaign] Codes, wendet aber auch zusätzliche Logik an, die von Ihnen für die Verarbeitung der Informationen festgelegt wird. [!DNL Adobe] bietet mehr Freiheit bei der Einrichtung Ihrer Regeln. Im Gegensatz dazu erledigt Google zahlreiche Dinge für Sie, und das bedeutet ein Umdenken. Die Google-Attribution für [!DNL Campaign] Die Codes sind sechs Monate. [!DNL Adobe]Die Attribution von ist standardmäßig auf eine Woche eingestellt. Sie können dies zwar in Ihren Admin-Einstellungen ändern, aber in Workspace können Sie tatsächlich eine benutzerdefinierte Attribution auf jede Dimension anwenden, was Ihnen viel mehr spontanen Spielraum bietet.
 
-Die Berichte zur Besucherbindung und zum Besucherprofil ähneln den Zielgruppenberichten in Google [!DNL Analytics]. Die Besucherbindung konzentriert sich eher auf die Häufigkeit der Wiederkehr, während das Besucherprofil eher auf die Geografie und Technologie der Nutzer ausgerichtet ist.
+Die Berichte zur Besuchertreue und zum Besucherprofil ähneln den Zielgruppenberichten in Google [!DNL Analytics]. Die Besucherbindung konzentriert sich eher auf die Häufigkeit der Wiederkehr, während das Besucherprofil eher auf die Geografie und Technologie der Nutzer ausgerichtet ist.
 
 Benutzerspezifische Konversions- und Traffic-Berichte sind beide benutzerspezifische Dimensionsberichte. Konversionen sind eVars. Sie können für einen benutzerdefinierten Ablauf den Wert festlegen, wie Treffer, Besuch, Monat und Jahr. Dieser Wert bleibt für einen Benutzer für den konfigurierten Zeitrahmen persistent, es sei denn, er wurde überschrieben. Traffic-Variablen sind Props. Sie können diese auch für Pfadberichte oder als Listenelemente einrichten, wobei Mehrfachwerte auf der Grundlage eines von Ihnen gewählten Trennzeichens aufgeteilt werden.
 
@@ -268,7 +267,7 @@ Ich möchte jedoch betonen, dass ich empfehlen würde, beide [!DNL Adobe Analyti
 
 Neben diesem Handbuch stehen Ihnen viele weitere Ressourcen zur Verfügung, mit denen Sie Ihre Strategie verbessern können:
 
-* [[!DNL Adobe] Experience League](https://experienceleague.adobe.com/?lang=de#home) - mit Tutorials, Videos, Dokumentation und Community-Foren
+* [[!DNL Adobe] Experience League](https://experienceleague.adobe.com/?lang=de#home) - Enthält Tutorials, Videos, Dokumentation und Community-Foren
 * [[!DNL Adobe] Benutzergruppen](https://analytics-augs.adobe.com/) - Eine zentrale Anlaufstelle für von der Community geleitete Ereignisse, die Benutzern dabei helfen, miteinander zu kommunizieren und ihre Implementierungen zu verbessern.
 * [[!DNL Adobe Analytics] YouTube-Kanal für Benutzergruppen](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA) - konnte keine [!DNL Adobe Analytics] Benutzergruppensitzung? Sehen Sie sich frühere Benutzergruppensitzungen auf der ganzen Welt an, um mehr darüber zu erfahren, wie Ihre Kollegen das Tool verwenden.
 * [Chat-Slack-Kanal messen](https://www.measure.chat/) - Verbinden mit [!DNL Adobe Analytics] Benutzer auf der ganzen Welt und teilen branchenspezifische Erkenntnisse, stellen Fragen an Ihre Kollegen und schließen sich Messungszielgruppen an.
