@@ -9,7 +9,7 @@ duration: 36000
 last-substantial-update: 2024-02-22T00:00:00Z
 jira: KT-14963
 thumbnail: KT-14963.jpeg
-source-git-commit: e63d6cf68e70622ddcdbe92064d84ad72ca483c3
+source-git-commit: 9be76d73344188d93b826d9195c10e4ee8cc3957
 workflow-type: tm+mt
 source-wordcount: '1427'
 ht-degree: 0%
@@ -17,7 +17,7 @@ ht-degree: 0%
 ---
 
 
-# #Tags - Ihr persönlicher Assistent
+# Tags - Ihr persönlicher Assistent
 
 _Erfahren Sie, wie #TAGS Ihre digitale Analyse optimieren kann, indem Sie als Ihr persönlicher Assistent fungieren und effizient finden, was Sie benötigen. Jeff Bloomer, Adobe Analytics Champion, teilt Experteneinblicke zur Maximierung des Potenzials des Tools für Sie._
 
