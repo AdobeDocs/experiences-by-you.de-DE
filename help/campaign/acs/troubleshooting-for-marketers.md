@@ -10,7 +10,7 @@ doc-type: Article
 last-substantial-update: 2023-05-18T00:00:00Z
 jira: KT-13256
 thumbnail: KT-13256.jpeg
-source-git-commit: a27a5538a7009d00d01227865ced4c5039147496
+source-git-commit: 0fc67f48deb78d5a66d485093d1837cbeee7c4d4
 workflow-type: tm+mt
 source-wordcount: '711'
 ht-degree: 2%
@@ -22,7 +22,6 @@ ht-degree: 2%
 Von: [Suraj Patra](https://www.linkedin.com/in/suraj-p-51612053/){target="_blank"}, Senior Consultant, Meijer
 
 Senior Engineer und Kundenexperte für [!DNL Adobe] Experience Cloud von Produkten für die letzten fünf Jahre, ich aktiviere für Geschäftsbenutzer unter [Meijer](https://www.meijer.com/){target="_blank"}, eine 1934 gegründete amerikanische Supercenter-Kette, die komplexe Marketing- und Transaktionskampagnen mit ACS durchführt. Einige Projekte, an denen ich gearbeitet habe, umfassen benutzerdefinierte Kampagnen zum Speichern von Angeboten und Bestelldetails für die Personalisierung, integriert in [!DNL Adobe] Audience Manager und Kundeneinblicke zur Segmentaufnahme.
-
 
 In meiner Zeit mit ACS bin ich auf Fehler gestoßen, die zeitaufwendig und frustrierend sein können zu lösen. Das Wissen über die häufigsten Fehler kann bei der schnelleren Problemlösung helfen und Ihre Produktivität steigern. Im Folgenden finden Sie meine Tipps zur Fehlerbehebung, mit denen Sie ähnliche Fehler wirksam beheben können, sobald sie auftreten.
 
