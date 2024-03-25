@@ -2,10 +2,10 @@
 user-guide-title: Experiences für Euch
 user-guide-description: Von Adobe-Kundinnen und -Kunden generierte Inhalte
 breadcrumb-title: Experiences für Euch
-source-git-commit: ba46ad10c20184083076950883f169df09ca7778
+source-git-commit: 1b241ca79816dde59641bbdfc05b35041862d145
 workflow-type: tm+mt
-source-wordcount: '316'
-ht-degree: 67%
+source-wordcount: '323'
+ht-degree: 66%
 
 ---
 
@@ -31,6 +31,7 @@ ht-degree: 67%
          + [Erstellen von Journey-Segmenten für Kunden - Teil 2](/help/analytics/analysis-workspace/segmentation/building-customer-journey-segments-part-two.md)
          + [Unterschiede zwischen Segment Builder und Schnellsegmenten](/help/analytics/analysis-workspace/segmentation/differences-between-the-segment-builder-and-quick-segments.md)
          + [Jetzt mal ein Segmentchen abwarten … Verwenden von Segmentierung, um neue Erkenntnisse zu erhalten](/help/analytics/analysis-workspace/segmentation/segmentation-to-discover-new-insights.md)
+         + [Der Zauber hinter dem Vorhang - Komplexe Segmente](/help/analytics/analysis-workspace/segmentation/the-magic-behind-the-curtain-complex-segments.md)
       + Metriken {#metrics}
          + [Tschüss Excel, hallo berechnete Metriken](/help/analytics/analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
          + [Heben Sie Ihre Datenanalyse mit berechneten Metriken auf die nächste Stufe](../analytics/analysis-workspace/metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
