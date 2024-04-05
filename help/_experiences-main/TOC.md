@@ -2,10 +2,10 @@
 user-guide-title: Experiences für Euch
 user-guide-description: Von Adobe-Kundinnen und -Kunden generierte Inhalte
 breadcrumb-title: Experiences für Euch
-source-git-commit: 1b241ca79816dde59641bbdfc05b35041862d145
+source-git-commit: cdedf565731b423bdac6b48d207fac979d0b7459
 workflow-type: tm+mt
-source-wordcount: '323'
-ht-degree: 66%
+source-wordcount: '328'
+ht-degree: 65%
 
 ---
 
@@ -80,6 +80,7 @@ ht-degree: 66%
       + Best Practices {#cloud-manager-best-practices}
          + [Verwenden von Protokollen in Cloud Manager](/help/experience-manager/cloud-service/expert-resources/aem-champions/cloud-manager-using-logs.md)
          + [Planung einer Migration auf AEM as a Cloud Service](/help/experience-manager/cloud-service/expert-resources/aem-champions/migration.md)
+         + [Verwenden von Best Practice Analyzer](/help/experience-manager/cloud-service/expert-resources/aem-champions/best-practice-analyzer.md)
          + [Bewältigung von Herausforderungen bei der Migration auf AEM as a Cloud Service](/help/experience-manager/cloud-service/expert-resources/aem-champions/migration-challenges.md)
 + [!DNL Marketo Engage] von Ihnen {#marketo-engage}
    + [Übersicht](/help/marketo/overview.md)
