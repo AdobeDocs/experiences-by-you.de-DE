@@ -9,13 +9,13 @@ duration: 36000
 last-substantial-update: 2024-03-25T00:00:00Z
 jira: KT-15200
 thumbnail: KT-15200.jpeg
-source-git-commit: 2b566eda7d088e9e48e4042dae0fe2e6385c178d
+exl-id: 1da85e88-64b3-49e5-9bf6-76126ac9f6ad
+source-git-commit: 59dbe503fb179ed24ec8380f0d3e853deec82a7b
 workflow-type: tm+mt
-source-wordcount: '4085'
+source-wordcount: '4102'
 ht-degree: 2%
 
 ---
-
 
 # Die Magie hinter dem Vorhang: Komplexe Segmente: Ausschlüsse, Container und Attribution
 
@@ -202,13 +202,36 @@ Lass uns ein wenig Zeit verbringen, um das zu entpacken, denn es ist viel los.
 
 Erstens: Statt eine tägliche Aufschlüsselung anzuzeigen, zeige ich eine Aufschlüsselung der Seite, da dies meiner Meinung nach dazu beitragen wird, die beiden Segmente besser zu veranschaulichen.
 
-![Segment3C-ComparisonTable-Detail1](assets/segment-example-3/segment3c-comparison-table-detail1.png) Die ersten drei Spalten (Seitenansichten, Besuche und Unique Visitors) sind nicht segmentiert und zeigen daher alle Seiten innerhalb der Site an. Beachten Sie, dass ich hier keine Bestellungen angegeben habe, da Bestellungen bei einer Aktion verfolgt werden und daher nicht Teil des Bereichs der Seitendimension sind.
+<table border="0">
+    <tr>
+        <td width="352" style="border: 0;">Die ersten drei Spalten (Seitenansichten, Besuche und Unique Visitors) sind nicht segmentiert und zeigen daher alle Seiten innerhalb der Site an. Beachten Sie, dass ich hier keine Bestellungen angegeben habe, da Bestellungen bei einer Aktion verfolgt werden und daher nicht Teil des Bereichs der Seitendimension sind.</td>
+        <td style="border: 0;">&lt;img src="assets/segment-example-3/segment3c-comparison-table-detail1.png" width="352"
+        </td>
+    </tr>
+</table>
 
-![Segment3C-ComparisonTable-Detail2](assets/segment-example-3/segment3c-comparison-table-detail2.png) Als Nächstes zeige ich das Ergebnis des einfachen Segments, das nur auf **Treffer** auf den beiden angegebenen Seiten. Sie werden feststellen, dass die anderen Seiten in der Aufschlüsselung alle zu 0 führen, wie erwartet.
+<table border="0">
+    <tr>
+        <td width="352" style="border: 0;">Als Nächstes zeige ich das Ergebnis des einfachen Segments, das nur auf <strong>Treffer</strong> auf den beiden angegebenen Seiten. Sie werden feststellen, dass die anderen Seiten in der Aufschlüsselung alle zu 0 führen, wie erwartet.</td>
+        <td style="border: 0;">&lt;img src="assets/segment-example-3/segment3c-comparison-table-detail2.png" width="352"
+        </td>
+    </tr>
+</table>
 
-![Segment3C-ComparisonTable-Detail3](assets/segment-example-3/segment3c-comparison-table-detail3.png) Hier ist ein kleiner Bonustipp, bevor ich das Ergebnis des erweiterten Segments zeige, habe ich ein weiteres einfaches Segment von &quot;Bestellungen existiert&quot; (auf HIT-Ebene) verwendet und es mit Unique Visitors gepaart. Dies gibt mir die Gesamtzahl der UVs zurück, die in meinem Berichtszeitraum bestellt wurden, sowie die UVs, die jede dieser Seiten getroffen haben ... Dies hilft, die nächste Gruppe von Spalten besser zu veranschaulichen.
+<table border="0">
+    <tr>
+        <td width="352" style="border: 0;">Hier ist ein kleiner Bonustipp, bevor ich das Ergebnis des erweiterten Segments zeige, habe ich ein weiteres einfaches Segment von "Bestellungen existiert" (auf HIT-Ebene) verwendet und es mit Unique Visitors gepaart. Dies gibt mir die Gesamtzahl der UVs zurück, die in meinem Berichtszeitraum bestellt wurden, sowie die UVs, die jede dieser Seiten getroffen haben ... Dies hilft, die nächste Gruppe von Spalten besser zu veranschaulichen.</td>
+        <td style="border: 0;">&lt;img src="assets/segment-example-3/segment3c-comparison-table-detail3.png" width="352"
+        </td>
+    </tr>
+</table>
 
-![Segment3C-ComparisonTable-Detail4](assets/segment-example-3/segment3c-comparison-table-detail4.png) Der endgültige Satz von Spalten wird mit meinem komplexen Segment gestapelt. Die allgemeinen UV-Daten mit Bestellungen stimmen mit dem einfachen Segment &quot;Bestellungen vorhanden&quot;auf jeder Seite überein, Sie werden jedoch feststellen, dass die Summe deutlich anders ist. Da dieser Datensatz den Datensatz explizit auf Besucher beschränkt, die Bestellungen getätigt haben UND die Seiten getroffen haben, bin ich ausdrücklich an dieser Tatsache interessiert.
+<table>
+    <tr>
+        <td width="352" style="border: 0;">Der endgültige Satz von Spalten wird mit meinem komplexen Segment gestapelt. Die allgemeinen UV-Daten mit Bestellungen stimmen mit dem einfachen Segment "Bestellungen vorhanden"auf jeder Seite überein, Sie werden jedoch feststellen, dass die Summe deutlich anders ist. Da dieser Datensatz den Datensatz explizit auf Besucher beschränkt, die Bestellungen getätigt haben UND die Seiten getroffen haben, bin ich ausdrücklich an dieser Tatsache interessiert.</td> <td style="border: 0;"><img src="assets/segment-example-3/segment3c-comparison-table-detail4.png" width="352">
+        </td>
+    </tr>
+</table>
 
 ### Segmentbeispiel 4: Besuche, die Sonderangebote ODER empfohlene Produkte treffen UND innerhalb desselben Besuchs eine Bestellung tätigen
 
@@ -310,13 +333,29 @@ Lassen Sie uns die Dinge verändern und beginnen, indem wir uns die Vergleiche a
 
 ![Segment5A-TableComparison](assets/segment-example-5/segment5a-table-comparison.png)
 
-![Segment5A-TableComparison-Detail1](assets/segment-example-5/segment5a-table-comparison-detail1.png) Die ersten vier Spalten sind nicht segmentiert und sollten leicht verständlich sein. Beachten Sie Folgendes: *&quot;Einträge&quot;* ist im Wesentlichen ein berechneter Wert, der darauf basiert, wo Besucher die Sitzung starten. Ich habe es hier hinzugefügt, um zu zeigen, dass dies nicht die gesuchten Informationen zurückgibt, da Benutzer die Site über verschiedene Marketing-Kanäle aufrufen können (durch die Anzeige von sozialen Medien, Suchvorgänge, das Klicken auf Marketing-E-Mails usw.). alle innerhalb desselben Besuchs/derselben Sitzung).
+<table>
+    <tr>
+        <td width="352" style="border: 0;">Die ersten vier Spalten sind nicht segmentiert und sollten leicht verständlich sein. Beachten Sie, dass *"Einstiege"im Wesentlichen ein berechneter Wert ist, der darauf basiert, wo Besucher die Sitzung beginnen. Ich habe es hier hinzugefügt, um zu zeigen, dass dies nicht die gesuchten Informationen zurückgibt, da Benutzer die Site über verschiedene Marketing-Kanäle aufrufen können (durch die Anzeige von sozialen Medien, Suchvorgänge, das Klicken auf Marketing-E-Mails usw.). alle innerhalb desselben Besuchs/derselben Sitzung).</td> <td style="border: 0;"><img src="assets/segment-example-5/segment5a-table-comparison-detail1.png" width="352">
+        </td>
+    </tr>
+</table>
 
-![Segment5A-TableComparison-Detail2](assets/segment-example-5/segment5a-table-comparison-detail2.png) Der nächste Satz von Spalten verwendet ein &quot;standardmäßiges Treffersegment&quot;, bei dem im Wesentlichen Treffer betrachtet werden, bei denen der Marketing-Kanal &quot;Paid Search&quot;lautet. Dies gibt jedoch ALLE Treffer basierend auf der Marketing-Kanal-Attribution zurück. Die tatsächlichen Clickthroughs der &quot;gebührenpflichtigen Suche&quot;werden nicht isoliert. Somit werden die benötigten Daten nicht zurückgegeben.
+<table>
+    <tr>
+        <td width="352" style="border: 0;">Der nächste Satz von Spalten verwendet ein "standardmäßiges Treffersegment", bei dem im Wesentlichen Treffer betrachtet werden, bei denen der Marketing-Kanal "Paid Search"lautet. Dies gibt jedoch ALLE Treffer basierend auf der Marketing-Kanal-Attribution zurück. Die tatsächlichen Clickthroughs der "gebührenpflichtigen Suche"werden nicht isoliert. Somit werden die benötigten Daten nicht zurückgegeben.</td> <td style="border: 0;"><img src="assets/segment-example-5/segment5a-table-comparison-detail2.png" width="352">
+        </td>
+    </tr>
+</table>
+
 
 ![Segment5A-PaidSearchHit](assets/segment-example-5/segment5a-paid-search-hit.png)
 
-![Segment5A-TableComparison-Detail3.png](assets/segment-example-5/segment5a-table-comparison-detail3.png) Jetzt sehen die nächsten beiden Datensätze identisch aus, und tatsächlich geben sie dieselben Daten auf zwei verschiedene Arten zurück. Aber jetzt schaue ich speziell auf die *Instanzen* wo der Marketing-Kanal war **set** auf &quot;Gebührenpflichtige Suche&quot;.
+<table>
+    <tr>
+        <td width="352" style="border: 0;">Jetzt sehen die nächsten beiden Datensätze identisch aus, und tatsächlich geben sie dieselben Daten auf zwei verschiedene Arten zurück. Aber jetzt schaue ich speziell auf die <i>Instanzen</i> wo der Marketing-Kanal war <strong>set</strong> auf "Gebührenpflichtige Suche".</td> <td style="border: 0;"><img src="assets/segment-example-5/segment5a-table-comparison-detail3.png" width="352">
+        </td>
+    </tr>
+</table>
 
 Dazu gibt es zwei Möglichkeiten:
 
