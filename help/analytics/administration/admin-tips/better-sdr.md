@@ -10,9 +10,9 @@ duration: 72000
 last-substantial-update: 2024-04-25T00:00:00Z
 jira: KT-15338
 thumbnail: KT-15338.jpeg
-source-git-commit: 484f93bc2828d2565486eff8ae4801a8d203d280
+source-git-commit: 35d2ea7d88d2c43b79730c700e73e539c5f0d8ac
 workflow-type: tm+mt
-source-wordcount: '1635'
+source-wordcount: '1640'
 ht-degree: 0%
 
 ---
@@ -30,7 +30,7 @@ Von einem Lager hören Sie Beschwerden.
 
 &quot;Warum gibt es dafür keine Metrik?&quot;
 
-&quot;Ich brauche viel mehr Details dazu. Eine Metrik allein reicht nicht aus. Es gibt mindestens drei verschiedene Dimensionen, die ich für ein besseres Verständnis der Leistung benötige. Warum hast du sie nicht hineingesteckt?&quot;
+&quot;Ich brauche viel mehr Details dazu. Eine Metrik allein reicht nicht aus. Es gibt mindestens drei verschiedene Dimensionen, die ich brauche, um die Leistung zu verstehen. Warum hast du sie nicht hineingesteckt?&quot;
 
 Aber es ist das andere Lager, das eine noch größere Besorgnis hervorruft. Von ihnen hört man überhaupt nichts. Aber noch viel schlimmer ist, dass Sie Diagramme sehen, die sehr klar aus Ihrer alten Analyselösung übernommen wurden, die nicht mehr gepflegt wird und jeden Tag weiter in einen Sumpf von Abfall und schmutzigen Daten fällt. Ein Gefühl der Angst erfüllt Sie, wenn Sie über die Entscheidungen nachdenken, die mit diesem Chaos getroffen werden könnten.
 
@@ -107,7 +107,7 @@ Das ist nicht der schnellste Weg, eine SZR zusammenzubekommen. Es ist eine Menge
 
 Dieses Dokument wurde verfasst von:
 
-![gitai-headshot](assets/gitai-headshot.png)
+![gitai-headshot](assets/gitai-headshot-150.jpg)
 
 Gitai Ben-Ammi, Associate Manager für Unternehmensarchitektur in Accenture
 
