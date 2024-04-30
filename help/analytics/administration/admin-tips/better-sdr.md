@@ -10,13 +10,13 @@ duration: 72000
 last-substantial-update: 2024-04-25T00:00:00Z
 jira: KT-15338
 thumbnail: KT-15338.jpeg
-source-git-commit: 07b28edade263aa3c85348716bd45df4a053e239
+exl-id: 99fcf68f-5698-4270-9055-ab224e6323a1
+source-git-commit: b3b98aee5ee23e323a9bc762c673700b02366f4c
 workflow-type: tm+mt
 source-wordcount: '1640'
 ht-degree: 0%
 
 ---
-
 
 # Erstellen einer Datenkultur und einer besseren Referenz zum Lösungsdesign
 
@@ -61,7 +61,7 @@ Ich beginne, indem ich dich ein wenig aus dem Haken lasse. Dort ist *always* wir
 ***Vorschau-Dashboards***
 
 1. Erstellen Sie mithilfe der Trichterzuordnung als Anleitung Mapping-Dashboards.
-1. Es sollte eine Gesamtansicht geben, z. B. ein Dashboard für die Zusammenfassung und Dashboards für jeden Trichter.
+1. Es sollte eine Gesamtübersicht geben, z. B. eine [Executive Summary Dashboard](driving-success-with-executive-summary-dashboards.md), und Dashboards für jeden Trichter.
 1. Es gibt auch einige spezifischere Aspekte für Ihre Site oder App, z. B. Produktleistung oder Inhaltsleistung.
 1. Verteilen Sie diese an die relevanten Interessengruppen und erhalten Sie Feedback zum Entwurf.
 1. Nehmen Sie alle erforderlichen Aktualisierungen vor und fügen Sie sie Ihrem SDR hinzu, wenn neue Metriken oder Dimensionen erforderlich sind.
@@ -112,4 +112,3 @@ Dieses Dokument wurde verfasst von:
 Gitai Ben-Ammi, Associate Manager für Unternehmensarchitektur in Accenture
 
 Adobe Analytics-Expertin
-
