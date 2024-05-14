@@ -2,10 +2,10 @@
 user-guide-title: Experiences für Euch
 user-guide-description: Von Adobe-Kundinnen und -Kunden generierte Inhalte
 breadcrumb-title: Experiences für Euch
-source-git-commit: 07b28edade263aa3c85348716bd45df4a053e239
+source-git-commit: 3e7b293813327b3aad362b0e05220a32aa65ea78
 workflow-type: tm+mt
-source-wordcount: '350'
-ht-degree: 61%
+source-wordcount: '358'
+ht-degree: 60%
 
 ---
 
@@ -60,6 +60,8 @@ ht-degree: 61%
          + [Mit zusammenfassenden Dashboards für Führungskräfte zum Erfolg](../analytics/administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
          + [Erstellen von operativen Dashboards](../analytics/administration/admin-tips/create-operational-dashboards.md)
          + [Erstellen einer Datenkultur und einer besseren Referenz zum Lösungsdesign](../analytics/administration/admin-tips/better-sdr.md)
+   + Implementierung {#implementation}
+      + [Ein strategischer Leitfaden zur Implementierung des Web SDK](../analytics/implementation/strategic-guide-to-implementing-web-sdk.md)
 + [!DNL Campaign] von Ihnen {#campaign}
    + [Übersicht](/help/campaign/overview.md)
    + [!DNL Campaign Classic v7] {#campaign-classic-v7}
