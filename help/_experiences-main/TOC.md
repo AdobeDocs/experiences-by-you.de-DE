@@ -1,11 +1,11 @@
 ---
 user-guide-title: Experiences für Euch
-user-guide-description: Von Adobe-Kundinnen und -Kunden generierte Inhalte
+user-guide-description: Adobe kundengenerierte Inhalte
 breadcrumb-title: Experiences für Euch
-source-git-commit: 3e7b293813327b3aad362b0e05220a32aa65ea78
+source-git-commit: bf02792a81f0b3a4e6580cd4156b9dbb92bda79a
 workflow-type: tm+mt
 source-wordcount: '358'
-ht-degree: 60%
+ht-degree: 6%
 
 ---
 
@@ -17,48 +17,48 @@ ht-degree: 60%
 + [!DNL Analytics] von Ihnen {#analytics}
    + [Übersicht](/help/analytics/overview.md)
    + Einführung in [!DNL Analytics] {#intro-to-analytics}
-      + Wechsel von anderen Plattformen {#transitioning-from-other-platforms}
+      + Übergang von anderen Plattformen {#transitioning-from-other-platforms}
          + [Übergang von [!DNL Google Analytics]](../analytics/intro-to-analytics/transitioning-from-other-platforms/transition-from-google-analytics.md)
    + Analysis Workspace {#analysis-workspace}
-      + Verwenden von Bedienfeldern {#using-panels}
+      + Bedienfelder verwenden {#using-panels}
          + [Attributionsbedienfeld und Lookback-Fenster](../analytics/analysis-workspace/using-panels/understanding-adobe-analytics-attribution-panel-and-lookback-windows.md)
-      + Visualisierungen {#visualizations}
-         + [Erschließen von Erkenntnissen mit Histogrammen](../analytics/analysis-workspace/visualizations/unlocking-insights-with-histograms.md)
-         + [Mehr als Worte – Verwenden von Textvisualisierungen und -beschreibungen](../analytics/analysis-workspace/visualizations/more-than-words-using-text-visualizations-and-descriptions.md)
-         + [Verwenden von Kohortenanalyse, um das Kundenverhalten zu verstehen](../analytics/analysis-workspace/visualizations/use-cohort-analysis-to-understand-customer-behavior.md)
+      + Visualisierung {#visualizations}
+         + [Entsperren von Einblicken mit Histogrammen](../analytics/analysis-workspace/visualizations/unlocking-insights-with-histograms.md)
+         + [Mehr als Wörter - Verwenden von Textvisualisierungen und -beschreibungen](../analytics/analysis-workspace/visualizations/more-than-words-using-text-visualizations-and-descriptions.md)
+         + [Verwenden der Kohortenanalyse zum Verständnis des Kundenverhaltens](../analytics/analysis-workspace/visualizations/use-cohort-analysis-to-understand-customer-behavior.md)
       + Segmentierung {#segmentation}
          + [Erstellen von Journey-Segmenten](../analytics/analysis-workspace/segmentation/building-customer-journey-segments.md)
          + [Erstellen von Journey-Segmenten für Kunden - Teil 2](../analytics/analysis-workspace/segmentation/building-customer-journey-segments-part-two.md)
          + [Unterschiede zwischen Segment Builder und Schnellsegmenten](../analytics/analysis-workspace/segmentation/differences-between-the-segment-builder-and-quick-segments.md)
-         + [Jetzt mal ein Segmentchen abwarten … Verwenden von Segmentierung, um neue Erkenntnisse zu erhalten](../analytics/analysis-workspace/segmentation/segmentation-to-discover-new-insights.md)
+         + [Warten Sie jetzt einfach ein Segment... Verwenden Sie die Segmentierung, um neue Einblicke zu gewinnen.](../analytics/analysis-workspace/segmentation/segmentation-to-discover-new-insights.md)
          + [Der Zauber hinter dem Vorhang - Komplexe Segmente](../analytics/analysis-workspace/segmentation/the-magic-behind-the-curtain-complex-segments.md)
       + Metriken {#metrics}
-         + [Tschüss Excel, hallo berechnete Metriken](../analytics/analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
-         + [Heben Sie Ihre Datenanalyse mit berechneten Metriken auf die nächste Stufe](../analytics/analysis-workspace/metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
+         + [Auf Wiedersehen Excel, Hallo berechnete Metriken](../analytics/analysis-workspace/metrics/goodbye-excel-hello-calculated-metrics.md)
+         + [Mit berechneten Metriken können Sie Ihre Datenanalyse auf die nächste Ebene bringen.](../analytics/analysis-workspace/metrics/take-your-data-analysis-to-the-next-level-with-calculated-metrics.md)
       + Kuratieren und Freigeben von Projekten {#curate-and-share-projects}
-         + [Entfesseln der Möglichkeiten der schreibgeschützten Freigabe](../analytics/analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
+         + [Entsperren der Funktion der schreibgeschützten Freigabe](../analytics/analysis-workspace/curate-and-share-projects/unlocking-the-power-of-view-only-sharing.md)
          + [Entsperren analytischer Einblicke; Nutzung der Macht von Anmerkungen](../analytics/analysis-workspace/curate-and-share-projects/harnessing-the-power-of-annotations.md)
       + Tipps und Tricks {#tips-and-tricks}
-         + [Rechtsklick-Tipps und -Tricks für effizientere Workflows](../analytics/analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
-         + [#Tags - Ihr persönlicher Assistent](../analytics/analysis-workspace/tips-and-tricks/tags-your-personal-assistant.md)
+         + [Rechtsklick-Tipps und Tricks für effizientere Workflows](../analytics/analysis-workspace/tips-and-tricks/right-click-tips-and-tricks-for-more-efficient-workflows.md)
+         + [Tags - Ihr persönlicher Assistent](../analytics/analysis-workspace/tips-and-tricks/tags-your-personal-assistant.md)
    + Administration {#administration}
-      + Wichtige Admin-Fähigkeiten {#key-admin-skills}
-         + [Aufbau einer gestärkten Community](../analytics/administration/key-admin-skills/empowered-community.md)
-         + [Vereinfachen und Verkürzen der Benutzerschulung](../analytics/administration/key-admin-skills/simplify-training-users.md)
-         + [Etwas mitzureden haben](../analytics/administration/key-admin-skills/gaining-a-seat-at-the-table.md)
-         + [Mit Daten aussagekräftige Geschichten erzählen](../analytics/administration/key-admin-skills/telling-impactful-stories-with-data.md)
+      + Schlüsselkompetenzen für Administratoren {#key-admin-skills}
+         + [Stärkung der Gemeinschaft](../analytics/administration/key-admin-skills/empowered-community.md)
+         + [Vereinfachen und verbringen Sie weniger Zeit mit dem Trainieren von Benutzern](../analytics/administration/key-admin-skills/simplify-training-users.md)
+         + [Platz am Tisch](../analytics/administration/key-admin-skills/gaining-a-seat-at-the-table.md)
+         + [Aussagekräftige Geschichten mit Daten erzählen](../analytics/administration/key-admin-skills/telling-impactful-stories-with-data.md)
          + [Übersetzen [!DNL Adobe Analytics] nicht-technische Sprache](../analytics/administration/key-admin-skills/translating-adobe-analytics-technical-language.md)
          + [Funktionsübergreifendes Arbeiten](../analytics/administration/key-admin-skills/working-cross-functionally.md)
-      + Tipps und Best Practices für Admins {#admin-tips}
-         + [Herunterladen des Playbooks für Implementierungen](../analytics/administration/admin-tips/download-the-adobe-analytics-implementation-playbook.md)
+      + Tipps und Best Practices für Administratoren {#admin-tips}
+         + [Implementierungs-Playbook herunterladen](../analytics/administration/admin-tips/download-the-adobe-analytics-implementation-playbook.md)
          + [Erstellen standardisierter Benennungskonventionen](../analytics/administration/admin-tips/create-standardized-naming-conventions.md)
-         + [Erstellen standardisierter Code-Vorlagen](../analytics/administration/admin-tips/create-standardized-code-templates.md)
-         + [Erstellen grundlegender Videos und Schulungen](../analytics/administration/admin-tips/create-basic-videos-and-training.md)
+         + [Erstellen standardisierter Codevorlagen](../analytics/administration/admin-tips/create-standardized-code-templates.md)
+         + [Grundlegende Videos und Schulungen erstellen](../analytics/administration/admin-tips/create-basic-videos-and-training.md)
          + [Interne erstellen [!DNL Adobe Analytics] site](../analytics/administration/admin-tips/create-an-internal-adobe-analytics-site.md)
-         + [Verwenden einer globalen Report Suite](../analytics/administration/admin-tips/use-a-global-report-suite.md)
-         + [Erstellen eines Projekts für Nachrichten und Ankündigungen](../analytics/administration/admin-tips/create-a-news-and-announcements-project.md)
-         + [Mit zusammenfassenden Dashboards für Führungskräfte zum Erfolg](../analytics/administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
-         + [Erstellen von operativen Dashboards](../analytics/administration/admin-tips/create-operational-dashboards.md)
+         + [Globale Report Suite verwenden](../analytics/administration/admin-tips/use-a-global-report-suite.md)
+         + [Projekt für Neuigkeiten und Mitteilungen erstellen](../analytics/administration/admin-tips/create-a-news-and-announcements-project.md)
+         + [Erfolgreiche Ausführung von Zusammenfassungs-Dashboards](../analytics/administration/admin-tips/driving-success-with-executive-summary-dashboards.md)
+         + [Erstellen von operationellen Dashboards](../analytics/administration/admin-tips/create-operational-dashboards.md)
          + [Erstellen einer Datenkultur und einer besseren Referenz zum Lösungsdesign](../analytics/administration/admin-tips/better-sdr.md)
    + Implementierung {#implementation}
       + [Ein strategischer Leitfaden zur Implementierung des Web SDK](../analytics/implementation/strategic-guide-to-implementing-web-sdk.md)
@@ -67,16 +67,16 @@ ht-degree: 60%
    + [!DNL Campaign Classic v7] {#campaign-classic-v7}
       + [Best Practices bei Workflows](/help/campaign/ac-v7/workflow-best-practices-for-marketers.md)
    + [!DNL Campaign Standard] {#campaign-standard}
-      + [Fehlerbehebung für Marketing-Fachleute](/help/campaign/acs/troubleshooting-for-marketers.md)
+      + [Fehlerbehebung für Marketingexperten](/help/campaign/acs/troubleshooting-for-marketers.md)
    + Strategie- und Gedankenführerschaft{#strategy}
       + [Zehn Best Practices für [!DNL Adobe Campaign] Erfolg für Marketing-Experten](/help/campaign/10-best-practices-for-marketers.md)
 + Experience Manager nach Ihnen {#experience-manager}
    + [Übersicht](/help/experience-manager/overview.md)
    + AEM Sites {#sites}
-      + [AEM Sites-Reifegradbewertung](/help/experience-manager/sites/expert-resources/maturity-assessment.md)
+      + [AEM Sites-Bewertung der Reife](/help/experience-manager/sites/expert-resources/maturity-assessment.md)
       + Best Practices {#sites-best-practices}
-         + [Tipps und Tricks von AEM-Champions: Sitzung 1](/help/experience-manager/sites/expert-resources/champion-tips-1.md)
-         + [Tipps und Tricks von AEM-Champions: Sitzung 2](/help/experience-manager/sites/expert-resources/champion-tips-2.md)
+         + [AEM Champion Tips and Tricks: Session 1](/help/experience-manager/sites/expert-resources/champion-tips-1.md)
+         + [AEM Champion Tips and Tricks: Session 2](/help/experience-manager/sites/expert-resources/champion-tips-2.md)
    + AEM as a Cloud Service {#cloud-service}
       + [[!DNL Cloud Manager] Onboarding-Playbook](/help/experience-manager/cloud-service/expert-resources/aem-champions/onboarding-playbook.md)
       + [[!DNL Cloud Manager] Umgebungstypen](/help/experience-manager/cloud-service/expert-resources/aem-champions/environment-types.md)
