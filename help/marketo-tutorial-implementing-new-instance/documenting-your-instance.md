@@ -4,11 +4,12 @@ description: Lernen Sie die wichtigsten Strategien und Best Practices für die e
 role: Admin
 level: Beginner
 doc-type: Article
+solution: Marketo Engage
 duration: 0
 last-substantial-update: 2024-05-08T00:00:00Z
 jira: KT-14815
 thumbnail: KT-14815.jpeg
-source-git-commit: 849a0022ea3a64ad964c9d2fc368b4b79b9c0cfa
+source-git-commit: 47ab8875bc4e41595cd40550330e43a88357b68d
 workflow-type: tm+mt
 source-wordcount: '815'
 ht-degree: 0%

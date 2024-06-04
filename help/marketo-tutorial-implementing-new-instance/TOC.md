@@ -1,28 +1,29 @@
 ---
-user-guide-title: Tutorial - Implementierung eines neuen [!DNL Marketo Engage] instance
-user-guide-description: Tutorial - Implementierung eines neuen [!DNL Marketo Engage] instance
-breadcrumb-title: Tutorial - Implementierung eines neuen [!DNL Marketo Engage] instance
+user-guide-title: Tutorial - Tipps und Tricks zur Implementierung eines neuen [!DNL Marketo Engage] instance
+user-guide-description: Tutorial - Tipps und Tricks zur Implementierung eines neuen [!DNL Marketo Engage] instance
+breadcrumb-title: Tutorial - Tipps und Tricks zur Implementierung eines neuen [!DNL Marketo Engage] instance
 breadcrumb-url: /docs/experiences-by-you/experiences-by-you/marketo-tutorial-implementing-new-instance/overview.html
-index: false
+index: true
 role: Admin
 level: Beginner
+solution: Marketo Engage
 auto-video-transcripts: true
-source-git-commit: 907667ae8e20ca5ef7c715abef4b0efa2afada07
+source-git-commit: 47ab8875bc4e41595cd40550330e43a88357b68d
 workflow-type: tm+mt
-source-wordcount: '74'
+source-wordcount: '89'
 ht-degree: 0%
 
 ---
 
 
-# Tutorial - Implementierung eines neuen [!DNL Marketo Engage] instance {#implenting-new-instance}
+# Tipps und Tricks zur Implementierung eines neuen [!DNL Marketo Engage] instance {#implementing-new-instance}
 
-+ [Tutorial - Übersicht](/help/marketo-tutorial-implementing-new-instance/overview.md)
++ [Tutorial - Übersicht](./overview.md)
 + [Verwalten von Stakeholdern zur Implementierung von Marketo Engage](./managing-stakeholder-communications.md)
 + [Planen der Marketo Engage-Implementierung](./planning-for-new-implementation.md)
 + [Entwicklung einer internen Roadshow für Onboarding und Training](./internal-training-roadshow.md)
 + [Erstellen eines Lead-/Personen-Scoring-Modells](./building-person-scoring-model.md)
 + [Synchronisieren von Feldern für die nativen CRM-Connectoren](./syncing-fields-for-crm-integration.md)
 + [Neue Instanz organisieren und Benennungskonventionen festlegen](./organizing-new-instance.md)
-+ [Omnichannel-Konversationsmarketing mit Dynamic Chat entwerfen](/help/marketo-tutorial-implementing-new-instance/designing-omnichannel-conversational-marketing.md)
++ [Omnichannel-Konversationsmarketing mit Dynamic Chat entwerfen](./designing-omnichannel-conversational-marketing.md)
 + [Erste Schritte mit der Verwaltung und Dokumentation von Instanzen](./documenting-your-instance.md)
