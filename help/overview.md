@@ -1,15 +1,15 @@
 ---
-title: Erlebnisse von Ihnen
+title: Experiences für Euch
 description: Erfahren Sie von anderen Adobe-Kunden, wie sie Experience Cloud-Anwendungen und -Funktionen verwenden.
 role: User, Developer, Admin, Data Architect
 level: Beginner
 doc-type: overview
 solution: Experience Cloud
 exl-id: a3e976a1-8bf1-4c18-b5b5-831367a7e8a0
-source-git-commit: 10bf432c85cabe2f131aad05da42b5b1c0af467f
+source-git-commit: 24c2ee272ab1dcda53e5dfe918125e8542ecfe15
 workflow-type: tm+mt
-source-wordcount: '180'
-ht-degree: 13%
+source-wordcount: '173'
+ht-degree: 9%
 
 ---
 
@@ -77,5 +77,6 @@ Die mächtigste Sache an [!DNL Adobe] Digital Experience (DX)-Lösungen? Du. Die
 
 * [Experience League Communities](https://experienceleaguecommunities.adobe.com/?profile.language=de)
 * [Experience Cloud -Dokumentation](https://experienceleague.adobe.com/docs/?lang=de)
-* [Experience Cloud-Tutorials](https://experienceleague.adobe.com/?lang=dedocs/home-tutorials.html)
+* [Experience Cloud-Tutorials](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=de)
 * [business.adobe.com](https://business.adobe.com)
+
