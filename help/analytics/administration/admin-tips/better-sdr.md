@@ -1,6 +1,6 @@
 ---
-title: Erstellen einer Datenkultur und einer besseren Referenz zum Lösungsdesign
-description: Revolutionieren Sie Ihre Datenstrategie und stärken Sie Ihr Team bei der Erstellung eines soliden SDR-Dokuments (Solution Design Reference). Beseitigung von Messlücken und Förderung einer partizipativen Datenkultur durch schrittweise Methoden.
+title: Erstellen einer Datenkultur und einer besseren Lösungsdesign-Referenz
+description: Revolutionieren Sie Ihre Datenstrategie und stärken Sie Ihr Team bei der Erstellung eines soliden SDR-Dokuments (Solution Design Reference). Beseitigen Sie Messlücken und fördern Sie eine partizipative Datenkultur durch schrittweise Methoden.
 feature: Implementation Basics
 topic: Administration
 role: User
@@ -11,104 +11,120 @@ last-substantial-update: 2024-04-25T00:00:00Z
 jira: KT-15338
 thumbnail: KT-15338.jpeg
 exl-id: 99fcf68f-5698-4270-9055-ab224e6323a1
-source-git-commit: b3b98aee5ee23e323a9bc762c673700b02366f4c
+source-git-commit: b2e05ff39e065691dda530ed17762a55cf2e6778
 workflow-type: tm+mt
-source-wordcount: '1640'
+source-wordcount: '1647'
 ht-degree: 0%
 
 ---
 
 # Erstellen einer Datenkultur und einer besseren Referenz zum Lösungsdesign
 
-**Revolutionieren Sie Ihre Datenstrategie und stärken Sie Ihr Team bei der Erstellung eines soliden SDR-Dokuments (Solution Design Reference). Beseitigung von Messlücken und Förderung einer partizipativen Datenkultur durch schrittweise Methoden.**
+_Revolutionieren Sie Ihre Datenstrategie und stärken Sie Ihr Team bei der Erstellung eines soliden SDR-Dokuments (Solution Design Reference). Beseitigung von Messlücken und Förderung einer partizipativen Datenkultur durch schrittweise Methoden._
 
-Endlich ist es Zeit. Sie haben eine solide Lösungs-Design-Referenz (SDR) zusammengestellt. Dies ist der Leitfaden, den Sie verwenden, um Ihre Metriken und Dimensionen zu implementieren, wie sie genannt werden, wenn sie ausgelöst werden und Ihre Entwickler es lieben. Sie haben den gesamten Bereitstellungsprozess durchlaufen, Akzeptanzkriterien geschrieben, Ihre Sprints durchlaufen, die gesamte Sache QAing, und es ist fertig! Es war eine Menge Arbeit, und jetzt ist es fertig. Ihre Adobe Analytics-Instanz sollte die Marketing- und Produktentwicklung steigern, während sie die Daten untersuchen, neue Enthüllungen über Ihre Kunden erhalten und alle Erfolgsbereiche und Bereiche mit geringerem Erfolg finden. Aber Sie hören nicht die Akoladen, die Sie erwartet haben.
+Endlich ist es Zeit. Sie haben eine solide SZR zusammengestellt. Ein SDR ist das Handbuch, das Sie zur Implementierung Ihrer Metriken und Dimensionen verwenden. Du hast definiert, wie sie heißen, wenn sie feuern, und deine Entwickler lieben es. Sie haben den gesamten Bereitstellungsprozess durchlaufen, Akzeptanzkriterien geschrieben, Ihre Sprints durchlaufen, getestet und es ist fertig! Ihre Instanz von [!DNL Adobe Analytics] Marketing- und Produktteams sollten sich beim Einblick in die Daten freuen, neue Enthüllungen über Ihre Kunden erhalten und alle Bereiche des Erfolgs und Bereiche mit geringerem Erfolg finden. Aber Sie hören nicht die Akoladen, die Sie erwartet haben.
 
-Von einem Lager hören Sie Beschwerden.
+Von einem Team hören Sie Beschwerden wie:
 
 &quot;Warum kann ich die Konversionsrate für diesen Trichter nicht ermitteln?&quot;
 
 &quot;Warum gibt es dafür keine Metrik?&quot;
 
-&quot;Ich brauche viel mehr Details dazu. Eine Metrik allein reicht nicht aus. Es gibt mindestens drei verschiedene Dimensionen, die ich brauche, um die Leistung zu verstehen. Warum hast du sie nicht hineingesteckt?&quot;
+&quot;Ich brauche mehr Details! Eine Metrik allein reicht nicht aus. Es gibt mindestens drei verschiedene Dimensionen, die ich für ein besseres Verständnis der Leistung benötige. Warum hast du sie nicht hineingesteckt?&quot;
 
-Aber es ist das andere Lager, das eine noch größere Besorgnis hervorruft. Von ihnen hört man überhaupt nichts. Aber noch viel schlimmer ist, dass Sie Diagramme sehen, die sehr klar aus Ihrer alten Analyselösung übernommen wurden, die nicht mehr gepflegt wird und jeden Tag weiter in einen Sumpf von Abfall und schmutzigen Daten fällt. Ein Gefühl der Angst erfüllt Sie, wenn Sie über die Entscheidungen nachdenken, die mit diesem Chaos getroffen werden könnten.
+Aber es ist das andere Team, das eine noch größere Sorge bereitet. Von ihnen hört man überhaupt nichts. Schlimmer noch: Sie sehen Diagramme, die eindeutig aus Ihrer alten Analyselösung entnommen wurden (die nicht mehr gepflegt wird und jeden Tag weiter in einen Sumpf von Abfall und schmutzigen Daten fällt). Ein Gefühl der Angst erfüllt Sie, wenn Sie die Entscheidungen betrachten, die mit diesem ursprünglichen Chaos getroffen werden könnten.
 
-Was ist schiefgelaufen? Warum gibt es Messlücken? Warum nehmen Ihre Teammitglieder das nicht an?
+_Was ist schiefgelaufen?_
 
-Ich beginne, indem ich dich ein wenig aus dem Haken lasse. Dort ist *always* wird eine Revision sein. Wenn Ihre Site oder App komplex genug ist, um eine Enterprise Analytics-Lösung zu benötigen, ist im Grunde garantiert, dass Sie etwas verpassen. Aber nicht genug, um die Messlücken zu erklären, über die ich hier spreche. Was schiefgelaufen ist, ist viel schwieriger in eine Tabelle einzufügen. Sie haben Ihre ersten Chancen verpasst, eine partizipative Datenkultur aufzubauen, während Sie Ihre SDR erstellt haben. Ich möchte Sie durch eine Methode führen, die ich und meine Kollegen entwickelt haben, um sowohl eine bessere SDR mit weniger Lücken zu erstellen als auch um Endanwender zu investieren und sogar gelegentlich aufgeregt über ihre neue Instanz von Adobe Analytics. Lasst uns über die Hows und die Weißen gehen.
+_Warum gibt es Messlücken?_
 
-**Die**
+_Warum nehmen Ihre Teammitglieder das nicht an?_
 
-***Messungskonferenz:***
+Ich beginne, indem ich dich ein wenig aus dem Haken lasse. Dort ist _always_ wird eine Revision sein. Wenn Ihre Site oder Anwendung komplex genug ist, um eine Enterprise Analytics-Lösung zu benötigen, wird Ihnen garantiert etwas fehlen. Aber in diesem Fall haben Sie nicht genug verpasst, um die Messlücken zu erklären, die ich beschreibe.
 
-1. Treffen Sie Ihre Interessengruppen, entweder persönlich oder virtuell, um herauszufinden, was gemessen werden soll. Dies sollte einige ausführbare Dateien enthalten.
-1. Sie haben bereits einige offensichtliche Beispiele auf der Pinnwand, um Notizen zu erstellen, Dinge wie Umsatz, Vertrieb oder Leads, die wichtigsten KPIs, die Sie kennen, werden gemessen. Wiederholen Sie diese Schritte mit Dimensionen, Elementen wie dem angemeldeten Status, Produktkategorien oder Suchbegriffen.
-1. Jeder soll seine eigenen Kurznotizen hinzufügen und nach Bedarf gruppieren.
-1. Lassen Sie die Menschen über die Stimmen abstimmen, die sie für wichtig halten. Dies sind unbegrenzte Abstimmungen, da vielleicht all diese Metriken und Dimensionen wichtig sind.
-1. Für alle, die geringe Stimmen haben, lassen Sie die Interessengruppen, die um sie gebeten haben, erklären, wofür sie sie verwenden werden. Wenn es einen guten Anwendungsfall gibt, behalten Sie ihn bei. Wenn es einen besseren Weg gibt, diese Daten zu erhalten, können sie nicht erklären, wie sie umsetzbar sind, oder es gibt einen anderen guten Grund, sie auszuschließen, schlagen Sie sie aus der Pinnwand.
-1. Fügen Sie diese Metriken und Dimensionen zu Ihrem SDR hinzu, um sie erstmals von den beteiligten Benutzern zu überprüfen, die anwesend waren.
+Was schiefgelaufen ist, ist viel schwieriger in eine Tabelle einzufügen. Im Grunde haben Sie Ihre erste Chance verpasst, eine partizipative Datenkultur aufzubauen, während Sie Ihre SDR erstellt haben.
 
-***Trichterkarte***
+Ich möchte Sie durch eine Methode führen, die meine Kollegen und ich entwickelt haben, um sowohl eine bessere SDR mit weniger Lücken zu erstellen als auch um Endbenutzer über ihre neue Instanz von [!DNL Adobe Analytics]. Lassen Sie uns darüber sprechen, wie und warum Sie diese Methode in Erwägung ziehen sollten.
 
-1. Erstellen Sie eine Visualisierung aller Trichter, Schritt für Schritt mit jedem Status
-1. Führen Sie mit den Designern und Produktmanagern jeden Schritt durch und besprechen Sie, was sie als Erfolg auf diesem Trichter betrachten. Ist es Konversionsrate? Wählt sie einen bestimmten Pfad? Verwendet sie bestimmte Funktionen?
+## Die
+
+_Erfahren Sie mehr über die Messungskonferenz. Verwenden Sie eine Trichterzuordnung, um jeden Schritt Ihres Plans zu visualisieren. Erstellen Sie Modelle-Dashboards, die als Gruppe überprüft werden. Erstellen Sie ein Datenwörterbuch für Benutzer._
+
+### Messungskonferenz
+
+1. Treffen Sie Ihre Interessengruppen, entweder persönlich oder virtuell, um herauszufinden, was gemessen werden soll. Diese Sitzung sollte einige Führungskräfte umfassen.
+1. Sie haben bereits offensichtliche Beispiele auf der Pinnwand in Kurznotizen, wie Umsatz, Vertrieb oder Leads, die wichtigsten Produktindikatoren (KPIs), von denen Sie wissen, dass sie gemessen werden. Wiederholen Sie diese Schritte mit Dimensionen wie angemeldetem Status, Produktkategorien oder Suchbegriffen.
+1. Lassen Sie alle ihre eigenen Notizen hinzufügen und gruppieren Sie sie nach Bedarf.
+1. Bitten Sie die Menschen, über die zu wählen, die sie für wichtig halten. Dies sind unbegrenzte Abstimmungen, da diese Metriken und Dimensionen wahrscheinlich von Bedeutung sind.
+1. Weisen Sie für alle Metriken und Dimensionen mit geringen Stimmen die Interessengruppen, die sie gebeten haben, zu, warum diese Komponenten verwendet werden. Wenn ein guter Anwendungsfall vorliegt, behalten Sie diese Komponenten bei. Wenn es eine bessere Methode gibt, diese Daten zu erhalten, oder niemand erklären kann, wie diese Daten verarbeitet werden können, oder wenn ein anderer guter Grund besteht, die Metriken und Dimensionen zu entfernen, tun Sie dies.
+1. Fügen Sie diese Metriken und Dimensionen zu Ihrer SDR hinzu, um sie zunächst von den beteiligten Benutzern zu überprüfen, die anwesend waren.
+
+### Trichterzuordnung
+
+1. Hier erhalten Sie eine Visualisierung aller Trichter, Schritt für Schritt mit jedem Status.
+1. Nehmen Sie mit den Designern und Produktmanagern die einzelnen Schritte vor und besprechen Sie, was jeder für Erfolg in diesem Trichter hält. Ist es die Konversionsrate? Wählt sie einen bestimmten Pfad? Verwendet sie bestimmte Funktionen?
 1. Stellen Sie Fragen dazu, welche Metriken und Dimensionen erforderlich sind, um die Trichterleistung bei jedem Schritt des Trichters und insgesamt zu verstehen.
 1. Fügen Sie über jedem Schritt des Trichters die Metriken und Dimensionen hinzu, die bei diesem Schritt gemessen werden, einschließlich der berechneten Metriken.
-1. Schreiben Sie zu Beginn jedes Trichters die Berichte, die in das Dashboard eingehen, das der Produkt-Manager zum Tracking der Leistung verwenden wird, Dinge wie einen Fallout-Bericht, aktuelle Monate und Trend-Konversionsraten sowie alles, was für diesen Trichter spezifischer ist.
+1. Schreiben Sie zu Beginn jedes Trichters die Berichte in das Dashboard, die der Produkt-Manager zum Tracking der Leistung verwenden kann. Diese Berichte enthalten [Fallout-Bericht](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow), [Aktueller Monat](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges), [Trend-Konversionsraten](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/visualizations/line)und alles, was für diesen Trichter spezifischer ist.
 1. Fügen Sie die neuen Metriken und Dimensionen, die Sie entdeckt haben, zum SDR hinzu und senden Sie sie zur zweiten Überprüfung an die Stakeholder.
 
-***Vorschau-Dashboards***
+### Vorschau-Dashboards
 
-1. Erstellen Sie mithilfe der Trichterzuordnung als Anleitung Mapping-Dashboards.
+1. Erstellen Sie mithilfe der Trichterzuordnung als Anleitung Mockup-Dashboards.
 1. Es sollte eine Gesamtübersicht geben, z. B. eine [Executive Summary Dashboard](driving-success-with-executive-summary-dashboards.md), und Dashboards für jeden Trichter.
 1. Es gibt auch einige spezifischere Aspekte für Ihre Site oder App, z. B. Produktleistung oder Inhaltsleistung.
 1. Verteilen Sie diese an die relevanten Interessengruppen und erhalten Sie Feedback zum Entwurf.
 1. Nehmen Sie alle erforderlichen Aktualisierungen vor und fügen Sie sie Ihrem SDR hinzu, wenn neue Metriken oder Dimensionen erforderlich sind.
 1. Senden Sie die aktualisierten Vorschau-Dashboards und SDR für eine endgültige Überprüfung.
 
-***Werkzeuge zur Datendemokratisierung***
+### Instrumente zur Datendemokratisierung
 
-1. Erstellen Sie ein Datenwörterbuch. Die SZR sind für Ihre Entwickler. Das Datenwörterbuch richtet sich an Ihre Endbenutzer. Machen Sie es für Endbenutzer lesbar, damit sie einfach nachschlagen können, welche Daten verfügbar sind und wie sie verwendet werden können. Ihre Endbenutzer sollten die endgültigen Genehmiger sein.
-1. Anmerkungen. In jeder Organisation gibt es bestimmte Termine, die jedes Jahr wichtig sind, und andere, die sich ergeben werden. Stellen Sie sicher, dass Sie die relevanten Daten von Ihren Interessengruppen erfassen und sie als Anmerkungen hinzufügen, um das Verständnis der angezeigten Daten zu verbessern.
-1. Kuratierung. Wenn Ihre SZR groß sind, könnte es überwältigend sein. Eine Lähmung der Wahl trifft nicht nur auf Ihre Kunden zu. Sehen Sie, was für die einzelnen Benutzergruppen wichtig ist, und kuratieren Sie die Elemente, die sie sehen werden.
+1. Erstellen Sie ein Datenwörterbuch. Die SDR richtet sich an Ihre Entwickler, aber das Datenwörterbuch richtet sich an Ihre Endbenutzer. Machen Sie es lesbar, damit jeder einfach nachschlagen kann, welche Daten verfügbar sind und wie sie verwendet werden können. Ihre Endbenutzer sollten die endgültigen Genehmiger sein.
+1. Anmerken. In jeder Organisation gibt es bestimmte Termine, die jedes Jahr wichtig sind, und andere, die sich ergeben werden. Stellen Sie sicher, dass Sie die relevanten Daten von Ihren Interessengruppen erfassen und sie als Anmerkungen hinzufügen, um das Verständnis der angezeigten Daten zu verbessern.
+1. Kuratieren. Wenn Ihre SZR groß sind, könnte es überwältigend sein. Eine Lähmung der Wahl trifft nicht nur auf Ihre Kunden zu. Sehen Sie, was für die einzelnen Benutzergruppen wichtig ist, und kuratieren Sie die Elemente, die sie sehen werden.
 
-**Der Grund**
+## Der Grund
 
-***Anforderungen abrufen***
+_Erfahren Sie mehr über die Anforderungserfassung, den Aufbau einer Datenkultur, tief greifende Gedanken über Daten, die Schaffung eines Bewusstseins für die Daten und die Vereinfachung der Daten._
 
-Dies ist offensichtlich, aber es gibt andere effektive Möglichkeiten, Anforderungen zu bekommen. Ich habe eine persönlich für ein Interview, Fragebögen und Überprüfungen bestehender Berichte verwendet. Diese werden funktionieren, obwohl ich denke, nicht so gut wie die Methoden, die ich gerade beschrieben habe. Ehrlich gesagt glaube ich nicht, dass die Lücke in der Anforderungsanalyse so groß ist. Die Methode, die ich beschrieben habe, wird Ihnen 95% des Weges dorthin bringen, und diese anderen Methoden werden Ihnen 90% des Weges bringen. Was ist also der große Grund?
+### Anforderungen sammeln
 
-***So erstellen Sie eine Datenkultur***
+Das Sammeln von Anforderungen ist offensichtlich, aber es gibt mehrere effektive Möglichkeiten, dies zu tun. Ich habe Einzelgespräche, Fragebögen und Überprüfungen bestehender Berichte verwendet. Diese Strategien funktionieren, aber nicht so gut wie die Methoden, die ich gerade beschrieben habe. Ich glaube jedoch nicht, dass der Unterschied zwischen den Methoden für die Anforderungserfassung bedeutend ist. Die Methode, die ich beschrieben habe, bringt Sie zu 95% des Weges, und diese anderen Methoden bringen Ihnen 90% des Weges.
 
-Mit diesem Prozess können Sie:
+Also, was ist das _Why_?
 
-- Spark-Gedanken über die Erfolgsmessung
-- Eigenverantwortung in Ihren Stakeholdern schaffen
-- Den Stakeholdern das Verständnis ihrer Daten erleichtern
+### Erstellen einer Datenkultur
 
-***Sparen tief gehender Gedanken über Daten***
+Bei diesem Vorgang gehen Sie folgendermaßen vor:
 
-Für viele Personen in Ihrem Unternehmen sind Daten etwas, das sie konsumieren. Sie benutzen es. Sie analysieren es. Sie denken nicht tief darüber nach. Einige von ihnen erbten Berichte und Prozesse von ihren Vorgängern, die sie aufgrund der Notwendigkeit der Kontinuität nicht verändert haben. Sie mussten nie über den Grund der Daten nachdenken.
+* Spark-Gedanken über die Erfolgsmessung
+* Eigenverantwortung in Ihren Stakeholdern schaffen
+* Den Stakeholdern das Verständnis ihrer Daten erleichtern
 
-Dieser Prozess gibt ihnen die Möglichkeit, wirklich *verstehen* Daten. Wenn man die Fragen stellt, was ist Erfolg? Woher würdest du wissen, ob du erfolgreich warst? Wie würdest du wissen, was du ändern würdest, wenn du nicht erfolgreich wärest? Dies ist eine Übung, die am Anfang der Erstellung jeder Website, App und jedes Produkt durchgeführt werden sollte, aber viel zu oft nicht. Indem Sie diese Fragen stellen, helfen Sie, das Verständnis nicht nur der Daten, sondern auch des eigenen Produkts zu vertiefen.
+### Spark - tiefer Gedanke über Daten
 
-***Eigenverantwortlichkeitsgefühl für die Daten schaffen***
+Für viele Personen in Ihrem Unternehmen sind Daten etwas, das sie konsumieren. Sie benutzen es. Sie analysieren es. Sie denken nicht tief darüber nach. Manche Menschen haben Berichte und Prozesse von ihren Vorgängern geerbt, aber sie haben sie nicht um der Kontinuität willen verändert. Vielleicht mussten diese Leute nie über die _Why_ der Daten.
 
-Das ist nicht etwas, das von oben herabgesetzt wurde. Das war vor drei Monaten kein Treffen mit einer halben Stunde. Dies ist nicht so lästig, dass sie eine Woche lang gejagt wurden, um zu antworten, und dass sie dies in Eile getan haben, weil sie eine Demo hatten, damit sie das Sprint-Release-Datum erreichen konnten. Das ist das Ergebnis ihres tiefen Denkens und ihrer Arbeit mit Ihnen und ihren Kollegen, der Sache, die sie mehrmals betrachtet haben, die laufendes Feedback liefert und die sie nach der Aufnahme dieses Feedbacks angenommen haben. Das sind ihre! Dass es nützlich ist, liegt an ihnen. Es ist *,* und es ist der Prozess, der sie gemacht hat.
+Dieser Prozess gibt ihnen die Möglichkeit, wirklich _verstehen_ Daten. Fragen stellen wie: Was ist Erfolg? Woher würdest du wissen, ob du erfolgreich warst? Wie würdest du wissen, was du ändern würdest, wenn du nicht erfolgreich wärest? Diese Fragen müssen zu Beginn der Erstellung jeder Website, Anwendung und jedes Produkt beantwortet werden - aber viel zu oft nicht. Indem Sie diese Fragen stellen, helfen Sie, das Verständnis einer Person nicht nur über die Daten, sondern auch über ihr Produkt zu vertiefen.
 
-***Einfacheres Verständnis der Daten***
+### Eigenverantwortung für die Daten schaffen
 
-Sie haben ihnen auch gezeigt, wie sie es verwenden und wie es in den Vorschau-Dashboards aussehen wird. Jede neue Lösung *hard*. Es gibt so viel zu lernen und angesichts der enormen Anpassungsfähigkeit von Adobe Analytics kann die Lernkurve ziemlich steil sein. Sie haben jedoch 80 % davon entfernt. Noch bevor die erste Codezeile geschrieben wurde, wissen Ihre Stakeholder, wie ihre Dashboards aussehen werden. Sie werden wissen, wie sie sie lesen und von ihnen Sinn bekommen. Sie werden wissen, wie Erfolg buchstäblich aussieht, weil sie Ihnen gesagt haben, welche Metriken und Dimensionen Erfolg definieren, und Sie haben ihnen gesagt, wie dies für sie visualisiert wird. Bei der Bereitstellung der eigentlichen Dashboards handelt es sich um einen Auffrischungskurs, keine beängstigende neue Lernaufgabe.
+Ein Gefühl des Eigentums ist nicht etwas, das ein Mensch leicht erwirbt. Es ist nicht in dem dreißigminütigen Treffen zu finden, das vor drei Monaten stattfand. Es wird nicht durch einen lästigen Fragebogen geschaffen, den sie zu schnell beantwortet haben, wegen anderer dringender Arbeitsfragen wie Demos und Sprint-Releasedatum.
 
-Das ist nicht der schnellste Weg, eine SZR zusammenzubekommen. Es ist eine Menge Arbeit und erfordert eine große Koordinierung der Zeitpläne, besonders da es wichtig ist, dass Sie einige Dinge in der Mischung haben. Eine Unternehmensanalyselösung ist letztlich jedoch eine enorme Investition in Zeit und Geld, und Sie wollen sicherstellen, dass die Akzeptanz und die Zufriedenheit hoch sind. Diese Methode geht weit in Richtung, dies zu erreichen.
+Eigentum ist das Ergebnis des tiefen Denkens und der Zusammenarbeit mit Ihnen und Kollegen. Es ist das, worüber sie mehrmals nachgesehen haben, laufendes Feedback gegeben haben und was sie genehmigt haben, nachdem dieses Feedback aufgenommen wurde. Das sind ihre! Dass es nützlich ist, liegt an ihnen. Es ist _,_ Daten und es ist dieser Prozess, der es zu ihren gemacht hat.
+
+### Daten vereinfachen
+
+Sie haben ihnen auch gezeigt, wie sie den Prozess verwenden und wie er durch die [Vorschau-Dashboards](#the-preview-dashboards). Jede neue Lösung _hard_. Es gibt so viel zu lernen, und angesichts der enormen Anpassungsfähigkeit von [!DNL Adobe Analytics], kann die Lernkurve steil sein. Sie haben jedoch 80 % davon entfernt. Noch bevor die erste Codezeile geschrieben wurde, wissen Ihre Stakeholder, wie ihre Dashboards aussehen werden. Sie werden wissen, wie sie sie lesen und von ihnen Sinn bekommen. Sie werden wissen, wie Erfolg buchstäblich aussieht, weil sie Ihnen gesagt haben, welche Metriken und Dimensionen Erfolg definieren. Und Sie haben ihnen erzählt, wie dieser Erfolg für sie visualisiert wird. Bei der Bereitstellung der eigentlichen Dashboards handelt es sich um einen Auffrischungskurs, keine beängstigende neue Lernaufgabe.
+
+Dies ist nicht unbedingt der schnellste Weg, um SZR zusammenzubringen. Es ist viel Arbeit und erfordert eine große Koordinierung der Zeitpläne, besonders da es wichtig ist, dass Sie einige Führungskräfte in der Mischung haben. Am Ende ist eine Enterprise Analytics-Lösung jedoch eine enorme Investition in Zeit und Geld, und Sie möchten sicherstellen, dass die Akzeptanz und die Zufriedenheit hoch sind. Diese Methode geht weit in Richtung, dies zu erreichen.
 
 **Autor**
 
-Dieses Dokument wurde verfasst von:
+Dieses Dokument wurde geschrieben von:
 
 ![gitai-headshot](assets/gitai-headshot-150.jpg)
 
 Gitai Ben-Ammi, Associate Manager für Unternehmensarchitektur in Accenture
 
-Adobe Analytics-Expertin
+[!DNL Adobe Analytics] Champion
