@@ -1,19 +1,19 @@
 ---
-title: Zehn Best Practices zum Erfolg von  [!DNL Adobe] [!DNL Campaign] für Marketing-Fachleute
+title: Zehn Best Practices für [!DNL Adobe] [!DNL Campaign] Erfolg für Marketing-Experten
 description: Lernen Sie die zehn Best Practices kennen, die Ihnen helfen [!DNL Adobe] [!DNL Campaign] Anwender entschließen und beschleunigen die digitale Konsumentenumwandlung und ein besseres Kundenerlebnis.
 doc-type: article
 solution: Campaign
 feature-set: Campaign
-feature: Personalization, [!DNL Campaign]s, Subscriptions, Deliverability
+feature: Personalization, Campaigns, Subscriptions, Deliverability
 role: User
 level: Beginner
 jira: KT-11772
 last-substantial-update: 2023-01-31T00:00:00Z
 exl-id: add6ed84-892d-4901-9dd2-b0cba0c57290
-source-git-commit: 7bbe86435c683f41509a8cbe6b117b354309644a
+source-git-commit: ec621f6e118292a3f8448c0e21abe8a1284cb10e
 workflow-type: tm+mt
-source-wordcount: '1276'
-ht-degree: 79%
+source-wordcount: '1262'
+ht-degree: 77%
 
 ---
 
@@ -28,7 +28,7 @@ In diesem Artikel teilt Christian seine Best Practices mit, um [!DNL Adobe] [!DN
 
 Der erste Schritt, um Ihren Erfolg mit [!DNL sicherzustellen [!DNL Adobe] [!DNL Campaign]] ist es, Ihre Tools und Kundenerwartungen zu verstehen - und das gilt für jede Art von Marketing. Definieren und verstehen Sie die Kanäle, die Sie zum Kontakt mit Ihren Kundinnen und Kunden verwenden, und überlegen Sie, wann und warum Sie diese Kanäle nutzen.
 
-[!DNL Adobe][!DNL Campaign] ist ein flexibles Tool, mit dem Sie Ihre Kommunikationsaktivitäten auf vielfältige Weise ausführen und steuern können. [Die Hälfte der Personen interagiert während jeder kaufbezogenen Journey mit drei bis fünf Kanälen](https://www.mckinsey.com/capabilities/operations/our-insights/redefine-the-omnichannel-approach-focus-on-what-truly-matters). Um das Potenzial Ihrer Plattform voll auszuschöpfen und mit Ihren Kundinnen und Kunden optimal zu kommunizieren, ist es daher von entscheidender Bedeutung, diese Kanäle im Voraus zu verstehen und zu planen.
+[!DNL Adobe] [!DNL Campaign] ist ein flexibles Tool, mit dem Sie Nachrichten auf vielfältige Weise ausführen und orchestrieren können. [Die Hälfte der Personen interagiert während jeder kaufbezogenen Journey mit drei bis fünf Kanälen](https://www.mckinsey.com/capabilities/operations/our-insights/redefine-the-omnichannel-approach-focus-on-what-truly-matters). Um das Potenzial Ihrer Plattform voll auszuschöpfen und mit Ihren Kundinnen und Kunden optimal zu kommunizieren, ist es daher von entscheidender Bedeutung, diese Kanäle im Voraus zu verstehen und zu planen.
 
 ## 2. Kundendaten dokumentieren und verstehen
 
