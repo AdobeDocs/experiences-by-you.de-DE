@@ -11,7 +11,7 @@ thumbnail: KT-13476.jpeg
 exl-id: 369c526d-8664-4771-81b6-24c9f50bc37e
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
-source-wordcount: '1975'
+source-wordcount: '1991'
 ht-degree: 0%
 
 ---
@@ -60,7 +60,7 @@ Wir können uns das wie ein Lebensmittelgeschäft vorstellen. Wenn jemand ein Pr
 
 Ich schlage vor, besuchte Seiten oder andere explizite Kaufabsichten-Signale zu verwenden und andere, weniger direkte Signale zu vermeiden, um die Kaufabsicht zu identifizieren. Beispielsweise würde ich keine Anzahl von Sitzungen oder Seiten in einer Sitzung oder einer ähnlichen Sitzung verwenden. Diese indirekten Signale geben die Berücksichtigung an, nicht die Kaufabsicht. Beachten Sie, dass der Zweck dieses Segments darin besteht, die Absicht des Besuchers und nicht seine Neigung zum Besuch zu vermitteln.
 
-### Verwenden [!DNL Analytics] Workspace zur Identifizierung von KaufIntent-Signalen
+### Verwenden von [!DNL Analytics] Workspace zur Identifizierung von KaufIntent-Signalen
 
 Der Fallout-Bericht ist sehr nützlich, um ein gutes Signal zu identifizieren, das auf die Kaufabsicht hinweist. Suchen Sie nach einem Ort, der die Absicht logisch angibt. Sie können bestätigen, dass der Schritt die Absicht anzeigt, wenn Sie einen wichtigen Fallout sehen, der zu diesem Schritt führt, gefolgt von einem kleineren Fallout für den Schritt unmittelbar danach.
 
@@ -92,7 +92,7 @@ Fügen Sie dem Segment, das durch die &quot;Und&quot;-Bedingung verbunden wird, 
 
 Als Best Practice sollten Sie sicherstellen, dass Sie Ihre Container beschriften. Sie werden sich freuen, insbesondere da unsere Segmentdefinitionen komplexer werden.
 
-Nachdem wir nun das Segment &quot;Kaufabsicht&quot;erstellt haben, können wir den Arbeitsbereich für die Datenqualität des Besuchsabsichten verwenden, um zu sehen, dass sich unser Segment für den Kaufabsichten gegenseitig mit unserem Segment &quot;Eins&quot;und &quot;Fertig&quot;ausschließt.
+Nachdem wir nun das Segment &quot;Kaufabsicht&quot;erstellt haben, können wir die Workspace für die Datenqualität des Besuchsintents verwenden, um zu sehen, dass sich unser Zielgruppensegment &quot;Kauf&quot;gegenseitig mit unserem Segment &quot;Eins&quot;und &quot;Fertig&quot;ausschließt.
 
 ![Bild 5](assets/Image-5.png)
 
@@ -106,9 +106,9 @@ Wie beim Segment &quot;Kaufabsicht&quot;suchen wir sehr explizite Absichtserklä
 
 Ich sollte beachten, dass &quot;Treue&quot;ein wenig ein unangenehmer Name für diesen Besuchsabsichten ist, da der Besucher nicht auf unserer Site ist, &quot;sodass ich als Kunde beibehalten werden kann&quot;. Treue ist unsere Absicht für diesen Besuch. Denken Sie einfach daran, für unsere Kunden einfühlsam zu sein und einen Kundenfokus zu pflegen!
 
-### Verwenden [!DNL Analytics] Workspace zur Identifizierung von Intent-Signalen für die Datenaufbewahrung
+### Verwenden von [!DNL Analytics] Workspace zum Identifizieren von Bindungsabsichten-Signalen
 
-Nochmals: [!DNL Analytics] Workspace hilft uns dabei, die Bindungsabsicht zu identifizieren. Sie können die Seiten, den Sitebereich oder die benutzerdefinierten Segmentdimensionen verwenden, um Ihre Seiten zu kategorisieren. Suchen Sie nach Seiten mit niedrigen Einkaufskonversionsraten. In unserem Fall haben die Seiten &quot;Online Check-In&quot;und &quot;Shore Excursion&quot;(Shorex) vergleichsweise niedrigere Konversionsraten als andere Seiten, die logischerweise mit dem Kauf und Einkauf verbunden sind.
+Auch hier hilft uns Workspace bei der Identifizierung des Bindungsabsichten. [!DNL Analytics] Sie können die Seiten, den Sitebereich oder die benutzerdefinierten Segmentdimensionen verwenden, um Ihre Seiten zu kategorisieren. Suchen Sie nach Seiten mit niedrigen Einkaufskonversionsraten. In unserem Fall haben die Seiten &quot;Online Check-In&quot;und &quot;Shore Excursion&quot;(Shorex) vergleichsweise niedrigere Konversionsraten als andere Seiten, die logischerweise mit dem Kauf und Einkauf verbunden sind.
 
 ![Bild 6](assets/Image-6.png)
 
@@ -132,7 +132,7 @@ Fügen Sie dann Container zum Ausschließen für Ihre Besuche &quot;One Hit Wond
 
 ![Bild 7](assets/Image-7.png)
 
-Sehen Sie sich erneut Ihren Arbeitsbereich für die Datenqualität des Besuchsabsichten an, um sicherzustellen, dass sich Ihre Segmente gegenseitig ausschließen. Unsere Besuchsabsichten-Segmente nehmen eine schöne Form an!
+Sehen Sie sich erneut Ihren Workspace für die Datenqualität des Besuchsabsichten an, um sicherzustellen, dass sich Ihre Segmente gegenseitig ausschließen. Unsere Besuchsabsichten-Segmente nehmen eine schöne Form an!
 
 ![Bild 8](assets/Image-8.png)
 
@@ -140,7 +140,7 @@ An dieser Stelle haben wir drei unserer fünf Segmente für Besuchsabsichten kon
 
 ## Autor
 
-Dieses Dokument wurde verfasst von:
+Dieses Dokument wurde geschrieben von:
 
 ![Aaron Fossum](assets/aaron-headshot.png)
 

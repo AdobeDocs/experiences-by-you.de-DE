@@ -1,6 +1,6 @@
 ---
 title: Entwicklung einer internen Roadshow für Onboarding und Training
-description: Erfahren Sie, wie Sie ein zuverlässiges Verfahren für die Erstellung und Verwaltung von Dokumentation und Änderungsliste für Ihre [!DNL Marketo Engage] -Instanz. Dies spart nicht nur Zeit für den Austausch von Wissen in Ihrem Team, sondern erhöht auch die Gesundheit und Effizienz Ihrer Instanz.
+description: Erfahren Sie, wie Sie ein zuverlässiges Verfahren für die Erstellung und Verwaltung von Dokumentation und Änderungsprogrammen für Ihre [!DNL Marketo Engage] Instanz einrichten. Dies spart nicht nur Zeit für den Austausch von Wissen in Ihrem Team, sondern erhöht auch die Gesundheit und Effizienz Ihrer Instanz.
 role: Admin
 level: Beginner
 doc-type: Article
@@ -9,46 +9,46 @@ duration: 0
 last-substantial-update: 2024-03-01T00:00:00Z
 jira: KT-14809
 thumbnail: KT-14809.jpeg
-source-git-commit: 47ab8875bc4e41595cd40550330e43a88357b68d
+exl-id: bd5d102b-0810-43e1-baac-fbef43817d50
+source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
 workflow-type: tm+mt
 source-wordcount: '816'
 ht-degree: 0%
 
 ---
 
-
 # Entwicklung einer internen Roadshow für Onboarding und Training
 
-Wenn du eine neue [!DNL Marketo Engage] Instanz live ist, ist es an der Zeit, die entsprechenden Teams auf den neuesten Stand zu bringen, um [!DNL Marketo Engage] für ihre Arbeitsplätze.
+Wenn Sie eine neue [!DNL Marketo Engage] -Instanz live bringen, ist es an der Zeit, die entsprechenden Teams auf die richtige Geschwindigkeit zu bringen, um [!DNL Marketo Engage] für ihre Aufträge zu nutzen.
 
-Diese internen Best Practices für Onboarding und Training wurden von Naomi Liu, einem Adobe Marketo Engage-Kunden, bereitgestellt. [Internes Onboarding](https://nation.marketo.com/t5/employee-blogs/peer-perspective-orchestrating-onboarding-across-global-teams/ba-p/244931){target="_blank} und [Best Practices für Schulungen](https://nation.marketo.com/t5/employee-blogs/peer-perspective-how-to-train-internal-users-on-marketo-engage/ba-p/245237){target="_blank} aus ihrer Erfahrung bei der Implementierung einer neuen Instanz für die globalen Teams von Imaging. Folgen Sie ihren Einblicken, um einen effektiven Trainingsplan für Ihre internen Teams zu erstellen.
+Diese internen Best Practices für Onboarding und Training wurden von Naomi Liu, einem Adobe Marketo Engage-Kunden, bereitgestellt und teilen [internes Onboarding](https://nation.marketo.com/t5/employee-blogs/peer-perspective-orchestrating-onboarding-across-global-teams/ba-p/244931){target="_blank} und [Best Practices für Schulungen](https://nation.marketo.com/t5/employee-blogs/peer-perspective-how-to-train-internal-users-on-marketo-engage/ba-p/245237){target="_blank}, die sich aus ihren Erfahrungen mit der Implementierung einer neuen Instanz für die Global Teams von Electronics for Imaging ergeben. Folgen Sie ihren Einblicken, um einen effektiven Trainingsplan für Ihre internen Teams zu erstellen.
 
 ## Warum sollten Sie einen internen Onboarding-Plan entwickeln, während Sie die neue Instanz implementieren?
 
-Als Marketo Engage-Administratoren müssen Sie sich nicht nur mit den neuen technischen Stack-Funktionen ausstatten, sondern auch die neue Technologie-Akzeptanz und -Bildung vorantreiben. Die Fähigkeit der internen Teams, in größerem Umfang zu arbeiten, hängt von der Bildung ab. Dazu müssen Sie lernen, wie Sie Schulungen für [!DNL Marketo Engage] Funktionen, die für Teammitglieder am relevantesten sein werden.
+Als Marketo Engage-Administratoren müssen Sie sich nicht nur mit den neuen technischen Stack-Funktionen ausstatten, sondern auch die neue Technologie-Akzeptanz und -Bildung vorantreiben. Die Fähigkeit der internen Teams, in größerem Umfang zu arbeiten, hängt von der Bildung ab. Dazu müssen Sie lernen, wie Sie Schulungen für [!DNL Marketo Engage]-Funktionen durchführen können, die für Teammitglieder am relevantesten sind.
 
 ## Entwicklung eines internen Onboarding-Plans
 
-### Schritt 1: Werden zu einem [!DNL Marketo Engage] Expertenwissen
+### Schritt 1: Werden eines [!DNL Marketo Engage]-Experten
 
-Als Administrator sollten Sie sich zunächst selbst in [!DNL Marketo Engage] Ressourcen, z. B. die Marketing Nation-Community und -Dokumentation. Während der Evaluierungs- und Implementierungsphasen sollten Sie diese Materialien regelmäßig lesen und untersuchen, um Ihr Know-how aufzubauen.
+Als Administrator sollten Sie sich zunächst selbst in [!DNL Marketo Engage] -Ressourcen eintauchen, z. B. in die Community für Marketing Nation und in die Dokumentation. Während der Evaluierungs- und Implementierungsphasen sollten Sie diese Materialien regelmäßig lesen und untersuchen, um Ihr Know-how aufzubauen.
 
 ### Schritt 2: Entwicklung von Teamschulungsstrategien
 
 * Wenn Sie Ihr Marketing-Operations-Team trainieren, sollten Sie erwägen, die Teilnahme an den Core Concepts 1- und 2-Kursen zu stagnieren. Stellen Sie sicher, dass Teammitglieder an verschiedenen Kursen mit verschiedenen Lehrkräften teilnehmen, um verschiedene Perspektiven und Einblicke zu gewinnen, die für die Gruppe freigegeben werden können.
-* Nutzen Sie die Tutorials von Adobe Experience League, die Ihnen kurze, einfach zu handhabende Lektionen zum Einstieg in Ihr Team bieten. [!DNL Marketo Engage] Bildung in ihrem eigenen Tempo.
+* Nutzen Sie die Tutorials von Adobe Experience League, die Ihnen einen kurzen, einfach zu verdaulichen Unterricht anbieten, damit Ihr Team seine [!DNL Marketo Engage]-Ausbildung in eigenem Tempo beginnen kann.
 * Ermutigen Sie Teammitglieder, bei wöchentlichen Teamanrufen neu erworbene Kenntnisse auszutauschen. Dadurch wird sichergestellt, dass wertvolle Einblicke in Ihr Team verteilt werden, das die Instanz effektiv verwaltet.
 
 ### Schritt 3: Entwicklung interner Schulungs-Roadshows
 
-* *Entwickeln von Schulungsmodulen:* Nachdem Sie Ihr Wissen erworben haben, konzentrieren Sie sich auf die Erstellung angepasster Schulungsmodule für Ihre Marketing-Geschäftspartner. Erstellen Sie spezifische Module, die auf verschiedene Aspekte des Marketo Engage zugeschnitten sind. Nutzen Sie dazu das unten stehende Beispiel, um Ihren Lehrplan zu organisieren.
-* *Interne Schulungs-Roadshows:* Ziehen Sie in Erwägung, eine Tour im Stile einer Roadshow zu organisieren, um Schulungen direkt an Marketing-Geschäftspartner bereitzustellen.
+* *Entwickeln von Schulungsmodulen:* Nachdem Sie Ihr Wissen erworben haben, konzentrieren Sie sich auf die Erstellung von benutzerdefinierten Schulungsmodulen für Ihre Marketing-Geschäftspartner. Erstellen Sie spezifische Module, die auf verschiedene Aspekte des Marketo Engage zugeschnitten sind. Nutzen Sie dazu das unten stehende Beispiel, um Ihren Lehrplan zu organisieren.
+* *Interne Schulungs-Roadshows:* Ziehen Sie in Erwägung, eine Roadshow-ähnliche Tour zu organisieren, um Marketinggeschäftspartnern Schulungen direkt bereitzustellen.
 * Beginnen Sie damit, alle Ihre Marketing-Geschäftspartner und ihre Verantwortlichkeiten aufzulisten und die Teams in der unten stehenden Tabelle &quot;Internal Training Roadshows&quot;für ihr jeweiliges Lernmodul einzusetzen.
 * In Zusammenarbeit mit globalen Teams entschied sich Naomi für persönliche Trainingssitzungen, maßgeschneiderte Module für die Bedürfnisse verschiedener Geschäftseinheiten und vorbereitete Decks für jedes Modul, um alle Lernsitzungen zu erleichtern.
 
 ## Beispielcurricula: Interne Schulungs-Roadshows
 
-Hier ist ein Beispiel für einen von Naomi Liu vorgeschlagenen Schulungscurriculum, den Sie für Ihre Marketing-Geschäftspartner anpassen können. Laden Sie die [Beispielschulungscurricula](assets/adobe-marketo-engage-internal-training-roadshows.xlsx){_target=&quot;blank&quot;} für Ihre Offline-Anpassung.
+Hier ist ein Beispiel für einen von Naomi Liu vorgeschlagenen Schulungscurriculum, den Sie für Ihre Marketing-Geschäftspartner anpassen können. Laden Sie den [Beispielschulungscurriculum](assets/adobe-marketo-engage-internal-training-roadshows.xlsx){_target=&quot;blank&quot;} für Ihre Offline-Anpassung herunter.
 
 | Sitzungstitel | Ziele | Ausbildungsmethoden | Zeitzuweisung |
 |--- |--- |--- |--- |
@@ -64,7 +64,7 @@ Hier ist ein Beispiel für einen von Naomi Liu vorgeschlagenen Schulungscurricul
 
 ## Wie geht es weiter?
 
-* Laden Sie die [Beispielschulungscurricula](assets/adobe-marketo-engage-internal-training-roadshows.xlsx){_target=&quot;blank&quot;} Tabelle, um Ihre internen Schulungsmodule zu entwickeln.
+* Laden Sie die Tabelle [Beispielschulungscurriculum](assets/adobe-marketo-engage-internal-training-roadshows.xlsx){_target=&quot;blank&quot;} herunter, um Ihre internen Schulungsmodule zu entwickeln.
 * Füllen Sie die Teams aus, die für das Sitzungsthema geeignet sind.
 * Wählen Sie die Methoden aus, die Sie zum Erstellen von Trainings-Materialien verwenden möchten.
 

@@ -1,6 +1,6 @@
 ---
-title: Zehn Best Practices für [!DNL Adobe] [!DNL Campaign] Erfolg für Marketing-Experten
-description: Lernen Sie die zehn Best Practices kennen, die Ihnen helfen [!DNL Adobe] [!DNL Campaign] Anwender entschließen und beschleunigen die digitale Konsumentenumwandlung und ein besseres Kundenerlebnis.
+title: Zehn Best Practices für  [!DNL Adobe] [!DNL Campaign] Erfolg für Marketing-Experten
+description: Erfahren Sie mehr über die zehn Best Practices, die [!DNL Adobe] [!DNL Campaign]-Experten beim Entsperren und Beschleunigen der digitalen Verbraucherumwandlung und einer besseren Kundenerfahrung unterstützen.
 doc-type: article
 solution: Campaign
 feature-set: Campaign
@@ -17,18 +17,18 @@ ht-degree: 77%
 
 ---
 
-# Zehn Best Practices für [!DNL [!DNL Adobe] [!DNL Campaign]] Erfolg für Marketingexperten
+# Zehn Best Practices für [!DNL [!DNL Adobe] [!DNL Campaign]]-Erfolg für Marketing-Experten
 
-Christian Klimczyk ist ein selbstbeschreibender &quot;[!DNL Adobe] Nerd&quot; mit sieben Jahren [!DNL [!DNL Adobe] Experience Cloud-Expertenwissen, hauptsächlich [!DNL] [!DNL Adobe] [!DNL Campaign]]. Als [!DNL Adobe] Platform-Inhaber für ein großes CPG-Unternehmen, Christian und sein Team verwenden [!DNL [!DNL Campaign]] für alle Mitteilungen und Interaktionen von Verbrauchern. Sie koordinieren und verwalten nahtlos die hohen gesetzlichen Anforderungen und kanalübergreifende Verbraucher-Marketing-Kampagnen für Briefpost, E-Mail und SMS/MMS.
+Christian Klimczyk ist ein selbstbeschreibender &quot;[!DNL Adobe] Nerd&quot; mit siebenjähriger [!DNL [!DNL Adobe] Experience Cloud] Expertise, hauptsächlich [!DNL [!DNL Adobe] [!DNL Campaign]]. Als [!DNL Adobe] Plattformeigentümer für ein großes CPG-Unternehmen verwenden Christian und sein Team [!DNL [!DNL Campaign]] für alle Mitteilungen und Interaktionen von Verbrauchern. Sie koordinieren und verwalten nahtlos die hohen gesetzlichen Anforderungen und kanalübergreifende Verbraucher-Marketing-Kampagnen für Briefpost, E-Mail und SMS/MMS.
 
-In diesem Artikel teilt Christian seine Best Practices mit, um [!DNL Adobe] [!DNL Campaign] Anwender entschließen und beschleunigen die digitale Konsumentenumwandlung und ein besseres Kundenerlebnis.
+In diesem Artikel teilt Christian seine Best Practices mit, um [!DNL Adobe] [!DNL Campaign] Praktizierende dabei zu unterstützen, die digitale Konsumumwandlung zu entfesseln und zu beschleunigen und ihren Kunden ein besseres Erlebnis zu bieten.
 
 
 ## 1. Einen umfassenden und kohärenten Marketing- und Versandplan erstellen
 
-Der erste Schritt, um Ihren Erfolg mit [!DNL sicherzustellen [!DNL Adobe] [!DNL Campaign]] ist es, Ihre Tools und Kundenerwartungen zu verstehen - und das gilt für jede Art von Marketing. Definieren und verstehen Sie die Kanäle, die Sie zum Kontakt mit Ihren Kundinnen und Kunden verwenden, und überlegen Sie, wann und warum Sie diese Kanäle nutzen.
+Der erste Schritt, um Ihren Erfolg mit [!DNL [!DNL Adobe] [!DNL Campaign]] sicherzustellen, besteht darin, Ihre Tools und Kundenerwartungen zu verstehen - und das gilt für jede Art von Marketing. Definieren und verstehen Sie die Kanäle, die Sie zum Kontakt mit Ihren Kundinnen und Kunden verwenden, und überlegen Sie, wann und warum Sie diese Kanäle nutzen.
 
-[!DNL Adobe] [!DNL Campaign] ist ein flexibles Tool, mit dem Sie Nachrichten auf vielfältige Weise ausführen und orchestrieren können. [Die Hälfte der Personen interagiert während jeder kaufbezogenen Journey mit drei bis fünf Kanälen](https://www.mckinsey.com/capabilities/operations/our-insights/redefine-the-omnichannel-approach-focus-on-what-truly-matters). Um das Potenzial Ihrer Plattform voll auszuschöpfen und mit Ihren Kundinnen und Kunden optimal zu kommunizieren, ist es daher von entscheidender Bedeutung, diese Kanäle im Voraus zu verstehen und zu planen.
+[!DNL Adobe] [!DNL Campaign] ist ein flexibles Tool, mit dem Sie Kommunikation auf verschiedene Arten ausführen und orchestrieren können. [Die Hälfte der Personen interagiert während jeder kaufbezogenen Journey mit drei bis fünf Kanälen](https://www.mckinsey.com/capabilities/operations/our-insights/redefine-the-omnichannel-approach-focus-on-what-truly-matters). Um das Potenzial Ihrer Plattform voll auszuschöpfen und mit Ihren Kundinnen und Kunden optimal zu kommunizieren, ist es daher von entscheidender Bedeutung, diese Kanäle im Voraus zu verstehen und zu planen.
 
 ## 2. Kundendaten dokumentieren und verstehen
 
@@ -42,7 +42,7 @@ I added that second paragraph about 760% revenue and broke up the rest of the se
 
 Gemäß einer [Hubspot-Studie](https://www.linkedin.com/pulse/customer-segmentation-effective-b2b-business-industry-sabreen) zeigten segmentierte Kampagnen 14,31 % höhere Öffnungsraten und 101 % mehr Klicks als nicht segmentierte Kampagnen. Fachleute für E-Mail-Marketing, die ihre Audience vor der Kampagne segmentiert haben, gaben an, dass der erzielte Umsatz um bis zu 760 % gestiegen ist.
 
-In [!DNL Adobe] [!DNL Campaign]können Sie die Segmentierung schnell und einfach koordinieren. Um diesen Prozess zu optimieren und zu erleichtern, müssen Kampagnenbetreiberinnen und -betreiber und Marketing-Fachkräfte jedoch über dokumentierte Kenntnisse ihrer zugrunde liegenden Daten verfügen, wenn sie eine Kampagnenerstellung und -ausführung erstellen oder anfordern. Es ist wichtig, dass Sie Ihre aktuellen Daten verstehen und wissen, wie Sie die Daten vorhersehen können, die Sie in Zusammenarbeit mit Administratoren und Entwicklern benötigen, die Ihre [!DNL] unterstützen [!DNL Campaign]] -Instanz.
+In [!DNL Adobe] [!DNL Campaign] können Sie die Segmentierung schnell und einfach orchestrieren. Um diesen Prozess zu optimieren und zu erleichtern, müssen Kampagnenbetreiberinnen und -betreiber und Marketing-Fachkräfte jedoch über dokumentierte Kenntnisse ihrer zugrunde liegenden Daten verfügen, wenn sie eine Kampagnenerstellung und -ausführung erstellen oder anfordern. Es ist wichtig, dass Sie Ihre aktuellen Daten verstehen und die Daten vorhersehen, die Sie bei der Zusammenarbeit mit Administratoren und Entwicklern benötigen, die Ihre [!DNL [!DNL Campaign]]-Instanz unterstützen.
 
 Ihre Kampagnen sind nur so gut wie die zugrunde liegenden Datenstrukturen, auf denen sie aufbauen. Das Wissen zu dieser Datenstruktur und eine entsprechende Dokumentation helfen auch bei Problemen bei der Integration von Plattformen oder beim Wechsel zu einer Verbraucherdatenplattform.
 
@@ -50,7 +50,7 @@ Ihre Kampagnen sind nur so gut wie die zugrunde liegenden Datenstrukturen, auf d
 
 Genau wie Ihre Kundinnen und Kunden haben Sie eine tägliche Routine. Der Versand und die Orchestrierung Ihrer Kampagnen sollten diesem Rhythmus entsprechen. Andernfalls können Sie Ihre Kundinnen und Kunden möglicherweise nicht erreichen, da [85 % der gesendeten E-Mails nicht geöffnet werden und 98 % keine Klickrate erhalten](https://www.validity.com/resource-center/state-of-email-2021/).
 
-Wenn Ihre Kundinnen und Kunden zum Beispiel morgens ihr Handy nach den besten Angeboten durchsuchen, sollten Sie ihnen eine Promotion schicken. Wenn sie nachts nach dem neuesten Trend suchen, sollten Sie eine Folgenachricht mit einem Promo-Code für den kostenlosen Versand versenden. Es ist auch wichtig, das Heatmap-Tool in [!DNL] zu verwenden [!DNL Campaign]], um zu verfolgen, wann Ihre Workflows und Sendungen ausgeführt werden. Die Koordination und Ausführung von Kommunikationsaktivitäten über mehrere Marken hinweg kann eine Herausforderung darstellen. [Rhythmus, Kadenz und Timing Ihrer E-Mails im Auge behalten und kennen](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic-blogs/predictive-send-time-optimization-with-adobe-campaign/ba-p/561554?profile.language=de) sind für die allgemeine Stabilität und Stärke Ihrer Nachricht von unschätzbarem Wert und [!DNL Campaign] -Instanz.
+Wenn Ihre Kundinnen und Kunden zum Beispiel morgens ihr Handy nach den besten Angeboten durchsuchen, sollten Sie ihnen eine Promotion schicken. Wenn sie nachts nach dem neuesten Trend suchen, sollten Sie eine Folgenachricht mit einem Promo-Code für den kostenlosen Versand versenden. Außerdem ist es wichtig, das Heatmap-Tool in [!DNL [!DNL Campaign]] zu verwenden, um zu verfolgen, wann Ihre Workflows und Sendungen ausgeführt werden. Die Koordination und Ausführung von Kommunikationsaktivitäten über mehrere Marken hinweg kann eine Herausforderung darstellen. [ Die Beobachtung und Kenntnis des Rhythmus, der Kadenz und des Zeitpunkts Ihrer E-Mails](https://experienceleaguecommunities.adobe.com/t5/adobe-campaign-classic-blogs/predictive-send-time-optimization-with-adobe-campaign/ba-p/561554?profile.language=de) sind für die allgemeine Stabilität und Stärke Ihrer Nachricht und der [!DNL Campaign]-Instanz von unschätzbarem Wert.
 
 ## 4. Verwenden Sie die Personalisierung, wo es wichtig ist.
 
@@ -66,7 +66,7 @@ Sie sind nur so schnell wie der nächste Versand, den Ihr Team konfigurieren kan
 
 Die Verwaltung und Pflege von Abonnementvoreinstellungen kann schnell unübersichtlich werden und verschiedene Risiken mit sich bringen. Ähnlich wie beim Versand der falschen Nachricht über einen nicht aktiv genutzten Kanal geben neun von zehn Personen an, dass sie nach einer negativen Erfahrung in Zukunft mit geringerer Wahrscheinlichkeit bei einer Marke einkaufen werden. In größerem Maßstab kann dies regulatorische und Compliance-Risiken sowie Geldbußen zur Folge haben.
 
-Verfügen über eine Strategie für die Verwaltung von Opt-ins und die Pflege dieses sich ständig weiterentwickelnden Ökosystems mithilfe von [!DNL [!DNL Adobe] [!DNL Campaign]] und anderen Marketingtechnologiewerkzeugen. Häufig ist dies eine der größten Erfolgsmetriken für Kampagnen. Eine sorgfältige Planung hat daher unschätzbare Vorteile, wenn Ihre Kampagnenstrategie wächst und sich weiterentwickelt.
+Nutzen Sie eine Strategie im Voraus für die Verwaltung von Opt-ins und die Pflege dieses sich ständig weiterentwickelnden Ökosystems mithilfe von [!DNL [!DNL Adobe] [!DNL Campaign]] und anderen Marketing-Technologie-Tools. Häufig ist dies eine der größten Erfolgsmetriken für Kampagnen. Eine sorgfältige Planung hat daher unschätzbare Vorteile, wenn Ihre Kampagnenstrategie wächst und sich weiterentwickelt.
 
 ## 7. Zustellbarkeit verstehen und planen
 
@@ -88,4 +88,4 @@ Wenn neue Dinge ausprobiert werden, funktioniert es nicht immer gleich beim erst
 
 Der Markt verändert sich weiter, und zwar mit immer schnellerer Geschwindigkeit. Wenn Sie Ihre Kampagnen-Teams ermutigen, so flexibel und agil wie möglich zu bleiben, bleiben Sie wettbewerbsfähig und können die wachsenden Kundenerwartungen weiterhin erfüllen.
 
-[35 % der Führungskräfte im Bereich Digital Marketing glauben, dass die größten Herausforderungen innerhalb ihrer Organisation auftreten](https://www.gartner.com/en/newsroom/press-releases/gartner-says-35--of-digital-marketing-leaders-believe-the-bigges). Dazu müssen Sie auf einigen Plattformen trainieren, Datenflüsse und -struktur besser verstehen oder andere [!DNL Adobe] Lösungen und erstellen Sie Notfallpläne für Kampagnen. Diese Denkweise kann in vielerlei Hinsicht erreicht werden, aber ein allgemeines Engagement für Agilität und Planung ist entscheidend für kurz- und langfristigen Erfolg.
+[35 % der Führungskräfte im Bereich Digital Marketing glauben, dass die größten Herausforderungen innerhalb ihrer Organisation auftreten](https://www.gartner.com/en/newsroom/press-releases/gartner-says-35--of-digital-marketing-leaders-believe-the-bigges). Zu diesem Zweck können Sie verschiedene Plattformen nutzen, Datenflüsse und -strukturen sowie andere [!DNL Adobe] -Lösungen besser verstehen und Notfallpläne für Kampagnen erstellen. Diese Denkweise kann in vielerlei Hinsicht erreicht werden, aber ein allgemeines Engagement für Agilität und Planung ist entscheidend für kurz- und langfristigen Erfolg.

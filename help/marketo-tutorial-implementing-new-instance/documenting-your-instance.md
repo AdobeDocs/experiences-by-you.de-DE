@@ -9,13 +9,13 @@ duration: 0
 last-substantial-update: 2024-05-08T00:00:00Z
 jira: KT-14815
 thumbnail: KT-14815.jpeg
-source-git-commit: 47ab8875bc4e41595cd40550330e43a88357b68d
+exl-id: b3dd05e1-c522-4631-a6b4-c0c6309f25d3
+source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
 workflow-type: tm+mt
 source-wordcount: '815'
 ht-degree: 0%
 
 ---
-
 
 # Erste Schritte mit der Verwaltung und Dokumentation von Instanzen
 
@@ -23,7 +23,7 @@ Eine gute Dokumentation kann fast so wichtig sein wie die eigentliche Instanzimp
 
 Aber es hört dort nicht auf. Ihr Team benötigt möglicherweise zusätzliche Unterlagen oder Schulungsmaterialien, um seine Marketo Engage-Kenntnisse zu verbessern. Zu diesen Ressourcen können interaktive Übungen, Zugriffsquizzes oder Richtlinien für zulässige Aktionen innerhalb von Marketo Engage gehören, von denen alle Marketo Engage-Benutzer in Ihrer Organisation profitieren. Ob es um die Erstellung eines umfassenden Governance-Leitfadens oder die anfängliche Dokumentation wichtiger Einrichtungsaspekte geht, die beim Onboarding getroffenen Entscheidungen aufzuzeichnen, ist entscheidend für den Erfolg mit dem Marketo Engage für Ihr aktuelles Team und zukünftige Generationen neuer Mitarbeiter.
 
-In diesem Tutorial lernen Sie die Bedeutung von Dokumentation und Governance kennen und lernen die Best Practices kennen, die von Experten/Kollegen bereitgestellt werden [Erste Schritte mit Ihrer Dokumentation zu Marketo Engage Governance und Schulungen](https://nation.marketo.com/t5/product-blogs/getting-started-on-your-marketo-governance-and-training/ba-p/242421){target="_blank} und [Wie dokumentieren Sie Ihre Instanz?](https://nation.marketo.com/t5/product-discussions/how-do-you-document-your-instance/td-p/72877){target="_blank} um Ihnen dabei zu helfen, einen Prozess einzurichten und die Dokumentation für Ihre internen Benutzer relevant zu halten.
+Indem Sie die Wichtigkeit von Dokumentation und Governance verstehen, werden in diesem Tutorial die Best Practices erläutert, die von erfahrenen Kollegen stammen: [Erste Schritte in Ihrer Marketo Engage Governance- und Schulungsdokumentation](https://nation.marketo.com/t5/product-blogs/getting-started-on-your-marketo-governance-and-training/ba-p/242421){target="_blank} und [Wie dokumentieren Sie Ihre Instanz?](https://nation.marketo.com/t5/product-discussions/how-do-you-document-your-instance/td-p/72877){target="_blank} , um Ihnen zu helfen, einen Prozess einzurichten und die Dokumentation für Ihre internen Benutzer relevant zu halten.
 
 ## Weshalb Änderungen und Entscheidungen bei der Instanzimplementierung dokumentiert werden müssen
 
@@ -73,7 +73,7 @@ Orientieren Sie Ihren Governance- und Dokumentationsplan, indem Sie mit dem folg
    * Benennungskonventionen
    * Programmorganisation
    * Programmvorlagen*
-   * Design Studio-Assets (E-Mail-Vorlagen, Landingpage-Vorlagen, Snippets, Formulare)
+   * Design Studio Assets (E-Mail-Vorlagen, Landingpage-Vorlagen, Snippets, Formulare)
    * Standardisierte Prozesse
    * Checklisten
    * Segmente
@@ -103,7 +103,7 @@ Eine weitere wichtige Methode der Instanzverwaltung besteht darin, einen Changel
 
 ## Wie geht es weiter?
 
-* Laden Sie die [Beispieldokumentation und Changelog](/help/marketo-tutorial-implementing-new-instance/assets/template-adobe-marketo-engage-instance-documentation.xlsx) und passen Sie sie an die Bedürfnisse Ihrer Organisation an.
+* Laden Sie die [Beispieldokumentation und Changelog](/help/marketo-tutorial-implementing-new-instance/assets/template-adobe-marketo-engage-instance-documentation.xlsx) herunter und passen Sie sie entsprechend den Anforderungen Ihres Unternehmens an.
 * Speichern Sie die Dokumentation auf einer zugänglichen Plattform, auf der Ihr Unternehmen regelmäßig verweisen und aktualisieren möchte. Einige Marketo Engage Champions verwenden beispielsweise Confluence (von Atlassian) oder Excel Spreadsheet.
 * Stellen Sie sicher, dass jede Regel, die Sie für die Governance machen, über einen Eigentümer verfügt, um sie durchzusetzen und die Dokumentation anzupassen, sodass sie im Laufe der Zeit auf dem neuesten Stand bleibt.
 

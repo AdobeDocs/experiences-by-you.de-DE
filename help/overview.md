@@ -15,7 +15,7 @@ ht-degree: 9%
 
 # Erlebnisse von Ihnen: Ressourcen von Benutzern für Benutzer.
 
-Die mächtigste Sache an [!DNL Adobe] Digital Experience (DX)-Lösungen? Du. Die Benutzer, die die Produkte nehmen, in sie eingraben und sie auf erstaunliche, innovative Weise anwenden, um sinnvolle Erlebnisse und Ergebnisse zu erzielen. _Erlebnisse von Ihnen_ Funktionen von Inhalten, die von täglichen Benutzern erstellt werden, die mit ihren [!DNL Adobe] DX-Lösungen. Dieses Peer-to-Peer-Wissen fördert Zusammenarbeit und Entdeckung - ermöglicht es Ihnen - und jedem anderen Benutzer - die Inspiration zu finden, die Sie benötigen, um Ihr Produktwissen zu erweitern.
+Die leistungsfähigste Sache mit [!DNL Adobe] Digital Experience (DX)-Lösungen? Du. Die Benutzer, die die Produkte nehmen, in sie eingraben und sie auf erstaunliche, innovative Weise anwenden, um sinnvolle Erlebnisse und Ergebnisse zu erzielen. _Erlebnisse von Ihnen_ enthält Inhalte, die von täglichen Benutzern erstellt werden, die mit ihren [!DNL Adobe] DX-Lösungen ein gewisses Maß an Fachwissen und Einfluss erworben haben. Dieses Peer-to-Peer-Wissen fördert Zusammenarbeit und Entdeckung - ermöglicht es Ihnen - und jedem anderen Benutzer - die Inspiration zu finden, die Sie benötigen, um Ihr Produktwissen zu erweitern.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -40,7 +40,7 @@ Die mächtigste Sache an [!DNL Adobe] Digital Experience (DX)-Lösungen? Du. Die
     </a>
     </div>
     <p>
-    <em>Tipps, die Sie in [!DNL Analysis Workspace] um Ihre Workflows effizienter zu gestalten.</em>
+    <em>Tipps, die Sie in [!DNL Analysis Workspace] verwenden können, um Ihre Workflows effizienter zu gestalten.</em>
     <p>
   </td>
   <td>
@@ -66,7 +66,7 @@ Die mächtigste Sache an [!DNL Adobe] Digital Experience (DX)-Lösungen? Du. Die
     </a>
     </div>
     <p>
-    <em>Die Onboarding-Playbook hilft Ihnen, als neuer Administrator und Entwickler für [!DNL AEM as a Cloud Service].</em>
+    <em>Die Onboarding-Playbook hilft Ihnen, als neuer Administrator und Entwickler für [!DNL AEM as a Cloud Service] die Verantwortung zu übernehmen.</em>
     <p>
   </td>
 </tr>

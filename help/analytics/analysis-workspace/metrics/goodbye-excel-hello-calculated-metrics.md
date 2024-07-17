@@ -1,6 +1,6 @@
 ---
-title: Tschüss Excel, hallo berechnete Metriken
-description: Erfahren Sie mehr über die Vorteile der Verwendung berechneter Metriken in [!DNL Adobe Analytics] und wie sie Ihnen eine kontinuierliche, dynamische Ansicht Ihrer Daten in diesem Artikel bieten können.
+title: Auf Wiedersehen Excel, Hallo berechnete Metriken
+description: In diesem Artikel erfahren Sie mehr über die Vorteile der Verwendung berechneter Metriken in [!DNL Adobe Analytics] und darüber, wie diese Ihnen eine kontinuierliche, dynamische Ansicht Ihrer Daten bieten können.
 feature-set: Analytics
 feature: Calculated Metrics
 role: User
@@ -12,20 +12,20 @@ thumbnail: KT-13178.jpeg
 exl-id: b233d6d0-2e89-473e-b700-9977b402af39
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
-source-wordcount: '1270'
-ht-degree: 1%
+source-wordcount: '1274'
+ht-degree: 0%
 
 ---
 
-# Tschüss Excel, hallo berechnete Metriken
+# Auf Wiedersehen Excel, Hallo berechnete Metriken
 
-Erfahren Sie mehr über die Vorteile der Verwendung berechneter Metriken in [!DNL Adobe Analytics] und wie sie Ihnen eine kontinuierliche, dynamische Ansicht Ihrer Daten in diesem Artikel bieten können.
+Erfahren Sie in diesem Artikel, welche Vorteile die Verwendung berechneter Metriken in [!DNL Adobe Analytics] bietet und wie Sie mit ihnen eine kontinuierliche, dynamische Ansicht Ihrer Daten erhalten können.
 
-Hallo! Warum bist du gerade in Excel? Ich meine, ich weiß, warum. Man muss berichten, um die richtigen Leute zu erreichen. Sie sind damit beschäftigt, Daten aus [!DNL Adobe Analytics] und die Berechnung von Konversionsraten, deren Erstellung in einer Grafik und Vorbereitung, sie alle in einen PowerPoint zu bringen, der sich an Entscheidungsträger richtet. Ich hoffe wirklich, dass Sie zumindest Report Builder dazu verwenden, aber ich weiß, dass einige von Ihnen Daten manuell aus Workspace kopieren und in Excel einfügen.
+He! Warum bist du gerade in Excel? Ich meine, ich weiß, warum. Man muss berichten, um die richtigen Leute zu erreichen. Sie sind damit beschäftigt, Daten aus [!DNL Adobe Analytics] einzugeben, Konversionsraten zu berechnen, sie zu kartieren und darauf vorzubereiten, sie alle in einen PowerPoint zu bringen, der sich an Entscheidungsträger richtet. Ich hoffe wirklich, dass Sie zumindest Report Builder dazu verwenden, aber ich weiß, dass einige von Ihnen Daten manuell aus einer Workspace in Excel kopieren und einfügen.
 
 Warum?
 
-Warum jeden Monat einen manuellen Prozess durchlaufen? Warum wird eine statische Ansicht einmal im Monat anstatt einer kontinuierlichen, dynamischen Ansicht angezeigt? Warum kopieren Sie das in PowerPoint? Warum erstellen Sie keine berechneten Metriken in [!DNL Adobe Analytics] direkt?
+Warum jeden Monat einen manuellen Prozess durchlaufen? Warum wird eine statische Ansicht einmal im Monat anstatt einer kontinuierlichen, dynamischen Ansicht angezeigt? Warum kopieren Sie das in PowerPoint? Warum werden berechnete Metriken nicht direkt in [!DNL Adobe Analytics] erstellt?
 
 ## Berechnete Metriken sind leistungsstark
 
@@ -33,13 +33,13 @@ Berechnete Metriken sind leistungsstark, aber selbst die grundlegenden mathemati
 
 1. **Berechnete Metriken sind aktuell und dynamisch**
 
-   Beim Exportieren von Zahlen aus [!DNL Adobe Analytics], sind sie zu einem bestimmten Zeitpunkt gesperrt. Sie müssen unbedingt wissen, wie Ihre Site oder App im Vormonat abgeschnitten hat, aber wie können Entscheidungsträger verfolgen, wie die Dinge mitten im Monat verlaufen? Wenn Ihre Konversionsrate einen Tag fällt und dann am Ende des Monats wieder zum Mittelwert zurückkehrt, wissen Sie das? Dieser Rückgang könnte wertvolle Daten sein, die ein wichtiges Telemeterieproblem aufzeigen oder noch wichtiger eine Änderung des Besucherverhaltens. Mit einer berechneten Metrik können Sie dies grafisch darstellen und am Tag des Auftretens anzeigen, sodass Sie bereit sind, zu reagieren.
+   Wenn Sie Zahlen aus [!DNL Adobe Analytics] exportieren, sind sie zu einem bestimmten Zeitpunkt gesperrt. Sie müssen unbedingt wissen, wie Ihre Site oder App im Vormonat abgeschnitten hat, aber wie können Entscheidungsträger verfolgen, wie die Dinge mitten im Monat verlaufen? Wenn Ihre Konversionsrate einen Tag fällt und dann am Ende des Monats wieder zum Mittelwert zurückkehrt, wissen Sie das? Dieser Rückgang könnte wertvolle Daten sein, die ein wichtiges Telemeterieproblem aufzeigen oder noch wichtiger eine Änderung des Besucherverhaltens. Mit einer berechneten Metrik können Sie dies grafisch darstellen und am Tag des Auftretens anzeigen, sodass Sie bereit sind, zu reagieren.
 
 1. **Berechnete Metriken sparen Ihnen Zeit**
 
    Ich war dort. Kopieren/Einfügen. Geben Sie die Formel ein oder ziehen Sie die Zelle darüber nach unten. Klicken Sie auf die Grafik und ändern Sie den Bereich, sodass Sie die letzten zwölf oder dreizehn Monate haben. Kopieren Sie nun das Diagramm. Jetzt mach es noch einmal. Und wieder. Und wieder. Senden Sie den PowerPoint. Es ist mühsam und zeitaufwendig, und es fühlt sich an, als müsste man es jeden Monat für immer tun.
 
-   Stattdessen können Sie einen Arbeitsbereich erstellen, der Ihre berechnete Metrik verwendet, die letzten Zwölf oder dreizehn vollen Monate als Datumsbereich verwendet und die Daten und das Diagramm am ersten Tag jedes Monats um Mitternacht automatisch aktualisiert. Die Empfänger können direkten Zugriff auf den Arbeitsbereich haben. Sie können eine PDF-Kopie automatisch per E-Mail an den ersten Tag des Monats oder nach der Verwendung von Textvisualisierungen erhalten lassen, um Ihren Kommentar zu den Daten hinzuzufügen (wissen Sie, der lustige Teil der Berichterstellung).
+   Stattdessen können Sie eine Workspace erstellen, die Ihre berechnete Metrik verwendet, die letzten Zwölf oder dreizehn vollen Monate als Datumsbereich verwenden und die Daten und das Diagramm am ersten Tag jedes Monats um Mitternacht automatisch aktualisieren lassen. Die Empfänger können direkt auf die Workspace zugreifen. Sie können eine PDF-Kopie automatisch per E-Mail an den ersten Tag des Monats oder nach der Verwendung von Textvisualisierungen erhalten lassen, um Ihren Kommentar zu den Daten hinzuzufügen (wissen Sie, der lustige Teil der Berichterstellung).
 
 1. **Berechnete Metriken können auf große Datenmengen angewendet werden**
 
@@ -51,7 +51,7 @@ Berechnete Metriken sind leistungsstark, aber selbst die grundlegenden mathemati
 
 ### Nachdem wir nun über die Vorteile der Verwendung berechneter Metriken hinausgegangen sind, sehen wir uns an, wie wir sie in die Praxis umsetzen können.
 
-**Anwendungsfall 1: Konversionsraten**
+**Nutzungsszenario 1: Konversionsraten**
 
 Die meisten Konversionsraten sind nur eine einfache Division. Teilen Sie die Anzahl der Konversionen durch die Anzahl der Besucher oder Besuche auf. Teilen Sie die Anzahl der Seitenansichten für die letzte Seite eines Trichters durch die Anzahl der Seitenansichten für die erste Seite eines Trichters. Teilen Sie die Anzahl der internen Kampagnen-Clickthroughs durch die Anzahl der Impressionen auf. All diese Funktionen lassen sich einfach als berechnete Metriken durchführen und in ein Dashboard platzieren, das eine niedrige Datenlatenz, eine Aktualisierung der Visualisierungen und eine bessere Freigabe aufweist.
 
@@ -75,10 +75,10 @@ Ich hoffe, dass Ihnen dies einige der Möglichkeiten gezeigt hat, grundlegende m
 
 ## Autor
 
-Dieses Dokument wurde verfasst von:
+Dieses Dokument wurde geschrieben von:
 
 ![Gittai-Headshot](assets/gittai.png)
 
-**Gitai Ben-Ammi**, Principal Consultant bei Concentrix Catalyst
+**Gitai Ben-Ammi**, Hauptberater bei Concentrix Catalyst
 
 [!DNL Adobe Analytics] Champion

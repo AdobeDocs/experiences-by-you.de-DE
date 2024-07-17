@@ -26,25 +26,29 @@ ht-degree: 1%
 
 ![Natalie Kremer](/help/marketo-tutorial-implementing-new-instance/assets/natalie-kremer.png){width="150"}
 
-**Natalie Kremer**, Senior Manager, Consulting Services, Etumos Adobe Marketo Engage Champion (2019-2020)
+**Natalie Kremer**, Senior Manager, Consulting Services, usw.
+Adobe Marketo Engage Champion (2019-2020)
 
 ## Christina Zuniga {#christina-zuniga}
 
 ![Christina Zuniga](/help/marketo-tutorial-implementing-new-instance/assets/christina-zuniga.png){width="150"}
 
-**Christina Zuniga**, Marketing Operations Manager, Adobe Marketo Engage Champion verwenden (2017, 2018, 2020, 2021)
+**Christina Zuniga**, Marketing Operations Manager, Beschäftigung
+Adobe Marketo Engage Champion (2017, 2018, 2020, 2021)
 
 ## Katja Keesom {#katja-keesom}
 
 ![Katja Keesom](/help/marketo-tutorial-implementing-new-instance/assets/katja-keesom.png){width="150"}
 
-**Katja Keesom**, Principal B2B Marketing Automation Consultant, Chapman Bright Adobe Marketo Engage Champion (2023)
+**Katja Keesom**, Principal B2B Marketing Automation Consultant, Chapman Bright
+Adobe Marketo Engage Champion (2023)
 
 ## Juliz James {#julz-james}
 
-![Juliz James](/help/marketo-tutorial-implementing-new-instance/assets/julz-james.png){width="150"}
+![July James](/help/marketo-tutorial-implementing-new-instance/assets/julz-james.png){width="150"}
 
-**Juliz James**, Sr Marketing Operations Manager, 6sense Adobe Marketo Engage Champion (2015)
+**July James**, SR Marketing Operations Manager, 6sense
+Adobe Marketo Engage Champion (2015)
 
 ## Peter Livadas {#peter-livadas}
 

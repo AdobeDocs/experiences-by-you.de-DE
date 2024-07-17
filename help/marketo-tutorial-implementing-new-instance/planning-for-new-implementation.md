@@ -9,13 +9,13 @@ duration: 0
 last: substantial-update- 2024-05-01
 jira: KT-14808
 thumbnail: KT-14808.jpeg
-source-git-commit: 47ab8875bc4e41595cd40550330e43a88357b68d
+exl-id: 65119abd-6f13-4acc-9e99-09843369ad28
+source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
 workflow-type: tm+mt
 source-wordcount: '1098'
 ht-degree: 5%
 
 ---
-
 
 # Planen einer neuen Marketo Engage-Implementierung
 
@@ -38,8 +38,8 @@ In diesem Tutorial werden wir die spezifischen Meilensteine, Teaminteraktionen u
 
 ### Phase 3: Erstellung und Einrichtung von Programmbibliotheken und Kampagnen
 
-- Entwicklung von E-Mail-Vorlagen und Landingpages. Einstieg in [Importieren von Startprogrammen](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program) aus dem [Programmimportbibliothek](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview).
-- Einrichten von Segmentierungs- und Personalisierungsregeln
+- Entwicklung von E-Mail-Vorlagen und Landingpages. Beginnend mit [Importieren von Startprogrammen](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program) aus der [Programm-Importbibliothek](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview).
+- Einrichten von Segmentierungs- und Personalization-Regeln
 - Erstellen von anfänglichen Kampagnen für die Lead-Generierung und -Pflege
 
 ### Phase 4: Schulung und Benutzerakzeptanz
@@ -134,7 +134,7 @@ Marketo Engage Champion (2019), Kyle McCormick, über seine Onboarding- und Impl
 
 Erstellen Sie einen neuen Implementierungsprojektplan und einen neuen Zeitplan. Im Folgenden finden Sie ein Beispiel für eine Projekt-Timeline mit Abschnitten zu Beispiel-Meilensteinen, Aufgaben, verantwortlichen Teams, Terminen und Abhängigkeiten. Verwenden Sie sie, um Ihre Marketo Engage-Implementierungs-Journey zu optimieren und einen erfolgreichen Rollout im gesamten Unternehmen sicherzustellen.
 
-Sie können das Beispiel auch zum Bearbeiten und Verfolgen bestimmter Meilensteinaufgaben herunterladen [HIER](/help/marketo-tutorial-implementing-new-instance/assets/adobe-marketo-engage-implementation-milestones-project-management-template.xlsx).
+Sie können das Beispiel auch zum Bearbeiten und Verfolgen bestimmter Meilensteinaufgaben [HERE](/help/marketo-tutorial-implementing-new-instance/assets/adobe-marketo-engage-implementation-milestones-project-management-template.xlsx) herunterladen.
 
 <table>
  <thead>
@@ -165,7 +165,7 @@ Sie können das Beispiel auch zum Bearbeiten und Verfolgen bestimmter Meilenstei
         <td>Web-Entwicklungsteam</td>
     </tr>
     <tr>
-        <td><em>BEISPIEL -</em> Richten Sie Domain Keys Identified Mail (DKIM) und 2 separate CNAMEs für Zustellbarkeit und E-Mail-Tracking-Links ein.</td>
+        <td><em>BEISPIEL -</em> Einrichten von Domain Keys Identified Mail (DKIM) und zwei separaten CNAMEs für Zustellbarkeit und E-Mail-Tracking-Links.</td>
         <td bgcolor="c6f0cf">Abgeschlossen</td>
         <td>15.09.24</td>
         <td>18.09.24</td>
@@ -194,7 +194,7 @@ Sie können das Beispiel auch zum Bearbeiten und Verfolgen bestimmter Meilenstei
         <td>Informationen vom Marketing-Operations-Team zur Bestätigung der Hauptkontakte für den Support. Unterstützung durch den Systemadministrator zur Zuweisung von Supportadministratoren.</td>
     </tr>
     <tr>
-        <td><em>BEISPIEL -</em> Definieren der Ordnerstruktur und Benennungskonventionen</td>
+        <td><em>BEISPIEL -</em> Ordnerstruktur und Benennungskonventionen definieren</td>
         <td bgcolor="c6f0cf">Abgeschlossen</td>
         <td>07.09.24</td>
         <td>12.09.24</td>
@@ -202,14 +202,14 @@ Sie können das Beispiel auch zum Bearbeiten und Verfolgen bestimmter Meilenstei
     </tr>
     <tr>
         <td rowspan="2">CRM-Integration (falls zutreffend)</td>
-        <td><em>BEISPIEL -</em> Bestimmen der Feldzuordnung vor der Synchronisierung</td>
+        <td><em>BEISPIEL -</em> Bestimmen Sie die Feldzuordnung vor der Synchronisierung</td>
         <td bgcolor="ffeb9c">Bearbeitung läuft</td>
         <td>22.10.24</td>
         <td>K. A.</td>
         <td>Unterstützung durch den CRM-Administrator zum Verständnis der verfügbaren Felder.</td>
     </tr>
     <tr>
-        <td><em>BEISPIEL -</em> Durchführen einer Datenprüfung</td>
+        <td><em>BEISPIEL -</em> Führen Sie eine Datenprüfung durch</td>
         <td bgcolor="ffeb9c">Bearbeitung läuft</td>
         <td>26.10.24</td>
         <td>K. A.</td>
@@ -217,7 +217,7 @@ Sie können das Beispiel auch zum Bearbeiten und Verfolgen bestimmter Meilenstei
     </tr>
     <tr>
         <td rowspan="2">Aufbau des operationellen Programms</td>
-        <td><em>BEISPIEL -</em> Erstellen eines Programms zur Standardisierung eingehender Daten</td>
+        <td><em>BEISPIEL -</em> Programm zur Standardisierung eingehender Daten erstellen</td>
         <td bgcolor="ffc7cf">Nicht gestartet</td>
         <td>09.11.24</td>
         <td>K. A.</td>
@@ -246,7 +246,7 @@ Sie können das Beispiel auch zum Bearbeiten und Verfolgen bestimmter Meilenstei
     </tr>
     <tr>
         <td rowspan="2">Einrichtung der LaunchPoint-Integration</td>
-        <td><em>BEISPIEL -</em> Benutzer und Rolle nur für API erstellen</td>
+        <td><em>BEISPIEL -</em> Nur Benutzer und Rolle für API erstellen</td>
         <td bgcolor="ffc7cf">Nicht gestartet</td>
         <td>23.11.24</td>
         <td>   </td>
@@ -262,7 +262,7 @@ Sie können das Beispiel auch zum Bearbeiten und Verfolgen bestimmter Meilenstei
     </tr>
     <tr>
         <td rowspan="2">Benutzerschulung und Dokumentation</td>
-        <td><em>BEISPIEL -</em> Erstellen eines Governance-Handbuchs für interne Benutzer</td>
+        <td><em>BEISPIEL -</em> Erstellen Sie ein Governance-Handbuch für interne Benutzer</td>
         <td bgcolor="ffc7cf">Nicht gestartet</td>
         <td>2.12.24</td>
         <td>K. A.</td>
@@ -275,7 +275,7 @@ Sie können das Beispiel auch zum Bearbeiten und Verfolgen bestimmter Meilenstei
         <td>Unterstützung des VP of Marketing, um Schulungen für den Zugang zu Marketo Engage erforderlich zu machen.</td>
     <tr>
         <td rowspan="2">Live-Schaltung</td>
-        <td><em>BEISPIEL -</em> Versand des ersten Newsletters</td>
+        <td><em>BEISPIEL -</em> ersten Newsletter senden</td>
         <td bgcolor="ffc7cf">Nicht gestartet</td>
         <td>09.12.24</td>
         <td>K. A.</td>
@@ -294,7 +294,7 @@ Sie können das Beispiel auch zum Bearbeiten und Verfolgen bestimmter Meilenstei
 >[!NOTE]
 >Die angegebenen Beispiele basieren nicht auf einem echten Implementierungszeitrahmen. Verlassen Sie sich nicht auf diese als Standard-Timeline für Ihr Onboarding mit Marketo Engage, da jede Implementierung je nach den Anforderungen Ihres Unternehmens unterschiedlich mit Meilensteinen und Anforderungen ist.
 
-Wenden Sie sich an das Adobe-Account-Team, um Hilfe bei der Implementierung und Anpassung Ihrer Marketo Engage für Ihre Instanz zu erhalten, oder wenden Sie sich an [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
+Wenden Sie sich an das Adobe-Account-Team oder an [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}, um Hilfe bei der Implementierung und Anpassung Ihrer Marketo Engage für Ihre Instanz zu erhalten.
 
 ### Autor
 

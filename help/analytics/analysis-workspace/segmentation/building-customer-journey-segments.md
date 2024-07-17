@@ -1,6 +1,6 @@
 ---
-title: Erstellen von Customer Journey-Segmenten
-description: Erfahren Sie, wie Sie verhaltensbasierte Journey-Segmente für Kunden erstellen in [!DNL Adobe Analytics] und verbessern Sie die Kundenerfahrung mit [!DNL Adobe] Experience Cloud, indem Sie diese schrittweise Anleitung befolgen.
+title: Erstellen von Journey-Segmenten für Kunden
+description: Erfahren Sie, wie Sie verhaltensbasierte Kundensegmente in [!DNL Adobe Analytics] erstellen und das Kundenerlebnis mit [!DNL Adobe] Experience Cloud verbessern können, indem Sie diese schrittweise Anleitung befolgen.
 feature-set: Analytics
 feature: Segmentation
 role: User
@@ -12,20 +12,20 @@ thumbnail: KT-13180.jpeg
 exl-id: 34f42d7e-e849-420e-9b3d-f3dcc1882b23
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
-source-wordcount: '1217'
-ht-degree: 1%
+source-wordcount: '1224'
+ht-degree: 0%
 
 ---
 
-# Erstellen von Customer Journey-Segmenten
+# Erstellen von Journey-Segmenten für Kunden
 
-Erfahren Sie, wie Sie verhaltensbasierte Journey-Segmente für Kunden erstellen in [!DNL Adobe Analytics] und verbessern Sie die Kundenerfahrung mit [!DNL Adobe] Experience Cloud, indem Sie diese schrittweise Anleitung befolgen.
+Erfahren Sie, wie Sie verhaltensbasierte Kundensegmente in [!DNL Adobe Analytics] erstellen und das Kundenerlebnis mit [!DNL Adobe]-Experience Cloud verbessern können, indem Sie diese schrittweise Anleitung befolgen.
 
-Erstellen wir bessere Journey-Segmente für Kunden! In dieser Reihe werden wir [!DNL Adobe Analytics] um verhaltensbasierte Segmente zu definieren, Zielgruppengrößen zu schätzen und Benutzerbewegungen zu verfolgen. Am Ende können Sie Medien personalisieren und das Kundenerlebnis mit [!DNL Adobe] Experience Cloud. Beachten Sie, dass diese Segmente aktuell sind und aktualisiert werden sollten, wenn Sie mehr über Ihre Kunden erfahren. Auch wenn die Berichterstellung einige Herausforderungen darstellen kann, machen Sie sich keine Sorgen, ich werde Sie durch sie führen! Beginnen wir mit der Erstellung unseres ersten Segments für Customer Journey, beginnend mit dem Segment &quot;One Hit Wonders&quot;.
+Erstellen wir bessere Journey-Segmente für Kunden! In dieser Reihe verwenden wir [!DNL Adobe Analytics], um verhaltensbasierte Segmente zu definieren, Zielgruppengrößen zu schätzen und Benutzerbewegungen zu verfolgen. Am Ende können Sie Medien personalisieren und das Kundenerlebnis mit [!DNL Adobe] Experience Cloud verbessern. Beachten Sie, dass diese Segmente aktuell sind und aktualisiert werden sollten, wenn Sie mehr über Ihre Kunden erfahren. Auch wenn die Berichterstellung einige Herausforderungen darstellen kann, machen Sie sich keine Sorgen, ich werde Sie durch sie führen! Beginnen wir mit der Erstellung unseres ersten Segments für Customer Journey, beginnend mit dem Segment &quot;One Hit Wonders&quot;.
 
-Heute erstellen wir Platzhalter für unsere ersten Kundensegmente, erstellen eine [!DNL Adobe Analytics] Workspace , um uns bei der Definition unserer Segmente zu unterstützen und unser allererstes Segment &quot;One Hit Wonders&quot;zu definieren.
+Heute erstellen wir Platzhalter für unsere ersten Kundensegmente, erstellen eine [!DNL Adobe Analytics] Workspace, um uns bei der Definition unserer Journey zu unterstützen, und definieren unser erstes Segment &quot;One Hit Wonders&quot;.
 
-Am Ende dieser Reihe können Sie Journey-Segmente für Kunden in [!DNL Adobe Analytics] basierend auf Verhaltenssignalen. Sie können die Größe der einzelnen Zielgruppen in jeder Phase des Journey schätzen und verstehen, mit welcher Rate Benutzer zwischen diesen Phasen wechseln. Und Sie können diese Kunden-Journey-Audiences in [!DNL Adobe] Experience Cloud zur Aktivierung von Personalisierung und Medien-Targeting.
+Am Ende dieser Serie können Sie Kundensegmente in [!DNL Adobe Analytics] erstellen, die auf Verhaltenssignalen basieren. Sie können die Größe der einzelnen Zielgruppen in jeder Phase des Journey schätzen und verstehen, mit welcher Rate Benutzer zwischen diesen Phasen wechseln. Außerdem können Sie diese Journey-Zielgruppen für Kunden in [!DNL Adobe] Experience Cloud exportieren, um Personalisierung und Medien-Targeting zu ermöglichen.
 
 Jedes Unternehmen ist anders, was bedeutet, dass Ihre Journey-Segmente Ihrer Kunden anders aussehen als meine. Anstatt spezifische Formeln für Ihre Segmente zu formulieren, sollten Sie daher einige Dinge vorschlagen, die Sie untersuchen sollten, und einen allgemeinen Prozess für deren Erstellung.
 
@@ -41,19 +41,19 @@ Zu meinen anfänglichen Segmenten für den Besuchsabsichten gehörten:
 
 * One Hit Wonders
 * Bewusstsein
-* Übertragung
+* Betrachtung
 * Buchung (Kauf)
 * Bindung (Buchung/Kauf verwalten)
 
 Damit meine Segmente für den Besuchsabsichten einfach zu verwenden sind, habe ich meinen Segmentnamen den Präfix &quot;Intent:&quot;, gab ihnen eine Nummer, um die Sortierung zu ermöglichen, und habe sie mit &quot;Intent&quot;getaggt. Meine Segmente sahen wie das folgende Bild aus.
 
-![Intent-Segmente](assets/intent-segments.png)
+![Intent segments](assets/intent-segments.png)
 
 **Erstellen Sie zunächst Ihre Besuchsabsichten-Segmente mithilfe des Besuchsbehälters mit einer Platzhalterdefinition für Seitenansichten >= 1.**
 
 Wie wir sehen werden, ist der Aufbau dieser Segmente ein iterativer und vernetzter Prozess. Ich werde den Prozess der Erstellung dieser Segmente in einem zukünftigen Beitrag beschreiben.
 
-## Der Arbeitsbereich für die Segmentdatenqualität des Besuchsintents
+## Die Segmentdatenqualität Workspace für Besuchsabsichten
 
 ![Arbeitsbereich für Besuchsabsichten](assets/visit-intent-workspace.png)
 
@@ -93,15 +93,15 @@ Mein erstes Segment, &quot;One Hit Wonders&quot;, war einfach zu definieren. Es 
 
 ![Segmentdefinition](assets/segment-def.png)
 
-Nachdem Sie dieses Segment definiert haben, sehen Sie, wie sich Ihr Arbeitsbereich für Besuchsabsichten gestaltet.
+Nachdem Sie dieses Segment definiert haben, sehen Sie, wie Ihr Besuchsabsichten-Workspace Gestalt annimmt.
 
 ![Mehr Segmentdefinitionen](assets/more-segment-defs.png)
 
-Erstellen von Journey-Segmenten mithilfe von [!DNL Adobe Analytics] ist ein anspruchsvoller, aber lohnender Prozess. Durch die Erstellung verhaltensbasierter Segmente, die Schätzung der Zielgruppengrößen und die Verfolgung von Benutzerbewegungen können Unternehmen Medien personalisieren und das Kundenerlebnis verbessern. Jedes Unternehmen ist einzigartig, und es gibt keine spezifischen Formeln zum Erstellen von Segmenten, sondern Richtlinien und einen Prozess, der befolgt werden muss. Segmente sollten aktualisiert werden, wenn Unternehmen mehr über ihre Kunden erfahren, was Berichterstellungsprobleme mit sich bringt. Indem Unternehmen dem Prozess der Erstellung von Besuchsabsichten-Segmenten folgen, können sie das Kundenerlebnis insgesamt verbessern.
+Die Erstellung von Kundensegmenten mit [!DNL Adobe Analytics] ist ein anspruchsvoller, aber lohnender Prozess. Durch die Erstellung verhaltensbasierter Segmente, die Schätzung der Zielgruppengrößen und die Verfolgung von Benutzerbewegungen können Unternehmen Medien personalisieren und das Kundenerlebnis verbessern. Jedes Unternehmen ist einzigartig, und es gibt keine spezifischen Formeln zum Erstellen von Segmenten, sondern Richtlinien und einen Prozess, der befolgt werden muss. Segmente sollten aktualisiert werden, wenn Unternehmen mehr über ihre Kunden erfahren, was Berichterstellungsprobleme mit sich bringt. Indem Unternehmen dem Prozess der Erstellung von Besuchsabsichten-Segmenten folgen, können sie das Kundenerlebnis insgesamt verbessern.
 
 ## Autor
 
-Dieses Dokument wurde verfasst von:
+Dieses Dokument wurde geschrieben von:
 
 ![Aaron Fossum](assets/aaron-headshot.png)
 

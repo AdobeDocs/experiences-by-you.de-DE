@@ -26,7 +26,7 @@ In diesem Tutorial werden der Denkprozess und die wichtigsten Anwendungsfälle e
 
 Besucher durchsuchen Ihre Website aus einem Grund. Möglicherweise suchen sie Inhalte zu Ihren Produkten oder Dienstleistungen oder suchen nach Kontaktinformationen, um mit Ihren Vertriebsmitarbeitern zu sprechen. Sie können auch Ihre Kunden sein, die nach zusätzlichen Produktinformationen suchen. Chat ermöglicht es Besuchern Ihrer Website, sich selbst zu versorgen und sich selbst zu qualifizieren, wenn sie bereit sind, mit Ihrem Verkaufsteam zu sprechen.
 
-Als Sara Barriuso Dynamic Chat implementierte, wurde sie von seiner nahtlosen Integration in Marketo Engage und [vordefinierte Aktivitäts-Trigger](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities){target="_blank"} die Marketo Engage-Programme aktivieren und umgekehrt. Sie entwickelte ihre Konversationsstrategien mit Blick auf drei Zielgruppensegmente:
+Als Sara Barriuso Dynamic Chat implementierte, wurde sie von seiner nahtlosen Integration in Marketo Engage und den [vordefinierten Aktivitäts-Triggern](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities){target="_blank"} gezeichnet, die Marketo Engage-Programme aktivieren und umgekehrt. Sie entwickelte ihre Konversationsstrategien mit Blick auf drei Zielgruppensegmente:
 
 1. Unbekannte potenzielle Kunden: proaktiv Demoaufrufe anbieten, um neue Leads zu generieren.
 2. Bekannte Leads/Kunden: Verkürzen Sie die Besuchszeit für das Durchsuchen von Inhalten und bieten Sie Demoaufrufe an, um Upsell- und Crosssell-Möglichkeiten zu generieren.
@@ -65,7 +65,7 @@ Dieses Dialogfeld bietet fünf Optionen, aus denen Site-Besucher auswählen kön
 
 1. Fügen Sie in &quot;Zielgruppe&quot;eine Web-Seiten-URL in &quot;Target&quot;hinzu, um anzugeben, wo das Dialogfeld angezeigt wird.
 2. Fügen Sie unter &quot;Einstellungen&quot;den Kampagnennamen, die Beschreibung, die Priorität und die Sprache hinzu.
-3. Klicken Sie auf &quot;Veröffentlichen&quot;
+3. Klicken Sie auf Publish .
 
 >[!TAB Marketo Engage]
 
@@ -93,12 +93,12 @@ Sie können das standardmäßige &quot;Catch-all&quot;-Dialogfeld weiter verbess
 >[!TAB Dynamic Chat]
 
 1. Klonen Sie das &quot;Standarddialogfeld&quot;und benennen Sie es um.
-2. Passen Sie in &quot;Stream Designer&quot;Dialogfeldnachrichten an die Zielbranche an (nur ein Stream und die erste Frage).
+2. Passen Sie in &quot;Stream Designer&quot;Dialognachrichten an die Zielbranche an (nur ein Stream und die erste Frage).
 3. Lassen Sie 2-3 Personen das Dialogfeld testen und Feedback sammeln.
 4. Erstellen Sie einen Test-Link und geben Sie ihn frei.
 5. Fügen Sie in &quot;Zielgruppe&quot;eine Web-Seiten-URL hinzu, in der das Dialogfeld angezeigt wird, und aktualisieren Sie das Ziel für die Branche, die Sie möchten.
 6. Fügen Sie unter &quot;Einstellungen&quot;den Kampagnennamen, die Beschreibungspriorität und die Sprache hinzu.
-7. Klicken Sie auf &quot;Veröffentlichen&quot;.
+7. Klicken Sie auf Publish.
 
 >[!TAB Marketo Engage]
 
@@ -126,7 +126,7 @@ Veranstaltungen und Webinare sind beliebte Marketingtaktiken für B2B-Unternehme
 1. Klonen Sie die Vorlage.
 2. Kopieren und Einfügen von Text in die Dialogfeldmeldung für ein neues Ereignis
 3. Aktualisieren Sie die in Ihrem Ereignislink verwendeten UTM-Parameter (z. B. utm_medium=website&amp;utm_source=adobe).
-4. Erstellen Sie einen Test-Link, klicken Sie auf &quot;Veröffentlichen&quot;und geben Sie ihn für den Anforderer frei.
+4. Erstellen Sie einen Testlink, klicken Sie auf &quot;Publish&quot;und geben Sie ihn für den Anforderer frei.
 5. Peer Review und Feedback anwenden.
 
 
@@ -157,11 +157,11 @@ Sie können Website-Besuchern ein noch besseres Erlebnis bieten, indem Sie sie f
 >[!TAB Dynamic Chat]
 
 1. Klonen Sie das Dialogfeld für die Veranstaltung/Webinar-Promotion.
-2. Fügen Sie in Stream Designer, nachdem der Benutzer &quot;Ja&quot; beantwortet, eine Fragenkarte hinzu: &quot;Sie haben Ihre E-Mail-Adresse bereits mit uns geteilt. Möchten Sie dies für die Ereignisdetails beibehalten?&quot;
+2. Fügen Sie in Stream Designer, nachdem der Benutzer &quot;Ja&quot;beantwortet hat, eine Fragenkarte hinzu: &quot;Sie haben Ihre E-Mail-Adresse bereits mit uns geteilt. Möchten Sie dies für die Ereignisdetails beibehalten?&quot;
 3. Wenn sie auf &quot;Ja&quot; antworten, fügen Sie eine Nachrichtenkarte hinzu: &quot;Sie erhalten eine Bestätigungs-E-Mail mit den Details zum Ereignis/Webinar in Ihrer E-Mail&quot;.
 4. Wenn sie auf &quot;Nein&quot; antworten, fügen Sie eine Nachrichtenkarte hinzu: &quot;Bitte füllen Sie das Formular auf der Registrierungsseite aus&quot;.
-5. Erstellen Sie einen Test-Link, klicken Sie auf &quot;Veröffentlichen&quot;und geben Sie ihn für den Anforderer frei.
-6. Fügen Sie auf der Registerkarte Zielgruppe hinzu. [email ist nicht leer].
+5. Erstellen Sie einen Testlink, klicken Sie auf &quot;Publish&quot;und geben Sie ihn für den Anforderer frei.
+6. Fügen Sie auf der Registerkarte &quot;Zielgruppe&quot;den Eintrag [E-Mail ist nicht leer] hinzu.
 
 >[!TAB Marketo Engage]
 
@@ -193,7 +193,7 @@ Erweiterung der Interaktion mit Campaign-Inhalten - Konfiguration:
 
 ## Wie geht es weiter?
 
-* Verfolgen Sie Ihren Gesprächsfluss in [Stream-Designer](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer){target="_blank"} oder ein Flussdiagramm offline.
+* Ordnen Sie Ihren Dialogfluss in [Stream Designer](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer){target="_blank"} oder einem Flussdiagramm offline zu.
 * Erstellen Sie ein standardmäßiges &quot;catch-all&quot;-Dialogfeld im Dynamic Chat.
 * Aktivieren Sie die Interaktion der Konversationen nach der Kampagne, indem Sie Automatisierungs-Trigger in Marketo Engage verwenden.
 

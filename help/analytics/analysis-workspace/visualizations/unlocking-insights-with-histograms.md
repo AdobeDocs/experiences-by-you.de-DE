@@ -1,6 +1,6 @@
 ---
-title: Einblicke mit Histogrammen erschließen; über Mittelwerte hinaus in [!DNL Analytics]
-description: Entdecken Sie die Auswirkungen von Histogrammen in der Analyse für Erkenntnisse, die über Durchschnittswerte hinausgehen.
+title: Einblicke mit Histogrammen erschließen; über die Durchschnittswerte in [!DNL Analytics] hinaus
+description: Entdecken Sie die Auswirkungen von Histogrammen in der Analyse auf Einblicke über Durchschnittswerte hinaus.
 feature-set: Analytics
 feature: Visualizations
 role: User
@@ -12,16 +12,16 @@ thumbnail: KT-13833.jpeg
 exl-id: 46a9dab2-17f8-435e-949c-45d4a60343f0
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
-source-wordcount: '1082'
-ht-degree: 5%
+source-wordcount: '1091'
+ht-degree: 0%
 
 ---
 
-# Erschließen von Erkenntnissen mit Histogrammen: über Durchschnittswerte in hinaus[!DNL Analytics]
+# Einblicke mit Histogrammen erschließen: über Durchschnittswerte in [!DNL Analytics] hinaus
 
-_Entdecken Sie die Auswirkungen von Histogrammen in der Analyse für Erkenntnisse, die über Durchschnittswerte hinausgehen. Histogramme zeigen Datenmuster im Kundenverhalten, in der Besucherinteraktion, in der technischen Leistung und Formularfehlern auf und ermöglichen so tiefere Einblicke und fundierte Entscheidungen in [!DNL Adobe] Arbeitsbereich._
+_Entdecken Sie die Auswirkungen von Histogrammen in Analysen auf Erkenntnisse über Durchschnittswerte hinaus. Histogramme zeigen Datenmuster im Kundenverhalten, in der Besucherinteraktion, in der technischen Leistung und Formularfehlern an, sodass tiefere Einblicke und fundierte Entscheidungen in [!DNL Adobe] Workspace_ möglich sind.
 
-Springen wir gleich rein! Sie sollten [Histogramme](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=de). Ich werde erklären, warum, aber ich möchte Ihre erste Frage beantworten: Was in der Welt ist ein Histogramm? Ich verstehe es. Meistens, wenn Sie einen Haufen Balken hochfahren sehen, denken Sie vielleicht, dass es ein Balkendiagramm ist. Ja, Histogramme sehen ähnlich aus, aber ich versichere Ihnen, sie sind anders. Ein Balkendiagramm vergleicht die Dinge, während ein Histogramm zeigt, wie oft eine Variable aufgetreten ist. Sehen Sie selbst. Im Folgenden finden Sie ein Balkendiagramm:
+Springen wir gleich rein! Sie sollten [Histogramme](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html) verwenden. Ich werde erklären, warum, aber ich möchte Ihre erste Frage beantworten: Was in der Welt ist ein Histogramm? Ich verstehe es. Meistens, wenn Sie einen Haufen Balken hochfahren sehen, denken Sie vielleicht, dass es ein Balkendiagramm ist. Ja, Histogramme sehen ähnlich aus, aber ich versichere Ihnen, sie sind anders. Ein Balkendiagramm vergleicht die Dinge, während ein Histogramm zeigt, wie oft eine Variable aufgetreten ist. Schau mal. Im Folgenden finden Sie ein Balkendiagramm:
 
 ![Balkendiagramm 1](assets/bar-chart-1.png)
 
@@ -69,14 +69,14 @@ Sie können fragen, wie unterscheidet sich dies von einer errechneten Metrik? He
 
   ![Histogramm 4](assets/histogram-4.png)
 
-Wie Sie sehen können, haben Histogramme nicht nur ihre eigenen Verwendungen, sondern sie vertiefen auch die Einsichten, die Sie aus dem Durchschnitt gewinnen. Es handelt sich um eine vordefinierte Visualisierung in [!DNL Adobe Analytics] und leicht zu erstellen. Hoffentlich sind diese Anwendungsfälle hilfreich für Sie oder lassen Sie sich inspirieren. Gute Visualisierung!
+Wie Sie sehen können, haben Histogramme nicht nur ihre eigenen Verwendungen, sondern sie vertiefen auch die Einsichten, die Sie aus dem Durchschnitt gewinnen. Es handelt sich um eine vordefinierte Visualisierung in [!DNL Adobe Analytics], die einfach zu erstellen ist. Hoffentlich sind diese Anwendungsfälle hilfreich für Sie oder lassen Sie sich inspirieren. Gute Visualisierung!
 
 ## Autor
 
-Dieses Dokument wurde verfasst von:
+Dieses Dokument wurde geschrieben von:
 
 ![Gitai Ben-Ammi](assets/gitai-headshot.png)
 
-**Gitai Ben-Ammi**, Principal Consultant bei Concentrix Catalyst
+**Gitai Ben-Ammi**, Hauptberater bei Concentrix Catalyst
 
 [!DNL Adobe Analytics] Champion
