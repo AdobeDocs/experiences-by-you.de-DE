@@ -1,5 +1,5 @@
 ---
-title: Erstellen Sie ein visuelles Datenflussdiagramm, um Ihren Marketing-Tech-Stack zu verstehen.
+title: Erstellen Sie ein Datenflussdiagramm, um Ihren Marketing Tech Stack zu verstehen
 description: Erfahren Sie, wie Sie ein Diagramm mit "Lead- und Datenquellen"erstellen, um die Datenschicht zu verstehen, die Instanz effizient zu prüfen und zu bereinigen.
 feature-set: Marketo Engage
 feature: Administration
@@ -11,14 +11,14 @@ jira: KT-13877
 thumbnail: KT-13877.jpeg
 hide: false
 exl-id: 088bdcf1-4e49-44a7-ac78-a03742ff680b
-source-git-commit: b2e05ff39e065691dda530ed17762a55cf2e6778
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
-source-wordcount: '571'
+source-wordcount: '569'
 ht-degree: 2%
 
 ---
 
-# Erstellen Sie ein visuelles Datenflussdiagramm, um Ihren Marketing-Tech-Stack zu verstehen.
+# Erstellen Sie ein Datenflussdiagramm, um Ihren Marketing-Tech-Stack zu verstehen.
 
 Als Administrator, der eine [!DNL Marketo Engage] -Instanz übernimmt, die seit Jahren live ist, ist es wie eine Mission, die nicht effizient geprüft und aufgeräumt werden kann. Als [!DNL Adobe] [!DNL Marketo Champion] (2019), Kelly Jo Horton, in eine seit langem etablierte Instanz trat, ging sie diese Herausforderung an, indem sie [ein Diagramm &quot;Lead und Datenquellen&quot;](https://nation.marketo.com/t5/employee-blogs/understand-your-marketing-technology-and-data-create-this/ba-p/296774){target="_blank"} erstellte, um sich mit dem Datenuniversum vertraut zu machen. In diesem Tutorial erfahren Sie, wie Sie Ihr eigenes Datenflussdiagramm erstellen, indem Sie auf den von Kelly Jo Horton freigegebenen Beispielen aufbauen. Lernen Sie Ihr MarTech-Ökosystem kennen!
 

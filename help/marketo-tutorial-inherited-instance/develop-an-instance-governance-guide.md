@@ -1,6 +1,6 @@
 ---
-title: Entwickeln eines Leitfadens zur Instanz-Governance mit Dokumentation
-description: Erfahren Sie, wie Sie ein zuverlässiges Verfahren für die Erstellung und Verwaltung von Dokumentation und Änderungsprogrammen für Ihre [!DNL Marketo Engage] Instanz einrichten. Dies spart nicht nur Zeit für den Austausch von Wissen in Ihrem Team, sondern erhöht auch die Gesundheit und Effizienz Ihrer Instanz.
+title: Entwickeln eines Instance Governance-Handbuchs mit Dokumentation
+description: Erfahren Sie, wie Sie ein zuverlässiges Verfahren für die Erstellung und Verwaltung von Dokumentation und Änderungsprogrammen für Ihre [!DNL Marketo Engage] Instanz einrichten.
 feature-set: Marketo Engage
 feature: Administration
 role: Admin
@@ -11,9 +11,9 @@ jira: KT-14103
 thumbnail: KT-14103.jpeg
 hide: false
 exl-id: e127b84d-ef92-4527-a0e6-a36af35b7ee0
-source-git-commit: b2e05ff39e065691dda530ed17762a55cf2e6778
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
-source-wordcount: '895'
+source-wordcount: '874'
 ht-degree: 1%
 
 ---
@@ -24,9 +24,9 @@ Wenn Sie in eine veraltete [!DNL Marketo Engage] -Instanz eintreten, ist es oft 
 
 Dieses Schritt-für-Schritt-Tutorial von [!DNL [!DNL Adobe] Marketo Champion] (2018), Nick Hajdin, führt Sie durch diesen Prozess, um die Einrichtung Ihrer Instanz zu skizzieren, Ihre primären operationellen Programme zu dokumentieren und eine [!DNL changelog] zu verwalten, um eine strikte Governance-Richtlinie durchzusetzen.
 
-## Warum sollten Sie eine Anleitung zur Verwaltung von Instanzen und Dokumentation für Ihre geerbte Instanz entwickeln?
+## Entwickeln Sie ein Leitfaden zur Instanz-Governance für Ihre geerbte Instanz.
 
-Eine detaillierte Dokumentation und ein [!DNL changelog] sind für eine effiziente Verwaltung und den Wissenstransfer in Ihrer [!DNL Marketo Engage] -Instanz unerlässlich. Wenn Sie die Änderungen und Entscheidungen verfolgen, die Sie während der Instanzeinrichtung getroffen haben, können Sie Folgendes tun:
+Eine detaillierte Dokumentation und ein [!UICONTROL Änderungsprotokoll] sind für eine effiziente Verwaltung und den Wissenstransfer in Ihrer [!DNL Marketo Engage] -Instanz unerlässlich. Wenn Sie die Änderungen und Entscheidungen verfolgen, die Sie während der Instanzeinrichtung getroffen haben, können Sie Folgendes tun:
 
 1. Interne Benutzer einfacher skalierbar trainieren.
 2. Effizientere Erstellung in [!DNL Marketo Engage] langfristig.
@@ -78,17 +78,17 @@ Zunächst werden die wichtigsten operationellen Programme mit Auswirkungen auf d
 
 Für jedes identifizierte operationelle Programm ist der aktuelle Stand zu dokumentieren. Dazu gehören Details zum Zweck des Programms, zur Einrichtung, zu verknüpften Smart-Kampagnen und zur Integration mit anderen Tools (falls zutreffend).
 
-### Schritt 4: Erzwingen der Wartung von [!DNL Changelog]
+### Schritt 4: Erzwingen der Wartung von [!UICONTROL Changelog]
 
-Der nächste Schritt besteht darin, eine strikte Governance-Richtlinie für Ihre [!DNL Marketo Engage]-Instanz festzulegen, die die Wartung für &quot;[!DNL Changelog]&quot; erfordert. Diese Richtlinie stellt sicher, dass alle Aktualisierungen, die an operationellen Programmen in der gesamten Instanz vorgenommen werden, gründlich dokumentiert werden.
+Der nächste Schritt besteht darin, eine strikte Governance-Richtlinie für Ihre [!DNL Marketo Engage]-Instanz festzulegen, die die Wartung von &quot;[!UICONTROL Changelog]&quot;erfordert. Diese Richtlinie stellt sicher, dass alle Aktualisierungen, die an operationellen Programmen in der gesamten Instanz vorgenommen werden, gründlich dokumentiert werden.
 
-Informieren Sie Ihr Team über die Bedeutung dieser Dokumente und wie Sie sie ordnungsgemäß aufrufen und aktualisieren können. Es könnte hilfreich sein, Zuständigkeiten für die Pflege des changelog zuzuweisen, sodass einige benannte Marketing-Team-Mitglieder oder -Administratoren Änderungen laufend aufzeichnen und Unterschriften bereitstellen.
+Informieren Sie Ihr Team über die Bedeutung dieser Dokumente und wie Sie sie ordnungsgemäß aufrufen und aktualisieren können. Es könnte hilfreich sein, Zuständigkeiten für die Pflege des Änderungsprogramms zuzuweisen, sodass einige benannte Marketing-Team-Mitglieder oder -Administratoren Änderungen laufend aufzeichnen und Abmeldemöglichkeiten bereitstellen.
 
-### Schritt 5: Zentralisierung der Dokumentation
+### Schritt 5: Zentrale Dokumentation
 
 Richten Sie einen zentralen Speicherort oder ein zentrales Repository ein, um alle mit Ihrer [!DNL Marketo Engage]-Instanz verbundenen Dokumentationen zu speichern. Dies kann ein freigegebenes Laufwerk, ein dedizierter Ordner oder ein Cloud-basiertes System sein.
 
-### Schritt 6: Regelmäßige Überprüfung und Aktualisierung
+### Schritt 6: Überprüfen und aktualisieren
 
 Planen Sie regelmäßige Überprüfungen Ihrer Dokumentation, um sicherzustellen, dass sie korrekt und aktuell ist. Man kann es während der geschäftigen Zeiten leicht übersehen. Richten Sie proaktiv Erinnerungen an Ihren Kalender ein, um sicherzustellen, dass Ihr Team regelmäßig Aktualisierungen vornimmt, um Änderungen oder Optimierungen in Ihren operationellen Programmen widerzuspiegeln.
 

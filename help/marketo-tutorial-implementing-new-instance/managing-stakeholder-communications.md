@@ -1,5 +1,5 @@
 ---
-title: Verwalten von Stakeholdern zur Implementierung von Marketo Engage
+title: Verwalten von Interessenvertretern zur Implementierung von Marketo Engage
 description: Erfahren Sie Strategien für eine effektive Verwaltung von Stakeholdern während der Implementierung Ihrer Marketo Engage-Instanz. In diesem Tutorial erhalten Sie praktische Tipps, wie Sie die Anforderungen Ihrer Stakeholder ermitteln, sich für Führungskräfte einsetzen und funktionsübergreifend kommunizieren können, um Unterstützung bei der Implementierung zu erhalten.
 role: Admin
 level: Beginner
@@ -10,7 +10,7 @@ last-substantial-update: 2024-05-03T00:00:00Z
 jira: KT-13284
 thumbnail: KT-13284.jpeg
 exl-id: b5b8a5b6-83d4-48ae-ae83-32c9fbf64df8
-source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
 source-wordcount: '1712'
 ht-degree: 0%
@@ -39,7 +39,7 @@ Starten Sie Ihre Implementierung, indem Sie sich an die Prioritäten Ihrer Markt
 
 Nehmen Sie die Informationen, die Sie in der vorherigen Übung dargelegt haben, und kommunizieren Sie konkret darüber, wie Marketo Engage die Kapitalrendite (Return on Investment, ROI) steigern wird, und unterstützen Sie strategische Ziele für Ihre Stakeholder. Verwenden Sie die folgende ursprüngliche Outreach-Vorlage, um überzeugende Nachrichten zu erstellen, die den Wert von Marketo Engage anzeigen. Proposition für Ihr Unternehmen.
 
-#### Vorlage - Ursprüngliche Reichweite
+#### Vorlage - Anfänglicher Kontakt
 
 <table>
 <tr>
@@ -69,11 +69,11 @@ Best,
 </table>
 
 
-### Aktion 3: Frühe Gewinne demonstrieren
+### Aktion 3: Vorzeitige Gewinne demonstrieren
 
 Präsentieren Sie schnell Gewinner oder Pilotprojekte, um die Wirkung von Marketo Engage zu demonstrieren. Dabei kann es sich um eine zielgerichtete E-Mail-Kampagne handeln, die zu einer erheblichen Interaktion führt, oder um einen automatisierten Workflow, der die Lead-Pflege optimiert. Teilen Sie diese Erfolge mit den Interessengruppen, um ihre Unterstützung und Begeisterung zu verstärken.
 
-#### Vorlage - Frühe Gewinne
+#### Vorlage - Frühe Gewinner
 
 <table>
 <tr>

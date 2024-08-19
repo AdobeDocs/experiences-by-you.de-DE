@@ -12,7 +12,7 @@ doc-type: Value Video
 last-substantial-update: 2023-05-11T00:00:00Z
 jira: KT-13228
 exl-id: 3ee98846-35ff-4de1-af4b-b65376572dfe
-source-git-commit: 7bbe86435c683f41509a8cbe6b117b354309644a
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 1%
@@ -31,6 +31,6 @@ Sehen Sie sich diese Tipps von Ihrem technischen Leiter Rakesh Pasupuleti an. Ra
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419299?quality=12&learn=on)
 
-## Weitere Ressourcen {#additional-resources}
+## Zusätzliche Ressourcen {#additional-resources}
 
 * [AEM as a Cloud Service Onboarding-Journey](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/onboarding/journey/overview.html) - Eine schrittweise Anleitung für einen neuen Systemadministrator, der anfangs Cloud-Ressourcen bereitstellt und Benutzer entsprechend ihrer Aufgabenverantwortung Rollen zuweist, sodass sich jedes Teammitglied anmelden und auf seine neuen AEM as a Cloud Service-Ressourcen zugreifen kann

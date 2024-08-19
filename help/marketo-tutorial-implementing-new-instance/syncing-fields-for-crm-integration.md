@@ -10,14 +10,14 @@ last-substantial-update: 2024-05-04T00:00:00Z
 jira: KT-14811
 thumbnail: KT-14811.jpeg
 exl-id: 42b7ca3d-e445-4c11-ad3d-d4e70c101c8e
-source-git-commit: 195a1211b8b191032f4d37662b5beee9a0a54de4
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
-source-wordcount: '1569'
+source-wordcount: '1567'
 ht-degree: 0%
 
 ---
 
-# Synchronisieren von Feldern für die nativen CRM-Connectoren
+# Synchronisierungsfelder für native CRM-Connectoren
 
 Verwenden Sie Salesforce oder Microsoft Dynamics in Ihrem Unternehmen? Ist dies der Fall, können Sie mit den nativen CRM-Connectoren von Marketo Engage (z. B. Salesforce, Microsoft Dynamics und Veeva) Marketing- und Verkaufsaktivitäten koordinieren, indem Sie relevante Informationen nahtlos zwischen Marketo Engage und CRM austauschen. Stellen Sie vor der Konfiguration der anfänglichen CRM-Synchronisation sicher, dass Sie die Felder identifizieren, die zwischen den beiden Systemen synchronisiert werden sollen, damit Ihre Marketo Engage-Datenbank sauber bleibt.
 
@@ -31,7 +31,7 @@ Die anfängliche Synchronisation zwischen Ihrem Marketo Engage- und CRM-System f
 
 Das Identifizieren und Organisieren der Felder, die Sie vor der ersten Synchronisierung aus Ihrem CRM-System synchronisieren möchten, ist ein wichtiger Schritt im Setup-Prozess von Native Connector. Dies wird als Datenwörterbuch bezeichnet, das Ihnen dabei hilft, die Anzahl der duplizierten Felder, die erstellt werden, zu minimieren und alle nachfolgenden Neukodifizierungsschritte so reibungslos wie möglich zu gestalten. Diese Übung umfasst in der Regel Beiträge der Marketing- und Verkaufsteams und Ihres CRM-Administrators, um sicherzustellen, dass nur relevante Felder mit Ihrer Marketo Engage-Instanz synchronisiert werden.
 
-## Erstellen Ihres Datenwörterbuchs
+## Datenwörterbuch erstellen
 
 Im Allgemeinen wird empfohlen, nur CRM-Felder zu synchronisieren, die für Marketing-Zwecke benötigt werden. Beginnen Sie mit dieser Übung, um die Felder aus Ihrem CRM-System zu organisieren, die der Marketo Engage zugeordnet werden müssen, und führen Sie die erste CRM-Synchronisierung korrekt aus.
 

@@ -1,6 +1,6 @@
 ---
-title: Tipps und Tricks zur Implementierung einer neuen [!DNL Marketo Engage] Instanz - Tutorial-Übersicht
-description: Erfahren Sie, wie Sie eine neue [!DNL Marketo Engage] Instanz implementieren, um ihre Leistungsfähigkeit optimal zu nutzen. Diese "Implementieren einer neuen Marketo Engage" Tipps und Tricks-Reihe bietet Best Practices, die von Adobe [!DNL Marketo Engage] Champions bewiesen wurden. Zu den behandelten Themen gehören die Verwaltung von Interessenträgern, das Implementierungsprojekt-Management, die interne Schulung, das Erstellen eines Lead-/Personen-Scoring-Modells, das Einrichten der anfänglichen CRM-Synchronisierung und mehr.
+title: Tipps und Tricks zur Implementierung einer neuen Instanz
+description: Erfahren Sie, wie Sie eine neue [!DNL Marketo Engage] Instanz implementieren, um ihre Leistungsfähigkeit optimal zu nutzen.
 solution: Marketo Engage
 role: Admin
 level: Beginner
@@ -10,20 +10,20 @@ last-substantial-update: 2024-03-01T00:00:00Z
 jira: KT-13204
 thumbnail: KT-13204.jpeg
 exl-id: 58816df0-03d2-4d2f-a11b-8809c51d6e4f
-source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
-source-wordcount: '567'
+source-wordcount: '523'
 ht-degree: 0%
 
 ---
 
-# Tipps und Tricks zur Implementierung einer neuen [!DNL Marketo Engage]-Instanz - Tutorial-Übersicht
+# Tipps und Tricks zur Implementierung einer neuen [!DNL Marketo Engage]-Instanz
 
 Willkommen bei Adobe [!DNL Marketo Engage]! Das Einrichten einer neuen Instanz ist der erste Schritt zur Steigerung Ihrer Digital-Marketing-Strategie mit Marketing-Automatisierung. Der Schlüssel zu einer erfolgreichen [!DNL Marketo Engage] -Implementierung ist die Dokumentation.
 
-Diese &quot;Implementieren einer neuen Instanz - Tipps und Tricks&quot;-Reihe ist von Adobe [!DNL Marketo Engage] Champions erhalten, die die Implementierung bereits erobert haben. Das Tutorial bietet neuen Administratoren eine schrittweise Anleitung, um das Implementierungsprojekt funktionsübergreifend zu verwalten und technische Einstellungen unabhängig zu konfigurieren. Selektive Themen begleiten auch herunterladbare Checklisten und Vorlagen, die Sie für Ihre eigenen Anforderungen anpassen können, ohne von Grund auf neu beginnen zu müssen. Tauchen wir in die Weisheit deiner Kollegen!
+Diese _Implementieren einer neuen Instanztipps- und -Tricks-Reihe_ wird von Adobe [!DNL Marketo Engage] Champions übernommen, die die Implementierung bereits erobert haben. Das Tutorial bietet neuen Administratoren eine schrittweise Anleitung, um das Implementierungsprojekt funktionsübergreifend zu verwalten und technische Einstellungen unabhängig zu konfigurieren. Selektive Themen begleiten auch herunterladbare Checklisten und Vorlagen, die Sie für Ihre eigenen Anforderungen anpassen können, ohne von Grund auf neu beginnen zu müssen. Tauchen wir in die Weisheit deiner Kollegen!
 
-## Themen und Wissenswertes
+## Themen und Lerninhalte
 
 * [Verwalten von Stakeholdern zur Implementierung von Marketo Engage](/help/marketo-tutorial-implementing-new-instance/managing-stakeholder-communications.md)
   *Erfahren Sie Strategien zur effektiven Verwaltung von Stakeholdern während der Implementierung Ihrer Marketo Engage-Instanz. In diesem Tutorial erhalten Sie praktische Tipps, wie Sie die Anforderungen Ihrer Stakeholder ermitteln, sich für Führungskräfte einsetzen und funktionsübergreifend kommunizieren können, um Unterstützung bei der Implementierung zu erhalten.*
@@ -57,7 +57,7 @@ Diese &quot;Implementieren einer neuen Instanz - Tipps und Tricks&quot;-Reihe is
 * [Erste Schritte zur Verwaltung und Dokumentation von Instanzen](/help/marketo-tutorial-implementing-new-instance/documenting-your-instance.md)
   *Erfahren Sie wichtige Strategien und Best Practices für die ersten Schritte in Ihrer Marketo Engage-Governance und -Dokumentation. Erfahren Sie, wie Sie skalierbare Dokumentation erstellen, die Benutzerschulung optimieren und die Erstellung mit einer Struktur in Ihrer Marketo Engage-Instanz sicherstellen.*
 
-## Weitere Ressourcen
+## Zusätzliche Ressourcen
 
 * [Implementieren einer neuen Marketo Engage-Instanz mit Checklisten für Best Practices](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/implementing-a-new-marketo-engage-instance/where-to-start){target="_blank}
   *Jede Checkliste bietet wertvolle Schritte, um den Konfigurationsfortschritt zu verfolgen. Verwenden Sie die herunterladbaren Checklisten, um Ihre Arbeit für zukünftige Instanz-Audits und das Onboarding von Benutzern zu dokumentieren.*

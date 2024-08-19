@@ -1,6 +1,6 @@
 ---
 title: Erstellen von Personenbewertungsmodellen für Marketo Engage-Programme
-description: Mit Adobe Marketo Engage können Sie Ihre Scoring-Modelle von Grund auf erstellen. Bevor Sie direkt in die Marketo Engage springen, um Ihre Scoring-Programme zu erstellen, müssen Sie die wesentlichen Punktfelder wie demografische Punktzahl, Verhaltensergebnis und Personen-Gesamtbewertung einrichten. Erfahren Sie mehr über die Strategien, die von Marketo Engage Champions zur Entwicklung von Scoring-Modellen verwendet werden, die Ihr Unternehmen benötigt.
+description: Erfahren Sie, wie Sie Ihre Scoring-Modelle von Grund auf erstellen.
 role: Admin
 level: Beginner
 doc-type: Article
@@ -10,9 +10,9 @@ last-substantial-update: 2024-05-04T00:00:00Z
 jira: KT-14810
 thumbnail: KT-14810.jpeg
 exl-id: 73976144-f02b-4423-9b4b-410330117ba9
-source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
-source-wordcount: '2111'
+source-wordcount: '2055'
 ht-degree: 2%
 
 ---
@@ -21,7 +21,7 @@ ht-degree: 2%
 
 Mit der Personensortierung können Sie die Personen identifizieren, die am stärksten mit Ihrem Unternehmen verbunden sind, und Ihr ideales Kundenprofil darstellen, sodass Sie diese Leads mit Ihrem Verkaufsteam teilen und Geschäfte schließen können. Gemeinsam mit dem Vertrieb legen Sie fest, welche Leads Sie an sie übergeben möchten, indem Sie ein Lead/Person-Scoring-Programm in Adobe Marketo Engage verwenden. Dies kann entweder durch eine minimale verhaltensbasierte Bewertung, demografische Auswertung oder beides bestimmt werden.
 
-In diesem Tutorial führen wir Sie durch drei Übungen, die von Marketo Engage Champions Christina Zuniga und Katja Keesom vorgeschlagen wurden. Im Folgenden erfahren Sie, welche Aktivitäten und Merkmale wichtige Indikatoren dafür sind, dass ein Interessent an einem Kauf interessiert ist (verhaltensbasierte Bewertung) und für Sie geeignet ist (demografische Bewertung), und berücksichtigen die Nuancen der Märkte.
+In diesem Tutorial führen wir Sie durch drei Übungen von Marketo Engage Champions Christina Zuniga und Katja Keesom. Im Folgenden erfahren Sie, welche Aktivitäten und Merkmale wichtige Indikatoren dafür sind, dass ein Interessent an einem Kauf interessiert ist (verhaltensbasierte Bewertung) und für Sie geeignet ist (demografische Bewertung), und berücksichtigen die Nuancen der Märkte.
 
 ## Warum entwickeln und verwenden Sie ein Personenbewertungsmodell?
 
@@ -29,7 +29,7 @@ Sie haben vielleicht viele Leads in Ihrer Datenbank, aber wie wissen Sie, welche
 
 Indem Sie Personen in Ihrer Marketo Engage-Datenbank auswerten, können Sie messen, wie qualifiziert Ihre generierten Leads sind, und Kriterien dafür festlegen, wann sie umsatzbereit sind. Dadurch kann sich Ihr Verkaufsteam auf die Leads konzentrieren, die am ehesten geschlossen werden, während das Marketing-Team die anderen Personen in der Datenbank über seine Marketing-Programme weiter pflegt.
 
-## Übung 1 - Bestimmung des Kaufinteresses mit Verhaltensbewertungen
+## Übung 1 - Ermittlung des Käuferinteresses mit verhaltensbezogenen Werten
 
 Die Verhaltensscoring bietet nachverfolgten Aktionen, die ein Interessent unternimmt, einen numerischen Wert, der das Interesse an Ihren Produkten und Dienstleistungen und die Absicht zum Kauf angibt. Zum Beispiel zeigt der Besuch der Website Interesse und der Besuch der Preisseite zeigt möglicherweise die Absicht. Im Gegensatz dazu kann der Besuch der Karriereseite darauf hinweisen, dass die Person nicht kaufen wird.
 
@@ -79,7 +79,7 @@ Die Verhaltensscoring bietet nachverfolgten Aktionen, die ein Interessent untern
 
 **Schritt 5** - Beachten Sie, dass Scoring ein iterativer Prozess ist! Überprüfen und passen Sie kontinuierlich Bewertungen und Schwellenwerte an, wenn Sie mehr Daten für die Analyse sammeln.
 
-## Übung 2 - Ermittlung des richtigen Passes mit demografischen Werten
+## Übung 2 - Identifizieren der richtigen Anpassung an demografische Ergebnisse
 
 Nachdem Sie nun die Aktivitäten definiert haben, die auf die Kaufabsicht hinweisen, sollten Sie das Scoring-Modell mit Ihren Idealprojekten abschließen. Um festzustellen, ob ein Interessent für weitere Verkaufsgespräche geeignet ist, müssen demografische Werte zusätzlich zu den Verhaltenswerten zugewiesen werden, damit das Modell bei der Ermittlung der besten Leads hinsichtlich Eignung und Absicht hilft.
 

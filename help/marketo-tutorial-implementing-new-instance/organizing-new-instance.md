@@ -1,5 +1,5 @@
 ---
-title: Neue Instanz organisieren und Benennungskonventionen festlegen
+title: Organisieren einer neuen Instanz und Einrichten von Benennungskonventionen
 description: Erfahren Sie, wie Sie eine gute Organisation in Ihrer Marketo Engage-Instanz einrichten, sodass zukünftige Marketing-Experten in Ihrem Unternehmen einfach durch die Programme navigieren, die Assets ändern und Berichte abrufen können.
 role: Admin
 level: Beginner
@@ -10,14 +10,14 @@ last-substantial-update: 2024-05-03T00:00:00Z
 jira: KT-14813
 thumbnail: KT-14813.jpeg
 exl-id: 19b3de9e-53f3-4308-b46e-7b8f756c30a0
-source-git-commit: e0d0c47eec98b7259363350d331ba69bbcaaa64b
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
 source-wordcount: '1166'
 ht-degree: 2%
 
 ---
 
-# Neue Instanz organisieren und Benennungskonventionen festlegen
+# Eine neue Instanz organisieren und Benennungskonventionen festlegen
 
 Als Administrator, der eine neue Marketo Engage-Instanz implementiert, legen Sie die Grundlagen fest, damit zukünftige Marketing-Experten innerhalb des Unternehmens einfach durch die Instanz navigieren können. Wenn Sie sich mit der Ordnerstruktur im Baum und den Benennungskonventionen vertraut machen, bleiben Ihre Instanz aufgeräumt und für langfristigen Erfolg eingerichtet. Dieses Tutorial enthält Beispiele, die von Adobe und Marketo Engage Champion (2019-2020), Natalie Kremer, empfohlen werden, um Ihnen zu helfen, [die Ordner zu organisieren und Assets konsistent zu benennen](https://nation.marketo.com/t5/champion-program-blogs/keep-marketo-engage-organized-with-folders-and-naming/ba-p/245630){target="_blank"}.
 

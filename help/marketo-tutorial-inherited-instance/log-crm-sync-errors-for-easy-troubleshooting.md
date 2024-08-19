@@ -11,14 +11,14 @@ jira: KT-13875
 thumbnail: KT-13875.jpeg
 hide: false
 exl-id: 6a38f5dd-5d25-43d8-a1d3-e75ab396e555
-source-git-commit: b2e05ff39e065691dda530ed17762a55cf2e6778
+source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
-source-wordcount: '408'
+source-wordcount: '407'
 ht-degree: 0%
 
 ---
 
-# Fehler bei der CRM-Synchronisierung zur einfachen Fehlerbehebung
+# Fehler bei der CRM-Synchronisierung zur Fehlerbehebung protokollieren
 
 Als [!DNL Marketo Engage] -Administrator sollte die Überprüfung, ob Ihre Instanz mit Ihrem CRM-System synchronisiert ist, ein zentraler Bestandteil Ihrer [täglichen Routine](https://nation.marketo.com/t5/champion-program-blogs/my-marketo-morning-routine-tips-for-driving-marketing-operation/ba-p/247508){target="_blank"} sein. Während Sie im Abschnitt [Benachrichtigungen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/notification-types.html){target="_blank"} (finden Sie ihn oben rechts in Ihrer [!DNL Marketo Engage]-Oberfläche) häufige Synchronisierungsprobleme finden und untersuchen, gibt es einen proaktiven Tipp, der Ihnen bei der organisierten Verwaltung des Instanzstatus helfen könnte. [!DNL Adobe] Marketo Champion (2019-2022), empfiehlt Amy Goldfine, dass Administratoren ein Protokoll mit CRM-Synchronisierungsfehlern aufbewahren, um die Fehlerbehebung zu vereinfachen.
 
