@@ -11,9 +11,9 @@ jira: KT-13888
 thumbnail: KT-13888.jpeg
 hide: false
 exl-id: c377fe5f-2d77-4fd0-9ac4-5ad65506f582
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+source-git-commit: 286b85beb92a2563d9ec57696834a4ba2a205c73
 workflow-type: tm+mt
-source-wordcount: '4903'
+source-wordcount: '4898'
 ht-degree: 2%
 
 ---
@@ -201,7 +201,7 @@ Es kann Elemente geben, die fehlen oder nicht anwendbar sind, da Ihr Team diese 
 
 ## Wie geht es weiter?
 
-Klicken Sie auf [hier](/help/marketo-tutorial-inherited-instance/_assets/downloads/[!DNL Adobe]_Marketo_Engage_Inherited_Instance_Program_Prelaunch_QA_Checklist.xlsx), um die Checkliste für die Programmvorab-Launch herunterzuladen, die Sie anpassen können. Beachten Sie, dass diese Anpassung an den Workflow Ihres Unternehmens angepasst werden sollte. Durch die Entwicklung eines effektiven QA-Prozesses können Sie für Fehler bei Kunden verantwortlich sein und Fehler bei Kunden begrenzen.
+Klicken Sie auf [hier](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Program_Prelaunch_QA_Checklist.xlsx) , um die Checkliste für die Programmvorschau herunterzuladen, die Sie anpassen können. Beachten Sie, dass diese Anpassung an den Workflow Ihres Unternehmens angepasst werden sollte. Durch die Entwicklung eines effektiven QA-Prozesses können Sie für Fehler bei Kunden verantwortlich sein und Fehler bei Kunden begrenzen.
 
 ### Autoren
 
