@@ -10,18 +10,18 @@ last-substantial-update: 2024-03-01T00:00:00Z
 jira: KT-13204
 thumbnail: KT-13204.jpeg
 exl-id: 58816df0-03d2-4d2f-a11b-8809c51d6e4f
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+source-git-commit: dd6b3d2ea080de27e6955d1538a9b29d4fbb281a
 workflow-type: tm+mt
-source-wordcount: '523'
-ht-degree: 0%
+source-wordcount: '522'
+ht-degree: 1%
 
 ---
 
 # Tipps und Tricks zur Implementierung einer neuen [!DNL Marketo Engage]-Instanz
 
-Willkommen bei Adobe [!DNL Marketo Engage]! Das Einrichten einer neuen Instanz ist der erste Schritt zur Steigerung Ihrer Digital-Marketing-Strategie mit Marketing-Automatisierung. Der Schlüssel zu einer erfolgreichen [!DNL Marketo Engage] -Implementierung ist die Dokumentation.
+Willkommen bei Adobe [!DNL Marketo Engage]! Die Einrichtung einer neuen Instanz ist der erste Schritt zur Verbesserung Ihrer Digital-Marketing-Strategie mit Marketing-Automatisierung. Der Schlüssel zu einer erfolgreichen [!DNL Marketo Engage] -Implementierung ist die Dokumentation.
 
-Diese _Implementieren einer neuen Instanztipps- und -Tricks-Reihe_ wird von Adobe [!DNL Marketo Engage] Champions übernommen, die die Implementierung bereits erobert haben. Das Tutorial bietet neuen Administratoren eine schrittweise Anleitung, um das Implementierungsprojekt funktionsübergreifend zu verwalten und technische Einstellungen unabhängig zu konfigurieren. Selektive Themen begleiten auch herunterladbare Checklisten und Vorlagen, die Sie für Ihre eigenen Anforderungen anpassen können, ohne von Grund auf neu beginnen zu müssen. Tauchen wir in die Weisheit deiner Kollegen!
+Diese Reihe &quot;Implementieren einer neuen Instanz - Tipps und Tricks&quot;stammt von Adobe [!DNL Marketo Engage] Champions, die die Implementierung bereits erobert haben. Das Tutorial bietet neuen Administratoren eine schrittweise Anleitung, um das Implementierungsprojekt funktionsübergreifend zu verwalten und technische Einstellungen unabhängig zu konfigurieren. Selektive Themen begleiten auch herunterladbare Checklisten und Vorlagen, die Sie für Ihre eigenen Anforderungen anpassen können, ohne von Grund auf neu beginnen zu müssen. Tauchen wir in die Weisheit Ihrer Kollegen!
 
 ## Themen und Lerninhalte
 
@@ -50,7 +50,7 @@ Diese _Implementieren einer neuen Instanztipps- und -Tricks-Reihe_ wird von Adob
   *Erfahren Sie, wie Sie eine gute Organisation in Ihrer Marketo Engage-Instanz einrichten, sodass zukünftige Marketing-Experten in Ihrem Unternehmen mühelos durch die Programme navigieren, die Assets ändern und Berichte abrufen können.*
 <br>
 
-* [Erstellen von Omnichannel-Konversationsmarketing mit Dynamic Chat](/help/marketo-tutorial-implementing-new-instance/designing-omnichannel-conversational-marketing.md)
+* [Erstellen von Omnichannel Conversational Marketing mit Dynamic Chat](/help/marketo-tutorial-implementing-new-instance/designing-omnichannel-conversational-marketing.md)
   *Machen Sie sich einen schnellen Einstieg in die Konzeption von Dialogmarketing mit Adobe Dynamic Chat, dem nativen Kanal für Dialoginteraktionen in Adobe Marketo Engage. In diesem Tutorial finden Sie umsetzbare Rezepte zur Implementierung von Anwendungsfällen wie z. B. Buchung von Verkaufstreffen, Interaktion mit Website-Inhalten und Veranstaltungen/Webinar-Promotion.*
 <br>
 
