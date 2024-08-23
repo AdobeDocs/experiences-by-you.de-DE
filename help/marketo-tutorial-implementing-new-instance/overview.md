@@ -10,7 +10,7 @@ last-substantial-update: 2024-03-01T00:00:00Z
 jira: KT-13204
 thumbnail: KT-13204.jpeg
 exl-id: 58816df0-03d2-4d2f-a11b-8809c51d6e4f
-source-git-commit: 28036f785b1901088a9b5a04e88f43f031257161
+source-git-commit: b7e6c53ba2f2345e72f5028472d46596e6c41f58
 workflow-type: tm+mt
 source-wordcount: '522'
 ht-degree: 1%
@@ -21,7 +21,7 @@ ht-degree: 1%
 
 Willkommen bei Adobe [!DNL Marketo Engage]! Die Einrichtung einer neuen Instanz ist der erste Schritt zur Verbesserung Ihrer Digital-Marketing-Strategie mit Marketing-Automatisierung. Der Schlüssel zu einer erfolgreichen [!DNL Marketo Engage] -Implementierung ist die Dokumentation.
 
-Diese Reihe &quot;Implementieren einer neuen Instanz - Tipps und Tricks&quot;stammt von Adobe [!DNL Marketo Engage] Champions, die die Implementierung bereits erobert haben. Das Tutorial bietet neuen Administratoren eine schrittweise Anleitung, um das Implementierungsprojekt funktionsübergreifend zu verwalten und technische Einstellungen unabhängig zu konfigurieren. Selektive Themen begleiten auch herunterladbare Checklisten und Vorlagen, die Sie für Ihre eigenen Anforderungen anpassen können, ohne von Grund auf neu beginnen zu müssen. Tauchen wir in die Weisheit Ihrer Kollegen!
+Diese &quot;Implementieren einer neuen Instanz - Tipps und Tricks&quot;-Reihe stammt von Adobe [!DNL Marketo Engage] Champions, die die Implementierung bereits erobert haben. Das Tutorial bietet neuen Administratoren eine schrittweise Anleitung, um das Implementierungsprojekt funktionsübergreifend zu verwalten und technische Einstellungen unabhängig zu konfigurieren. Selektive Themen begleiten auch herunterladbare Checklisten und Vorlagen, die Sie für Ihre eigenen Anforderungen anpassen können, ohne von Grund auf neu beginnen zu müssen. Tauchen wir in die Weisheit Ihrer Kollegen!
 
 ## Themen und Lerninhalte
 
