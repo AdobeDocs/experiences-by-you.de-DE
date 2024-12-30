@@ -28,11 +28,11 @@ In diesem Schritt-für-Schritt-Tutorial erfahren Sie, wie Sie ein E-Mail-Program
 ## Zusätzliche Ressourcen:
 
 Weitere Informationen finden Sie in den entsprechenden Produkthandbüchern:
-* [Dokumentation zu E-Mail-Programmen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=en)
+* [Informationen zur Dokumentation zu E-Mail-Programmen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/creating-an-email-program/understanding-email-programs.html?lang=en)
 
 Sehen Sie sich zusätzliche Videos an, um weitere Hilfe zu dieser Funktion zu erhalten:
-* [Durchlaufen geplanter E-Mails](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/scheduled-email-watch.html?lang=en)
-* [AB-Tests durchlaufen](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/ab-testing-watch.html?lang=en)
+* [Geplante E-Mail-Anleitung](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/scheduled-email-watch.html?lang=en)
+* [Anleitung für AB-Tests](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/ab-testing-watch.html?lang=en)
 
 Erfahren Sie von Ihren Kollegen, wie Sie E-Mail-Programme verwenden:
-* [Expert-Blogpost für Kunden: E-Mail-Programme](https://nation.marketo.com/t5/product-blogs/marketo-success-series-email-programs/ba-p/304968)
+* [Expert Customer Blogpost: Email Programs](https://nation.marketo.com/t5/product-blogs/marketo-success-series-email-programs/ba-p/304968)

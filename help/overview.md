@@ -13,9 +13,9 @@ ht-degree: 9%
 
 ---
 
-# Erlebnisse von Ihnen: Ressourcen von Benutzern für Benutzer.
+# Erlebnisse nach Ihnen: Ressourcen nach Benutzern, für Benutzer.
 
-Die leistungsfähigste Sache mit [!DNL Adobe] Digital Experience (DX)-Lösungen? Du. Die Benutzer, die die Produkte nehmen, in sie eingraben und sie auf erstaunliche, innovative Weise anwenden, um sinnvolle Erlebnisse und Ergebnisse zu erzielen. _Erlebnisse von Ihnen_ enthält Inhalte, die von täglichen Benutzern erstellt werden, die mit ihren [!DNL Adobe] DX-Lösungen ein gewisses Maß an Fachwissen und Einfluss erworben haben. Dieses Peer-to-Peer-Wissen fördert Zusammenarbeit und Entdeckung - ermöglicht es Ihnen - und jedem anderen Benutzer - die Inspiration zu finden, die Sie benötigen, um Ihr Produktwissen zu erweitern.
+Die leistungsfähigste Lösung für [!DNL Adobe] Digital Experience (DX)-Lösungen? Sie. Benutzer, die die Produkte nehmen, sich eingehend damit beschäftigen und sie auf verblüffende, innovative Weise anwenden, um bedeutsame Erfahrungen und Ergebnisse zu schaffen. _Experiences by You_ enthält Inhalte, die von alltäglichen Benutzern erstellt wurden, die mit ihren [!DNL Adobe] DX-Lösungen ein hohes Maß an Fachwissen und Einfluss erlangt haben. Dieses Peer-to-Peer-Wissen fördert die Zusammenarbeit und Entdeckung und ermöglicht es Ihnen - und allen anderen Anwendern -, die Inspiration zu finden, die Sie benötigen, um Ihr Produkterfahrungsniveau zu steigern.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -53,7 +53,7 @@ Die leistungsfähigste Sache mit [!DNL Adobe] Digital Experience (DX)-Lösungen?
     </a>
     </div>
     <p>
-    <em>Schrittweise Anleitung zum Erstellen eines E-Mail-Programms mit einem A/B-Test.</em>
+    <em>Schritt-für-Schritt-Tutorial zum Erstellen eines E-Mail-Programms mit einem A/B-Test.</em>
     <p>
   </td>
   <td>
@@ -66,7 +66,7 @@ Die leistungsfähigste Sache mit [!DNL Adobe] Digital Experience (DX)-Lösungen?
     </a>
     </div>
     <p>
-    <em>Die Onboarding-Playbook hilft Ihnen, als neuer Administrator und Entwickler für [!DNL AEM as a Cloud Service] die Verantwortung zu übernehmen.</em>
+    <em>Das Onboarding-Playbook hilft Ihnen, als neuer Administrator und Entwickler für [!DNL AEM as a Cloud Service] die Verantwortung zu übernehmen.</em>
     <p>
   </td>
 </tr>
@@ -75,7 +75,7 @@ Die leistungsfähigste Sache mit [!DNL Adobe] Digital Experience (DX)-Lösungen?
 
 ## Zusätzliche Ressourcen
 
-* [Experience League Communities](https://experienceleaguecommunities.adobe.com/?profile.language=de)
+* [Experience League-Communities](https://experienceleaguecommunities.adobe.com/?profile.language=de)
 * [Experience Cloud -Dokumentation](https://experienceleague.adobe.com/docs/?lang=de)
 * [Experience Cloud-Tutorials](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=de)
 * [business.adobe.com](https://business.adobe.com)

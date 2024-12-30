@@ -13,9 +13,9 @@ ht-degree: 19%
 
 ---
 
-# [!DNL Analytics] von Ihnen: Ressourcen von Benutzern für Benutzer.
+# [!DNL Analytics] von Ihnen: Ressourcen nach Benutzern, für Benutzer.
 
-Das leistungsfähigste an [!DNL Adobe Experience Cloud] -Lösungen? Du. Die Benutzer, die die Produkte nehmen, in sie eingraben und sie auf erstaunliche, innovative Weise anwenden, um sinnvolle Erlebnisse und Ergebnisse zu erzielen. Erlebnisse von Ihnen bieten Inhalte, die von täglichen Benutzern erstellt werden, die mit ihren [!DNL Adobe Experience Cloud] -Lösungen ein gewisses Maß an Expertise und Einfluss erworben haben. Dieses Peer-to-Peer-Wissen fördert Zusammenarbeit und Entdeckung - ermöglicht es Ihnen - und jedem anderen Benutzer - die Inspiration zu finden, die Sie benötigen, um Ihr Produktwissen zu erweitern.
+Das Wichtigste an [!DNL Adobe Experience Cloud] Lösungen? Sie. Benutzer, die die Produkte nehmen, sich eingehend damit beschäftigen und sie auf verblüffende, innovative Weise anwenden, um bedeutsame Erfahrungen und Ergebnisse zu schaffen. Experience by You enthält Inhalte, die von alltäglichen Benutzern erstellt wurden, die mit ihren [!DNL Adobe Experience Cloud] Lösungen ein gewisses Maß an Fachwissen und Einfluss erlangt haben. Dieses Peer-to-Peer-Wissen fördert die Zusammenarbeit und Entdeckung und ermöglicht es Ihnen - und allen anderen Anwendern -, die Inspiration zu finden, die Sie benötigen, um Ihr Produkterfahrungsniveau zu steigern.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -45,15 +45,15 @@ Das leistungsfähigste an [!DNL Adobe Experience Cloud] -Lösungen? Du. Die Benu
   </td>
   <td>
     <a href="/help/marketo/programs/email-programs.md">
-      <img alt="Technische Sprache [!DNL Adobe Analytics] nicht technisch übersetzen" src="https://video.tv.adobe.com/v/342066?format=jpeg" />
+      <img alt="Übersetzen [!DNL Adobe Analytics] technischen Sprache auf nicht-technische Weise" src="https://video.tv.adobe.com/v/342066?format=jpeg" />
     </a>
     <div>
       <a href="/help/analytics/administration/key-admin-skills/translating-adobe-analytics-technical-language.md">
-    <strong> Technische Sprache übersetzen [!DNL Adobe Analytics] nicht technisch </strong>
+    <strong>Übersetzen [!DNL Adobe Analytics] technischen Sprache auf nicht-technische Weise</strong>
     </a>
     </div>
     <p>
-    <em>Hilfreiche Tipps für die Kommunikation mit Interessengruppen, um die technische Sprache von Adobe Analytics zu verstehen.</em>
+    <em>Nützliche Tipps für die Kommunikation mit Stakeholdern, um die technische Sprache von Adobe Analytics zu verstehen.</em>
     <p>
   </td>
   <td>
@@ -66,7 +66,7 @@ Das leistungsfähigste an [!DNL Adobe Experience Cloud] -Lösungen? Du. Die Benu
     </a>
     </div>
     <p>
-    <em>Einfache Tipps zum Erstellen von Benennungskonventionen und -standards.</em>
+    <em>Einfache Tipps zum Erstellen von Benennungskonventionen und Standards.</em>
     <p>
   </td>
 </tr>
@@ -76,7 +76,7 @@ Das leistungsfähigste an [!DNL Adobe Experience Cloud] -Lösungen? Du. Die Benu
 
 ## Zusätzliche Ressourcen
 
-* [Experience League Adobe Analytics Community](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=de)
-* [Adobe Analytics-Dokumentation](https://experienceleague.adobe.com/docs/analytics.html?lang=de)
+* [Experience League Adobe Analytics-Community](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=de)
+* [Dokumentation zu Adobe Analytics](https://experienceleague.adobe.com/docs/analytics.html?lang=de)
 * [Adobe Analytics-Tutorials](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=de)
 * [Adobe Analytics-Produktinformationen](https://business.adobe.com/products/analytics/adobe-analytics.html)

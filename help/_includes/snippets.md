@@ -1,6 +1,6 @@
 ---
 title: Snippets
-description: Wiederverwendete Hinweise und visuelle Elemente zum Notizen einer Funktion oder Seite, die auf eine bestimmte Bearbeitung angewendet wird
+description: Wiederverwendete Notizen und visuelle Elemente zur Notiz eines Features oder einer Seite, die auf eine bestimmte Bearbeitung angewendet wird
 source-git-commit: 80fc3ded085ce416e9a26aec96f1293701f7d268
 workflow-type: tm+mt
 source-wordcount: '137'
@@ -14,7 +14,7 @@ ht-degree: 1%
 
 ![Amy Chiu](/help/marketo-tutorial-implementing-new-instance/assets/amy-chiu.png){width="150"}
 
-**Amy Chiu**, Adoption &amp; Retention Marketing Manager, Adobe
+**Amy**, Adoption &amp; Retention Marketing Manager, Adobe
 
 ## Naomi Liu {#naomi-liu}
 
@@ -26,14 +26,14 @@ ht-degree: 1%
 
 ![Natalie Kremer](/help/marketo-tutorial-implementing-new-instance/assets/natalie-kremer.png){width="150"}
 
-**Natalie Kremer**, Senior Manager, Consulting Services, usw.
+**Natalie Kremer**, Senior Manager, Consulting Services, Etumos
 Adobe Marketo Engage Champion (2019-2020)
 
 ## Christina Zuniga {#christina-zuniga}
 
 ![Christina Zuniga](/help/marketo-tutorial-implementing-new-instance/assets/christina-zuniga.png){width="150"}
 
-**Christina Zuniga**, Marketing Operations Manager, Beschäftigung
+**Christina Zuniga**, Marketing Operations Manager, Angestellte
 Adobe Marketo Engage Champion (2017, 2018, 2020, 2021)
 
 ## Katja Keesom {#katja-keesom}
@@ -43,11 +43,11 @@ Adobe Marketo Engage Champion (2017, 2018, 2020, 2021)
 **Katja Keesom**, Principal B2B Marketing Automation Consultant, Chapman Bright
 Adobe Marketo Engage Champion (2023)
 
-## Juliz James {#julz-james}
+## Julz James {#julz-james}
 
-![July James](/help/marketo-tutorial-implementing-new-instance/assets/julz-james.png){width="150"}
+![Julz James](/help/marketo-tutorial-implementing-new-instance/assets/julz-james.png){width="150"}
 
-**July James**, SR Marketing Operations Manager, 6sense
+**Julz James**, SR Marketing Operations Manager, 6sense
 Adobe Marketo Engage Champion (2015)
 
 ## Peter Livadas {#peter-livadas}
@@ -60,4 +60,4 @@ Adobe Marketo Engage Champion (2015)
 
 ![Sara Barriuso](/help/marketo-tutorial-implementing-new-instance/assets/sara_barriuso.png){width="150"}
 
-**Sara Barriuso**, Marketing Operations Manager bei Eckstein OnDemand
+**Sara Barriuso**, Marketing Operations Manager bei Cornerstone OnDemand

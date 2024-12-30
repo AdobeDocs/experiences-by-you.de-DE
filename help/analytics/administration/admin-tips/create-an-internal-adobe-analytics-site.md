@@ -1,5 +1,5 @@
 ---
-title: Interne [!DNL Adobe Analytics] Site erstellen (Zusammenfluss oder andere)
+title: Erstellen einer internen  [!DNL Adobe Analytics]  (Zusammenfluss oder andere)
 description: Erstellen Sie einen zentralen Ort, an dem Schulungsdokumente von allen Ihren Benutzern gemeinsam genutzt und eingesehen werden können.
 solution: Analytics
 feature-set: Analytics
@@ -18,26 +18,26 @@ ht-degree: 0%
 
 ---
 
-# Interne [!DNL Adobe Analytics] Site erstellen (Zusammenfluss oder andere)
+# Erstellen einer internen [!DNL Adobe Analytics]-Site (Zusammenfluss oder andere)
 
-**WAS:** Wenn Sie die Empfehlung in [diesem Tipp](create-basic-videos-and-training.md){target="_blank"} befolgt haben, Schulungsdokumente zu erstellen, können Sie diese offensichtlich nicht auf Ihrer Festplatte behalten. Erstellen Sie einen zentralen Ort, an dem diese von allen Ihren Benutzern gemeinsam genutzt und besucht werden können - eine interne [!DNL Adobe Analytics] -Site (Zusammenspiel oder andere), an der Sie alle diese Dokumente veröffentlichen und verschiedene Versionen verwalten können.
+**WAS:** Wenn Sie die Empfehlung zum Erstellen von Schulungsdokumenten [diesem Tipp](create-basic-videos-and-training.md){target="_blank"} beherzigt haben, können Sie diese natürlich nicht auf Ihrer Festplatte speichern. Erstellen Sie einen zentralen Ort, an dem diese von allen Ihren Benutzern gemeinsam genutzt und eingesehen werden können - eine interne [!DNL Adobe Analytics]-Site (Zusammenfluss oder andere), auf der Sie all diese Dokumente veröffentlichen und verschiedene Versionen verwalten können.
 
-**WARUM:** Durch die Einrichtung eines einzelnen freigegebenen Repositorys erhalten Sie einen Ort, an dem alle neuen Benutzer weitergeleitet werden und eine einzige &quot;Source of Truth&quot;-Quelle für die neuesten Versionen aller Dokumente angeboten wird. Es ermöglicht eine optimale Versionsverwaltung und Zusammenarbeit.
+**WARUM:** Durch die Einrichtung eines einzigen gemeinsam genutzten Repositorys erhalten Sie einen Ort, an den alle neuen Benutzer weitergeleitet werden und an dem eine einzige Quelle der Wahrheit in Bezug auf die neuesten Versionen aller Dokumente bereitgestellt wird. Dies ermöglicht eine optimale Versionsverwaltung und Zusammenarbeit.
 
-**HOW:** Hier sind einige Vorschläge für Abschnitte dieser internen Site:
+**WIE:** Im Folgenden finden Sie einige Vorschläge für Abschnitte dieser internen Website:
 
-* _Einführung_: Wie man Zugriff erhält, Kontakte, wie man sich anmeldet, wie man ein JIRA-Ticket erstellt, wo man Hilfe erhält, usw.
-* _Tagging von Dokumenten_: Eigenschaftendokument, Tagging von Dokumenten, Codevorlagen usw.
-* _Wissensdokumente_: Hier können Sie Namenskonventionen posten, aber auch Wissensdokumente, die denselben Zweck wie Schulungsvideos haben. Zum Beispiel: wie man Downloads verfolgt, wie man Coupons verfolgt usw.
-* _Schulungsdocs_: Einfache und erweiterte Trainings-Sitzungen, kurze 5-10-minütige Videos. Sie können auch Links zu [!DNL Adobe] -Ressourcen bereitstellen: Experience League, YouTube-Kanäle usw.
-* _Admin docs_: SAINT-Dateien, JS-Dateien, Wissensdokumente zu Admin-Elementen wie Daten-Feeds usw.
+* _Einführung_: So erhalten Sie Zugriff, Kontakte, können sich anmelden, ein JIRA-Ticket erstellen, Hilfe erhalten usw.
+* _Tagging von_: Eigenschaftendokumente, Tagging von Dokumenten, Codevorlagen usw.
+* _Wissensdokumente_: Sie können hier Namenskonventionen posten, aber auch Wissensdokumente, die denselben Zweck wie Schulungsvideos haben. Beispiel: wie man Downloads verfolgt, wie man Coupons verfolgt usw.
+* _Schulungsdokumente_: Einfache und erweiterte Schulungen, kurze 5-10-minütige Videos. Sie können auch Links zu [!DNL Adobe] Ressourcen bereitstellen: Experience League, YouTube-Kanäle usw.
+* _Admin-_: SAINT-Dateien, JS-Dateien, Wissensdokumente zu Admin-Themen wie Daten-Feeds usw.
 
-Ich empfehle Ihnen auch, den Link zu dieser Site (und markieren Sie den Schulungsabschnitt) in Ihrer E-Mail &quot;Willkommen bei [!DNL Adobe Analytics]&quot; freizugeben, wenn Sie ein neues Konto erstellen.
+Ich empfehle Ihnen auch, den Link zu dieser Website in Ihrer „Willkommen bei [!DNL Adobe Analytics]&quot;-E-Mail zu teilen (und den Schulungsabschnitt hervorzuheben), wenn Sie ein neues Konto erstellen.
 
 
 ## Autoren
 
-Dieses Dokument wurde von folgenden Personen mitgeschrieben:
+Dieses Dokument wurde gemeinsam verfasst von:
 
 ![Christel Guidon](assets/Christel-Headshot-150.png)
 
@@ -46,4 +46,4 @@ Christel Guidon, Digital [!DNL Analytics] Platform Manager bei NortonLifeLock
 
 ![Rachel Fenwick](assets/Rachel-Fenwick-150.png)
 
-Rachel Fenwick, leitender Berater bei [!DNL Adobe]
+Rachel Fenwick, Senior Consultant bei [!DNL Adobe]

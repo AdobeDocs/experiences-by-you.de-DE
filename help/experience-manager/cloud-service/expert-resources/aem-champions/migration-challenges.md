@@ -1,6 +1,6 @@
 ---
-title: AEM Champion - Problembehebung bei der Migration zu AEM as a Cloud Service
-description: Erfahren Sie mehr über die Bewältigung gemeinsamer Herausforderungen bei der Migration von Wilson Faure, AEM Champion, nach AEM as a Cloud Service.
+title: AEM Champion - Bewältigung der Herausforderungen bei der Migration zu AEM as a Cloud Service
+description: Holen Sie sich von AEM-Champion Wilson Faure fachkompetenten Rat, wie Sie häufige Herausforderungen bei der Migration von AEM as a Cloud Service bewältigen können.
 version: Cloud Service
 topic: Migration
 role: Admin, Developer
@@ -18,7 +18,7 @@ ht-degree: 47%
 
 ---
 
-# AEM Champion Best Practices und Tipps - Umgang mit gemeinsamen Herausforderungen bei der Migration zu AEM as a Cloud Service
+# Best Practices und Tipps von AEM Champion - Bewältigung häufiger Herausforderungen bei der Migration zu AEM as a Cloud Service
 
 Erhalten Sie unbezahlbare Einblicke und Best Practices von Ihrem AEM-Fachkollegen Wilson Faure. In diesem Video erläutert er die gängigen Herausforderungen, die bei der Migration zu AEM as a Cloud Service auftreten, und gibt Empfehlungen sowie Expertentipps für einen reibungslosen und erfolgreichen Übergang.
 

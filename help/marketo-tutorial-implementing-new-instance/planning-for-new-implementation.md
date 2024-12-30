@@ -1,6 +1,6 @@
 ---
 title: Planen einer neuen Marketo Engage-Implementierung
-description: Erfahren Sie mehr über die grundlegende Planung und funktionsübergreifende Teamzusammenarbeit für die erfolgreiche Implementierung einer neuen Marketo Engage-Instanz. Dieses Tutorial enthält Beispiel-Meilensteine, Teaminteraktionen und Ressourcenzuweisungen für eine nahtlose Marketo Engage-Implementierung.
+description: Erfahren Sie mehr über die erforderliche Planung und funktionsübergreifende Team-Zusammenarbeit für die erfolgreiche Implementierung einer neuen Marketo Engage-Instanz. Dieses Tutorial bietet Beispiele für Meilensteine, Teaminteraktionen und Ressourcenzuweisungen für eine nahtlose Marketo Engage-Implementierung.
 role: Admin
 level: Beginner
 doc-type: Article
@@ -19,50 +19,50 @@ ht-degree: 5%
 
 # Planen einer neuen Marketo Engage-Implementierung
 
-Die Implementierung einer neuen Marketo Engage-Instanz erfordert sorgfältige Planung, Teamzusammenarbeit und kontinuierliche Optimierung. Es gibt zwar kein perfektes Rezept für die Implementierung einer neuen Instanz, aber die meisten Marketo Engage-Administratoren, die diese durchlaufen haben, können zustimmen, dass die Planung voraus den Prozess viel reibungsloser gestalten wird.
+Die Implementierung einer neuen Marketo Engage-Instanz erfordert eine sorgfältige Planung, die Zusammenarbeit zwischen den Teams und eine kontinuierliche Optimierung. Es gibt zwar kein perfektes Rezept für die Implementierung einer neuen Instanz, aber die meisten Marketo Engage-Administratoren, die es durchlaufen haben, können zustimmen, dass eine vorausschauende Planung den Prozess viel reibungsloser gestalten wird.
 
-In diesem Tutorial werden wir die spezifischen Meilensteine, Teaminteraktionen und Ressourcenzuweisungen untersuchen, die für eine erfolgreiche Marketo Engage-Rollout von entscheidender Bedeutung sind.
+In diesem Tutorial gehen wir auf die spezifischen Meilensteine, Teaminteraktionen und Ressourcenzuweisungen ein, die für einen erfolgreichen Marketo Engage-Rollout entscheidend sind.
 
 ## Wichtige Meilensteine während der neuen Marketo Engage-Implementierung
 
-### Phase 1 - Ermittlung und Planung
+### Phase 1: Erkennung und Planung
 
-- Bedarfsanalyse für Marketing und Vertrieb
-- Definieren von Zielen oder Key Performance Indicators (KPIs)
+- Marketing- und Vertriebsbedarfsbewertung durchführen
+- Definieren von Zielen für Key Performance Indicators (KPIs)
 
-### Phase 2 - Technische Einrichtung und Konfiguration
+### Phase 2: Technische Einrichtung und Konfiguration
 
-- Konfigurieren von Admin-Einstellungen, einschließlich CNAMEs und Munchkin-Code.
-- Konfiguration von Lead-Management-Prozessen
-- Automatisierungs-Workflows und Datensynchronisation testen
+- Konfigurieren von Admin-Einstellungen einschließlich CNAMEs und Munchkin-Code.
+- Lead-Management-Prozesse konfigurieren
+- Testen von Automatisierungs-Workflows und Datensynchronisierung
 
-### Phase 3: Erstellung und Einrichtung von Programmbibliotheken und Kampagnen
+### Phase 3: Erstellung der Programmbibliothek und Einrichtung der Kampagne
 
-- Entwicklung von E-Mail-Vorlagen und Landingpages. Beginnend mit [Importieren von Startprogrammen](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program) aus der [Programm-Importbibliothek](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview).
+- Entwickeln von E-Mail-Vorlagen und Landingpages. Beginnen Sie mit [Importieren von ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program) aus der [Programm-Importbibliothek](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview).
 - Einrichten von Segmentierungs- und Personalization-Regeln
-- Erstellen von anfänglichen Kampagnen für die Lead-Generierung und -Pflege
+- Erstellen erster Kampagnen für die Lead-Generierung und -Pflege
 
-### Phase 4: Schulung und Benutzerakzeptanz
+### Phase 4 - Schulung und Benutzerakzeptanz
 
 - Durchführen von Schulungssitzungen und/oder Materialien für Benutzer
-- Einrichten von Governance-Richtlinien und Best Practices für Instanzen
-- Überwachen von Benutzerakzeptanzmetriken und Feedback von Interessengruppen
+- Festlegen von Richtlinien und Best Practices für die Instanzverwaltung
+- Überwachen von Metriken zur Benutzerakzeptanz und Feedback von Stakeholdern
 
-### Phase 5 - Go-Live und Optimierung
+### Phase 5: Live-Schaltung und Optimierung
 
 - Abschließende Systemtests und Qualitätssicherung
-- Starten anfänglicher Kampagnen und Überwachen der Leistung
-- Implementierung iterativer Verbesserungen basierend auf Reporting und Analysen
+- Starten erster Kampagnen und Überwachen der Leistung
+- Implementieren iterativer Verbesserungen auf der Grundlage von Reporting- und Analysefunktionen
 
-## Interaktion der Interessenträger und erforderliche Ressourcen
+## Interaktion mit Stakeholdern und benötigte Ressourcen
 
-Die Implementierung einer neuen Instanz erfordert eine sorgfältige Planung und Ausführung, um deren Vorteile zu maximieren. Wenn Sie die richtigen Akteure am Anfang einbeziehen, können Sie die Implementierung auf die allgemeinen Anforderungen Ihres Unternehmens anpassen. Referenzieren Sie das Beispiel wichtiger Interessengruppen und deren potenzielle Rolle(en) im unten stehenden Projekt, um Sie bei der Suche nach den richtigen internen Partnern zur Implementierung von Marketo Engage zu unterstützen.
+Die Implementierung einer neuen Instanz erfordert eine sorgfältige Planung und Ausführung, um ihre Vorteile zu maximieren. Wenn Sie die richtigen Stakeholder zu Beginn einbeziehen, kann die Implementierung an die allgemeinen Anforderungen Ihres Unternehmens angepasst werden. Verweisen Sie auf die Beispiele der wichtigsten Stakeholder und ihrer potenziellen Rolle(n) im folgenden Projekt, um Sie bei der Suche nach den richtigen internen Partnern für die Implementierung von Marketo Engage zu unterstützen.
 
 <table>
  <thead>
     <tr>
         <th>Stakeholder</th>
-        <th>Potenzielle Rolle(en) und Zuständigkeiten  </th>
+        <th>Mögliche Rollen und Zuständigkeiten  </th>
     </tr>
  </thead>    
  <tbody>
@@ -70,15 +70,15 @@ Die Implementierung einer neuen Instanz erfordert eine sorgfältige Planung und 
         <td>Marketing Operations Director/Manager</td>
         <td>
         <li>Hauptansprechpartner für das Projekt</li>
-        <li>Instanz-Governance-Regeln</li> 
-        <li>Datenanalyse für Reporting und Analyse </li> 
+        <li>Governance-Regeln für Instanzen</li> 
+        <li>Datenanalyse für Reporting und Analysen </li> 
         </td>
     </tr>
     <tr>
-        <td>CRM-Admin</td>
+        <td>CRM-Administrator</td>
         <td>
-        <li>CRM-Synchronisierung </li>
-        <li>Bleifluss</li> 
+        <li>CRM-Synchronisation </li>
+        <li>Lead-Fluss</li> 
         </td>
     </tr>
      <tr>
@@ -86,7 +86,7 @@ Die Implementierung einer neuen Instanz erfordert eine sorgfältige Planung und 
         <td>
         <li>Munchkin</li>
         <li>SPF/DKIM </li> 
-        <li>Webdomäneneinrichtung</li> 
+        <li>Einrichten von Web-Domains</li> 
         <li>CNAMEs</li> 
         <li>Email Deliverability</li>
         </td>
@@ -94,8 +94,8 @@ Die Implementierung einer neuen Instanz erfordert eine sorgfältige Planung und 
     <tr>
         <td>Engineering</td>
         <td>
-        <li>Entwicklung für die Integration benutzerdefinierter Dienste </li>
-        <li>Datenentwicklung für die Datenzuordnung und -migration</li> 
+        <li>Entwicklung für die Integration benutzerdefinierter Services </li>
+        <li>Data Engineering für die Datenzuordnung und -migration</li> 
         </td>
     </tr>
      <tr>
@@ -103,198 +103,198 @@ Die Implementierung einer neuen Instanz erfordert eine sorgfältige Planung und 
         <td>
         <li>Erstellung und Design von Programmvorlagen</li>
         <li>Kanäle </li>
-        <li>Lead-/Personenbewertung und Lebenszyklus</li> 
+        <li>Lead-/Personen-Scoring und -Lebenszyklus</li> 
         <li>Berichterstattung und Feedback zur Programmwirksamkeit</li> 
         </td>
     </tr>
      <tr>
-        <td>Vertrieb</td>
+        <td>Verkauf</td>
         <td>
-        <li>Modell für Lead-/Personen-Scoring</li>
-        <li>Lead-Fluss/Routing</li>  
-        <li>Lebenszyklus-Service-Level-Vereinbarungen (SLAs)</li> 
+        <li>Scoring-Modellierung für Leads/Personen</li>
+        <li>Lead-Fluss/-Routing</li>  
+        <li>Lebenszyklus-Service-Level-Agreements (SLAs)</li> 
         </td>
     </tr>
      <tr>
         <td>C-Suite</td>
         <td>
-        <li>Gesamtprojektentwicklung  </li>
+        <li>Gesamte Projektausrichtung  </li>
         <li>Allgemeine Implementierungsziele</li> 
         </td>
     </tr>
 </table>
 
-## Peer-Perspektive - Marketo Engage-Implementierung
+## Peer Perspective - Marketo Engage-Implementierung
 
-Marketo Engage Champion (2019), Kyle McCormick, über seine Onboarding- und Implementierungserfahrungen bei Palotos Networks. Sie erfahren mehr über die Herausforderungen, mit denen er konfrontiert war, und seine Ratschläge dazu, wie Sie Ihren Onboarding-Prozess erfolgreich und effizient steuern können.
+Erfahren Sie von Marketo Engage Champion (2019), Kyle McCormick, über seine Onboarding- und Implementierungserfahrungen bei Palotos Networks. Sie erfahren mehr über die Herausforderungen, vor denen er stand, und über seine Ratschläge, wie Sie Ihren Onboarding-Prozess erfolgreich und effizient vorantreiben können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428771/?quality=12&learn=on)
 
 ## Wie geht es weiter?
 
-Erstellen Sie einen neuen Implementierungsprojektplan und einen neuen Zeitplan. Im Folgenden finden Sie ein Beispiel für eine Projekt-Timeline mit Abschnitten zu Beispiel-Meilensteinen, Aufgaben, verantwortlichen Teams, Terminen und Abhängigkeiten. Verwenden Sie sie, um Ihre Marketo Engage-Implementierungs-Journey zu optimieren und einen erfolgreichen Rollout im gesamten Unternehmen sicherzustellen.
+Erstellen Sie einen neuen Implementierungsprojektplan und einen neuen Zeitplan. Nachfolgend finden Sie eine Beispiel-Projekt-Zeitleiste mit Abschnitten für Beispiel-Meilensteine, Aufgaben, verantwortliche Teams, Fristen und Abhängigkeiten. Verwenden Sie diese Option, um Ihre Marketo Engage-Implementierungs-Journey zu optimieren und einen erfolgreichen Rollout im gesamten Unternehmen sicherzustellen.
 
-Sie können das Beispiel auch zum Bearbeiten und Verfolgen bestimmter Meilensteinaufgaben [HERE](/help/marketo-tutorial-implementing-new-instance/assets/adobe-marketo-engage-implementation-milestones-project-management-template.xlsx) herunterladen.
+Sie können auch das Beispiel zum Bearbeiten und Tracking bestimmter Meilensteinaufgaben ([) ](/help/marketo-tutorial-implementing-new-instance/assets/adobe-marketo-engage-implementation-milestones-project-management-template.xlsx).
 
 <table>
  <thead>
     <tr>
         <th>Thema</th>
-        <th>Milestone</th>
+        <th>Meilenstein</th>
         <th>Status</th>
         <th>Voraussichtliches Datum</th>
         <th>Tatsächliches Datum</th>
-        <th>Erforderliche Ressourcen</th>
+        <th>Benötigte Ressourcen</th>
     </tr>
  </thead>    
  <tbody>
     <tr>
-        <td><em>Nutzen Sie diese allgemeinen Onboarding-Themen, um die Etappen Ihrer Meilensteine zu organisieren.</em></td>
-        <td><em>Schreiben Sie Ihre spezifischen Meilensteinaufgaben.</em></td>
-        <td><em>Wie lautet der aktuelle Status Ihrer Aufgabe?</em></td>
-        <td><em>Welches ist das voraussichtliche Abschlussdatum dieser Aufgabe?</em></td>
+        <td><em>Verwenden Sie diese allgemeinen Onboarding-Themen, um die Stadien Ihrer Meilensteine zu organisieren.</em></td>
+        <td><em>Schreiben Sie Ihre spezifischen Meilensteinaufgaben auf.</em></td>
+        <td><em>Wie ist der aktuelle Status Ihrer Aufgabe?</em></td>
+        <td><em>Bis wann soll diese Aufgabe abgeschlossen sein?</em></td>
         <td><em>Wann wurde diese Aufgabe tatsächlich abgeschlossen?</em></td>
-        <td><em>Welche Ressourcen benötigen Sie, um diese Aufgabe durchzuführen, und aus welchen Teams werden Sie sie benötigen?</em></td>
+        <td><em>Welche Ressourcen benötigen Sie, um diese Aufgabe zu erfüllen, und von welchen Teams benötigen Sie sie?</em></td>
     </tr>
     <tr>
         <td rowspan="2">Technische Einrichtung</td>
-        <td><em>BEISPIEL -</em> MunchkinID auf der Firmenwebsite installieren</td>
+        <td><em>Beispiel -</em> Installieren von MunchkinID auf der Unternehmens-Website</td>
         <td bgcolor="c6f0cf">Abgeschlossen</td>
-        <td>05.09.24</td>
-        <td>12.09.24</td>
-        <td>Web-Entwicklungsteam</td>
+        <td>9/5/24</td>
+        <td>9/12/24</td>
+        <td>Web-Entwicklungs-Team</td>
     </tr>
     <tr>
-        <td><em>BEISPIEL -</em> Einrichten von Domain Keys Identified Mail (DKIM) und zwei separaten CNAMEs für Zustellbarkeit und E-Mail-Tracking-Links.</td>
+        <td><em>Beispiel - </em> Sie Domain Keys Identified Mail (DKIM) und zwei separate CNAMEs für Zustellbarkeits- und E-Mail-Tracking-Links ein.</td>
         <td bgcolor="c6f0cf">Abgeschlossen</td>
-        <td>15.09.24</td>
-        <td>18.09.24</td>
+        <td>9/15/24</td>
+        <td>9/18/24</td>
         <td>Support und Einrichtung durch das IT-Team</td>
     </tr>
     <tr>
-        <td rowspan="4">Adobe Admin Console- und Admin-Einrichtung</td>
-        <td><em>BEISPIEL -</em> Erstellen von Marketo Engage-Benutzern und -Rollen</td>
+        <td rowspan="4">Adobe Admin Console- und Admin-Setup</td>
+        <td><em>Beispiel -</em> Erstellen von Marketo Engage-Benutzern und -Rollen</td>
         <td bgcolor="c6f0cf">Abgeschlossen</td>
-        <td>27.08.24</td>
-        <td>15.09.24</td>
-        <td>Informationen von Marketingteams darüber, wer Zugriff auf Marketo Engage benötigt.</td>
+        <td>8/27/24</td>
+        <td>9/15/24</td>
+        <td>Informationen von Marketing-Teams darüber, wer Zugriff auf Marketo Engage benötigt.</td>
     </tr>
     <tr>
-        <td><em>BEISPIEL -</em> Zusätzliche Marketo Engage Product Admin in Adobe Admin Console erstellen</td>
+        <td><em>BEISPIEL -</em> Erstellen eines zusätzlichen Marketo Engage-Produktadministrators in Adobe Admin Console</td>
         <td bgcolor="c6f0cf">Abgeschlossen</td>
-        <td>27.08.24</td>
-        <td>15.09.24</td>
-        <td>Informationen des Marketing-Operations-Teams darüber, wer Administratorzugriff auf Marketo Engage benötigt.</td>
+        <td>8/27/24</td>
+        <td>9/15/24</td>
+        <td>Informationen des Marketing-Vorgangs-Teams dazu, wer Administratorzugriff auf Marketo Engage benötigt.</td>
     </tr>
     <tr>
-        <td><em>BEISPIEL -</em> Einrichten von Support-Administratoren</td>
+        <td><em>Beispiel -</em> Einrichten von Support-Administratoren</td>
         <td bgcolor="c6f0cf">Abgeschlossen</td>
-        <td>27.08.24</td>
-        <td>15.09.24</td>
-        <td>Informationen vom Marketing-Operations-Team zur Bestätigung der Hauptkontakte für den Support. Unterstützung durch den Systemadministrator zur Zuweisung von Supportadministratoren.</td>
+        <td>8/27/24</td>
+        <td>9/15/24</td>
+        <td>Informationen vom Marketing-Operations-Team zur Bestätigung der wichtigsten Kontakte für Support. Unterstützung von Systemadmin bei der Zuweisung von Support-Admin-Benutzern.</td>
     </tr>
     <tr>
-        <td><em>BEISPIEL -</em> Ordnerstruktur und Benennungskonventionen definieren</td>
+        <td><em>Beispiel -</em> Definieren der Ordnerstruktur und von Benennungskonventionen</td>
         <td bgcolor="c6f0cf">Abgeschlossen</td>
-        <td>07.09.24</td>
-        <td>12.09.24</td>
-        <td>Beiträge der einzelnen Teams, die Marketo Engage zu den Programmtypen und organisatorischen Anforderungen verwenden.</td>
+        <td>9/7/24</td>
+        <td>9/12/24</td>
+        <td>Eingaben von jedem Team mithilfe von Marketo Engage zu Programmtypen und Organisationsanforderungen.</td>
     </tr>
     <tr>
         <td rowspan="2">CRM-Integration (falls zutreffend)</td>
-        <td><em>BEISPIEL -</em> Bestimmen Sie die Feldzuordnung vor der Synchronisierung</td>
+        <td><em>Beispiel -</em> Ermitteln der Feldzuordnung vor der Synchronisierung</td>
         <td bgcolor="ffeb9c">Bearbeitung läuft</td>
-        <td>22.10.24</td>
+        <td>10/22/24</td>
         <td>K. A.</td>
         <td>Unterstützung durch den CRM-Administrator zum Verständnis der verfügbaren Felder.</td>
     </tr>
     <tr>
-        <td><em>BEISPIEL -</em> Führen Sie eine Datenprüfung durch</td>
+        <td><em>BEISPIEL - </em> eines Daten-Audits</td>
         <td bgcolor="ffeb9c">Bearbeitung läuft</td>
-        <td>26.10.24</td>
+        <td>10/26/24</td>
         <td>K. A.</td>
-        <td>Unterstützung durch CRM-Administratoren oder -Budgets.</td>
+        <td>Unterstützung durch CRM-Admin oder -Budget.</td>
     </tr>
     <tr>
-        <td rowspan="2">Aufbau des operationellen Programms</td>
-        <td><em>BEISPIEL -</em> Programm zur Standardisierung eingehender Daten erstellen</td>
+        <td rowspan="2">Erstellung des operationellen Programms</td>
+        <td><em>BEISPIEL -</em> Erstellen eines Programms zur Standardisierung eingehender Daten</td>
         <td bgcolor="ffc7cf">Nicht gestartet</td>
-        <td>09.11.24</td>
+        <td>11/9/24</td>
         <td>K. A.</td>
-        <td>Unterstützung durch die Sales Ops- und CRM-Teams zur Festlegung einer Datenverwaltungsstrategie.</td>
+        <td>Unterstützung durch die Vertriebs-, Ops- und CRM-Teams bei der Ermittlung einer Datenverwaltungsstrategie.</td>
     </tr>
     <tr>
-        <td><em>BEISPIEL -</em> E-Mail-Abonnement-Center erstellen</td>
+        <td><em>BEISPIEL -</em> Erstellen eines E-Mail-Abonnementzentrums</td>
         <td bgcolor="ffc7cf">Nicht gestartet</td>
-        <td>19.11.24</td>
+        <td>11/19/24</td>
         <td>K. A.</td>
-        <td>Eingabe der Marketing-Teams zu Inhaltstypen und Segmentierung für Mailinglisten.</td>
+        <td>Beiträge der Marketing-Teams zu Inhaltstypen und zur Segmentierung für Mailing-Listen.</td>
     <tr>
-        <td rowspan="2">Erster Marketing-Programmaufbau</td>
+        <td rowspan="2">Erstes Marketing-Programm erstellen</td>
         <td><em>BEISPIEL -</em> Einrichten eines einfachen E-Mail-Programms</td>
         <td bgcolor="ffeb9c">Bearbeitung läuft</td>
-        <td>12.11.24</td>
+        <td>11/12/24</td>
         <td>K. A.</td>
-        <td>Kreative Assets aus dem digitalen Team für E-Mails und Landingpages.</td>
+        <td>Kreativ-Assets des digitalen Teams für E-Mails und Landingpages.</td>
     </tr>
     <tr>    
-        <td><em>BEISPIEL -</em> Programm für den vierteljährlichen Newsletter erstellen</td>
+        <td><em>BEISPIEL -</em> Programm für vierteljährlichen Newsletter erstellen</td>
         <td bgcolor="ffc7cf">Nicht gestartet</td>
-        <td>30.11.24</td>
+        <td>11/30/24</td>
         <td>K. A.</td>
-        <td>Inhalt des Marketing-Teams für Newsletter-E-Mails und Kreativ-Assets/-Inhalte des Designteams.</td>
+        <td>Inhalte aus dem Marketing-Team für Newsletter-E-Mails und Kreativ-Assets/Inhalte aus dem Design-Team.</td>
     </tr>
     <tr>
-        <td rowspan="2">Einrichtung der LaunchPoint-Integration</td>
-        <td><em>BEISPIEL -</em> Nur Benutzer und Rolle für API erstellen</td>
+        <td rowspan="2">LaunchPoint-Integrationseinrichtung</td>
+        <td><em>BEISPIEL -</em> Nur API-Benutzer und -Rollen erstellen</td>
         <td bgcolor="ffc7cf">Nicht gestartet</td>
-        <td>23.11.24</td>
+        <td>11/23/24</td>
         <td>   </td>
-        <td>Umfang der für die neue Instanz benötigten Dienste mit den Marketing-Teams.</td>
+        <td>Ermitteln Sie mit den Marketing-Teams den Umfang der für die neue Instanz erforderlichen Services.</td>
     </tr>
     <tr>
-        <td><em>BEISPIEL -</em> Erstellen eines benutzerdefinierten Dienstes für Google Ads</td>
+        <td><em>BEISPIEL -</em> Erstellen eines benutzerdefinierten Services für Google Ads</td>
         <td bgcolor="ffc7cf">Nicht gestartet</td>
-        <td>07.12.24</td>
+        <td>12/7/24</td>
         <td>   </td>
-        <td>Unterstützung durch Web- und Paid Media-Teams zur Authentifizierung von Marketo Engage für den Zugriff auf Google Ads.</td>
+        <td>Unterstützung durch Web- und Paid-Media-Teams zur Authentifizierung von Marketo Engage für den Zugriff auf Google Ads.</td>
         <td>
     </tr>
     <tr>
         <td rowspan="2">Benutzerschulung und Dokumentation</td>
-        <td><em>BEISPIEL -</em> Erstellen Sie ein Governance-Handbuch für interne Benutzer</td>
+        <td><em>BEISPIEL -</em> Erstellen eines Governance-Handbuchs für interne Benutzer</td>
         <td bgcolor="ffc7cf">Nicht gestartet</td>
-        <td>2.12.24</td>
+        <td>12/2/24</td>
         <td>K. A.</td>
         <td>Erstellen Sie ein Marketo Engage-Governance-Team, um unterstützende Governance-Dokumentationen oder Budgets zu erstellen, um das Governance-Projekt abzuschließen.</td>
     <tr>
-        <td><em>BEISPIEL -</em> Trainieren von 4 Benutzern und Bereitstellen von Standardzugriff für Marketo-Benutzer</td>
+        <td><em>BEISPIEL -</em> Schulung von 4 Benutzern und Bereitstellung des standardmäßigen Marketo-Benutzerzugriffs</td>
         <td bgcolor="ffc7cf">Nicht gestartet</td>
-        <td>13.12.24</td>
+        <td>12/13/24</td>
         <td>K. A.</td>
-        <td>Unterstützung des VP of Marketing, um Schulungen für den Zugang zu Marketo Engage erforderlich zu machen.</td>
+        <td>Unterstützung durch VP Marketing, um Schulungen für den Zugriff auf Marketo Engage verpflichtend zu machen.</td>
     <tr>
         <td rowspan="2">Live-Schaltung</td>
-        <td><em>BEISPIEL -</em> ersten Newsletter senden</td>
+        <td><em>BEISPIEL -</em> Ersten Newsletter senden</td>
         <td bgcolor="ffc7cf">Nicht gestartet</td>
-        <td>09.12.24</td>
+        <td>12/9/24</td>
         <td>K. A.</td>
-        <td>Marketing Operations-Team zur Qualitätssicherung, Planung und Versand.</td>
+        <td>Marketing Operations-Team für Qualitätssicherung, Planung und Versand.</td>
     </tr>
     <tr>
-        <td><em>BEISPIEL -</em> Rufen Sie den ersten E-Mail-Leistungsbericht ab.</td>
+        <td><em>Beispiel - </em> den ersten E-Mail-Leistungsbericht abrufen.</td>
         <td bgcolor="ffc7cf">Nicht gestartet</td>
-        <td>16.12.24</td>
+        <td>12/16/24</td>
         <td>K. A.</td>
-        <td>Marketing Operations-Team zur Qualitätssicherung, Planung und Versand.</td>
+        <td>Marketing Operations-Team für Qualitätssicherung, Planung und Versand.</td>
     </tr>
  </tbody>    
 </table>
 
 >[!NOTE]
->Die angegebenen Beispiele basieren nicht auf einem echten Implementierungszeitrahmen. Verlassen Sie sich nicht auf diese als Standard-Timeline für Ihr Onboarding mit Marketo Engage, da jede Implementierung je nach den Anforderungen Ihres Unternehmens unterschiedlich mit Meilensteinen und Anforderungen ist.
+>Die angegebenen Beispiele basieren nicht auf einem echten Implementierungszeitplan. Nutzen Sie diese nicht als Standardzeitplan für Ihr Onboarding mit Marketo Engage, da jede Implementierung mit unterschiedlichen Meilensteinen und Anforderungen entsprechend den Anforderungen Ihres Unternehmens einzigartig ist.
 
-Wenden Sie sich an das Adobe-Account-Team oder an [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}, um Hilfe bei der Implementierung und Anpassung Ihrer Marketo Engage für Ihre Instanz zu erhalten.
+Wenn Sie Unterstützung bei der Implementierung und Anpassung Ihrer Marketo Engage für Ihre Instanz benötigen, wenden Sie sich an das Adobe-Account-Team oder wenden Sie sich an [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ### Autor
 

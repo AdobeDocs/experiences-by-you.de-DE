@@ -1,6 +1,6 @@
 ---
-title: Erstellen Sie ein Datenflussdiagramm, um Ihren Marketing Tech Stack zu verstehen
-description: Erfahren Sie, wie Sie ein Diagramm mit "Lead- und Datenquellen"erstellen, um die Datenschicht zu verstehen, die Instanz effizient zu prüfen und zu bereinigen.
+title: Erstellen eines Datenflussdiagramms, um den technischen Marketing-Stack zu verstehen
+description: Erfahren Sie, wie Sie ein Diagramm mit „Lead- und Datenquellen“ erstellen, um das Datenuniversum zu verstehen, die Instanz effizient zu überprüfen und zu bereinigen.
 feature-set: Marketo Engage
 feature: Administration
 role: Admin
@@ -18,35 +18,35 @@ ht-degree: 2%
 
 ---
 
-# Erstellen Sie ein Datenflussdiagramm, um Ihren Marketing-Tech-Stack zu verstehen.
+# Erstellen eines Datenflussdiagramms, um den technischen Stapel Ihres Marketing zu verstehen
 
-Als Administrator, der eine [!DNL Marketo Engage] -Instanz übernimmt, die seit Jahren live ist, ist es wie eine Mission, die nicht effizient geprüft und aufgeräumt werden kann. Als [!DNL Adobe] [!DNL Marketo Champion] (2019), Kelly Jo Horton, in eine seit langem etablierte Instanz trat, ging sie diese Herausforderung an, indem sie [ein Diagramm &quot;Lead und Datenquellen&quot;](https://nation.marketo.com/t5/employee-blogs/understand-your-marketing-technology-and-data-create-this/ba-p/296774){target="_blank"} erstellte, um sich mit dem Datenuniversum vertraut zu machen. In diesem Tutorial erfahren Sie, wie Sie Ihr eigenes Datenflussdiagramm erstellen, indem Sie auf den von Kelly Jo Horton freigegebenen Beispielen aufbauen. Lernen Sie Ihr MarTech-Ökosystem kennen!
+Als Administrator, der eine [!DNL Marketo Engage] Instanz übernimmt, die seit Jahren live ist, ist es wie eine Mission unmöglich, die Instanz effizient zu überprüfen und aufzuräumen. Als [!DNL Adobe] [!DNL Marketo Champion] (2019), Kelly Jo Horton, in eine alteingesessene Instanz trat, nahm sie diese Herausforderung an, indem sie [ein Diagramm von „Lead und Datenquellen“ erstellte](https://nation.marketo.com/t5/employee-blogs/understand-your-marketing-technology-and-data-create-this/ba-p/296774){target="_blank"} um sich mit dem Datenuniversum vertraut zu machen. In diesem Tutorial erfahren Sie, wie Sie Ihr eigenes Datenflussdiagramm erstellen, indem Sie auf den Beispielen von Kelly Jo Horton aufbauen. Lernen wir Ihr MarTech-Ökosystem kennen!
 
-## Warum erstellen Sie ein Architekturdiagramm für Ihre geerbte Instanz?
+## Warum sollten Sie ein Architekturdiagramm für Ihre geerbte Instanz erstellen?
 
-1. **Machen Sie sich mit dem Marketing-Tech-Stack vertraut, den Sie von einer Live-Instanz übernommen haben.** Alle Marketing-Operation-Manager/Platform-Operations-Manager werden aufgefordert, diese Übung zu beginnen, wenn sie bei einem neuen Unternehmen beginnen. Dieser Erstellungsprozess ermöglicht es Admin-Benutzern, das vollständige Bild der Daten und Aktivitäten anzuzeigen, die von externen Integrationen an [!DNL Marketo Engage] gesendet wurden, und die API-Fehler einfach zu beheben.
-2. **Machen Sie sich mit den wichtigsten Stakeholdern vertraut, die die externen Integrationen verwalten.** Ein Tipp, den Kelly Jo Horton nutzt, um die Stakeholder schnell zu identifizieren, besteht darin, auf die Liste der API-Benutzer zu verweisen.
-   1. **Navigieren Sie im Abschnitt &quot;Admin&quot;zur Registerkarte &quot;Integration > LaunchPoint&quot;.** Erfahren Sie mehr darüber, wie Sie zur Registerkarte &quot;LaunchPoint&quot;navigieren: [Erstellen eines benutzerdefinierten Dienstes zur Verwendung mit der REST-API](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.html){target="_blank"}.
-   2. Statistiken zur API-Nutzung nach API-Benutzern finden Sie auf der Registerkarte Integration > Web-Services im Abschnitt API-Aufrufinformationen . Durch Klicken auf die API-Rufnummer können Sie die spezifischen individuellen Aufrufe der einzelnen Benutzer anzeigen.
+1. **Machen Sie sich mit dem Marketing-Technologie-Stack vertraut, den Sie von einer Live-Instanz geerbt haben.** Alle Marketing-Vorgangs-Manager/Platform-Vorgangs-Manager werden ermutigt, diese Übung durchzuführen, wenn sie bei einem neuen Unternehmen beginnen. Dieser Erstellungsprozess ermöglicht es Admin-Benutzern, sich einen Überblick über die Daten und Aktivitäten zu verschaffen, die von externen Integrationen an [!DNL Marketo Engage] gesendet werden, und API-Fehler einfach zu beheben.
+2. **Machen Sie sich mit den wichtigsten Stakeholdern vertraut, die die externen Integrationen verwalten.** Ein Tipp, den Kelly Jo Horton verwendet, um die Stakeholder schnell zu identifizieren, besteht darin, auf die Liste der API-Benutzer zu verweisen.
+   1. **Navigieren Sie im Abschnitt „Admin“ zur Registerkarte „Integration>LaunchPoint“.** Erfahren Sie mehr darüber, wie Sie zur Registerkarte „LaunchPoint“ navigieren: [Erstellen eines benutzerdefinierten Services zur Verwendung mit der REST-API](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.html){target="_blank"}.
+   2. Auf der Registerkarte Integration > Web-Services im Abschnitt API-Aufrufinformationen können Sie API-Nutzungsstatistiken nach API-Benutzer finden. Durch Klicken auf die API-Aufrufnummer können Sie die spezifischen individuellen Aufrufe der einzelnen Benutzenden anzeigen.
 
-## Anleitung zu dieser visuellen Datenflussdiagrammübung
+## Wie Sie diese visuelle Datenflussdiagramm-Übung durchführen
 
-### Schritt 1: Aktuelles Statusdiagramm
+### Schritt 1: Diagramm des aktuellen Status
 
 Erstellen Sie ein Diagramm zum aktuellen Status. Siehe folgendes Beispiel:
 
-![Abbildung des aktuellen Status](/help/marketo-tutorial-inherited-instance/_assets/data-flow-diagram/Current_State_Lead_Data_Sources_KellyJo_Horton.png){align="center"}
+![Aktuelles Zustandsdiagramm](/help/marketo-tutorial-inherited-instance/_assets/data-flow-diagram/Current_State_Lead_Data_Sources_KellyJo_Horton.png){align="center"}
 
 
-### Schritt 2: Zukünftiges Statusdiagramm
+### Schritt 2: Zukünftiges Zustandsdiagramm
 
-Erstellen Sie ein Diagramm &quot;Zukünftiger Status&quot;, das bei der Präsentation des technischen und systembezogenen Fahrplans für nicht technische Akteure verwendet werden kann. Siehe folgendes Beispiel:
+Erstellen Sie ein Zukunftsstatus-Diagramm, das bei der Präsentation der Technologie- und System-Roadmap für nicht-technische Stakeholder verwendet werden kann. Siehe folgendes Beispiel:
 
-![Zukünftiges Statusdiagramm](/help/marketo-tutorial-inherited-instance/_assets/data-flow-diagram/Future-State-Lead-Data-Sources-KellyJo-Horton.png){align="center"}
+![Zukunftszustandsdiagramm](/help/marketo-tutorial-inherited-instance/_assets/data-flow-diagram/Future-State-Lead-Data-Sources-KellyJo-Horton.png){align="center"}
 
 ### Schritt 3: Technische Version
 
-Erstellen Sie eine technische Version, die Details wie den API-Benutzernamen für jede Integration, eine kurze Beschreibung des Datentyps, der an [!DNL Marketo Engage] gesendet oder aus [!DNL Marketo Engage] abgerufen wird, und ein detailliertes Diagramm aller Middleware-Flüsse und -Trigger enthält.  Siehe folgendes Beispiel:
+Erstellen Sie eine technische Version, die Details wie den API-Benutzernamen für jede Integration, eine kurze Beschreibung des Datentyps, der an [!DNL Marketo Engage] gepusht oder aus [!DNL Marketo Engage] abgerufen wird, und ein detailliertes Diagramm aller Middleware-Flüsse und -Trigger anzeigt.  Siehe folgendes Beispiel:
 
 ![Technische Version](/help/marketo-tutorial-inherited-instance/_assets/data-flow-diagram/Lead-Data-Source-Diagram-KellyJo-Horton.png){align="center"}
 
@@ -54,7 +54,7 @@ Erstellen Sie eine technische Version, die Details wie den API-Benutzernamen fü
 ## Wie geht es weiter?
 
 **Erste Schritte mit Beispielen:**
-Laden Sie eines der Musterdatenflussdiagramme herunter, um den aktuellen Status Ihres Marketing-Technologie-Stapels, Ihrer Person und Ihres Datenflusses abzubilden, oder erstellen Sie ein Diagramm für Ihre Datenwelt von Grund auf, während Sie die Instanz prüfen:
+Laden Sie eines der Beispieldatenflussdiagramme herunter, um den aktuellen Status Ihres Marketing-Technologie-Stacks, Ihrer Person und Ihres Datenflusses zuzuordnen, oder erstellen Sie ein neues Diagramm für Ihr Datenuniversum, während Sie die Instanz überprüfen:
 
 
 <table style="table-layout:fixed">
@@ -62,7 +62,7 @@ Laden Sie eines der Musterdatenflussdiagramme herunter, um den aktuellen Status 
       <td style="border: 0;">
       <div style="text-align: center;">
           <a href="./_assets/downloads/Current_Future_State_Lead_Data_Sources.zip">
-            <strong>Aktueller Status und zukünftiger Status</strong>
+            <strong>Aktueller und künftiger Status</strong>
          </a>
       </div>
       </td>
@@ -76,7 +76,7 @@ Laden Sie eines der Musterdatenflussdiagramme herunter, um den aktuellen Status 
       <td style="border: 0;">
          <div style="text-align: center;">
          <a href="./_assets/downloads/Lead_Data_Source.zip">
-           <strong>Lead- und Daten-Source-Fluss </strong>  
+           <strong>Lead- und Daten-Source-Fluss-</strong>  
          </a>
          </div>
        </td> 
@@ -91,21 +91,21 @@ Laden Sie eines der Musterdatenflussdiagramme herunter, um den aktuellen Status 
    <tr>
     <td style="border: 0;">
          <div>
-          <img alt="Aktuelles Status- und zukünftiges Statusdiagramm" src="./_assets/Thumbnail_Current-Future State Lead_Data Sources_KellyJo_Horton.png"/>
+          <img alt="Diagramm des aktuellen Status und des zukünftigen Status" src="./_assets/Thumbnail_Current-Future State Lead_Data Sources_KellyJo_Horton.png"/>
          </a>
       </div>
       </td>
       <td style="border: 0;">
          <div>
          <a href="./_assets/downloads/Detailed_Layers_by_Functional_Category_Stacked_Technologies.zip">
-         <img alt="Detaillierte Ebenen nach Funktionskategoriendiagramm" src="./_assets/Thumbnail_Detailed_Layers_by_Functional_Category_Stacked_Technologies_KellyJo_Horton.png" />
+         <img alt="Detaillierte Ebenen nach funktionalen Kategorien" src="./_assets/Thumbnail_Detailed_Layers_by_Functional_Category_Stacked_Technologies_KellyJo_Horton.png" />
        </a>
          </div>
       </td>
        <td style="border: 0;">
          <div>
             <a href="./_assets/downloads/Lead_Data_Source.zip">
-         <img alt="Lead- und Daten-Source-Flussdiagramm" src="./_assets/Thumbnail_Lead-Data Source Diagram_KellyJo_Horton.png" />
+         <img alt="Flussdiagramm für Lead und Daten in Source" src="./_assets/Thumbnail_Lead-Data Source Diagram_KellyJo_Horton.png" />
          </a>
          </div>
       </td>
@@ -120,7 +120,7 @@ Laden Sie eines der Musterdatenflussdiagramme herunter, um den aktuellen Status 
 
 Dies sind einige Tools, die Sie verwenden können: draw.io (Google Docs), [!DNL Adobe] XD, Figma, Gliffy (in Confluence)
 
-**Was ist, wenn es bereits Architekturdiagramme gibt?** Neue Teammitglieder könnten unterschiedliche Perspektiven haben. Es ist von Vorteil, wenn neue [!DNL Marketo Engage] -Administratoren diese Übung im Rahmen ihres Onboarding-Prozesses durchführen und sie für andere freigeben.
+**Was ist, wenn es bereits Architekturdiagramme gibt?** neue Teammitglieder können unterschiedliche Perspektiven haben. Es ist sinnvoll, diese Übung von neuen [!DNL Marketo Engage]-Administratoren im Rahmen ihres Onboarding-Prozesses durchführen zu lassen und mit anderen zu teilen.
 
 ## Autoren
 
@@ -133,4 +133,4 @@ Dies sind einige Tools, die Sie verwenden können: draw.io (Google Docs), [!DNL 
 **Amy Chiu**
 *Adoption &amp; Retention Marketing Manager,[!DNL Adobe]*
 
-(/help/marketo-tutorial-inherited-instance/_assets/authors/[!DNL Adobe]_Author_Amy_Chiu.png){width=30%}
+(/help/marketo-tutorial-inherited-instance/_assets/authors/[!DNL Adobe]_author_Amy_Chiu.png){width=30%}

@@ -1,6 +1,6 @@
 ---
-title: AEM Champion Tips and Tricks - Verwenden von Protokollen in Cloud Manager
-description: Sehen Sie sich diese Tipps von dem AEM-Champion Rami EL Gamal an. In diesem Video führt Rami Sie durch das Herunterladen von Protokollen in Cloud Manager und gibt dabei Best Practice-Tipps.
+title: Tipps und Tricks von AEM-Champions - Verwendung von Protokollen in Cloud Manager
+description: Sehen Sie sich diese Tipps von dem AEM-Champion Rami EL Gamal an. In diesem Video zeigt Ihnen Rami, wie Sie Protokolle in Cloud Manager herunterladen können, und gibt Ihnen Tipps zu Best Practices.
 version: Cloud Service
 solution: Experience Manager Cloud Manager, Marketo Engage, Experience Manager
 feature-set: Experience Manager
@@ -21,8 +21,8 @@ ht-degree: 26%
 
 ---
 
-# AEM Champion Tips and Tricks - Verwenden von Protokollen in Cloud Manager
+# Tipps und Tricks von AEM-Champions - Verwendung von Protokollen in Cloud Manager
 
-Sehen Sie sich diese Tipps von dem AEM-Champion Rami EL Gamal an. In diesem Video führt Rami Sie durch das Herunterladen von Protokollen in Cloud Manager und gibt dabei Best Practice-Tipps.
+Sehen Sie sich diese Tipps von dem AEM-Champion Rami EL Gamal an. In diesem Video zeigt Ihnen Rami, wie Sie Protokolle in Cloud Manager herunterladen können, und gibt Ihnen Tipps zu Best Practices.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3427492/?learn=on)

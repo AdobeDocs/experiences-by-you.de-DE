@@ -1,6 +1,6 @@
 ---
-title: Wie man eine mächtige Gemeinschaft schafft
-description: Erfahren Sie mehr über die Schaffung einer leistungsfähigen Community. Eine Community, die über die nötige Kompetenz verfügt, wird von ihren [!DNL Adobe Analytics] Administratoren unterstützt, weiß, wie die Geschäftsanforderungen in ihrer Implementierung dargestellt werden, und verfügt über die Mittel, um die Analyse vertraulich für datengesteuerte Entscheidungen zu nutzen.
+title: Wie man eine gestärkte Community aufbaut
+description: Erfahren Sie mehr über den Aufbau einer starken Community. Eine leistungsfähige Community wird von ihren  [!DNL Adobe Analytics]  unterstützt, kennt sich aus damit, wie geschäftliche Anforderungen innerhalb ihrer Implementierung dargestellt werden, und verfügt über die Mittel, Analysen auf vertrauliche Weise für datengestützte Entscheidungsfindungen zu nutzen.
 solution: Analytics
 feature-set: Analytics
 feature: Admin Tools
@@ -19,100 +19,100 @@ ht-degree: 0%
 
 ---
 
-# Stärkung der Gemeinschaft
+# Aufbau einer gestärkten Community
 
 >[!VIDEO](https://video.tv.adobe.com/v/340457/?quality=12&learn=on)
 
-Eine mächtige Gemeinschaft hat einige bemerkenswerte Eigenschaften. Zunächst wird es von seinen [!DNL Adobe Analytics] -Administratoren unterstützt. Es ist darüber informiert, wie Geschäftsanforderungen bei ihrer Implementierung dargestellt werden. Und nicht zuletzt verfügt es über die Mittel, um die Analyse vertraulich für datengestützte Entscheidungen zu nutzen. Viele Unternehmen profitieren von der Struktur, die eine interne [!DNL Adobe Analytics]-Benutzergruppe oder eine formalere Community bietet.
+Eine gestärkte Community ist durch einige charakteristische Merkmale gekennzeichnet. Zunächst einmal wird sie von ihren [!DNL Adobe Analytics]-Administratoren unterstützt. Er weiß, wie geschäftliche Anforderungen in der Implementierung dargestellt werden. Und nicht zuletzt verfügt sie über die Mittel, um Analysen auf vertrauliche Weise für datengestützte Entscheidungen zu nutzen. Viele Unternehmen profitieren von der Struktur, die eine interne [!DNL Adobe Analytics]-Benutzergruppe oder eine formellere Community bietet.
 
-Sie können innerhalb Ihrer Organisation eine Community mit Befugnissen erstellen. So geht&#39;s:
+Sie können innerhalb Ihrer Organisation eine gestärkte Community aufbauen. So geht&#39;s:
 
-## 1. Aufbau einer soliden Infrastruktur, der Grundlage für Ihre eigenverantwortliche Community
+## 1. Aufbau einer soliden Infrastruktur, die die Grundlage für Ihre gestärkte Community bildet
 
-* Erstellen eines Onboarding-Prozesses für Benutzer:
+* Erstellen Sie einen Onboarding-Prozess für Benutzer:
 
-  Welche Anforderungen und Prozesse sind mit dem Zugriff auf [!DNL Adobe Analytics] für Ihr Unternehmen verbunden? Wenn Sie noch keine Anforderungen und einen Prozess für das Onboarding neuer Benutzer haben, unterstützt die Erstellung dieser Infrastruktur die Skalierbarkeit.
+  Welche Anforderungen und Prozesse sind mit dem [!DNL Adobe Analytics]-Zugriff für Ihr Unternehmen verbunden? Wenn Sie noch keine Anforderungen und keinen Prozess für das Onboarding neuer Benutzer haben, unterstützt die Erstellung dieser Infrastruktur die Skalierbarkeit.
 
-* Implementieren Sie ordnungsgemäße Benutzerverwaltung und Zugriff:
+* Implementieren einer ordnungsgemäßen Benutzerverwaltung und des ordnungsgemäßen Zugriffs:
 
-  Der Benutzerzugriff auf Report Suites, Metriken, Dimensionen, Tools, Berichte und Komponenten ist von grundlegender Bedeutung für [!DNL Adobe Analytics] und einen wichtigen Teil des [Benutzergruppenverwaltungsprozesses](https://experienceleague.adobe.com/docs/analytics/admin/admin-console/home.html?lang=de). Durch einen ordnungsgemäßen Tool-Zugriff können Benutzer in Analysis Workspace und Reports &amp; [!DNL Analytics] zur Selbstbedienung ermächtigt werden.
+  Der Benutzerzugriff auf Report Suites, Metriken, Dimensionen, Tools, Berichte und Komponenten stellt die Grundlage für die [!DNL Adobe Analytics] dar und ist ein zentrales Element des [Benutzergruppenverwaltungsprozesses](https://experienceleague.adobe.com/docs/analytics/admin/admin-console/home.html?lang=de). Durch den richtigen Tool-Zugriff können Benutzende innerhalb von Analysis Workspace und Reports &amp; [!DNL Analytics] eigene Services anbieten.
 
 * Grundlegendes zur Implementierung:
 
-  Als Best Practice müssen Benutzer über Grundkenntnisse der von ihrer Implementierung unterstützten Geschäftsanforderungen verfügen, die normalerweise über ein Dokument mit [Geschäftsanforderungen](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=en) (BRD) und ein Referenzdokument zum Lösungsentwurf](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-and-maintaining-an-sdr.html?lang=en) (SDR) erfasst werden. [ Diese Anforderungen sollten die implementierten Elemente umfassen und die Geschäftsanforderungen, Berichte, eVars, Ereignisse usw. nach Kategorie definieren.
+  Als Best Practice müssen Benutzer allgemeine Kenntnisse von den geschäftlichen Anforderungen haben, die von ihrer Implementierung unterstützt werden. Diese werden in der Regel in einem [Geschäftsanforderungsdokument](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=en) (BRD) und [Referenzdokument für das Lösungs-Design](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-and-maintaining-an-sdr.html?lang=en) (SDR) erfasst. Diese Anforderungen sollten enthalten, was implementiert wurde, und die Geschäftsanforderungen, Berichte, eVars, Ereignisse usw. nach Kategorie definieren.
 
-* Berichtvorlagen verwenden:
+* Verwenden von Berichtsvorlagen:
 
-  [!DNL Adobe Analytics] Berichtsvorlagen und -projekte sind wichtige Ressourcen, um Tool-Benutzern die Implementierung Ihres Unternehmens, Reporting-Anwendungsfälle und Best Practices zu ermöglichen. Diese Ressourcen sollten allgemeine Geschäftsfragen behandeln und herausfinden, wie sie am besten innerhalb des Tools beantwortet werden können.
+  [!DNL Adobe Analytics] Berichtsvorlagen und Projekte sind wichtige Ressourcen für die Implementierung der Tools in Ihrem Unternehmen, für Anwendungsfälle des Reportings und für Best Practices. Diese Ressourcen sollten sich mit allgemeinen geschäftlichen Fragen befassen und mit der Frage, wie diese am besten mit dem Tool beantwortet werden können.
 
-## 2. Erstellen Sie einen Plan für den Benutzer, der ihn betreibt und an dem er beteiligt sein soll.
+## 2. Erstellen Sie einen Plan dafür, wer das Projekt leitet und wer daran beteiligt sein sollte
 
-* Entscheiden Sie, wer die Community betreiben wird:
+* Entscheiden Sie, wer die Community leiten wird:
 
-  Eine befähigte Gemeinschaft beginnt mit einer Infrastruktur, die auf der Verwaltung und Umsetzung von Geschäftsanforderungen basiert. Daher sind die Teams, die die [!DNL Adobe Analytics] -Verwaltung und -Aktivierung eines Unternehmens verwalten, normalerweise von zentraler Bedeutung für die Verwaltung einer Benutzergruppe oder internen Community.
+  Eine leistungsfähige Community beginnt mit einer Infrastruktur, die auf der Verwaltung und Implementierung von Geschäftsanforderungen basiert. Daher sind die Teams, die die [!DNL Adobe Analytics] eines Unternehmens verwalten, in der Regel auch für die Verwaltung einer Benutzergruppe oder internen Community von entscheidender Bedeutung.
 
-* Definieren Sie, wer beteiligt ist, welche Rollen und Verantwortlichkeiten Sie haben:
+* Legen Sie fest, wer beteiligt ist und welche Rollen und Verantwortlichkeiten es gibt:
 
-   * **Administrationsprojektteam:** Das Team, das die Benutzergruppe oder Community des Unternehmens verwaltet, ist in der Regel dafür verantwortlich, die Gelegenheit zu definieren, z. B. über eine Projektcharta, den Inhaltsplan (zumindest anfänglich) zu erstellen und Kommunikationsmittel zu bestimmen (z. B. Microsoft®-Team, E-Mail-Verteilung, vierteljährlicher Aufruf usw.).
+   * **Projektteam für die Verwaltung:** Das Team, das die Benutzergruppe oder Community des Unternehmens verwaltet, ist in der Regel für die Definition der Opportunity verantwortlich, z. B. über eine Projektcharta, die Erstellung des Inhaltsplans (zumindest anfangs) und die Festlegung der Kommunikationsmittel (z. B. Microsoft®-Team, E-Mail-Verteilung, vierteljährlicher Aufruf usw.).
 
-   * **Executive sponsor:** Es ist wichtig, einen ausführenden Sponsor zu haben, der den Erfolg der internen Benutzergruppe oder Community Ihres Unternehmens unterstützt. Diese Rolle ist von zentraler Bedeutung für die Unterstützung von Meilensteinen, Kommunikation, die Sicherstellung der Priorisierung im breiteren Team und das Change Management.
+   * **Sponsor aus der Führungsebene:** Es ist von entscheidender Bedeutung, einen Sponsor aus der Führungsebene zu haben, der den Erfolg der internen Benutzergruppe oder Community Ihres Unternehmens unterstützt. Diese Rolle ist für die Unterstützung von Meilensteinen, die Kommunikation, die Sicherstellung der Priorisierung innerhalb des gesamten Teams und das Änderungs-Management von entscheidender Bedeutung.
 
-   * **Verantwortlichkeiten für unterstützende Funktionen:** Je nach Größe und Struktur Ihres Unternehmens kann es von Vorteil sein, Teams wie Webentwicklung, Personalization, Tests usw. einzubinden.
+   * **Zuständigkeiten für unterstützende Funktionen:** Je nach Größe und Struktur Ihres Unternehmens kann es von Vorteil sein, Teams wie Web-Entwicklung, Personalization, Tests usw. einzubinden.
 
-   * **Tool-Benutzer:** Jeder, der das Potenzial hat, Daten zu beeinflussen, die an der [!DNL Adobe Analytics] -Implementierung Ihres Unternehmens ausgerichtet sind, kann beteiligt werden - unabhängig vom Titel oder der Rolle!
+   * **Tool-Benutzer** Jeder, der das Potenzial hat, Daten zu beeinflussen, die auf die [!DNL Adobe Analytics] Implementierung Ihres Unternehmens ausgerichtet sind, hat die Möglichkeit, sich zu beteiligen - unabhängig von Titel oder Rolle!
 
-* Denken Sie daran - &quot;Was ist für sie da?&quot; Wenn Sie Ihre Community auf geschäftliche Anwendungsfälle und Prioritäten fokussieren, können Sie Interaktion und Erfolg sicherstellen.
+* Denken Sie daran: „Was ist für sie drin?“ Wenn Sie Ihre Community auf geschäftliche Anwendungsfälle und Prioritäten ausrichten, können Sie Interaktion und Erfolg sicherstellen!
 
-## 3. Verwenden Sie Tools, um Ihre Community zu erstellen
+## 3. Nutzen Sie Tools, um Ihre Community aufzubauen
 
-* [Erstellen Sie eine Projekt-Charta](assets/[!DNL Adobe]-[!DNL Analytics]-empowered-Community-Project-Charter-Template.pptx) (Vorlagendownload):
+* [Erstellen einer Projektcharta](assets/[!DNL Adobe]-[!DNL Analytics]-Empowered-Community-Project-Charter-Template.pptx) (Vorlagen-Download):
 
-  Eine Projektcharta ist oft eine großartige Möglichkeit, Ihr Unternehmen an der Möglichkeit einer internen, leistungsfähigen Community auszurichten. Indem Sie die folgenden Fragen beantworten, benötigen Sie Ihre Charta:
+  Eine Projektcharta ist oft eine gute Möglichkeit, Ihr Unternehmen auf die Möglichkeit einer internen, leistungsfähigen Community auszurichten. Wenn Sie die folgenden Fragen beantworten, haben Sie das, was Sie für den Entwurf Ihrer Charta benötigen:
 
-   * Was ist die Problembeschreibung, die du zu lösen versuchst? Was ist Ihr Gemeindeziel, und was sehen Sie im Umfang oder außerhalb des Anwendungsbereichs?
-   * &quot;Was ist für mich dabei?&quot; Was sind der potenzielle Nutzen oder die potenziellen Kosten, wie lässt sich der Erfolg messen, und welche Risiken bestehen?
-   * Wie lange dauert es, bis eine Community live geschaltet wird? Welche Einrichtungsaufgaben sind von der Aktivierung, dem Tool, den Admin-Benutzergruppen usw. erforderlich? Perspektive? Es ist in der Regel am besten, die Grundlinien-Aktivierungsressourcen zu entwickeln, bevor eine größere Initiative gestartet wird.
-   * Wie effektiv werden die Kernteams für den Erfolg der Community sein und wer wird im Rahmen der Initiative unterstützt?
-   * Und schließlich, wer ist Ihr geschäftsführender Sponsor? Wir können nicht genug betonen, wie wichtig ein starker Sponsor ist, jemand, der die Arbeit und ihren Wert unterschreibt.
+   * Was ist die Problemstellung, die Sie zu lösen versuchen? Was ist das Ziel Ihrer Community und was sehen Sie als innerhalb oder außerhalb des Projektumfangs liegend an?
+   * „Was ist für mich drin?“ Welches sind die potenziellen Vorteile oder Kosten, wie lässt sich der Erfolg messen, und welche Risiken bestehen?
+   * Wie lange dauert es, bis eine Community live gehen kann? Welche Setup-Arbeiten für die Einarbeitung, das Tool, die Admin-Benutzergruppen usw. erforderlich sind Perspektive? In der Regel ist es am besten, Basisressourcen für die Einarbeitung zu entwickeln, bevor eine größere Initiative gestartet wird.
+   * Wie wirksam werden die Mitglieder des Kernteams für den Erfolg der Community sein, und wer wird im Rahmen der Initiative unterstützt?
+   * Und schließlich: Wer ist Ihr Executive Sponsor? Wir können nicht genug betonen, wie wichtig es ist, einen starken Sponsor in der Führungsebene zu haben, jemanden, der die Arbeit und ihren Wert befürwortet.
 
-* Inhaltsplan erstellen - Während Ihre Community auch Inhaltsideen für Sie hat, sollten Sie auch Ideen haben, um die Interaktion zu fördern. Eine gute Faustregel besteht darin, zu jedem Zeitpunkt mindestens 6-12 Monate Inhalt zu erstellen.
+* Inhaltsplan erstellen - Ihre Community wird zwar auch Ideen für Inhalte für Sie haben, aber Sie sollten auch Ideen haben, um die Interaktion zu fördern. Eine gute Faustregel ist, dass zu einem bestimmten Zeitpunkt mindestens 6-12 Monate an Inhalten erstellt werden.
 
-   * Gibt es Themen, die mit größeren geschäftlichen Initiativen in Einklang stehen könnten, wie z. B. Schlüsselereignisse, größere Programme, Planungszeiträume usw.
-   * Wer könnte am besten zu solchen Themen sprechen? Wie können sie von der Interaktion innerhalb der Gemeinschaft profitieren?
-   * Welchen Inhalt würde die Präsentation idealerweise enthalten und welche Fragen könnte sie beantworten?
+   * Gibt es Themen, die mit größeren Geschäftsinitiativen verknüpft sein könnten, z. B. wichtigen Ereignissen, größeren Programmen, Planungszeiträumen usw.?
+   * Wer ist am besten geeignet, um über solche Themen zu sprechen? Wie könnten sie von der Interaktion mit der Community profitieren?
+   * Welche Inhalte sollte die Präsentation idealerweise enthalten und welche Fragen könnte sie beantworten?
 
-* Erstellen Sie einen Kommunikationsplan - Ein solider Kommunikationsplan ist der Schlüssel zum Engagement und zum Gesamterfolg Ihrer Community. Bei der Erstellung Ihres Plans sind einige Fragen zu beachten:
+* Kommunikationsplan erstellen - Ein solider Kommunikationsplan ist der Schlüssel zur Interaktion mit Ihrer Community und zum Gesamterfolg. Bei der Erstellung Ihres Plans sollten Sie unter anderem folgende Fragen berücksichtigen:
 
-   * Welche Teams sind von Ihrer Community betroffen, wer ist Ihre Zielgruppe (z. B. Führungskräfte, Manager, Frontend-Analysten)?
-   * Was sind Ihre Kernaussagen, welche Nachrichten sind erforderlich, was enthält sie für Ihre Zielgruppe (WIIFM) und welche Anforderungen haben Sie?
-   * Welche Kommunikationsmittel sollten vor oder nach dem Community-Launch verwendet werden (z. B. E-Mail, Slack, Video, Sitzungen usw.)? Sie senden beispielsweise E-Mails über das Admin-Tool [!DNL Adobe Analytics]. Oder sollte Ihr neuer Onboarding-Prozess für Benutzer jetzt die Pflege einer internen E-Mail-Verteilungsliste beinhalten, die für Newsletter verwendet werden kann usw.
-   * Wer wird Kommunikation senden?
-   * Wann? Wichtig ist, sowohl die Mitteilungen vor dem Community-Launch als auch die Mitteilungen zu berücksichtigen, die nach dem Launch fortlaufend bereitgestellt werden müssen.
+   * Welche Teams werden von Ihrer Community betroffen sein, wer ist Ihre Zielgruppe (z. B. Führungskräfte, Manager, Frontline-Analysten)?
+   * Welches sind die Schwerpunkte Ihrer Botschaften, welche Botschaften werden benötigt, was ist für Ihre Zielgruppe (WIFM) drin und welche Anfragen haben Sie?
+   * Welche Kommunikationsmittel sollten vor oder nach dem Start der Community eingesetzt werden (z. B. E-Mail, Slack, Video, Meetings usw.)? Werden Sie beispielsweise E-Mails über das [!DNL Adobe Analytics] Admin-Tool senden? Oder sollte Ihr Onboarding-Prozess für neue Benutzer jetzt die Pflege einer internen E-Mail-Verteilerliste umfassen, die für Newsletter usw. verwendet werden kann?
+   * Wer wird Nachrichten versenden?
+   * Wann? Es ist wichtig, sowohl die Kommunikation vor dem Start der Community als auch die fortlaufende Kommunikation nach dem Start zu berücksichtigen.
 
-* Benutzen Sie Ihr Gemeinschaftsfahrzeug, um live zu gehen! Je nach technischem Stack Ihres Unternehmens möchten Sie auch ein Werkzeug oder Fahrzeug für Ihre Community auswählen. Dies ist für Ihr Unternehmen benutzerspezifisch, aber viele finden häufig Microsoft Teams, die gut funktionieren.
+* Nutzen Sie Ihr Community-Fahrzeug, um live zu gehen! Je nach Technologie-Stack Ihres Unternehmens sollten Sie auch ein Tool oder ein Vehikel für Ihre Community auswählen. Dies wird für Ihr Unternehmen benutzerspezifisch sein, aber viele finden Microsoft Teams gut zu funktionieren.
 
-## 4. Pflegen Sie Ihre Community, um einen nachhaltigen Erfolg zu gewährleisten.
+## 4. Pflegen Sie Ihre Community und sichern Sie ihren nachhaltigen Erfolg
 
-* Zeit reservieren - Fügen Sie Community-Sitzungen zu Kalendern hinzu, um die Zeit im Voraus zu blockieren. Wiederkehrende Sitzungen sind nach Möglichkeit eine großartige Idee und werden Ihnen helfen, Ihren Inhaltsplan zum Leben zu erwecken. Hier finden Sie einige Ideen zur Agenda für den Einstieg:
+* Zeit reservieren - Fügen Sie Community-Meetings zu Kalendern hinzu, um die Zeit im Voraus zu blockieren. Wiederkehrende Meetings sind nach Möglichkeit eine gute Idee und helfen dabei, Ihren Content-Plan umzusetzen. Im Folgenden finden Sie einige Ideen für die Agenda, die Ihnen bei den ersten Schritten helfen können:
 
-   * Wenn Ihr Unternehmen virtuelle Ereignisse hostet, welche digitalen Erkenntnisse und Erkenntnisse können breiter genutzt werden?
-   * Wie werden Leistungsdaten genutzt, wenn Ihre Website interaktive Tools verwendet (z. B. Chatbots, Sparkalkulatoren, Demos usw.)? Welche Erkenntnisse können gewonnen werden, um Kunden und die Journey besser zu unterstützen?
-   * Wie nutzt Ihr Unternehmen vorhandene Funktionen, um Zielgruppeneinblicke zu verbessern und zu nutzen? Verwendet Ihr Unternehmen beispielsweise die neue Integration von [!DNL Adobe Analytics] und Marketo? Welche Erkenntnisse und Erkenntnisse können breiter geteilt werden?
+   * Wenn Ihr Unternehmen virtuelle Events durchführt, welche digitalen Erkenntnisse und Einblicke können auf breiterer Basis geteilt werden?
+   * Wenn Ihre Website interaktive Tools verwendet (z. B. Chatbots, Sparrechner, Demos usw.), wie werden die Leistungsdaten genutzt? Welche Erkenntnisse können gewonnen werden, um Kunden und die Kunden-Journey besser zu unterstützen?
+   * Wie nutzt Ihr Unternehmen die vorhandenen Funktionen, um die Erkenntnisse zur Zielgruppe zu verbessern und zu nutzen? Nutzt Ihr Unternehmen beispielsweise die neue Integration von [!DNL Adobe Analytics] und Marketo? Welche Erkenntnisse und Einblicke können auf breiterer Basis geteilt werden?
 
-* Erwartungen setzen - Nutzen Sie weiterhin Ihre Projekt-Charta und Ihren Kommunikationsplan, um Erwartungen in Bezug auf die Inhalte Ihrer Community zu setzen. Konsistenz ist der Schlüssel!
-* Interaktionsplan - Während Ihre Community in Vorbereitung ist, kann es von Vorteil sein, jemanden zu benennen, der Teams über den Chat während Sitzungen und über Ihre Community-Fahrzeuge überwacht und anspricht.
-* Feedback sammeln - Um weiterhin sicherzustellen, dass Sitzungen, Redner, Inhalte usw. relevant sind, nehmen Sie sich die Zeit, halbjährliche Umfragen zu planen und Möglichkeiten für Feedback zu bieten. Viele halten es für hilfreich, sich nach Sitzungen und wichtigen Meilensteinen mit Community-Projektteams zu besprechen.
+* Erwartungen definieren - Nutzen Sie weiterhin Ihren Projekt- und Kommunikationsplan, um die Erwartungen zu definieren, was Ihre Community ist und was nicht. Entscheidend ist die Konsistenz!
+* Interaktion planen - In der Anfangsphase der Community kann es von Vorteil sein, jemanden zu bestimmen, der Teams überwacht und während Meetings und über die Kommunikationsmittel der Community mit ihnen interagiert.
+* Feedback einholen - Um sicherzustellen, dass Meetings, Redner, Inhalte usw. relevant sind, sollten Sie halbjährliche Umfragen planen und Feedback-Möglichkeiten bieten. Viele finden es hilfreich, nach Meetings und wichtigen Meilensteinen eine Nachbesprechung mit den Projekt-Teams der Community durchzuführen.
 
-## Warum eine Gemeinschaft aufbauen, unterhalten und stärken?
+## Warum eine gestärkte Community aufbauen und pflegen?
 
-Die Schaffung und Pflege einer befähigten Gemeinschaft ist eine Menge Arbeit. Es ist wichtig, einen Schritt zurück zu gehen und die Vorteile zu realisieren, die Ihr Unternehmen dadurch nutzen kann. Hier sind einige der Vorteile, die ich persönlich gesehen habe:
+Der Aufbau und die Pflege einer starken Community ist sehr arbeitsintensiv. Es ist wichtig, einen Schritt zurückzutreten und die Vorteile zu erkennen, die Ihr Unternehmen daraus ziehen kann. Hier sind einige der Vorteile, die ich persönlich gesehen habe:
 
-* Datenbasierte Entscheidungsfindung - Eine leistungsfähige Community kann [Ihr Unternehmen verändern](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.html?lang=de), da [!DNL Adobe Analytics] Datenspeicheraussagen ermöglicht, Ergebnisse vorhersagt und Ergebnisse so vorschreibt, dass sie unternehmensweit zugänglich sind, um Customer Intelligence und datenbasierte Entscheidungsfindung zu unterstützen.
+* Datengestützte Entscheidungsfindung - Eine leistungsfähige Community kann [Ihr Unternehmen verändern](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.html?lang=de) da [!DNL Adobe Analytics] Storytelling anhand von Daten ermöglicht, Ergebnisse vorhersagt und Ergebnisse vorschreibt. Dabei ist der Zugriff auf die Daten im gesamten Unternehmen möglich, wodurch Customer Intelligence und datengestützte Entscheidungsfindung unterstützt werden.
 
-* Höheres Know-how und Effizienz - Es können direkte Korrelationen zwischen der Aktivierung von Interaktionen und der Rendite aus Marketinginvestitionen vorgenommen werden! Eine kompetente Community kann das Know-how aller erweitern, den Austausch von Einblicken, Best Practices, Projekten und Produktaktualisierungen erleichtern und so die Zusammenarbeit fördern. Dies geschieht bei Aktivierung der Selbstversorgung und einer größeren Optimierung über [!DNL Adobe Analytics]. Dies unterstützt Marketingkanäle, Seiten, Geolocation, Zielgruppen und so weiter. Es unterstützt auch Erlebnisoptimierungen, sodass sich Teams darauf konzentrieren können, wo sie die größte Wirkung erzielen können.
+* Mehr Kompetenz und Effizienz - Es besteht ein direkter Zusammenhang zwischen unterstützender Interaktion und Return on Marketing Investment! Eine leistungsfähige Community steigert das Know-how aller Beteiligten, erleichtert den Austausch von Erkenntnissen, Best Practices, Projekten und Produktaktualisierungen und fördert die Zusammenarbeit. Dies geschieht bei gleichzeitiger Ermöglichung von Selbstständigkeit und größerer Optimierung über [!DNL Adobe Analytics]. Dies unterstützt Marketing-Kanal, Seite, Geolokalisierung, Zielgruppe usw. Es unterstützt auch die Optimierung von Erlebnissen, sodass sich die Teams auf die Bereiche konzentrieren können, in denen sie die größte Wirkung erzielen können.
 
-* Wertschöpfung - Wenn Ihr Unternehmen in ein so leistungsfähiges Tool wie [!DNL Adobe Analytics] investiert hat, liegt es im Interesse aller, dass Sie den vollen Nutzen seines Potenzials realisieren.
+* Wertschöpfung - Wenn Ihr Unternehmen in ein so leistungsfähiges Tool wie [!DNL Adobe Analytics] investiert hat, ist es in jedermanns Interesse, sein Potenzial voll auszuschöpfen.
 
-* Laufbahnentwicklung - Eine leistungsfähige Community verlagert den Fokus vieler Analyseteams von reaktiv und taktisch auf präskriptiv und strategisch. Dies eröffnet dem Administrationsprojektteam Ihrer Community Karrierechancen.
+* Karriereentwicklung - Eine leistungsfähige Community verlagert den Fokus vieler Analyst-Teams von reaktiv und taktisch zu präskriptiv und strategisch. Dadurch eröffnen sich Karrieremöglichkeiten für das Administrations-Projektteam Ihrer Community.
 
-Wenn Sie eine interne [!DNL Adobe Analytics] Benutzergruppe oder eine formellere &quot;Community&quot;haben oder daran arbeiten, eine zu bilden, würden wir Ihre Geschichte gerne im [[!DNL Adobe] Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/bd-p/adobe-analytics-discussions) hören!
+Wenn Sie intern eine [!DNL Adobe Analytics] Benutzergruppe oder eine formellere „Community“ haben oder daran arbeiten, eine solche Gruppe bzw. Community aufzubauen, möchten wir Ihre Story gern auf der [[!DNL Adobe] Experience League hören](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/bd-p/adobe-analytics-discussions)!

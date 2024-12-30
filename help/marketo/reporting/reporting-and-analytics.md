@@ -1,6 +1,6 @@
 ---
-title: Reporting und Analytics
-description: Erfahren Sie, wie Sie im Abschnitt [!DNL Analytics] und Datenbank navigieren, um verschiedene native Berichte in  [!DNL Marketo Engage] abzurufen.
+title: Reporting und Analysen
+description: Erfahren Sie, wie Sie  [!DNL Analytics]  Abschnitt und Datenbank navigieren, um verschiedene gebrauchsfertige Berichte  [!DNL Marketo Engage].
 role: User
 level: Beginner
 solution: Marketo Engage
@@ -18,16 +18,16 @@ ht-degree: 2%
 
 ---
 
-# Berichterstellung und Analyse
+# Reporting und Analysen
 
-Erfahren Sie, wie Sie im Abschnitt &quot;[!DNL Analytics]&quot;und &quot;Datenbank&quot;navigieren, um verschiedene native Berichte in &quot;[!DNL Marketo Engage]&quot;abzurufen.
+Erfahren Sie, wie Sie im Abschnitt [!DNL Analytics] und Datenbank navigieren, um verschiedene vordefinierte Berichte in [!DNL Marketo Engage] abzurufen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419295/?learn=on){transcript=true}
 
 ## Zusätzliche Ressourcen
 
 * **Produktdokumentation**
-Erfahren Sie mehr über die verschiedenen Berichte, die Sie abrufen können - [Berichtsübersicht](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/reporting-overview.html?lang=en&amp;sdid=M7K4SLTS&amp;mv=email&amp;mv2=instreml)
+Erfahren Sie mehr über die verschiedenen Berichte, die Sie abrufen können - [Reporting-Übersicht](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/reporting-overview.html?lang=en&amp;sdid=M7K4SLTS&amp;mv=email&amp;mv2=instreml)
 
-* **Expert Customer Blog Post**
-Lernen Sie von Champion Chelsea Kiko über das Erstellen verschiedener Berichte - [Reporting in verschiedenen [!DNL Marketo Engage] Bereichen](https://nation.marketo.com/t5/product-blogs/how-marketo-champion-chelsea-kiko-reports-in-various-marketo/ba-p/242627)
+* **Expert-Kunden-Blogpost**
+Erfahren Sie von Champion Chelsea Kiko, wie Sie verschiedene Berichte erstellen [Berichte in verschiedenen  [!DNL Marketo Engage]  erstellen](https://nation.marketo.com/t5/product-blogs/how-marketo-champion-chelsea-kiko-reports-in-various-marketo/ba-p/242627)

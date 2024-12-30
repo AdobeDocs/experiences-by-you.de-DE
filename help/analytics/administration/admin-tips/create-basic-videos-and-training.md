@@ -1,6 +1,6 @@
 ---
-title: Erstellen grundlegender aufgezeichneter Schulungssitzungen und kurzer Videos
-description: Erstellen Sie einige einfache und kurze Schulungsvideos, die eine Reihe grundlegender und erweiterter Themen abdecken. Wenn sich neue Benutzer mit dem Tool beschäftigen, liefern Sie nicht jedes Mal dieselben Inhalte über ein Meeting.
+title: Erstellen einfacher aufgezeichneter Schulungssitzungen und kurzer Videos
+description: Erstellen Sie einige einfache und kurze Schulungsvideos, die eine Reihe von grundlegenden und fortgeschrittenen Themen abdecken, sodass Sie neuen Benutzern bei der Einführung in das Tool nicht jedes Mal den gleichen Inhalt in einer Besprechung vermitteln müssen.
 solution: Analytics
 feature-set: Analytics
 feature: Implementation Basics
@@ -18,28 +18,28 @@ ht-degree: 0%
 
 ---
 
-# Erstellen grundlegender aufgezeichneter Schulungssitzungen und kurzer Videos
+# Erstellen einfacher aufgezeichneter Schulungssitzungen und kurzer Videos
 
-**WAS:** Erstellen Sie einige einfache und kurze Schulungsvideos, die eine Reihe grundlegender und erweiterter Themen abdecken. Wenn also neue Benutzer mit dem Tool umherkommen, liefern Sie nicht jedes Mal denselben Inhalt über ein Meeting.
+**WAS:** Erstellen Sie einige einfache und kurze Schulungsvideos, die eine Reihe von grundlegenden und fortgeschrittenen Themen abdecken, sodass Sie neuen Benutzern bei der Einführung in das Tool nicht jedes Mal den gleichen Inhalt in einer Besprechung vermitteln müssen.
 
-**WARUM:** Dies spart Zeit für den AA-Administrator und beseitigt die Abhängigkeit von einer Person, die für die Schulung anderer verantwortlich ist, und ermöglicht es neuen Benutzern, sich in ihrem eigenen Tempo selbst zu aktivieren.
+**WARUM:** Dies spart dem AA-Administrator Zeit und man ist nicht mehr darauf angewiesen, dass eine Person für die Schulung der anderen verantwortlich ist. Außerdem können sich neue Benutzer in ihrem eigenen Tempo selbst schulen.
 
-**HOW:** Wählen Sie die relevantesten Themen für Ihre Organisations- und Geschäftsbenutzer aus und nehmen Sie sich einige Zeit, um Ihre bissgroßen Schulungsvideos aufzuzeichnen. Im Folgenden finden Sie einige Vorschläge von einfachen bis hin zu erweiterten Themen:
+**WIE:** Wählen Sie die für Ihre Organisation und die Benutzer Ihres Unternehmens wichtigsten Themen aus und nehmen Sie sich etwas Zeit, um Ihre kurzen Schulungsvideos aufzunehmen. Im Folgenden finden Sie einige Vorschläge von einfachen bis hin zu fortgeschrittenen Themen:
 
-* Kampagnen verfolgen
+* So verfolgen Sie Kampagnen
 * So verstehen Sie die Seitenleistung
 * Erstellen von Visualisierungen in Workspace
 * Alles über Segmente und berechnete Metriken
-* Die fünf wichtigsten Tipps in [!DNL Adobe Analytics] (z. B. wie Sie Dropdown-Listen erstellen)
+* Die fünf wichtigsten Tipps in [!DNL Adobe Analytics] (z. B.: Erstellen von Dropdown-Listen)
 * Verwendung von Attribution IQ
 
-Sie können dann einfach Benutzer darauf verweisen, anstatt langwierige E-Mails zu schreiben oder ein weiteres Meeting zu haben. Weitere Tipps und Tricks zu Trainingsbenutzern finden Sie im Artikel ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/simplify-training-users.html?lang=de){target="_blank"} von [[!DNL Adobe] Champion Thomas Edward Buckley, der sich mit der Vereinfachung und Reduzierung der Zeit für Trainings-Benutzer beschäftigt.
+Sie können die Benutzer dann einfach auf diese verweisen, anstatt lange E-Mails zu schreiben oder ein weiteres Meeting abzuhalten. Weitere Tipps und Tricks zur Schulung von Benutzern finden Sie im Artikel [[!DNL Adobe] Champion Thomas Edward Buckley](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/administration/key-admin-skills/simplify-training-users.html?lang=de){target="_blank"}. Darin geht es um die Vereinfachung und den verringerten Zeitaufwand bei der Benutzerschulung.
 
-Darüber hinaus gibt es eine Unmenge (ja, eine Unmenge) von [Video-Tutorials](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=de){target="_blank"} auf [!DNL Adobe] Experience League sowie [freie Kurse](https://experienceleague.adobe.com/?lang=de#dashboard/learning){target="_blank"}. Wenn Sie ein Video benötigen, das speziell auf die Daten und geschäftlichen KPIs Ihres Unternehmens abgestimmt ist, zeichnen Sie auf jeden Fall Ihre eigenen Videos auf. Wenn jedoch ein allgemeines Video mit Anweisungen genügt, gibt es keinen Grund, das Rad neu zu erfinden.
+Darüber hinaus gibt es eine Fülle (ja, eine Fülle) von [Video-Tutorials](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=de){target="_blank"} auf [!DNL Adobe] Experience League sowie [kostenlose Kurse](https://experienceleague.adobe.com/?lang=de#dashboard/learning){target="_blank"}. Wenn Sie ein Video benötigen, das speziell auf die Daten und geschäftlichen KPIs Ihres Unternehmens abgestimmt ist, zeichnen Sie auf jeden Fall Ihre eigenen Videos auf. Aber wenn ein allgemeines Video mit Anweisungen ausreicht, gibt es keinen Grund, das Rad neu zu erfinden.
 
 ## Autoren
 
-Dieses Dokument wurde von folgenden Personen mitgeschrieben:
+Dieses Dokument wurde gemeinsam verfasst von:
 
 ![Christel Guidon](assets/Christel-Headshot-150.png)
 
@@ -48,4 +48,4 @@ Christel Guidon, Digital [!DNL Analytics] Platform Manager bei NortonLifeLock
 
 ![Rachel Fenwick](assets/Rachel-Fenwick-150.png)
 
-Rachel Fenwick, leitender Berater bei [!DNL Adobe]
+Rachel Fenwick, Senior Consultant bei [!DNL Adobe]

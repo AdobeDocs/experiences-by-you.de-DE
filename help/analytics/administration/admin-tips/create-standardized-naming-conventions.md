@@ -1,6 +1,6 @@
 ---
 title: Erstellen standardisierter Benennungskonventionen
-description: Standardisierte Namenskonventionen gelten sowohl für den Variablennamen selbst, wenn er in der Admin-Benutzeroberfläche aktiviert ist, als auch für die Werte, die an die Dimension übergeben werden.
+description: Es gelten standardisierte Benennungskonventionen sowohl für den Variablennamen selbst, wenn er in der Admin-Benutzeroberfläche von AA aktiviert ist, als auch für die Werte, die an die Dimension übergeben werden.
 solution: Analytics
 feature-set: Analytics
 feature: Implementation Basics
@@ -20,19 +20,19 @@ ht-degree: 0%
 
 # Erstellen standardisierter Benennungskonventionen
 
-**WAS:** Die standardisierten Benennungskonventionen gelten sowohl für den Variablennamen selbst, wenn sie in der Administrator-Benutzeroberfläche von [!DNL Adobe Analytics] (AA) aktiviert sind, als auch für die Werte, die an die Dimension übergeben werden. (d. h. Seitennamen wären &quot;Seitenname (v1)&quot;als Variablenname und die übergebenen Seitennamenwerte sollten einheitlich sein und einer bestimmten Struktur/Hierarchie wie &quot;sitename|homepage&quot;oder &quot;sitename|search|searchresults&quot; folgen).
+**WAS:** Es gelten standardisierte Benennungskonventionen sowohl für den Variablennamen selbst, wenn er in der Admin-Benutzeroberfläche von [!DNL Adobe Analytics] (AA) aktiviert ist, als auch für die Werte, die an die Dimension übergeben werden. (d. h. Seitennamen wären „Seitenname (v1)“ als Variablenname, und die übergebenen Seitennamenwerte sollten einheitlich sein und einer bestimmten Struktur/Hierarchie folgen, z. B. „Seitenname|Homepage“ oder „Seitenname|Suche|Suchergebnisse„).
 
-**WARUM:** Namenskonventionen eignen sich hervorragend, um alles einheitlich zu halten und die Benutzeroberfläche für Ihre Benutzer leicht zu verstehen. Wenn Sie diese von Anfang an erstellen und in der Plattform und im Code durchsetzen, ist die Skalierung einfacher.
+**WARUM:** Namenskonventionen sind eine gute Möglichkeit, alles einheitlich zu halten und die Benutzeroberfläche für Ihre Benutzer*innen leicht verständlich zu gestalten. Wenn Sie diese von Anfang an erstellen und in der Plattform und im Code durchsetzen, wird die Skalierung einfacher.
 
-**HOW:** Die Benutzeroberfläche und das Tagging-Dokument sollten sowohl für &quot;Name&quot;als auch für &quot;Beschreibung&quot;übereinstimmen. Dies verhindert, dass Ihre Benutzer ein Excel-Dokument abrufen müssen, damit sie Ihre Daten direkt in der Benutzeroberfläche verstehen können. Es wird außerdem empfohlen, alles Kleinbuchstaben für Konsistenz zu verwenden.
+**WIE:** Die Schnittstelle und das Tagging-Dokument sollten sowohl für „Name“ als auch für „Beschreibung“ übereinstimmen. Dies erspart Ihren Benutzern das Aufrufen eines Excel-Dokuments und ermöglicht es ihnen, Ihre Daten direkt in der Schnittstelle zu verstehen. Aus Gründen der Konsistenz wird außerdem empfohlen, alles klein zu schreiben.
 
-Es ist immer am besten, die Seitennamen auch auf der gesamten Plattform (oder den Bildschirmnamen für Apps) konsistent zu halten. Sie können beispielsweise &quot;`property:section:sub section:sub sub section:unique page name`&quot; in eine Variable/Dimension setzen. Wenn alle diese Felder separate Felder in Ihrer Datenschicht sind, können Sie den Seitennamen sogar direkt in Ihrer JS-Datei/in Launch erstellen. Die Festlegung aller Elemente in ihren eigenen Dimensionen kann Ihnen dabei helfen, bestimmte Eigenschaften oder Bereiche Ihrer Site/App einfacher aufzuschlüsseln und Traffic und Flüsse besser zu verstehen.
+Es ist immer am besten, auch die Seitennamen (oder Bildschirmnamen für Apps) über die gesamte Plattform hinweg konsistent zu halten. Sie können beispielsweise &quot;`property:section:sub section:sub sub section:unique page name`&quot; in eine Variable/Dimension einfügen. Wenn alle diese Felder separate Felder in Ihrer Datenschicht sind, können Sie den Seitennamen sogar direkt in Ihrer JS-Datei/in Launch erstellen. Wenn alle diese Elemente auch in ihren eigenen Dimensionen festgelegt sind, können Sie bestimmte Eigenschaften oder Bereiche Ihrer Site/App einfacher aufschlüsseln und Traffic und Flüsse besser verstehen.
 
-Alles, was es Benutzern erleichtert, die Daten zu finden und zu verstehen, einschließlich so einfacher Namenskonventionen, erhöht die Verwendung von [!DNL Adobe Analytics] und liefert bessere Einblicke für das Unternehmen.
+Alles, was es den Benutzenden erleichtert, die Daten zu finden und zu verstehen, einschließlich so einfacher Dinge wie Namenskonventionen, erhöht die Nutzung von [!DNL Adobe Analytics] und liefert bessere Einblicke für das Unternehmen.
 
 ## Autoren
 
-Dieses Dokument wurde von folgenden Personen mitgeschrieben:
+Dieses Dokument wurde gemeinsam verfasst von:
 
 ![Christel Guidon](assets/Christel-Headshot-150.png)
 
@@ -41,4 +41,4 @@ Christel Guidon, Digital [!DNL Analytics] Platform Manager bei NortonLifeLock
 
 ![Rachel Fenwick](assets/Rachel-Fenwick-150.png)
 
-Rachel Fenwick, leitender Berater bei [!DNL Adobe]
+Rachel Fenwick, Senior Consultant bei [!DNL Adobe]

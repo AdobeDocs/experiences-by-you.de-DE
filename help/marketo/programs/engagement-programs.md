@@ -1,5 +1,5 @@
 ---
-title: Interaktionsmaßnahmen
+title: Interaktionsprogramme
 description: Erfahren Sie, wie Sie Ihr erstes Interaktionsprogramm erstellen.
 role: User
 level: Beginner
@@ -27,7 +27,7 @@ In diesem Schritt-für-Schritt-Tutorial erfahren Sie, wie Sie Ihr erstes Interak
 ## Zusätzliche Ressourcen:
 
 Weitere Informationen finden Sie in den entsprechenden Produkthandbüchern:
-* [Dokumentation zu Interaktionsprogrammen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.html?lang=en)
+* [Informationen zur Dokumentation zu Interaktionsprogrammen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.html?lang=en)
 
 Erfahren Sie von Ihren Kollegen, wie Sie Interaktionsprogramme verwenden:
-* [Blogpost für Experten: Interaktionsprogramme](https://nation.marketo.com/t5/product-blogs/marketo-success-series-engagement-programs/ba-p/301712)
+* [Expert Customer Blog-Beitrag: Interaktionsprogramme](https://nation.marketo.com/t5/product-blogs/marketo-success-series-engagement-programs/ba-p/301712)

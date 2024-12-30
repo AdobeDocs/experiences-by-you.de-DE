@@ -1,6 +1,6 @@
 ---
-title: Prüfen einer geerbten Instanz
-description: Erfahren Sie mehr über die wichtigsten Abschnitte in [!DNL Marketo Engage], einschließlich Admin, Marketingaktivitäten, Design Studio und Datenbank. Hier erhalten Sie Tipps zur Prüfung und Optimierung.
+title: Überprüfen einer geerbten Instanz
+description: Erfahren Sie mehr über die wichtigsten Abschnitte in [!DNL Marketo Engage] einschließlich Admin, Marketing-Aktivitäten, Design Studio und Datenbank. Hier erhalten Sie Tipps für Auditing und Optimierung.
 feature-set: Marketo Engage
 feature: Audit Trail, Administration, Design Studio, Marketing, Database
 role: Admin
@@ -18,10 +18,10 @@ ht-degree: 0%
 
 ---
 
-# Prüfen einer geerbten [!DNL Marketo Engage]-Instanz
+# Überprüfen einer geerbten [!DNL Marketo Engage]-Instanz
 
-Das Vererben einer [!DNL Marketo Engage] -Instanz kann eine stressige Zeit sein, unabhängig davon, ob Sie ein erfahrener Administrator sind oder ob Sie ein neuerer Administrator sind. Es kann schwierig sein zu wissen, wo die Bereinigung beginnen soll. Zunächst wird empfohlen, dass Sie Zeit damit verbringen, zu verstehen, was in der Instanz ist, die Sie gerade heute geerbt haben, und einen Aktionsplan zur Aktualisierung der Konfiguration erstellen.
+Das Vererben einer [!DNL Marketo Engage] kann zu einer anstrengenden Zeit werden, unabhängig davon, ob Sie ein erfahrener Administrator sind oder ein neuerer Administrator sind. Es kann schwierig sein zu wissen, wo Sie mit der Bereinigung beginnen sollen. Zunächst empfehlen wir Ihnen, sich mit den Details der Instanz vertraut zu machen, die Sie gerade geerbt haben, und einen Aktionsplan zu erstellen, um die Konfiguration zu aktualisieren.
 
-In diesem Tutorial führen wir Sie durch die wichtigsten Abschnitte in [!DNL Marketo Engage], einschließlich Admin, Marketingaktivitäten, Design Studio und Datenbank, und geben Ihnen dabei Tipps für die Prüfung und Optimierung.
+In diesem Tutorial führen wir Sie durch die wichtigsten Abschnitte in [!DNL Marketo Engage], einschließlich Admin, Marketing-Aktivitäten, Design Studio und Datenbank, und geben Ihnen Tipps für Auditing und Optimierung auf dem Weg.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3422473/?learn=on)

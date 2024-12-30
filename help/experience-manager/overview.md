@@ -13,9 +13,9 @@ ht-degree: 20%
 
 ---
 
-# Experience Manager von Ihnen: Ressourcen von Benutzern für Benutzer.
+# Experience Manager von Ihnen: Ressourcen nach Benutzern, für Benutzer.
 
-Das leistungsfähigste an [!DNL Adobe] Experience Cloud-Lösungen? Du. Die Benutzer, die die Produkte nehmen, in sie eingraben und sie auf erstaunliche, innovative Weise anwenden, um sinnvolle Erlebnisse und Ergebnisse zu erzielen. Erlebnisse von Ihnen bieten Inhalte, die von Alltagsbenutzern erstellt werden, die mit ihren [!DNL Adobe] Experience Cloud-Lösungen ein hohes Maß an Fachwissen und Einfluss erworben haben. Dieses Peer-to-Peer-Wissen fördert Zusammenarbeit und Entdeckung - ermöglicht es Ihnen - und jedem anderen Benutzer - die Inspiration zu finden, die Sie benötigen, um Ihr Produktwissen zu erweitern.
+Das Wichtigste an [!DNL Adobe] Experience Cloud-Lösungen? Sie. Benutzer, die die Produkte nehmen, sich eingehend damit beschäftigen und sie auf verblüffende, innovative Weise anwenden, um bedeutsame Erfahrungen und Ergebnisse zu schaffen. Experience by You enthält Inhalte, die von alltäglichen Anwendern erstellt wurden, die mit ihren [!DNL Adobe] Experience Cloud-Lösungen ein gewisses Maß an Fachwissen und Einfluss erlangt haben. Dieses Peer-to-Peer-Wissen fördert die Zusammenarbeit und Entdeckung und ermöglicht es Ihnen - und allen anderen Anwendern -, die Inspiration zu finden, die Sie benötigen, um Ihr Produkterfahrungsniveau zu steigern.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -32,7 +32,7 @@ Das leistungsfähigste an [!DNL Adobe] Experience Cloud-Lösungen? Du. Die Benut
 <tr>
   <td>
     <a href="/help/experience-manager/sites/expert-resources/champion-tips-1.md">
-      <img alt="Tipps und Tricks - Bearbeitbare Vorlagen" src="https://video.tv.adobe.com/v/3409424?format=jpeg" />
+      <img alt="Tipps und Tricks zu bearbeitbaren Vorlagen" src="https://video.tv.adobe.com/v/3409424?format=jpeg" />
     </a>
     <div>
       <a href="/help/experience-manager/sites/expert-resources/champion-tips-1.md">
@@ -49,11 +49,11 @@ Das leistungsfähigste an [!DNL Adobe] Experience Cloud-Lösungen? Du. Die Benut
     </a>
     <div>
       <a href="/help/experience-manager/cloud-service/expert-resources/aem-champions/onboarding-playbook.md">
-    <strong>Cloud Manager Onboarding Playbook</strong>
+    <strong>Cloud Manager-Onboarding-Playbook</strong>
     </a>
     </div>
     <p>
-    <em>Die Onboarding-Playbook hilft Ihnen, als neuer Administrator und Entwickler für AEM as a Cloud Service die Verantwortung zu übernehmen.</em>
+    <em>Das Onboarding-Playbook hilft Ihnen, als neuer Administrator und Entwickler für AEM as a Cloud Service die Verantwortung zu übernehmen.</em>
     <p>
   </td>
   <td>
@@ -76,7 +76,7 @@ Das leistungsfähigste an [!DNL Adobe] Experience Cloud-Lösungen? Du. Die Benut
 
 ## Zusätzliche Ressourcen
 
-* [Experience Manager Communities](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=de)
+* [Experience Manager-Communities](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=de)
 * [Experience Manager-Dokumentation](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html)
 * [Experience Manager Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/aem-tutorials/overview.html)
 * [Experience Manager-Produktinformationen](https://business.adobe.com/de/products/experience-manager/adobe-experience-manager.html)

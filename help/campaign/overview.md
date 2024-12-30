@@ -14,9 +14,9 @@ ht-degree: 26%
 
 ---
 
-# [!DNL Campaign] von Ihnen: Ressourcen von Benutzern für Benutzer.
+# [!DNL Campaign] von Ihnen: Ressourcen nach Benutzern, für Benutzer.
 
-Das leistungsfähigste an [!DNL Adobe] Experience Cloud-Lösungen? Du. Die Benutzer, die die Produkte nehmen, in sie eingraben und sie auf erstaunliche, innovative Weise anwenden, um sinnvolle Erlebnisse und Ergebnisse zu erzielen. Erlebnisse von Ihnen bieten Inhalte, die von Alltagsbenutzern erstellt werden, die mit ihren [!DNL Adobe] Experience Cloud-Lösungen ein hohes Maß an Fachwissen und Einfluss erworben haben. Dieses Peer-to-Peer-Wissen fördert Zusammenarbeit und Entdeckung - ermöglicht es Ihnen - und jedem anderen Benutzer - die Inspiration zu finden, die Sie benötigen, um Ihr Produktwissen zu erweitern.
+Das Wichtigste an [!DNL Adobe] Experience Cloud-Lösungen? Sie. Benutzer, die die Produkte nehmen, sich eingehend damit beschäftigen und sie auf verblüffende, innovative Weise anwenden, um bedeutsame Erfahrungen und Ergebnisse zu schaffen. Experience by You enthält Inhalte, die von alltäglichen Anwendern erstellt wurden, die mit ihren [!DNL Adobe] Experience Cloud-Lösungen ein gewisses Maß an Fachwissen und Einfluss erlangt haben. Dieses Peer-to-Peer-Wissen fördert die Zusammenarbeit und Entdeckung und ermöglicht es Ihnen - und allen anderen Anwendern -, die Inspiration zu finden, die Sie benötigen, um Ihr Produkterfahrungsniveau zu steigern.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -33,11 +33,11 @@ Das leistungsfähigste an [!DNL Adobe] Experience Cloud-Lösungen? Du. Die Benut
 <tr>
   <td>
     <a href="/help/campaign/ac-v7/workflow-best-practices-for-marketers.md">
-      <img alt="Die 5 wichtigsten Best Practices für Marketing-Experten" src="https://video.tv.adobe.com/v/3410837?format=jpeg" />
+      <img alt="Die fünf wichtigsten Best Practices für Workflows für Marketing-Experten" src="https://video.tv.adobe.com/v/3410837?format=jpeg" />
     </a>
     <div>
       <a href="/help/campaign/ac-v7/workflow-best-practices-for-marketers.md">
-    <strong>Die 5 wichtigsten Best Practices für den Workflow für Marketingexperten</strong>
+    <strong>Die fünf wichtigsten Best Practices für Workflows für Marketing-Fachleute</strong>
     </a>
     </div>
     <p>
@@ -50,7 +50,7 @@ Das leistungsfähigste an [!DNL Adobe] Experience Cloud-Lösungen? Du. Die Benut
     </a>
     <div>
       <a href="/help/campaign/acs/troubleshooting-for-marketers.md">
-    <strong>Fehlerbehebung für Marketingexperten: 5 Allgemeine Workflow- und Bereitstellungsfehler</strong>
+    <strong>Fehlerbehebung für Marketing-Fachleute: 5 allgemeine Workflow- und Bereitstellungsfehler</strong>
     </a>
     </div>
     <p>
@@ -63,7 +63,7 @@ Das leistungsfähigste an [!DNL Adobe] Experience Cloud-Lösungen? Du. Die Benut
     </a>
     <div>
       <a href="/help/campaign/10-best-practices-for-marketers.md">
-    <strong>Zehn Best Practices für den Erfolg von Adobe Campaign für Marketingexperten</strong>
+    <strong>10 Best Practices zum Erfolg von Adobe Campaign für Marketing-Fachleute</strong>
     </a>
     </div>
     <p>
@@ -77,7 +77,7 @@ Das leistungsfähigste an [!DNL Adobe] Experience Cloud-Lösungen? Du. Die Benut
 
 ## Zusätzliche Ressourcen
 
-* [Experience League Adobe Campaign Community](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=de)
+* [Experience League Adobe Campaign-Community](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=de)
 * Adobe Campaign v8 - [Dokumentation](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=de) / [Tutorials](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=de)
 * Adobe Campaign Classic v7 - [Dokumentation](https://experienceleague.adobe.com/docs/campaign-classic.html?lang=de) / [Tutorials](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=de)
 * Adobe Campaign Standard - [Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard.html?lang=de) / [Tutorials](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=de)

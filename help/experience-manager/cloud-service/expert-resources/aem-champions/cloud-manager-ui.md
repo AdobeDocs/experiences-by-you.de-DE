@@ -1,6 +1,6 @@
 ---
-title: AEM Champions Tips and Tricks - [!DNL Cloud Manager] UI
-description: Sehen Sie sich diese Tipps an, wie Sie die Benutzeroberfläche von [!DNL Cloud Manager] von AEM Champion und Experte Rakesh Pasupuleti verwenden können.
+title: Tipps und Tricks von AEM Champions - [!DNL Cloud Manager] UI
+description: Sehen Sie sich diese Tipps zur Verwendung der Benutzeroberfläche von  [!DNL Cloud Manager] von AEM-Champion und -Experte Rakesh Pasupuleti an.
 version: Cloud Service
 solution: Experience Manager Cloud Manager, Marketo Engage, Experience Manager
 feature-set: Marketo Engage, Experience Manager
@@ -19,9 +19,9 @@ ht-degree: 2%
 
 ---
 
-# AEM Champion Tips and Tricks - [!DNL Cloud Manager] Benutzeroberfläche
+# Tipps und Tricks von AEM Champions - [!DNL Cloud Manager] Benutzeroberfläche
 
-Sehen Sie sich diese Tipps von Ihrem technischen Leiter Rakesh Pasupuleti an. Rakesh ist ein [!DNL Adobe] Experience Manager-Champion und er erklärt, wie man durch die Benutzeroberfläche von [!DNL Cloud Manager] navigiert und diese versteht.
+Sehen Sie sich diese Tipps von Ihrem technischen Leiter Rakesh Pasupuleti an. Rakesh ist ein [!DNL Adobe] Experience Manager-Champion und er erklärt, wie man [!DNL Cloud Manager] Benutzeroberfläche navigiert und versteht.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3419298?quality=12&learn=on)
 

@@ -1,6 +1,6 @@
 ---
-title: Navigieren zur [!DNL Marketo Engage] Benutzeroberfläche
-description: Erfahren Sie, wie Sie in der Benutzeroberfläche navigieren und sich mit Ihrem Weg durch die [!DNL Marketo Engage] Plattform vertraut machen.
+title: Navigieren in der  [!DNL Marketo Engage] -Benutzeroberfläche
+description: Erfahren Sie, wie Sie die Benutzeroberfläche navigieren, und machen Sie sich vertraut mit der - [!DNL Marketo Engage] .
 role: User
 level: Beginner
 doc-type: Feature Video
@@ -18,7 +18,7 @@ ht-degree: 27%
 
 ---
 
-# Navigieren in der Benutzeroberfläche von [!DNL Marketo Engage]
+# Navigieren in der [!DNL Marketo Engage] Benutzeroberfläche
 
 Erfahren Sie, wie Sie die Benutzeroberfläche navigieren, und machen Sie sich vertraut mit der [!DNL Marketo Engage]-Plattform.
 
@@ -26,7 +26,7 @@ Erfahren Sie, wie Sie die Benutzeroberfläche navigieren, und machen Sie sich ve
 
 ## Zusätzliche Ressourcen
 
-* [[!DNL Marketo Engage] glossary](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/marketo-glossary.html?lang=en)
-Definitionen für viele der Begriffe, die bei Verwendung von Marketo auftreten können.
-* [Symbolglossar](https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-engage-modern-ux/icon-glossary.html?lang=en)
-Glossar der Symbole für die Benutzeroberfläche von [!DNL Marketo Engage].
+* [[!DNL Marketo Engage] Glossar](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/marketo-glossary.html?lang=en)
+Definitionen für viele Begriffe, die bei der Verwendung von Marketo auftreten können.
+* [Symbol-Glossar](https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-engage-modern-ux/icon-glossary.html?lang=en)
+Glossar der Symbole für die [!DNL Marketo Engage].

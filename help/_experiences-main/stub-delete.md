@@ -1,5 +1,5 @@
 ---
-title: Löschen Sie mich
+title: Mich löschen
 description: Platzhalterdatei zum Löschen aller Artikel
 source-git-commit: 7e8166cf7f8c58ca546ff1fc09cece799f7e5e32
 workflow-type: tm+mt
@@ -8,6 +8,6 @@ ht-degree: 7%
 
 ---
 
-# Löschen Sie mich
+# Mich löschen
 
 Bob

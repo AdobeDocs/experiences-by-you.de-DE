@@ -1,6 +1,6 @@
 ---
-title: AEM Champion Best Practices und Tipps - Post-Migration
-description: Lernen Sie die wichtigsten Strategien und Tipps für die Zeit nach der Migration kennen, um Ihren Übergang zu AEM as a Cloud Service zu optimieren.
+title: Best Practices und Tipps von AEM Champion - nach der Migration
+description: Lernen Sie wichtige Strategien und Tipps nach der Migration kennen, um Ihren Wechsel zu AEM as a Cloud Service zu optimieren.
 version: Cloud Service
 topic: Migration
 role: Admin, Developer
@@ -17,7 +17,7 @@ ht-degree: 54%
 
 ---
 
-# AEM Champion Best Practices und Tipps - Post-Migration
+# Best Practices und Tipps von AEM Champion - nach der Migration
 
 Erhalten Sie unbezahlbare Einblicke vom AEM-Experten Wilson Faure. In diesem Video erläutert er wichtige Strategien und Tipps für die Zeit nach der Migration, um Ihren Übergang zu optimieren. Gewinnen Sie Klarheit darüber, worauf Sie sich in den Tagen und Wochen nach der Migration konzentrieren sollten.
 

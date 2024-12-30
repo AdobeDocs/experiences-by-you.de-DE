@@ -1,6 +1,6 @@
 ---
-title: Aussagekräftige Geschichten mit Daten erzählen
-description: Datengeschichten erzählen ist der Ort, an dem Kunst und Wissenschaft mit Daten, Visualisierung und Erzählung zusammenkommen.  Durch die Nutzung dieser Komponenten gibt es drei Teile, um eine wirkungsvolle Datengeschichte zu erstellen. Durch das effektive Vermitteln einer Geschichte mit Daten kann [!DNL Analytics] für eine größere Zielgruppe leichter zugänglich werden und Sie können den Wert, den Sie für Ihre Organisation durch datengesteuerte Entscheidungsfindung bringen, erhöhen.
+title: Mit Daten aussagekräftige Geschichten erzählen
+description: Data Storytelling ist an der Schnittstelle von Kunst und Wissenschaft angesiedelt und nutzt Daten, Visualisierungen und Erzählungen, um Sachverhalte verständlich darzustellen.  Wenn wir diese Komponenten nutzen, lassen sich eindrucksvolle Datengeschichten in drei Teile gliedern. Indem Sie eine Geschichte mit Daten effektiv erzählen [!DNL Analytics]  können Sie einer größeren Zielgruppe näher kommen und den Wert steigern, den Sie Ihrem Unternehmen durch datengestützte Entscheidungsfindung bieten.
 solution: Analytics
 feature-set: Analytics
 feature: Admin Tools
@@ -17,39 +17,39 @@ ht-degree: 0%
 
 ---
 
-# Aussagekräftige Geschichten mit Daten erzählen
+# Mit Daten aussagekräftige Geschichten erzählen
 
-Datengeschichten erzählen ist der Ort, an dem Kunst und Wissenschaft mit Daten, Visualisierung und Erzählung zusammenkommen.  Durch die Nutzung dieser Komponenten gibt es drei Teile, um eine wirkungsvolle Datengeschichte zu erstellen. Wenn Sie eine Geschichte effektiv mit Daten erzählen, kann [!DNL Analytics] für eine größere Zielgruppe leichter erreichbar sein, und Sie können den Wert, den Sie Ihrer Organisation durch datengesteuerte Entscheidungsfindung bringen, erhöhen.
+Data Storytelling ist an der Schnittstelle von Kunst und Wissenschaft angesiedelt und nutzt Daten, Visualisierungen und Erzählungen, um Sachverhalte verständlich darzustellen.  Wenn wir diese Komponenten nutzen, lassen sich eindrucksvolle Datengeschichten in drei Teile gliedern. Indem Sie eine Geschichte mit Daten effektiv erzählen, können [!DNL Analytics] einer größeren Zielgruppe zugänglich werden und Sie können den Wert, den Sie Ihrer Organisation durch datengestützte Entscheidungsfindung bieten, steigern.
 
-## Chancen oder Probleme identifizieren
+## Identifizieren der Chance oder des Problems
 
-Beginnen Sie damit, die aktuelle Situation zu definieren und das Problem oder die Chance zu ermitteln. Hier legen Sie die Bühne fest und stellen genügend Informationen bereit, um Ihre Zielgruppe zu begeistern, die Lösung jedoch nicht vollständig offen zu legen. Diese Einführung ist kritisch (und kann schwierig sein), aber sie ist die ganze Motivation Ihrer Analyse!  Der Wert von &quot;data storylisting&quot;besteht darin, eine Aktion aufzurufen, die zu **geändertem Verhalten** führt. Daten, Insight und Analysen sind ansonsten machtlos.
+Definieren Sie zunächst die aktuelle Situation und ermitteln Sie das Problem oder die Chance. Hier legen Sie die Voraussetzungen fest und liefern genügend Informationen, um Ihre Zielgruppe zu fesseln, geben die Lösung jedoch nicht vollständig preis. Diese Einführung ist wichtig (und kann eine Herausforderung sein), aber sie ist die gesamte Motivation für Ihre Analyse!  Die Aufgabe von Data Storytelling besteht darin, eine Handlung zu bewirken, die zu **Verhaltensänderung** führt. Daten, Erkenntnisse und Analysen sind ansonsten machtlos.
 
-**[!DNL Adobe]Workspace Tipp:** Geben Sie Ihre Visualisierungen in Form einer Frage an, um genau anzuzeigen, welches Problem oder welche aktuelle Situation hervorgehoben wird.
+**[!DNL Adobe]Tipp für Workspace** Geben Sie Ihren Visualisierungen Titel, die die Form einer Frage haben, um genau zu zeigen, welches Problem oder welche aktuelle Situation dargestellt wird.
 
-## Durch Daten erklären
+## Über Daten erklären
 
-Nachdem Sie die Situation gerahmt haben, verwenden Sie Daten, um die Quelle des Problems/der Gelegenheit anzuzeigen. Konzentrieren Sie sich auf die Ergebnisse und Variablen, die die aktuelle Situation am besten erklären, im Gegensatz zur vollständigen Analyse und Untersuchung, um sie zu erreichen.  Stellen Sie ansprechende Visualisierungen bereit, die Ihnen helfen, die Beziehung Ihrer unabhängigen und abhängigen Variablen anzuzeigen, sie jedoch einfach zu halten, damit sie für Ihre Zielgruppe leicht nutzbar sind.
+Nachdem Sie die Situation umrissen haben, verwenden Sie Daten, um die Ursache des Problems/der Chance zu offenbaren. Konzentrieren Sie sich auf die Ergebnisse und Variablen, die die aktuelle Situation am besten erklären, und nicht auf die vollständige Analyse und Untersuchung, um dorthin zu gelangen.  Stellen Sie ansprechende Visualisierungen bereit, mit denen die Beziehung Ihrer unabhängigen und abhängigen Variablen dargestellt werden kann. Halten Sie sie jedoch einfach, damit sie für Ihre Zielgruppe leicht verständlich sind.
 
-**[!DNL Adobe]Workspace Tipp:**
-Erstellen Sie einfache, einfach zu lesende Visualisierungen, die dem Datentyp entsprechen, den Sie freigeben:
+Tipp für **[!DNL Adobe]Workspace:**
+Erstellen Sie einfache, leicht verständliche Visualisierungen, die mit der Art der Daten übereinstimmen, über die Sie berichten:
 
-* Verwenden Sie Balkendiagramme für kategorische und binäre Daten
-* Verwenden Sie für numerische Daten Liniendiagramme (oder Punkte außerhalb von [!DNL Adobe])
-* US-Streudiagramme zum Nachweis statistischer Beziehungen
+* Verwenden von Balkendiagrammen für kategoriale und binäre Daten
+* Verwenden Sie Liniendiagramme (oder Blasen außerhalb von [!DNL Adobe]) für numerische Daten
+* Verwenden von Streudiagrammen zur Demonstration statistischer Beziehungen
 
-## Lösung anbieten
+## Eine Lösung anbieten
 
-Teilen Sie die empfohlene Aktion mit und was sie dazu unternehmen kann.  Stellen Sie sicher, dass Sie genügend Details zur Verfügung stellen, damit die Interessenträger eine fundierte Entscheidung treffen können, z. B. Kostenauswirkungen oder erforderliche Ressourcen, die für eine Änderung erforderlich sind. Die effektivste Methode dazu besteht darin, die möglichen Auswirkungen über mindestens einen kritischen KPI zu quantifizieren.
+Kommunizieren Sie die empfohlene Aktion und die Maßnahmen, die erforderlich sind, um dorthin zu gelangen.  Stellen Sie ausreichend Details bereit, damit die Verantwortlichen eine fundierte Entscheidung treffen können, z. B. die Auswirkungen auf die Kosten oder die erforderlichen Ressourcen, die für eine Änderung erforderlich sind. Die effektivste Möglichkeit, dies zu erreichen, besteht darin, die möglichen Auswirkungen durch mindestens einen kritischen KPI zu quantifizieren.
 
-**[!DNL Adobe]Workspace Tipp:** Nutzen Sie Tools wie Klassifizierungen und/oder berechnete Metriken, um die möglichen Auswirkungen direkt innerhalb von [!DNL Adobe Analytics] zu quantifizieren (z. B. Net Profit oder CLV) und Zusammenfassungsnummern oder Änderungen innerhalb von [!DNL Adobe] Workspace zu verwenden, um mit einer hohen Note zu enden!
+**[!DNL Adobe]Tipp für Workspace:** Nutzen Sie Tools wie Klassifizierungen und/oder berechnete Metriken, um die möglichen Auswirkungen direkt in [!DNL Adobe Analytics] zu quantifizieren (z. B. Nettogewinn oder CLV), und verwenden Sie zusammengefasste Zahlen oder Änderungen innerhalb [!DNL Adobe] Workspace, um die positive Wirkung zu unterstreichen.
 
 ## Autor
 
-Dieses Dokument wurde geschrieben von:
+Dieses Dokument wurde verfasst von:
 
 ![Amy Ard](assets/amy-ard-headshot-small.png)
 
-Amy Ard, Director von [!DNL Analytics] bei Leveling
+Amy Ard, Director of [!DNL Analytics] bei Levelwing
 
 [!DNL Adobe Analytics] Champion

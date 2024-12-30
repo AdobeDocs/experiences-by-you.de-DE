@@ -1,6 +1,6 @@
 ---
 title: Verwenden von Best Practice Analyzer (BPA)
-description: Entdecken Sie Strategien zur Verwendung der Best Practice Analyze (BPA), um für Ihre Umstellung auf AEM as a Cloud Service gerüstet zu sein.
+description: Entdecken Sie Strategien für die Verwendung der Best-Practice-Analyse (BPA) bei der Vorbereitung auf den Wechsel zu AEM as a Cloud Service.
 version: Cloud Service
 feature: Migration
 topic: Migration
