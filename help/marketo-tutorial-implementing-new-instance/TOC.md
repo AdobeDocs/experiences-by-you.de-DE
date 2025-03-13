@@ -1,16 +1,15 @@
 ---
 user-guide-title: 'Tutorial - Tipps und Tricks zur Implementierung einer neuen  [!DNL Marketo Engage] '
 user-guide-description: 'Tutorial - Tipps und Tricks zur Implementierung einer neuen  [!DNL Marketo Engage] '
-breadcrumb-title: 'Tipps und Tricks zur Implementierung einer neuen  [!DNL Marketo Engage] '
-breadcrumb-url: /docs/experiences-by-you/experiences-by-you/implementing-new-instance/overview
+breadcrumb-title: 'Implementieren einer neuen  [!DNL Marketo Engage] '
 index: true
 role: Admin
 level: Beginner
 solution: Marketo Engage
 auto-video-transcripts: true
-source-git-commit: e5e1b9a1b14c24c62fb492c79b8717edf1ba286a
+source-git-commit: 15e031893212a9c6258d1747f9d8d2c888ddfb54
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '93'
 ht-degree: 3%
 
 ---
@@ -25,7 +24,7 @@ ht-degree: 3%
 + [Bewertungsmodell für Lead/Person erstellen](./building-person-scoring-model.md)
 + [Synchronisieren von Feldern für die nativen CRM-Connectoren](./syncing-fields-for-crm-integration.md)
 + [Neue Instanz organisieren und Namenskonventionen festlegen](./organizing-new-instance.md)
-+ [Gestalten von Omnichannel-Konversationsmarketing mit Dynamic Chat](./designing-omnichannel-conversational-marketing.md)
++ [Entwerfen von Omni-Channel-Konversationsmarketing mit Dynamic Chat](./designing-omnichannel-conversational-marketing.md)
 + [Erste Schritte mit Instanz-Governance und Dokumentation](./documenting-your-instance.md)
 + [[!DNL Marketo Engage] Tutorials](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=de)
 + [Zurück zu den Perspektiven](https://experienceleague.adobe.com/en/perspectives#f-el_product=Marketo%20Engage&amp;aq=((%40el_contenttype%20NOT%20%22Community%7CUser%22)%20AND%20(%40el_contenttype%3D%22perspective%22)))
