@@ -24,4 +24,4 @@ Das Vererben einer [!DNL Marketo Engage] kann zu einer anstrengenden Zeit werden
 
 In diesem Tutorial führen wir Sie durch die wichtigsten Abschnitte in [!DNL Marketo Engage], einschließlich Admin, Marketing-Aktivitäten, Design Studio und Datenbank, und geben Ihnen Tipps für Auditing und Optimierung auf dem Weg.
 
->[!VIDEO](https://video.tv.adobe.com/v/3422473/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453031/?learn=on&captions=ger)

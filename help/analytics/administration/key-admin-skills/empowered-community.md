@@ -21,7 +21,7 @@ ht-degree: 0%
 
 # Aufbau einer gestärkten Community
 
->[!VIDEO](https://video.tv.adobe.com/v/340457/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/341111/?quality=12&learn=on&captions=ger)
 
 Eine gestärkte Community ist durch einige charakteristische Merkmale gekennzeichnet. Zunächst einmal wird sie von ihren [!DNL Adobe Analytics]-Administratoren unterstützt. Er weiß, wie geschäftliche Anforderungen in der Implementierung dargestellt werden. Und nicht zuletzt verfügt sie über die Mittel, um Analysen auf vertrauliche Weise für datengestützte Entscheidungen zu nutzen. Viele Unternehmen profitieren von der Struktur, die eine interne [!DNL Adobe Analytics]-Benutzergruppe oder eine formellere Community bietet.
 

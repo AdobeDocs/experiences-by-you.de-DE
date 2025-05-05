@@ -58,7 +58,7 @@ Das Wichtigste an [!DNL Adobe] Experience Cloud-Lösungen? Sie. Benutzer, die di
   </td>
   <td>
     <a href="/help/experience-manager/sites/expert-resources/champion-tips-2.md">
-      <img alt="Tipps und Tricks" src="https://video.tv.adobe.com/v/3409427?format=jpeg" />
+      <img alt="Tipps und Tricks" src="https://video.tv.adobe.com/v/3439846?format=jpeg&captions=ger" />
     </a>
     <div>
       <a href="/help/experience-manager/sites/expert-resources/champion-tips-2.md">

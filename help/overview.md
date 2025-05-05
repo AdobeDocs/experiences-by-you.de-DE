@@ -45,7 +45,7 @@ Die leistungsfähigste Lösung für [!DNL Adobe] Digital Experience (DX)-Lösung
   </td>
   <td>
     <a href="/help/marketo/programs/email-programs.md">
-      <img alt="[!DNL Marketo Engage] E-Mail-Programme" src="https://video.tv.adobe.com/v/3419440?format=jpeg" />
+      <img alt="[!DNL Marketo Engage] E-Mail-Programme" src="https://video.tv.adobe.com/v/3453376?format=jpeg&captions=ger" />
     </a>
     <div>
       <a href="/help/marketo/programs/email-programs.md">

@@ -22,7 +22,7 @@ ht-degree: 22%
 
 In diesem Schritt-für-Schritt-Tutorial erfahren Sie, wie Sie Ihr erstes Interaktionsprogramm erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419374/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3452688/?learn=on&captions=ger){transcript=true}
 
 ## Zusätzliche Ressourcen:
 

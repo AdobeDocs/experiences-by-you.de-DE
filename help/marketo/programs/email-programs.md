@@ -22,7 +22,7 @@ ht-degree: 22%
 
 In diesem Schritt-für-Schritt-Tutorial erfahren Sie, wie Sie ein E-Mail-Programm mit einem A/B-Test erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419440/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3453376/?learn=on&captions=ger){transcript=true}
 
 
 ## Zusätzliche Ressourcen:

@@ -19,7 +19,7 @@ ht-degree: 0%
 
 # Funktionsübergreifendes Arbeiten
 
->[!VIDEO](https://video.tv.adobe.com/v/342071/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3410294/?quality=12&learn=on&captions=ger)
 
 Der Journey zu [!DNL Adobe Analytics] beginnt mit einer guten Implementierung. Wir alle kennen den Spruch „Garbage in, Garbage out“. Um zu vermeiden, dass eine Implementierung fehlerhafte Daten liefert, müssen Administratoren jedes Detail der Daten überwachen, die in das System eingegeben werden. Allerdings wird die Datenerfassungsstrategie von vielen Stakeholdern in der Organisation beeinflusst, mit denen ein Administrator tagtäglich zu tun hat.
 

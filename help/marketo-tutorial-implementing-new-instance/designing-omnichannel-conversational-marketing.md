@@ -49,7 +49,7 @@ Sehen wir uns diese Anwendungsfälle in Aktion an, während Sara ihren Prozess p
 
 Dieses Dialogfeld bietet fünf erste Optionen für Website-Besuchende, aus denen sie wählen können, sodass sie ein selbstgesteuertes Erlebnis erhalten, das ihnen hilft, die benötigten Informationen basierend auf ihrer Rolle zu finden. Zunächst sollten Sie Ihren E-Mail-Posteingang „Kontakt“ erkunden, um allgemeine Themen zu identifizieren und sie in Dialogoptionen zu kategorisieren, die für Ihre Site-Besucher gelten. Sehen Sie sich die Demo an und führen Sie die folgenden Schritte aus, um Ihr standardmäßiges Catch-All-Dialogfeld zu erstellen:
 
->[!VIDEO](https://video.tv.adobe.com/v/3429194/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453739/?learn=on&captions=ger)
 
 >[!BEGINTABS]
 

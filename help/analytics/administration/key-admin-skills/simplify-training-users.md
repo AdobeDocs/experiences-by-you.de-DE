@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Tipps und Tricks dazu, wie Sie die Einarbeitung von Benutzern vereinfachen und verkürzen können
 
->[!VIDEO](https://video.tv.adobe.com/v/340458/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/341102/?quality=12&learn=on&captions=ger)
 
 Entscheidend für den Aufbau einer Kultur datengestützter Entscheidungsfindung ist es, sicherzustellen, dass die Geschäftsanwender in Ihrem Unternehmen über gut geschulte [!DNL Adobe Analytics] verfügen. Benutzer, die in [!DNL Adobe Analytics] leicht Informationen finden können, können einfache Geschäftsfragen selbst beantworten, sodass Analysten mehr Zeit für die Beantwortung herausfordernder Geschäftsfragen haben. Die Weitergabe Ihres Wissens trägt zur Förderung der Datendemokratie bei und ermöglicht es Geschäftsbenutzern, bei leistungsbasierten Entscheidungen unabhängiger zu sein.
 

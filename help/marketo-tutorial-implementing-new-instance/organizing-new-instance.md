@@ -27,7 +27,7 @@ Wenn Sie in Ihrer Instanz organisiert bleiben, können Sie und Ihre Kollegen Kam
 
 ## Organisieren einer Marketo Engage-Instanz
 
->[!VIDEO](https://video.tv.adobe.com/v/3421577/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3422763/?quality=12&learn=on&captions=ger)
 
 ### Schritt 1: Einrichten einer Ordnerstruktur, um Ihre Programme zu ordnen
 
