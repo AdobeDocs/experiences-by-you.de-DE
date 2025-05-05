@@ -44,7 +44,7 @@ Das Erstellen und Bearbeiten von Anmerkungen ist intuitiv und fast selbsterklär
 ![2ndImage](assets/2ndimage.png){width="70%"}![3rdimage](assets/3rdimage.png){width="30%"}
 
 
-Alle Details zur Funktionsweise von Anmerkungen finden Sie im [Video-Tutorial auf Experience League](https://experienceleague.adobe.com/en/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace).
+Alle Details zur Funktionsweise von Anmerkungen finden Sie im [Video-Tutorial auf Experience League](https://experienceleague.adobe.com/de/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace).
 
 ## Tipps und Tricks für den Einstieg
 
@@ -75,7 +75,7 @@ Abschließend finden Sie hier einige nützliche Tipps, um mit der sofortigen Ver
 
 ![9thImage](assets/9thimage.png)
 
-Eine ausführliche Dokumentation finden Sie unter [Anmerkungen - Übersicht](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/components/annotations/overview) und in den zugehörigen Artikeln.
+Eine ausführliche Dokumentation finden Sie unter [Anmerkungen - Übersicht](https://experienceleague.adobe.com/de/docs/analytics/analyze/analysis-workspace/components/annotations/overview) und in den zugehörigen Artikeln.
 
 ## Autor
 

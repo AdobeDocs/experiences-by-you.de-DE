@@ -46,7 +46,7 @@ Das Wichtigste an [!DNL Adobe] Experience Cloud-Lösungen? Sie. Benutzer, die di
   </td>
   <td>
     <a href="/help/campaign/acs/troubleshooting-for-marketers.md">
-      <img alt="Fehlerbehebung für Marketing-Fachleute" src="https://cdn.experienceleague.adobe.com/thumb/docs-campaign.png" />
+      <img alt="Fehlerbehebung für Marketing-Fachleute" src="https://cdn.experienceleague.adobe.com/thumb/docs-campaign.png?lang=de" />
     </a>
     <div>
       <a href="/help/campaign/acs/troubleshooting-for-marketers.md">
@@ -59,7 +59,7 @@ Das Wichtigste an [!DNL Adobe] Experience Cloud-Lösungen? Sie. Benutzer, die di
   </td>
   <td>
     <a href="/help/campaign/10-best-practices-for-marketers.md">
-      <img alt="Zehn Best Practices zum Erfolg von Adobe Campaign für Marketing-Fachleute" src="https://cdn.experienceleague.adobe.com/thumb/docs-campaign.png" />
+      <img alt="Zehn Best Practices zum Erfolg von Adobe Campaign für Marketing-Fachleute" src="https://cdn.experienceleague.adobe.com/thumb/docs-campaign.png?lang=de" />
     </a>
     <div>
       <a href="/help/campaign/10-best-practices-for-marketers.md">

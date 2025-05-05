@@ -38,7 +38,7 @@ In diesem Tutorial gehen wir auf die spezifischen Meilensteine, Teaminteraktione
 
 ### Phase 3: Erstellung der Programmbibliothek und Einrichtung der Kampagne
 
-- Entwickeln von E-Mail-Vorlagen und Landingpages. Beginnen Sie mit [Importieren von ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program) aus der [Programm-Importbibliothek](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview).
+- Entwickeln von E-Mail-Vorlagen und Landingpages. Beginnen Sie mit [Importieren von ](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program) aus der [Programm-Importbibliothek](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview).
 - Einrichten von Segmentierungs- und Personalization-Regeln
 - Erstellen erster Kampagnen für die Lead-Generierung und -Pflege
 

@@ -138,7 +138,7 @@ Eine weitere leistungsstarke Funktion von Arbeitsbereichen ist die Möglichkeit,
 
 >[!IMPORTANT]
 >
->Weitere Informationen zur Verwendung von Dropdown-Menüs und Freiform-Aufschlüsselungen finden Sie unter <https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680>
+>Weitere Informationen zur Verwendung von Dropdown-Menüs und Freiform-Aufschlüsselungen finden Sie unter <https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680?profile.language=de>
 
 ##### 2.1.2.2. Google-[!DNL Analytics]: Dashboards, benutzerdefinierte Berichte und gespeicherte Berichte
 

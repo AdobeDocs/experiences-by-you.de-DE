@@ -27,5 +27,5 @@ Sehen Sie sich diese Tipps von Ihrem technischen Leiter Rakesh Pasupuleti an. Ra
 
 ## Zusätzliche Ressourcen {#additional-resources}
 
-* [Verwalten von Umgebungen](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-environments.html) - Dokumentation zum Umgebungs-Management in AEM as a Cloud Service
+* [Verwalten von Umgebungen](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/using-cloud-manager/manage-environments.html?lang=de) - Dokumentation zum Umgebungs-Management in AEM as a Cloud Service
 * [Schnelle Entwicklungsumgebungen](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/implementing/developing/rapid-development-environments.html?lang=de) - Dokumentation zu RDEs in AEM as a Cloud Service

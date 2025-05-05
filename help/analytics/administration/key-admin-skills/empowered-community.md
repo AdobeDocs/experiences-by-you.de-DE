@@ -39,7 +39,7 @@ Sie können innerhalb Ihrer Organisation eine gestärkte Community aufbauen. So 
 
 * Grundlegendes zur Implementierung:
 
-  Als Best Practice müssen Benutzer allgemeine Kenntnisse von den geschäftlichen Anforderungen haben, die von ihrer Implementierung unterstützt werden. Diese werden in der Regel in einem [Geschäftsanforderungsdokument](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=en) (BRD) und [Referenzdokument für das Lösungs-Design](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-and-maintaining-an-sdr.html?lang=en) (SDR) erfasst. Diese Anforderungen sollten enthalten, was implementiert wurde, und die Geschäftsanforderungen, Berichte, eVars, Ereignisse usw. nach Kategorie definieren.
+  Als Best Practice müssen Benutzer allgemeine Kenntnisse von den geschäftlichen Anforderungen haben, die von ihrer Implementierung unterstützt werden. Diese werden in der Regel in einem [Geschäftsanforderungsdokument](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=de) (BRD) und [Referenzdokument für das Lösungs-Design](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-and-maintaining-an-sdr.html?lang=de) (SDR) erfasst. Diese Anforderungen sollten enthalten, was implementiert wurde, und die Geschäftsanforderungen, Berichte, eVars, Ereignisse usw. nach Kategorie definieren.
 
 * Verwenden von Berichtsvorlagen:
 
@@ -115,4 +115,4 @@ Der Aufbau und die Pflege einer starken Community ist sehr arbeitsintensiv. Es i
 
 * Karriereentwicklung - Eine leistungsfähige Community verlagert den Fokus vieler Analyst-Teams von reaktiv und taktisch zu präskriptiv und strategisch. Dadurch eröffnen sich Karrieremöglichkeiten für das Administrations-Projektteam Ihrer Community.
 
-Wenn Sie intern eine [!DNL Adobe Analytics] Benutzergruppe oder eine formellere „Community“ haben oder daran arbeiten, eine solche Gruppe bzw. Community aufzubauen, möchten wir Ihre Story gern auf der [[!DNL Adobe] Experience League hören](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/bd-p/adobe-analytics-discussions)!
+Wenn Sie intern eine [!DNL Adobe Analytics] Benutzergruppe oder eine formellere „Community“ haben oder daran arbeiten, eine solche Gruppe bzw. Community aufzubauen, möchten wir Ihre Story gern auf der [[!DNL Adobe] Experience League hören](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/bd-p/adobe-analytics-discussions?profile.language=de)!

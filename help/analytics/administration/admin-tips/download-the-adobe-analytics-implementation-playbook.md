@@ -103,7 +103,7 @@ Es wird empfohlen, dieses Dokument so einfach wie möglich zu halten und es nich
 >
 >Erstellen Sie eine Dimension für den Site-Namen/die Eigenschaft in [!DNL Adobe Analytics]. Eine dedizierte Dimension (in der Regel eine eVar) in [!DNL Adobe Analytics], die den Site-/App-Namen identifiziert, ermöglicht die Segmentierung, Fehlerbehebung, Erstellung virtueller Report Suites usw. Die Vorteile sind endlos, insbesondere wenn mehrere Sites in einer (globalen) Report Suite kombiniert werden. Entscheidend ist, sicherzustellen, dass Ihre Entwicklungs-Teams diesen Wert immer in der Dimension „Eigenschaften“ festlegen, einschließlich aller Seitenladevorgänge (s.tl-Aufrufe/trackState) und aller benutzerdefinierten Ereignisse (s.tl-Aufrufe/trackAction). Verarbeitungsregeln können ein wertvolles Tool sein, das Ihnen dabei hilft, diese Werte richtig und konsistent festzulegen.
 
-[Sehen Sie sich dieses Video von Doug ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html){target="_blank"} an, um weitere Informationen zum Ausfüllen des Implementierungs-Playbooks zu erhalten.
+[Sehen Sie sich dieses Video von Doug ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=de){target="_blank"} an, um weitere Informationen zum Ausfüllen des Implementierungs-Playbooks zu erhalten.
 
 ## Autoren
 

@@ -42,8 +42,8 @@ Diese &#39;Implementation A New Instance Tips and Tricks&#39;-Serie stammt von A
 
 * [Synchronisieren von Feldern für die nativen CRM-Connectoren](/help/marketo-tutorial-implementing-new-instance/syncing-fields-for-crm-integration.md)
   *Erfahren Sie, wie Sie Ihre anfängliche CRM-Integration optimieren können, indem Sie die grundlegenden CRM-Felder für das Marketo Engage strategisch auswählen. Führen Sie die Übung zum Datenwörterbuch durch, um die Felder zu identifizieren, die Sie für eine reibungslose CRM-Synchronisierung benötigen, die Vertriebs- und Marketing-Teams dabei hilft, aufeinander abzustimmen.*
-   * [Erste Schritte mit der Synchronisierung mit Salesforce](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/salesforce-sync-setup){target="_blank}
-   * [Erste Schritte mit der Synchronisierung mit Microsoft Dynamics](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/microsoft-dynamics-sync-setup){target="_blank}
+   * [Erste Schritte mit der Synchronisierung mit Salesforce](https://experienceleague.adobe.com/de/docs/marketo-learn/tutorials/lead-and-data-management/salesforce-sync-setup){target="_blank}
+   * [Erste Schritte mit der Synchronisierung mit Microsoft Dynamics](https://experienceleague.adobe.com/de/docs/marketo-learn/tutorials/lead-and-data-management/microsoft-dynamics-sync-setup){target="_blank}
 <br>
 
 * [Neue Instanz organisieren und Namenskonventionen festlegen](/help/marketo-tutorial-implementing-new-instance/organizing-new-instance.md)
@@ -59,6 +59,6 @@ Diese &#39;Implementation A New Instance Tips and Tricks&#39;-Serie stammt von A
 
 ## Zusätzliche Ressourcen
 
-* [Implementieren einer neuen Marketo Engage-Instanz mit Checklisten mit Best Practices](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started/implementing-a-new-marketo-engage-instance/where-to-start){target="_blank}
+* [Implementieren einer neuen Marketo Engage-Instanz mit Checklisten mit Best Practices](https://experienceleague.adobe.com/de/docs/marketo/using/getting-started/implementing-a-new-marketo-engage-instance/where-to-start){target="_blank}
   *Jede Checkliste bietet hilfreiche Schritte, um den Konfigurationsfortschritt zu verfolgen. Verwenden Sie die herunterladbaren Checklisten, um Ihre Arbeit für zukünftige Instanz-Audits und das Onboarding von Benutzern zu dokumentieren.*
 

@@ -58,7 +58,7 @@ Das Wichtigste an [!DNL Adobe Experience Cloud] Lösungen? Sie. Benutzer, die di
   </td>
   <td>
     <a href="/help/analytics/administration/admin-tips/create-standardized-naming-conventions.md">
-      <img alt="Erstellen standardisierter Benennungskonventionen" src="https://cdn.experienceleague.adobe.com/thumb/10531.jpg" />
+      <img alt="Erstellen standardisierter Benennungskonventionen" src="https://cdn.experienceleague.adobe.com/thumb/10531.jpg?lang=de" />
     </a>
     <div>
       <a href="/help/analytics/administration/admin-tips/create-standardized-naming-conventions.md">

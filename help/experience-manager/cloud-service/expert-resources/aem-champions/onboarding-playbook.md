@@ -33,4 +33,4 @@ Sehen Sie sich diese Tipps von Ihrem technischen Leiter Rakesh Pasupuleti an. Ra
 
 ## Zusätzliche Ressourcen {#additional-resources}
 
-* [AEM as a Cloud Service-Onboarding-Journey](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/onboarding/journey/overview.html) - Eine schrittweise Anleitung für einen neuen Systemadministrator, um zunächst Cloud-Ressourcen bereitzustellen und basierend auf seiner beruflichen Verantwortung Benutzern Rollen zuzuweisen, sodass sich jedes Teammitglied anmelden und auf seine neuen AEM as a Cloud Service-Ressourcen zugreifen kann
+* [AEM as a Cloud Service-Onboarding-Journey](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/onboarding/journey/overview.html?lang=de) - Eine schrittweise Anleitung für einen neuen Systemadministrator, um zunächst Cloud-Ressourcen bereitzustellen und basierend auf seiner beruflichen Verantwortung Benutzern Rollen zuzuweisen, sodass sich jedes Teammitglied anmelden und auf seine neuen AEM as a Cloud Service-Ressourcen zugreifen kann

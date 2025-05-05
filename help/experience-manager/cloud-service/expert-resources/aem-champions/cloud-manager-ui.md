@@ -27,4 +27,4 @@ Sehen Sie sich diese Tipps von Ihrem technischen Leiter Rakesh Pasupuleti an. Ra
 
 ## Zusätzliche Ressourcen {#additional-resources}
 
-* [Einführung in [!DNL Cloud Manager]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/onboarding/concepts/cloud-manager-introduction.html) - Dokumentation zur Verwendung von [!DNL Cloud Manager] in AEM as a Cloud Service
+* [Einführung in [!DNL Cloud Manager]](https://experienceleague.adobe.com/docs/experience-manager-cloud-service/content/onboarding/concepts/cloud-manager-introduction.html?lang=de) - Dokumentation zur Verwendung von [!DNL Cloud Manager] in AEM as a Cloud Service

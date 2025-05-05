@@ -26,7 +26,7 @@ Erfahren Sie, wie Sie die Benutzeroberfläche navigieren, und machen Sie sich ve
 
 ## Zusätzliche Ressourcen
 
-* [[!DNL Marketo Engage] Glossar](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/marketo-glossary.html?lang=en)
+* [[!DNL Marketo Engage] Glossar](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/marketo-glossary.html?lang=de)
 Definitionen für viele Begriffe, die bei der Verwendung von Marketo auftreten können.
-* [Symbol-Glossar](https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-engage-modern-ux/icon-glossary.html?lang=en)
+* [Symbol-Glossar](https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-engage-modern-ux/icon-glossary.html?lang=de)
 Glossar der Symbole für die [!DNL Marketo Engage].
