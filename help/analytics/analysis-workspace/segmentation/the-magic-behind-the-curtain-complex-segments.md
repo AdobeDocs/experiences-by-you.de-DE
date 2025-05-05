@@ -60,7 +60,7 @@ Auf den ersten Blick klingen beide gleich… und bei **Treffer** Level-Segmenten
 
 ![Abbildung2-DnceVsExclude-Visit](assets/figure2-dnce-vs-exclude-visit.png)
 
-*Wie oben wird jeder Treffer innerhalb des **Besuchs**mit dem gleichen Wert „true/false“ ausgewertet. Der zurückgegebene Datensatz ist jedoch der des gesamten Besuchs.*
+*Wie oben wird jeder Treffer innerhalb des **Besuchs**&#x200B;mit dem gleichen Wert „true/false“ ausgewertet. Der zurückgegebene Datensatz ist jedoch der des gesamten Besuchs.*
 
 - Bei jedem Treffer enthält „Wert“ kein „Beispiel“ (ja), daher „true“ zurückgeben; ebenso enthält „Beispiel“ kein „Beispiel“ (nein, es enthält es), daher „false“ zurückgeben.
    - Wenn **irgendein** Treffer beim Besuch &quot;**&quot;**, wird der **gesamte Besuch** zurückgegeben.*
@@ -76,7 +76,7 @@ Auf den ersten Blick klingen beide gleich… und bei **Treffer** Level-Segmenten
 
 ![Figure3-DnceVsExclude-Visitor](assets/figure3-dnce-vs-exclude-visitor.png)
 
-*Wie oben wird jeder Treffer, der vom **Besucher**gemacht wird, mit derselben Logik „true/false“ ausgewertet. Jetzt sehen wir uns jedoch alle Treffer an, die dieser Besucher bei allen Besuchen (innerhalb des ausgewählten Datumsbereichs) gemacht hat.*
+*Wie oben wird jeder Treffer, der vom **Besucher**&#x200B;gemacht wird, mit derselben Logik „true/false“ ausgewertet. Jetzt sehen wir uns jedoch alle Treffer an, die dieser Besucher bei allen Besuchen (innerhalb des ausgewählten Datumsbereichs) gemacht hat.*
 
 - Bei jedem Treffer enthält „Wert“ kein „Beispiel“ (ja), daher „true“ zurückgeben; ebenso enthält „Beispiel“ kein „Beispiel“ (nein, es enthält es), daher „false“ zurückgeben.
    - Wenn **vom Besucher** Treffer &quot;**&quot;**, wird der **gesamte Besuch** zurückgegeben.

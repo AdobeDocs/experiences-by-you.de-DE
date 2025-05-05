@@ -68,4 +68,4 @@ Adobe Analytics Champion
 
 ## Download
 
-[![Herunterladen von Schnellsegmenten](assets/quick-segments-download-small.jpg)](assets/[!DNL Adobe]_[!DNL Analytics]_segments_vs_segment_builder_reference_guide.pdf)
+[![Herunterladen von Schnellsegmenten](assets/quick-segments-download-small.jpg)] (assets/[!DNL Adobe]_[!DNL Analytics]_&#x200B;segments_vs_segment_builder_reference_guide.pdf)

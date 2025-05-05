@@ -28,7 +28,7 @@ Wie viele Administratoren betreibe ich einen internen Info-Hub (Confluence oder 
 
 Mir fiel auf, dass Benutzer meine Verweise auf die Confluence-Website oft ignorierten, z. B. mit Gründen wie „Mein VPN ist ausgeschaltet“ oder „Ich kann es jetzt nicht lesen“. Grundsätzlich bedeutet „Ich werde das Dokument später lesen“, dass es nie gelesen wird und die gleiche Frage wird nächste Woche wieder gestellt werden.
 
-***Der Realisierungserfolg:**Vielseitigkeit von Workspace könnte alles verändern. Anwender bevorzugen schnelle, direkte Antworten innerhalb von Workspace. Lassen Sie sie also dort bleiben, um zusätzliche Schritte zu vermeiden.*
+***Der Realisierungserfolg:**&#x200B;Vielseitigkeit von Workspace könnte alles verändern. Anwender bevorzugen schnelle, direkte Antworten innerhalb von Workspace. Lassen Sie sie also dort bleiben, um zusätzliche Schritte zu vermeiden.*
 
 Ich habe daraufhin betriebliche Dashboards erstellt, um unternehmensweit freizugeben. Bisher haben sie die Nutzer informiert, zentralisiert informiert und die Frustration verringert. Dies ist ein einfacher, sich entwickelnder Prozess, der die Effizienz im Laufe der Zeit steigert.
 

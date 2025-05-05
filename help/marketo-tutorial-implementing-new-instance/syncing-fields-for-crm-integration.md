@@ -60,6 +60,7 @@ Im Allgemeinen empfiehlt es sich, nur CRM-Felder zu synchronisieren, die für Ma
    * Zweite Spalte: Marketo Engage-API-Namen
    * Dritte Spalte: [Marketo Engage-Feldtyp](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/custom-field-type-glossary){target="_blank"} (d. h. Boolesch, Währung, Datum usw.)
    * In nachfolgenden Spalten wiederholen Sie den Vorgang für die CRM-Objekttypen (Lead, Kontakt, Konto, Opportunity) mit einer zusätzlichen Spalte für die Zugriffsebene, die Sie für das Marketo Engage haben möchten (d. h. Lesen, Schreiben, Bearbeiten)
+
   <br>
 
   Im Folgenden finden Sie ein Beispiel dafür, wie sie aussehen würde:

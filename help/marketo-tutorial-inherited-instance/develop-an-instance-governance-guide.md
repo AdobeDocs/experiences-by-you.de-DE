@@ -78,7 +78,7 @@ Ermitteln Sie zunächst die wichtigsten operationellen Programme mit Auswirkunge
 
 Dokumentieren Sie für jedes ermittelte operationelle Programm seinen aktuellen Stand. Dazu gehören Details über den Zweck des Programms, die Einrichtung, zugehörige intelligente Kampagnen und die Integration mit anderen Tools (falls zutreffend).
 
-### Schritt 4: [!UICONTROL  der ] erzwingen
+### Schritt 4: [!UICONTROL &#x200B; der &#x200B;] erzwingen
 
 Der nächste Schritt besteht darin, eine strikte Governance-Richtlinie für Ihre [!DNL Marketo Engage]-Instanz festzulegen, die die Wartung [!UICONTROL Änderungsprotokolls] erfordert. Diese Richtlinie stellt sicher, dass alle Aktualisierungen an operationellen Programmen in der gesamten Instanz sorgfältig dokumentiert werden.
 

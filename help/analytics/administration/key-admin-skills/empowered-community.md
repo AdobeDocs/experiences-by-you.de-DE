@@ -65,7 +65,7 @@ Sie können innerhalb Ihrer Organisation eine gestärkte Community aufbauen. So 
 
 ## 3. Nutzen Sie Tools, um Ihre Community aufzubauen
 
-* [Erstellen einer Projektcharta](assets/[!DNL Adobe]-[!DNL Analytics]-Empowered-Community-Project-Charter-Template.pptx) (Vorlagen-Download):
+* [Erstellen einer Projektcharta] (assets/[!DNL Adobe]-[!DNL Analytics]-Empowered-Community-Project-Charter-Template.pptx) (Vorlagen-Download):
 
   Eine Projektcharta ist oft eine gute Möglichkeit, Ihr Unternehmen auf die Möglichkeit einer internen, leistungsfähigen Community auszurichten. Wenn Sie die folgenden Fragen beantworten, haben Sie das, was Sie für den Entwurf Ihrer Charta benötigen:
 
