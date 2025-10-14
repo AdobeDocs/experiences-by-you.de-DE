@@ -71,7 +71,7 @@ _Erfahren Sie mehr über die Messkonferenz. Verwenden Sie eine Trichterkarte, um
 ### Die Vorschau-Dashboards
 
 1. Erstellen Sie Mockup-Dashboards anhand der Trichterzuordnung als Anleitung.
-1. Es sollte eine Gesamtansicht vorhanden sein, z. B[ ein ](driving-success-with-executive-summary-dashboards.md)Executive Summary Dashboard) und Dashboards für jeden Trichter.
+1. Es sollte eine Gesamtansicht vorhanden sein, z. B[&#x200B; ein &#x200B;](driving-success-with-executive-summary-dashboards.md)Executive Summary Dashboard) und Dashboards für jeden Trichter.
 1. Es gibt auch einige spezifischere Optionen für Ihre Site oder Ihr Programm, z. B. Produkt- oder Inhaltsleistung.
 1. Verteilen Sie diese an die relevanten Stakeholder und erhalten Sie Feedback zum Design.
 1. Nehmen Sie die angeforderten Aktualisierungen vor und fügen Sie neue Metriken oder Dimensionen zu Ihrer SDR hinzu, wenn Sie sie benötigen.
@@ -115,7 +115,7 @@ Eigenverantwortlichkeit ist das Produkt eines tiefen Denkens und der Arbeit, die
 
 ### Vereinfachen der Daten
 
-Sie haben ihnen auch gezeigt, wie sie den Prozess verwenden werden und wie er durch die [Vorschau-Dashboards“ aussehen ](#the-preview-dashboards). Jede neue Lösung ist _schwer_. Es gibt so viel zu lernen. Und angesichts der enormen Anpassbarkeit von [!DNL Adobe Analytics] kann die Lernkurve steil sein. Sie haben aber 80 % davon entfernt. Noch bevor die erste Code-Zeile geschrieben wurde, wissen Ihre Stakeholder, wie ihre Dashboards aussehen werden. Sie werden wissen, wie sie sie lesen und was sie ihnen bedeuten. Sie wissen, wie Erfolg buchstäblich aussieht, weil sie Ihnen gesagt haben, welche Metriken und Dimensionen Erfolg definieren. Und ihr habt ihnen gesagt, wie dieser Erfolg für sie visualisiert wird. Die Bereitstellung der eigentlichen Dashboards ist eine Auffrischung und keine beängstigende neue Lernaufgabe.
+Sie haben ihnen auch gezeigt, wie sie den Prozess verwenden werden und wie er durch die [Vorschau-Dashboards“ aussehen &#x200B;](#the-preview-dashboards). Jede neue Lösung ist _schwer_. Es gibt so viel zu lernen. Und angesichts der enormen Anpassbarkeit von [!DNL Adobe Analytics] kann die Lernkurve steil sein. Sie haben aber 80 % davon entfernt. Noch bevor die erste Code-Zeile geschrieben wurde, wissen Ihre Stakeholder, wie ihre Dashboards aussehen werden. Sie werden wissen, wie sie sie lesen und was sie ihnen bedeuten. Sie wissen, wie Erfolg buchstäblich aussieht, weil sie Ihnen gesagt haben, welche Metriken und Dimensionen Erfolg definieren. Und ihr habt ihnen gesagt, wie dieser Erfolg für sie visualisiert wird. Die Bereitstellung der eigentlichen Dashboards ist eine Auffrischung und keine beängstigende neue Lernaufgabe.
 
 Das ist nicht unbedingt der schnellste Weg, um ein SZR zusammenzubekommen. Das ist sehr arbeitsintensiv und erfordert viel Koordination der Zeitpläne, zumal es wichtig ist, dass einige Führungskräfte im Mix sind. Am Ende bedeutet eine Enterprise-Analyselösung jedoch eine enorme Investition von Zeit und Geld, und Sie möchten sicherstellen, dass Akzeptanz und Zufriedenheit hoch sind. Diese Methode trägt viel dazu bei, dass dies geschieht.
 

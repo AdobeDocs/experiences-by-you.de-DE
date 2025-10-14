@@ -122,7 +122,7 @@ Jetzt, da Sie die Konzepte haben, stellen Sie sich vor, Sie führen eine Marketi
 Nachdem Sie nun gesehen haben, was sie kann, lassen Sie sich nicht von den scheinbar komplexen Funktionen des Attributionsbedienfelds täuschen oder einschüchtern.  **Stell dich der Sache**.  *Umarme*.  **Verstehen**.
 ABER VOR ALLEM - *Nutzen Sie es zu Ihrem Vorteil.* Das **Attributionsbedienfeld** und **Lookback-Fenster** sind die Schlüssel für ein tieferes Verständnis Ihrer Kundinnen und Kunden und deren Journey mit Ihrer Marke.
 
-Jetzt können wir mit Zuversicht &quot;[zurück in der ](https://youtu.be/gVryJmZNFdU)&quot; reisen und die Leistung unserer vertrauenswürdigen Zeitmaschine (auch ***[!DNL Adobe Analytics]*** genannt) nutzen, um datengesteuerte Entscheidungen zu treffen.
+Jetzt können wir mit Zuversicht &quot;[zurück in der &#x200B;](https://youtu.be/gVryJmZNFdU)&quot; reisen und die Leistung unserer vertrauenswürdigen Zeitmaschine (auch ***[!DNL Adobe Analytics]*** genannt) nutzen, um datengesteuerte Entscheidungen zu treffen.
 
 ## Autor
 

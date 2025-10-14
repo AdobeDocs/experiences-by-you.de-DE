@@ -74,7 +74,7 @@ Im Allgemeinen empfiehlt es sich, nur CRM-Felder zu synchronisieren, die für Ma
    * [Veeva](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/crm-sync/veeva-crm-sync/sync-details/default-veeva-field-mapping){target="_blank"}
 
 * Bestätigen Sie, dass jedes Standardfeld im Marketo Engage mit dem Feld im CRM übereinstimmt, mit dem Sie synchronisieren möchten. Das Feld „Abgemeldet“ in Marketo Engage könnte beispielsweise das Feld „E-Mail-Abmeldung“ in Ihrem CRM sein.
-* Passen Sie bei Bedarf den CRM-API[Namen, die Berechtigungen und den ](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/field-management/custom-field-type-glossary){target="_blank"}Datentyp“ an.
+* Passen Sie bei Bedarf den CRM-API[Namen, die Berechtigungen und den &#x200B;](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/field-management/custom-field-type-glossary){target="_blank"}Datentyp“ an.
 
 **Schritt 4:** Hinzufügen zusätzlicher Felder zum Datenwörterbuch
 
@@ -84,7 +84,7 @@ Im Allgemeinen empfiehlt es sich, nur CRM-Felder zu synchronisieren, die für Ma
 * Wenn in beiden Systemen entsprechende Felder vorhanden sind, fügen Sie diese in dieselbe Zeile ein und geben Sie an, dass sie im Abschnitt „Hinweise“ ganz rechts in Ihrem Datenwörterbuchblatt neu zugeordnet werden müssen.
 
 >[!NOTE]
->Wenn Sie ein Synchronisierungsfilterfeld ([Salesforce) erstellen ](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758){target="_blank"} | [Microsoft Dynamics](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/custom-dynamics-sync-filter-details/create-a-custom-dynamics-sync-filter){target="_blank"}), stellen Sie sicher, dass Sie sie in diesen Schritt einbeziehen, aber die API-Namen leer lassen, bis das Feld in Ihrem CRM erstellt wird.
+>Wenn Sie ein Synchronisierungsfilterfeld ([Salesforce) erstellen &#x200B;](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758){target="_blank"} | [Microsoft Dynamics](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/custom-dynamics-sync-filter-details/create-a-custom-dynamics-sync-filter){target="_blank"}), stellen Sie sicher, dass Sie sie in diesen Schritt einbeziehen, aber die API-Namen leer lassen, bis das Feld in Ihrem CRM erstellt wird.
 
 **Schritt 5:** Überprüfen Sie das Datenwörterbuch mit Ihrem CRM-Administrator
 

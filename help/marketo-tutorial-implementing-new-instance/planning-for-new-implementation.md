@@ -38,7 +38,7 @@ In diesem Tutorial gehen wir auf die spezifischen Meilensteine, Teaminteraktione
 
 ### Phase 3: Erstellung der Programmbibliothek und Einrichtung der Kampagne
 
-- Entwickeln von E-Mail-Vorlagen und Landingpages. Beginnen Sie mit [Importieren von ](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program) aus der [Programm-Importbibliothek](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview).
+- Entwickeln von E-Mail-Vorlagen und Landingpages. Beginnen Sie mit [Importieren von &#x200B;](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program) aus der [Programm-Importbibliothek](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview).
 - Einrichten von Segmentierungs- und Personalization-Regeln
 - Erstellen erster Kampagnen für die Lead-Generierung und -Pflege
 
@@ -134,7 +134,7 @@ Erfahren Sie von Marketo Engage Champion (2019), Kyle McCormick, über seine Onb
 
 Erstellen Sie einen neuen Implementierungsprojektplan und einen neuen Zeitplan. Nachfolgend finden Sie eine Beispiel-Projekt-Zeitleiste mit Abschnitten für Beispiel-Meilensteine, Aufgaben, verantwortliche Teams, Fristen und Abhängigkeiten. Verwenden Sie diese Option, um Ihre Marketo Engage-Implementierungs-Journey zu optimieren und einen erfolgreichen Rollout im gesamten Unternehmen sicherzustellen.
 
-Sie können auch das Beispiel zum Bearbeiten und Tracking bestimmter Meilensteinaufgaben ([) ](/help/marketo-tutorial-implementing-new-instance/assets/adobe-marketo-engage-implementation-milestones-project-management-template.xlsx).
+Sie können auch das Beispiel zum Bearbeiten und Tracking bestimmter Meilensteinaufgaben ([) &#x200B;](/help/marketo-tutorial-implementing-new-instance/assets/adobe-marketo-engage-implementation-milestones-project-management-template.xlsx).
 
 <table>
  <thead>

@@ -182,7 +182,7 @@ Wenn Sie diese umsetzbaren Tipps befolgen und auf die Vorlagen verweisen, sind S
 
 ## Wie geht es weiter?
 
-Laden Sie das [Interne Kommunikationshandbuch und -vorlage“ herunter und verwenden Sie ](/help/marketo-tutorial-implementing-new-instance/assets/marketo-engage-new-instance-onboarding-internal-communications-guide-template.xlsx){target="_blank}, um regelmäßige Aktualisierungen vorzunehmen und den Fortschritt der Stakeholder zu melden. Schließen Sie wichtige Metriken, Erfolge und bevorstehende Meilensteine ein, um sie auf dem Laufenden zu halten und aktiv zu halten.
+Laden Sie das [Interne Kommunikationshandbuch und -vorlage“ herunter und verwenden Sie &#x200B;](/help/marketo-tutorial-implementing-new-instance/assets/marketo-engage-new-instance-onboarding-internal-communications-guide-template.xlsx){target="_blank}, um regelmäßige Aktualisierungen vorzunehmen und den Fortschritt der Stakeholder zu melden. Schließen Sie wichtige Metriken, Erfolge und bevorstehende Meilensteine ein, um sie auf dem Laufenden zu halten und aktiv zu halten.
 
 ### Autor
 

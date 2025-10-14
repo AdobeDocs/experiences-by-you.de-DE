@@ -53,7 +53,7 @@ Natürlich deckt eine Standard-Basisschulung nicht alle Fragen und jeden Anwendu
 * Zeichnen Sie auch diese Sitzungen auf und stellen Sie sie einzeln beim Erstellen der neuen Inhalte zur Verfügung.
 * Wenn Ihre Implementierung wächst und sich weiterentwickelt, müssen Sie Ihre Schulungssitzungen gelegentlich aktualisieren, um die Inhalte auf dem neuesten Stand zu halten.
 * Je nachdem, wie Ihre Implementierung und Ihr Unternehmen strukturiert sind, kann es wichtig sein, Schulungen für eine bestimmte Abteilung oder Gruppe zu erstellen, z. B. Schulungen für eine IT-Abteilung zur Verwendung von Browsern und Betriebssystemen, Demonstration von Warnhinweisen zur Verfügbarkeit von Websites oder Schulungen für eine Marketing-Abteilung zu Referrern, Marketing-Kanälen und meistbesuchten Inhaltsseiten.
-* Sie müssen nicht alle Inhalte selbst erstellen. [!DNL Adobe] bietet einige hervorragende kostenlose Lernpfade und zusätzliche Schulungsinhalte, die Sie Ihren Benutzern innerhalb von [[!DNL Adobe] Experience League anbieten ](https://experienceleague.adobe.com/docs/analytics.html?lang=de).
+* Sie müssen nicht alle Inhalte selbst erstellen. [!DNL Adobe] bietet einige hervorragende kostenlose Lernpfade und zusätzliche Schulungsinhalte, die Sie Ihren Benutzern innerhalb von [[!DNL Adobe] Experience League anbieten &#x200B;](https://experienceleague.adobe.com/docs/analytics.html?lang=de).
 
 
 

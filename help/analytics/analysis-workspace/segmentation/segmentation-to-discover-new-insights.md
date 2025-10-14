@@ -25,7 +25,7 @@ Wenn Sie das Erstellen eines Segments schnell auffrischen möchten, lesen Sie di
 
 ## Vergleichen und Abgleichen von Segmenten
 
-In Analysis Workspace können Sie zwei Segmente mithilfe von &quot;[Segmentvergleich“ ](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/segment-comparison/segment-comparison.html?lang=de). Einen Segmentvergleich finden Sie im Abschnitt Bedienfelder der linken Navigationsleiste:
+In Analysis Workspace können Sie zwei Segmente mithilfe von &quot;[Segmentvergleich“ &#x200B;](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/panels/segment-comparison/segment-comparison.html?lang=de). Einen Segmentvergleich finden Sie im Abschnitt Bedienfelder der linken Navigationsleiste:
 
 ![SEG 01](assets/seg01.png)
 
