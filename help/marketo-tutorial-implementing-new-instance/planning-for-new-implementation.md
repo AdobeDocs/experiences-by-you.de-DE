@@ -294,7 +294,7 @@ Sie können auch das Beispiel zum Bearbeiten und Tracking bestimmter Meilenstein
 >[!NOTE]
 >Die angegebenen Beispiele basieren nicht auf einem echten Implementierungszeitplan. Nutzen Sie diese nicht als Standardzeitplan für Ihr Onboarding mit Marketo Engage, da jede Implementierung mit unterschiedlichen Meilensteinen und Anforderungen entsprechend den Anforderungen Ihres Unternehmens einzigartig ist.
 
-Wenn Sie Unterstützung bei der Implementierung und Anpassung Ihrer Marketo Engage für Ihre Instanz benötigen, wenden Sie sich an das Adobe-Account-Team oder wenden Sie sich an [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
+Wenn Sie Unterstützung bei der Implementierung und Anpassung Ihrer Marketo Engage für Ihre Instanz benötigen, wenden Sie sich an das Adobe-Account-Team oder wenden Sie sich an [Adobe Professional Services](https://business.adobe.com/de/customers/consulting-services/main.html){target="_blank"}.
 
 ### Autor
 

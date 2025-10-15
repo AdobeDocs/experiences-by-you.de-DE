@@ -79,4 +79,4 @@ Das Wichtigste an [!DNL Adobe Experience Cloud] Lösungen? Sie. Benutzer, die di
 * [Experience League Adobe Analytics-Community](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=de)
 * [Dokumentation zu Adobe Analytics](https://experienceleague.adobe.com/docs/analytics.html?lang=de)
 * [Adobe Analytics-Tutorials](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=de)
-* [Adobe Analytics-Produktinformationen](https://business.adobe.com/products/analytics/adobe-analytics.html)
+* [Adobe Analytics-Produktinformationen](https://business.adobe.com/de/products/analytics/adobe-analytics.html)

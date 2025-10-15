@@ -78,5 +78,5 @@ Die leistungsfähigste Lösung für [!DNL Adobe] Digital Experience (DX)-Lösung
 * [Experience League-Communities](https://experienceleaguecommunities.adobe.com/?profile.language=de)
 * [Experience Cloud -Dokumentation](https://experienceleague.adobe.com/docs/?lang=de)
 * [Experience Cloud-Tutorials](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=de)
-* [business.adobe.com](https://business.adobe.com)
+* [business.adobe.com](https://business.adobe.com/de)
 
