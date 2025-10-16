@@ -77,6 +77,6 @@ Das Wichtigste an [!DNL Adobe] Experience Cloud-Lösungen? Sie. Benutzer, die di
 ## Weitere Ressourcen
 
 * [Marketo Nation (Communities)](https://nation.marketo.com/)
-* [Dokumentation zu Adobe Marketo Engage](https://experienceleague.adobe.com/docs/marketo-engage.html)
-* [Adobe Marketo Engage-Tutorials](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html)
-* [Adobe Marketo Engage-Produktinformationen](https://business.adobe.com/products/marketo/adobe-marketo.html)
+* [Dokumentation zu Adobe Marketo Engage](https://experienceleague.adobe.com/docs/marketo-engage.html?lang=de)
+* [Adobe Marketo Engage-Tutorials](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=de)
+* [Adobe Marketo Engage-Produktinformationen](https://business.adobe.com/de/products/marketo/adobe-marketo.html)

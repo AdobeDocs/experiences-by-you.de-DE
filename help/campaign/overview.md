@@ -46,7 +46,7 @@ Das Wichtigste an [!DNL Adobe] Experience Cloud-Lösungen? Sie. Benutzer, die di
   </td>
   <td>
     <a href="/help/campaign/acs/troubleshooting-for-marketers.md">
-      <img alt="Fehlerbehebung für Marketing-Fachleute" src="https://cdn.experienceleague.adobe.com/thumb/docs-campaign.png" />
+      <img alt="Fehlerbehebung für Marketing-Fachleute" src="https://cdn.experienceleague.adobe.com/thumb/docs-campaign.png?lang=de" />
     </a>
     <div>
       <a href="/help/campaign/acs/troubleshooting-for-marketers.md">
@@ -59,7 +59,7 @@ Das Wichtigste an [!DNL Adobe] Experience Cloud-Lösungen? Sie. Benutzer, die di
   </td>
   <td>
     <a href="/help/campaign/10-best-practices-for-marketers.md">
-      <img alt="Zehn Best Practices zum Erfolg von Adobe Campaign für Marketing-Fachleute" src="https://cdn.experienceleague.adobe.com/thumb/docs-campaign.png" />
+      <img alt="Zehn Best Practices zum Erfolg von Adobe Campaign für Marketing-Fachleute" src="https://cdn.experienceleague.adobe.com/thumb/docs-campaign.png?lang=de" />
     </a>
     <div>
       <a href="/help/campaign/10-best-practices-for-marketers.md">
@@ -81,4 +81,4 @@ Das Wichtigste an [!DNL Adobe] Experience Cloud-Lösungen? Sie. Benutzer, die di
 * Adobe Campaign v8 - [Dokumentation](https://experienceleague.adobe.com/docs/campaign-v8.html?lang=de) / [Tutorials](https://experienceleague.adobe.com/docs/campaign-learn/tutorials/overview.html?lang=de)
 * Adobe Campaign Classic v7 - [Dokumentation](https://experienceleague.adobe.com/docs/campaign-classic.html?lang=de)/[Tutorials](https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/overview.html?lang=de)
 * Adobe Campaign Standard - [Dokumentation](https://experienceleague.adobe.com/docs/campaign-standard.html?lang=de) / [Tutorials](https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/overview.html?lang=de)
-* [Adobe Campaign-Produktinformationen](https://business.adobe.com/products/campaign/adobe-campaign.html)
+* [Adobe Campaign-Produktinformationen](https://business.adobe.com/de/products/campaign/adobe-campaign.html)

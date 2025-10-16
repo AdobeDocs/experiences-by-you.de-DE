@@ -58,7 +58,7 @@ Das Wichtigste an [!DNL Adobe Experience Cloud] Lösungen? Sie. Benutzer, die di
   </td>
   <td>
     <a href="/help/analytics/administration/admin-tips/create-standardized-naming-conventions.md">
-      <img alt="Erstellen standardisierter Benennungskonventionen" src="https://cdn.experienceleague.adobe.com/thumb/10531.jpg" />
+      <img alt="Erstellen standardisierter Benennungskonventionen" src="https://cdn.experienceleague.adobe.com/thumb/10531.jpg?lang=de" />
     </a>
     <div>
       <a href="/help/analytics/administration/admin-tips/create-standardized-naming-conventions.md">
@@ -79,4 +79,4 @@ Das Wichtigste an [!DNL Adobe Experience Cloud] Lösungen? Sie. Benutzer, die di
 * [Experience League Adobe Analytics-Community](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics/ct-p/adobe-analytics-community?profile.language=de)
 * [Dokumentation zu Adobe Analytics](https://experienceleague.adobe.com/docs/analytics.html?lang=de)
 * [Adobe Analytics-Tutorials](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/overview.html?lang=de)
-* [Adobe Analytics-Produktinformationen](https://business.adobe.com/products/analytics/adobe-analytics.html)
+* [Adobe Analytics-Produktinformationen](https://business.adobe.com/de/products/analytics/adobe-analytics.html)
