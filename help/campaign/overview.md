@@ -33,7 +33,7 @@ Das Wichtigste an [!DNL Adobe] Experience Cloud-Lösungen? Sie. Benutzer, die di
 <tr>
   <td>
     <a href="/help/campaign/ac-v7/workflow-best-practices-for-marketers.md">
-      <img alt="Die fünf wichtigsten Best Practices für Workflows für Marketing-Experten" src="https://video.tv.adobe.com/v/3410837?format=jpeg" />
+      <img alt="Die fünf wichtigsten Best Practices für Workflows für Marketing-Experten" src="https://video.tv.adobe.com/v/3448152?captions=ger&format=jpeg" />
     </a>
     <div>
       <a href="/help/campaign/ac-v7/workflow-best-practices-for-marketers.md">
