@@ -1,6 +1,6 @@
 ---
 title: Neue Instanz organisieren und Namenskonventionen festlegen
-description: Erfahren Sie, wie Sie eine gute Organisation in Ihrer Marketo Engage-Instanz einrichten, sodass zukünftige Marketing-Fachleute in Ihrem Unternehmen einfach durch die Programme navigieren, die Assets ändern und Berichte abrufen können.
+description: Erfahren Sie, wie Sie in Ihrer Marketo Engage-Instanz ein gutes Unternehmen einrichten, damit zukünftige Marketing-Fachleute in Ihrem Unternehmen einfach durch die Programme navigieren, die Assets ändern und Berichte abrufen können.
 role: Admin
 level: Beginner
 doc-type: Article
@@ -10,7 +10,7 @@ last-substantial-update: 2024-05-03T00:00:00Z
 jira: KT-14813
 thumbnail: KT-14813.jpeg
 exl-id: 19b3de9e-53f3-4308-b46e-7b8f756c30a0
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
 workflow-type: tm+mt
 source-wordcount: '1166'
 ht-degree: 2%
@@ -19,19 +19,19 @@ ht-degree: 2%
 
 # Neue Instanz organisieren und Namenskonventionen festlegen
 
-Als Administrator bei der Implementierung einer neuen Marketo Engage-Instanz legen Sie die Grundlagen, damit zukünftige Marketing-Experten innerhalb des Unternehmens einfach durch die Instanz navigieren können. Wenn Sie sich mit der Baumstruktur und den Benennungskonventionen vertraut machen, bleibt Ihre Instanz sauber und auf einen langfristigen Erfolg eingerichtet. Dieses Tutorial enthält Beispiele, die von Adobe und Marketo Engage Champion (2019-2020), Natalie Kremer, empfohlen wurden, um Sie bei der [Organisation der Ordner und der Benennung von Assets konsistent](https://nation.marketo.com/t5/champion-program-blogs/keep-marketo-engage-organized-with-folders-and-naming/ba-p/245630){target="_blank"} zu unterstützen.
+Als Administrator bei der Implementierung einer neuen Marketo Engage-Instanz legen Sie die Grundlagen, damit zukünftige Marketing-Experten innerhalb des Unternehmens einfach durch die Instanz navigieren können. Wenn Sie sich mit der Baumstruktur und den Benennungskonventionen vertraut machen, bleibt Ihre Instanz sauber und auf einen langfristigen Erfolg eingerichtet. Dieses Tutorial enthält Beispiele, die von Adobe und der Marketo Engage-Expertin (2019-2020), Natalie Kremer, empfohlen wurden, um Sie bei der [konsistenten Organisation der Ordner und Benennung von Assets zu ](https://nation.marketo.com/t5/champion-program-blogs/keep-marketo-engage-organized-with-folders-and-naming/ba-p/245630){target="_blank"}.
 
 ## Warum ist die Strukturierung von Ordnern und die Anwendung von Benennungskonventionen erforderlich?
 
-Wenn Sie in Ihrer Instanz organisiert bleiben, können Sie und Ihre Kollegen Kampagnen, Programme und Assets einfach verfolgen und die Programmleistung melden. Um den Navigationsbaum in Ihrer Instanz zu organisieren und in großem Maßstab zu erstellen, wird empfohlen, [Ordner](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders){target="_blank"}, [Standardnamenskonventionen](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#naming-schemes){target="_blank"} und Funktionen wie [Klonen](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#cloning){target="_blank"} zu verwenden.
+Wenn Sie in Ihrer Instanz organisiert bleiben, können Sie und Ihre Kollegen Kampagnen, Programme und Assets einfach verfolgen und die Programmleistung melden. Um den Navigationsbaum in Ihrer Instanz zu organisieren und in großem Maßstab zu erstellen, wird empfohlen, [Ordner](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/understanding-folders){target="_blank"}, [Standardnamenskonventionen](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#naming-schemes){target="_blank"} und Funktionen wie [Klonen](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/best-practice-how-to-organize-your-programs#cloning){target="_blank"} zu verwenden.
 
 ## Organisieren einer Marketo Engage-Instanz
 
->[!VIDEO](https://video.tv.adobe.com/v/3422763/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3421577/?quality=12&learn=on)
 
 ### Schritt 1: Einrichten einer Ordnerstruktur, um Ihre Programme zu ordnen
 
-Der erste Schritt zum Organisieren Ihrer Instanz besteht darin, [eine Ordnerstruktur einzurichten](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.html?lang=de) Ihr Programm und Ihre Assets einfach und geordnet zu speichern.
+Der erste Schritt zum Organisieren Ihrer Instanz besteht darin, [eine Ordnerstruktur einzurichten](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/create-new-campaign-folder.html) Ihr Programm und Ihre Assets einfach und geordnet zu speichern.
 
 Im Folgenden finden Sie einige Tipps zur Strukturierung von Ordnern in einer Baumstruktur:
 
@@ -65,8 +65,10 @@ Im Folgenden finden Sie Ordnerbeispiele für die praktische Umsetzung dieser Tip
 Wenden wir nun die Ordnerstruktur auf Programmebene an. Als Best Practice hat es sich bewährt, die lokalen Assets in Unterordnern zu unterbringen, damit Sie die Programme ordentlich halten und interne Benutzer die Programme effizient ändern oder Berichte darüber erstellen können. Zu den gebräuchlichen Unterordnern gehören E-Mails, Landingpages, Smart-Kampagnen, Listen, Berichte usw.
 
 **Ordnername in Programmen**
+
 * Kampagnen - *Ordner für alle Kampagnen, die Interaktionen und Status-Tracking verwalten.*
 * Lokale Assets - *Ordner für alle Assets, die für dieses Programm spezifisch sind.*
+
    * E-Mails
    * Landingpages
    * Intelligente Kampagnen
@@ -178,9 +180,9 @@ Vor diesem Hintergrund wenden wir diese Tipps auf die folgenden Assets an und er
 
 ## Wie geht es weiter?
 
-* Laden Sie das Arbeitsblatt herunter: [Marketo Engage-Organisations- und Benennungskonventionen](./assets/adobe-marketo-engage-organization-and-naming-conventions.xlsx){target="_blank"} um die Erstellung der Ordnerstruktur und der Benennungskonventionen zu unterstützen.
+* Laden Sie das Arbeitsblatt herunter: [Marketo Engage-Organisations- und ](./assets/adobe-marketo-engage-organization-and-naming-conventions.xlsx){target="_blank"}, um die Erstellung der Ordnerstruktur und der Namenskonventionen zu unterstützen.
 * Nachdem Sie die erforderlichen Komponenten in Ihrer Standardnamenskonvention festgelegt haben, sollten Sie Formeln in ein Google-Blatt oder in Microsoft Excel integrieren. Zur späteren Verwendung geben Sie einfach Ihre Werte in die Tabelle ein, um Ihre Programmnamen zu generieren.
-* Sobald Sie sich an einer allgemeinen Ordnerstruktur orientiert haben, ist es an der Zeit, die Vorlagen zu durchdenken, die Sie benötigen, basierend auf den häufigsten Anwendungsfällen und den häufigsten Anfragen, die Ihr Team erhält. Beginnen Sie dann mit dem Erstellen Ihrer ersten Programmvorlage. Lesen Sie weiter, um mit [Adobe Marketo Engage-Programmvorlagen zu &#x200B;](https://business.adobe.com/de/blog/how-to/get-started-with-marketo-engage-program-templates){target="_blank"}.
+* Sobald Sie sich an einer allgemeinen Ordnerstruktur orientiert haben, ist es an der Zeit, die Vorlagen zu durchdenken, die Sie benötigen, basierend auf den häufigsten Anwendungsfällen und den häufigsten Anfragen, die Ihr Team erhält. Beginnen Sie dann mit dem Erstellen Ihrer ersten Programmvorlage. Lesen Sie weiter, um mit [Adobe Marketo Engage-Programmvorlagen zu ](https://business.adobe.com/blog/how-to/get-started-with-marketo-engage-program-templates){target="_blank"}.
 
 ### Autoren
 

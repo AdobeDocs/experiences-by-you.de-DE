@@ -11,7 +11,7 @@ doc-type: article
 thumbnail: 10530.jpg
 kt: 10530
 exl-id: 42679c86-e08f-4dda-8e47-f9880409bad6
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
 workflow-type: tm+mt
 source-wordcount: '1779'
 ht-degree: 0%
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Herunterladen des Playbooks für die [!DNL Adobe Analytics]-Implementierung
 
-Bevor Sie beginnen, [&#x200B; Sie das Playbook &#x200B;](assets/aa-implementation-playbook.xlsx).
+Bevor Sie beginnen, [ Sie das Playbook ](assets/aa-implementation-playbook.xlsx).
 
 ## Registerkarte „Geschäftsanforderungen“
 
@@ -51,6 +51,7 @@ Und schließlich dient die Spalte „Implementierungsstatus“ als Statusprüfun
 
 **WIE:** Beginnen Sie damit, alle [!DNL Adobe] vordefinierten Variablen (Seite, Produkt, Geografie usw.) sowie eVars, Props, Ereignisse und Listenvariablen in einem Excel-Dokument aufzulisten. Dieses sollte pro Site/Report Suite über eine Registerkarte verfügen.
 Für jede dieser Dimensionen werden die folgenden Spalten hinzugefügt:
+
 * **Name:** Geben Sie einen einfachen und kurzen Namen an, der von den meisten verstanden wird. Dieser sollte so intuitiv sein, dass ein neuer Benutzer ihn erfassen und verstehen kann, was die Variable erfassen soll.
 * **Beschreibung:** Genauere Angaben darüber, wofür die Variable verwendet wird und welche Daten sie nachverfolgt. Ich halte dies kurz und einfach und passe es an die in der Benutzeroberfläche verwendete Beschreibung an. Idealerweise möchte ich nicht, dass meine Benutzer jemals das Tagging-Dokument konsultieren müssen. Wenn also eine neue Dimension im Admin-Backend eingerichtet wird, füge ich dort dieselbe Beschreibung hinzu. Auf diese Weise kann der Benutzer direkt in Workspace auf das Informationssymbol klicken, um zu verstehen, was eine Dimension ist - ohne ein Excel-Dokument aufrufen zu müssen!
 
@@ -90,6 +91,7 @@ Auf diese Weise sind Ihre Daten immer sauber und Sie haben eine klare Vorstellun
 
 **WIE:** Bestimmen Sie einen Verantwortlichen für das Dokument, um die Governance zu gewährleisten und die Verantwortung für die Verwaltung der Aktualisierungen in einer Hand zu haben.
 Führen Sie auf der Registerkarte „Eigenschaften“ Folgendes auf:
+
 * **Eigenschaftsname:** Dabei kann es sich um eine Domain, Subdomain, einen App-Namen usw. handeln. Selbst innerhalb derselben Domain sollten einige Teile getrennt verwaltet werden, wenn sie getrennt verwaltet werden (z. B. durch ein anderes Team oder eine andere Technologie).
 * **Link (URL)** zur Eigenschaft, sofern verfügbar
 * **Verantwortlicher und Ansprechpartner:** Führt den Hauptverantwortlichen oder die Hauptkontakte für die Eigenschaft auf.
@@ -103,7 +105,7 @@ Es wird empfohlen, dieses Dokument so einfach wie möglich zu halten und es nich
 >
 >Erstellen Sie eine Dimension für den Site-Namen/die Eigenschaft in [!DNL Adobe Analytics]. Eine dedizierte Dimension (in der Regel eine eVar) in [!DNL Adobe Analytics], die den Site-/App-Namen identifiziert, ermöglicht die Segmentierung, Fehlerbehebung, Erstellung virtueller Report Suites usw. Die Vorteile sind endlos, insbesondere wenn mehrere Sites in einer (globalen) Report Suite kombiniert werden. Entscheidend ist, sicherzustellen, dass Ihre Entwicklungs-Teams diesen Wert immer in der Dimension „Eigenschaften“ festlegen, einschließlich aller Seitenladevorgänge (s.tl-Aufrufe/trackState) und aller benutzerdefinierten Ereignisse (s.tl-Aufrufe/trackAction). Verarbeitungsregeln können ein wertvolles Tool sein, das Ihnen dabei hilft, diese Werte richtig und konsistent festzulegen.
 
-[Sehen Sie sich dieses Video von Doug &#x200B;](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=de){target="_blank"} an, um weitere Informationen zum Ausfüllen des Implementierungs-Playbooks zu erhalten.
+[Sehen Sie sich dieses Video von Doug ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html){target="_blank"} an, um weitere Informationen zum Ausfüllen des Implementierungs-Playbooks zu erhalten.
 
 ## Autoren
 
