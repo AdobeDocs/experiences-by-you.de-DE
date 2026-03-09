@@ -1,21 +1,21 @@
 ---
 title: Experiences für Euch
-description: Erfahren Sie von anderen Adobe-Kunden, wie sie Experience Cloud-Anwendungen und -Funktionen verwenden.
-role: User, Developer, Admin, Data Architect
+description: Erfahren Sie von anderen Adobe-Kunden, wie sie Experience Cloud-Programme und -Funktionen verwenden.
+role: User, Developer, Admin
 level: Beginner
 doc-type: overview
 solution: Experience Cloud
 exl-id: a3e976a1-8bf1-4c18-b5b5-831367a7e8a0
-source-git-commit: 24c2ee272ab1dcda53e5dfe918125e8542ecfe15
+source-git-commit: 81b3c04ef2daedb5ddb796c5cf74da6dca85dd21
 workflow-type: tm+mt
-source-wordcount: '173'
-ht-degree: 9%
+source-wordcount: '185'
+ht-degree: 12%
 
 ---
 
 # Erlebnisse nach Ihnen: Ressourcen nach Benutzern, für Benutzer.
 
-Die leistungsfähigste Lösung für [!DNL Adobe] Digital Experience (DX)-Lösungen? Sie. Benutzer, die die Produkte nehmen, sich eingehend damit beschäftigen und sie auf verblüffende, innovative Weise anwenden, um bedeutsame Erfahrungen und Ergebnisse zu schaffen. _Experiences by You_ enthält Inhalte, die von alltäglichen Benutzern erstellt wurden, die mit ihren [!DNL Adobe] DX-Lösungen ein hohes Maß an Fachwissen und Einfluss erlangt haben. Dieses Peer-to-Peer-Wissen fördert die Zusammenarbeit und Entdeckung und ermöglicht es Ihnen - und allen anderen Anwendern -, die Inspiration zu finden, die Sie benötigen, um Ihr Produkterfahrungsniveau zu steigern.
+Die leistungsfähigste Lösung für [!DNL Adobe] Digital Experience (DX)-Lösungen? Sie. Benutzer, die die Produkte nehmen, sich eingehend damit beschäftigen und sie auf verblüffende, innovative Weise anwenden, um bedeutsame Erfahrungen und Ergebnisse zu schaffen. _Experience by You_ enthält Inhalte, die von alltäglichen Benutzern erstellt wurden, die mit ihren [!DNL Adobe] DX-Lösungen ein hohes Maß an Fachwissen und Einfluss erlangt haben. Dieses Peer-to-Peer-Wissen fördert die Zusammenarbeit und Entdeckung und ermöglicht es Ihnen - und allen anderen Anwendern -, die Inspiration zu finden, die Sie benötigen, um Ihr Produkterfahrungsniveau zu steigern.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -45,7 +45,7 @@ Die leistungsfähigste Lösung für [!DNL Adobe] Digital Experience (DX)-Lösung
   </td>
   <td>
     <a href="/help/marketo/programs/email-programs.md">
-      <img alt="[!DNL Marketo Engage] E-Mail-Programme" src="https://video.tv.adobe.com/v/3453376?format=jpeg&captions=ger" />
+      <img alt="[!DNL Marketo Engage] E-Mail-Programme" src="https://video.tv.adobe.com/v/3453376?captions=ger&format=jpeg" />
     </a>
     <div>
       <a href="/help/marketo/programs/email-programs.md">
@@ -73,10 +73,10 @@ Die leistungsfähigste Lösung für [!DNL Adobe] Digital Experience (DX)-Lösung
 </table>
 </div>
 
-## Zusätzliche Ressourcen
+## Weitere Ressourcen
 
-* [Experience League-Communities](https://experienceleaguecommunities.adobe.com/?profile.language=de)
-* [Experience Cloud -Dokumentation](https://experienceleague.adobe.com/docs/?lang=de)
+* [Experience League Communities](https://experienceleaguecommunities.adobe.com/?profile.language=de)
+* [Dokumentation zu Experience Cloud](https://experienceleague.adobe.com/docs/?lang=de)
 * [Experience Cloud-Tutorials](https://experienceleague.adobe.com/docs/home-tutorials.html?lang=de)
 * [business.adobe.com](https://business.adobe.com/de)
 

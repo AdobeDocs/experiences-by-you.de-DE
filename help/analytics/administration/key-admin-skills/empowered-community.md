@@ -12,22 +12,22 @@ level: Experienced
 thumbnail: 340457.jpg
 kt: 9780
 exl-id: 0e45d8ba-a08d-4b5d-8a12-326e01c29505
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+source-git-commit: efd84b4fa04ca4d7bd8f4b8b5ad69b6a24f5e8c6
 workflow-type: tm+mt
-source-wordcount: '1494'
-ht-degree: 0%
+source-wordcount: '1574'
+ht-degree: 2%
 
 ---
 
 # Aufbau einer gestärkten Community
 
->[!VIDEO](https://video.tv.adobe.com/v/341111/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/341111/?captions=ger&quality=12&learn=on)
 
 Eine gestärkte Community ist durch einige charakteristische Merkmale gekennzeichnet. Zunächst einmal wird sie von ihren [!DNL Adobe Analytics]-Administratoren unterstützt. Er weiß, wie geschäftliche Anforderungen in der Implementierung dargestellt werden. Und nicht zuletzt verfügt sie über die Mittel, um Analysen auf vertrauliche Weise für datengestützte Entscheidungen zu nutzen. Viele Unternehmen profitieren von der Struktur, die eine interne [!DNL Adobe Analytics]-Benutzergruppe oder eine formellere Community bietet.
 
-Sie können innerhalb Ihrer Organisation eine gestärkte Community aufbauen. So geht&#39;s:
+Sie können innerhalb Ihrer Organisation eine gestärkte Community aufbauen. So geht’s:
 
-## 1. Aufbau einer soliden Infrastruktur, die die Grundlage für Ihre gestärkte Community bildet
+## &#x200B;1. Aufbau einer soliden Infrastruktur, die die Grundlage für Ihre gestärkte Community bildet
 
 * Erstellen Sie einen Onboarding-Prozess für Benutzer:
 
@@ -45,7 +45,7 @@ Sie können innerhalb Ihrer Organisation eine gestärkte Community aufbauen. So 
 
   [!DNL Adobe Analytics] Berichtsvorlagen und Projekte sind wichtige Ressourcen für die Implementierung der Tools in Ihrem Unternehmen, für Anwendungsfälle des Reportings und für Best Practices. Diese Ressourcen sollten sich mit allgemeinen geschäftlichen Fragen befassen und mit der Frage, wie diese am besten mit dem Tool beantwortet werden können.
 
-## 2. Erstellen Sie einen Plan dafür, wer das Projekt leitet und wer daran beteiligt sein sollte
+## &#x200B;2. Erstellen Sie einen Plan dafür, wer ihn leitet und wer daran beteiligt sein sollte
 
 * Entscheiden Sie, wer die Community leiten wird:
 
@@ -63,15 +63,15 @@ Sie können innerhalb Ihrer Organisation eine gestärkte Community aufbauen. So 
 
 * Denken Sie daran: „Was ist für sie drin?“ Wenn Sie Ihre Community auf geschäftliche Anwendungsfälle und Prioritäten ausrichten, können Sie Interaktion und Erfolg sicherstellen!
 
-## 3. Nutzen Sie Tools, um Ihre Community aufzubauen
+## &#x200B;3. Verwenden von Tools, um mit dem Aufbau Ihrer Community zu beginnen
 
-* [Erstellen einer Projektcharta] (assets/[!DNL Adobe]-[!DNL Analytics]-Empowered-Community-Project-Charter-Template.pptx) (Vorlagen-Download):
+* [Erstellen einer Projektcharta](assets/Adobe-Analytics-Empowered-Community-Project-Charter-Template.pptx) (Vorlage zum Herunterladen):
 
   Eine Projektcharta ist oft eine gute Möglichkeit, Ihr Unternehmen auf die Möglichkeit einer internen, leistungsfähigen Community auszurichten. Wenn Sie die folgenden Fragen beantworten, haben Sie das, was Sie für den Entwurf Ihrer Charta benötigen:
 
    * Was ist die Problemstellung, die Sie zu lösen versuchen? Was ist das Ziel Ihrer Community und was sehen Sie als innerhalb oder außerhalb des Projektumfangs liegend an?
    * „Was ist für mich drin?“ Welches sind die potenziellen Vorteile oder Kosten, wie lässt sich der Erfolg messen, und welche Risiken bestehen?
-   * Wie lange dauert es, bis eine Community live gehen kann? Welche Setup-Arbeiten für die Einarbeitung, das Tool, die Admin-Benutzergruppen usw. erforderlich sind Perspektive? In der Regel ist es am besten, Basisressourcen für die Einarbeitung zu entwickeln, bevor eine größere Initiative gestartet wird.
+   * Wie lange dauert es, bis eine Community live gehen kann? Welche Einrichtungsarbeiten sind aus Sicht der Einarbeitung, des Tools, der Admin-Benutzergruppen usw. erforderlich? In der Regel ist es am besten, Basisressourcen für die Einarbeitung zu entwickeln, bevor eine größere Initiative gestartet wird.
    * Wie wirksam werden die Mitglieder des Kernteams für den Erfolg der Community sein, und wer wird im Rahmen der Initiative unterstützt?
    * Und schließlich: Wer ist Ihr Executive Sponsor? Wir können nicht genug betonen, wie wichtig es ist, einen starken Sponsor in der Führungsebene zu haben, jemanden, der die Arbeit und ihren Wert befürwortet.
 
@@ -89,9 +89,9 @@ Sie können innerhalb Ihrer Organisation eine gestärkte Community aufbauen. So 
    * Wer wird Nachrichten versenden?
    * Wann? Es ist wichtig, sowohl die Kommunikation vor dem Start der Community als auch die fortlaufende Kommunikation nach dem Start zu berücksichtigen.
 
-* Nutzen Sie Ihr Community-Fahrzeug, um live zu gehen! Je nach Technologie-Stack Ihres Unternehmens sollten Sie auch ein Tool oder ein Vehikel für Ihre Community auswählen. Dies wird für Ihr Unternehmen benutzerspezifisch sein, aber viele finden Microsoft Teams gut zu funktionieren.
+* Nutzen Sie Ihr Community-Fahrzeug, um live zu gehen! Je nach Technologie-Stack Ihres Unternehmens sollten Sie auch ein Tool oder ein Vehikel für Ihre Community auswählen. Dies wird für Ihr Unternehmen individuell festgelegt, aber viele finden, dass Microsoft Teams gut funktioniert.
 
-## 4. Pflegen Sie Ihre Community und sichern Sie ihren nachhaltigen Erfolg
+## &#x200B;4. Pflegen Sie Ihre Community und sichern Sie ihren nachhaltigen Erfolg
 
 * Zeit reservieren - Fügen Sie Community-Meetings zu Kalendern hinzu, um die Zeit im Voraus zu blockieren. Wiederkehrende Meetings sind nach Möglichkeit eine gute Idee und helfen dabei, Ihren Content-Plan umzusetzen. Im Folgenden finden Sie einige Ideen für die Agenda, die Ihnen bei den ersten Schritten helfen können:
 
@@ -107,7 +107,7 @@ Sie können innerhalb Ihrer Organisation eine gestärkte Community aufbauen. So 
 
 Der Aufbau und die Pflege einer starken Community ist sehr arbeitsintensiv. Es ist wichtig, einen Schritt zurückzutreten und die Vorteile zu erkennen, die Ihr Unternehmen daraus ziehen kann. Hier sind einige der Vorteile, die ich persönlich gesehen habe:
 
-* Datengestützte Entscheidungsfindung - Eine leistungsfähige Community kann [Ihr Unternehmen verändern](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.html?lang=de) da [!DNL Adobe Analytics] Storytelling anhand von Daten ermöglicht, Ergebnisse vorhersagt und Ergebnisse vorschreibt. Dabei ist der Zugriff auf die Daten im gesamten Unternehmen möglich, wodurch Customer Intelligence und datengestützte Entscheidungsfindung unterstützt werden.
+* Datengestützte Entscheidungsfindung - Eine leistungsfähige Community kann [Ihr Unternehmen verändern](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/what-can-aa-do-for-me/how-adobe-analysis-workspace-can-change-your-business.html?lang=de) da [!DNL Adobe Analytics] Daten-storytelling ermöglicht, Ergebnisse vorhersagt und Ergebnisse vorschreibt - und zwar auf eine Weise, die unternehmensweit zugänglich ist, um Customer Intelligence und datengestützte Entscheidungsfindung zu unterstützen.
 
 * Mehr Kompetenz und Effizienz - Es besteht ein direkter Zusammenhang zwischen unterstützender Interaktion und Return on Marketing Investment! Eine leistungsfähige Community steigert das Know-how aller Beteiligten, erleichtert den Austausch von Erkenntnissen, Best Practices, Projekten und Produktaktualisierungen und fördert die Zusammenarbeit. Dies geschieht bei gleichzeitiger Ermöglichung von Selbstständigkeit und größerer Optimierung über [!DNL Adobe Analytics]. Dies unterstützt Marketing-Kanal, Seite, Geolokalisierung, Zielgruppe usw. Es unterstützt auch die Optimierung von Erlebnissen, sodass sich die Teams auf die Bereiche konzentrieren können, in denen sie die größte Wirkung erzielen können.
 
@@ -115,4 +115,4 @@ Der Aufbau und die Pflege einer starken Community ist sehr arbeitsintensiv. Es i
 
 * Karriereentwicklung - Eine leistungsfähige Community verlagert den Fokus vieler Analyst-Teams von reaktiv und taktisch zu präskriptiv und strategisch. Dadurch eröffnen sich Karrieremöglichkeiten für das Administrations-Projektteam Ihrer Community.
 
-Wenn Sie intern eine [!DNL Adobe Analytics] Benutzergruppe oder eine formellere „Community“ haben oder daran arbeiten, eine solche Gruppe bzw. Community aufzubauen, möchten wir Ihre Story gern auf der [[!DNL Adobe] Experience League hören](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/bd-p/adobe-analytics-discussions?profile.language=de)!
+Wenn Sie intern eine [!DNL Adobe Analytics] Benutzergruppe oder eine formellere „Community“ haben oder daran arbeiten, eine solche Gruppe bzw. Community aufzubauen, möchten wir Ihre Story gern im [[!DNL Adobe] Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/bd-p/adobe-analytics-discussions?profile.language=de) hören!
