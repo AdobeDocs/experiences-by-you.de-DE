@@ -9,11 +9,10 @@ doc-type: Tutorial
 last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-13888
 thumbnail: KT-13888.jpeg
-hide: false
 exl-id: c377fe5f-2d77-4fd0-9ac4-5ad65506f582
-source-git-commit: a7a52347dbf9c3c12f3653c23e01bce611588580
+source-git-commit: d78210c6d6f5ec22430770c752495959303a9519
 workflow-type: tm+mt
-source-wordcount: '4894'
+source-wordcount: '6045'
 ht-degree: 2%
 
 ---
@@ -75,7 +74,7 @@ Möglicherweise fehlen Elemente oder sind nicht anwendbar, wenn Ihr Team diese �
 
 >[!TAB Wichtige Details und Planung]
 
-| # | Prüfungsbereich | Zu stellende Fragen | Beispiel | Akzeptanzkriterien | Weitere Ressourcen |
+| # | Prüfungsbereich | Zu stellende Fragen | Beispiel | Akzeptanzkriterien | Zusätzliche Ressourcen |
 |---|---|---|---|---|---|
 | 1 | **Programmtyp** | Ist es angemessen? | Ist ein Interaktionsprogramm logisch? Wenn Standard, ist es logisch? | **Ja:** <br>Wenn Sie diese Frage nicht mit Ja beantworten können, müssen Sie möglicherweise Ihren Programmtyp ändern. | [Grundlegendes zu Programmen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/creating-programs/understanding-programs.html?lang=de){target="_blank"} |
 | 2 | **Kanal** | Ist der Kanal geeignet? Unterstützen die Kanalschritte/Programmstatus das Erfolgsmanagement des Programms? | Ist es sinnvoll, wenn dies als Newsletter eingerichtet wurde, und unterstützen die Programmstatus den Zweck des Programms, oder versuchen Sie, etwas bereits Vorhandenes zu verdrehen, das jedoch nicht geeignet ist? | **Ja:** <br>Wenn Sie diese Frage nicht mit „Ja“ beantworten können, müssen Sie entweder Ihren Kanal ändern oder die Erstellung eines neuen Kanals mit einem [!DNL Marketo Engage] Administrator besprechen | [Erstellen eines Programmkanals](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/tags/create-a-program-channel.html?lang=de){target="_blank"}<br><br> [Grundlegendes zum Kanal](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/understanding-tags.html?lang=de#channel){target="_blank"} |
@@ -87,7 +86,7 @@ Möglicherweise fehlen Elemente oder sind nicht anwendbar, wenn Ihr Team diese �
 
 >[!TAB Web-Personalization-Kampagnen]
 
-| # | Prüfungsbereich | Zu stellende Fragen | Akzeptanzkriterien | Weitere Ressourcen |
+| # | Prüfungsbereich | Zu stellende Fragen | Akzeptanzkriterien | Zusätzliche Ressourcen |
 |---|---|---|---|---|
 | 1 | **Design** | Entspricht das Design Ihren Markenrichtlinien? | **Ja:** <br>Wenn Sie dies nicht mit einem Ja beantworten können, benötigen Sie entweder einen guten Grund dafür oder Sie müssen die Assets neu entwerfen. |  |
 | 2 | **Testen** | Wurde sie geräteübergreifend getestet? Browser? Wird es sowohl sauber gerendert als auch funktioniert? | **Ja:** <br>Wenn Sie nicht mit „Ja“ antworten können, sollten Sie dies geräteübergreifend und browserübergreifend testen. |  |
@@ -99,7 +98,7 @@ Möglicherweise fehlen Elemente oder sind nicht anwendbar, wenn Ihr Team diese �
 
 >[!TAB Landingpages]
 
-| # | Prüfungsbereich | Zu stellende Fragen | Akzeptanzkriterien | Weitere Ressourcen |
+| # | Prüfungsbereich | Zu stellende Fragen | Akzeptanzkriterien | Zusätzliche Ressourcen |
 |---|---|---|---|---|
 | 1 | **Design** | Entspricht das Design der Marke? Wird die entsprechende Vorlage verwendet? | **Ja:** <br> Wenn Sie dies nicht mit einem Ja beantworten können, benötigen Sie entweder einen guten Grund dafür oder Sie müssen es neu gestalten. | [Bearbeiten einer Marketo-Landingpage-Vorlage](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/landing-pages/landing-page-templates/edit-a-marketo-landing-page-template.html?lang=de){target="_blank"} |
 | 2 | **Testen** | Wurde sie geräteübergreifend und browserübergreifend getestet? Wird es sowohl sauber gerendert als auch funktioniert? | **Ja:** <br>Wenn Sie nicht mit „Ja“ antworten können, sollten Sie den Vorschau-Link geräteübergreifend und browserübergreifend testen. | [Vorschau einer Landingpage](https://experienceleague.adobe.com/docs/marketo/using/product-docs/demand-generation/landing-pages/landing-page-actions/preview-a-landing-page.html?lang=de){target="_blank"} |
@@ -116,7 +115,7 @@ Möglicherweise fehlen Elemente oder sind nicht anwendbar, wenn Ihr Team diese �
 
 >[!TAB Formulare]
 
-| # | Prüfungsbereich | Zu stellende Fragen | Akzeptanzkriterien | Weitere Ressourcen |
+| # | Prüfungsbereich | Zu stellende Fragen | Akzeptanzkriterien | Zusätzliche Ressourcen |
 |---|---|---|---|---|
 | 1 | **Responsiv** | Ist das Formulargerät responsiv? | **Ja:** <br>Wenn Sie dies nicht mit einem Ja beantworten können, sollten Sie das CSS aktualisieren, damit es responsiv wird oder sich auf Ihre Leistung auswirken kann. |  |
 | 2 | **Design** | Ist das Design der Formular-Marke konsistent? | **Ja:** <br>Wenn Sie dies nicht mit „Ja“ beantworten können, benötigen Sie entweder einen triftigen Grund dafür oder Sie müssen das CSS aktualisieren, um es in der Marke zu verwenden. |  |
@@ -126,7 +125,7 @@ Möglicherweise fehlen Elemente oder sind nicht anwendbar, wenn Ihr Team diese �
 
 >[!TAB Intelligente Kampagnen]
 
-| # | Prüfungsbereich | Zu stellende Fragen | Akzeptanzkriterien | Weitere Ressourcen |
+| # | Prüfungsbereich | Zu stellende Fragen | Akzeptanzkriterien | Zusätzliche Ressourcen |
 |---|---|---|---|---|
 | 1 | **Genauigkeit** | Wurden alle erforderlichen Smart-[!DNL Campaign] überprüft, geprüft und als korrekt eingestuft? | **Ja:** <br>Wenn Sie nicht mit einem Ja antworten können, sollten Sie diese beheben und überprüfen, bevor Sie fortfahren. | [smart [!DNL Campaign] checklist](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/creating-a-smart-campaign/smart-campaign-checklist.html?lang=de){target="_blank"} |
 | 2 | **Anzahl der Sendungen** | Wenn es sich bei Ihrer E-Mail-Versandkampagne um eine Batch-Kampagne (nicht ausgelöst) handelt, prüfen Sie die Anzahl der Leads auf der Registerkarte „Planung“. Stimmen die Zahlen mit den erwarteten Werten überein? Liegt sie unter der Abbruchschwelle? | **Ja:** <br>Wenn Sie nicht mit einem Ja antworten können, sollten Sie diese beheben und überprüfen, bevor Sie fortfahren. | [E-Mail-Programm planen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/email-program-actions/schedule-your-email-program.html?lang=de){target="_blank"} |
@@ -143,16 +142,16 @@ Möglicherweise fehlen Elemente oder sind nicht anwendbar, wenn Ihr Team diese �
 
 >[!TAB Listen]
 
-| # | Prüfungsbereich | Zu stellende Fragen | Akzeptanzkriterien | Weitere Ressourcen |
+| # | Prüfungsbereich | Zu stellende Fragen | Akzeptanzkriterien | Zusätzliche Ressourcen |
 |---|---|---|---|---|
 | 1 | **Logic** | Wenn Smart Lists verwendet werden, um einen Teil der Zielgruppe zu identifizieren, wurde dann die Logik geprüft, überprüft und als korrekt erachtet? | **Ja:** <br>Wenn Sie nicht mit „Ja“ antworten können, sollten Sie die Einrichtung der Smart-Liste korrigieren und diese überprüfen, bevor Sie fortfahren. |  |
 | 2 | **Importprozesse auflisten** | Wenn statische Listen verwendet werden, um einen Teil der Zielgruppe zu identifizieren, ist die Datenquelle dann vertrauenswürdig und wurde der Import korrekt und gemäß den Listenimportprozessen durchgeführt? | **Ja:** <br>Wenn Sie nicht mit Ja antworten können, sollten Sie die Listendaten korrigieren und überprüfen, bevor Sie fortfahren. | [Hinzufügen/Entfernen von Personen aus einer statischen Liste](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/static-lists/understanding-static-lists.html?lang=de){target="_blank"}<br><br>[&#x200B; Importieren einer Personenliste](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/quick-wins/import-a-list-of-people.html?lang=de#step-import-your-spreadsheet-into-marketo) |
-| 3 | **Ausschlüsse** | Auf die Blockierungsliste setzen Sind alle erforderlichen Ausschlüsse enthalten (z. B. Konkurrenten, Abmeldevorgänge)? | **Ja oder nicht zutreffend:** <br>Sie müssen Abmeldungen herausgefiltert haben, es sei denn, Sie haben einen sehr guten, gesetzlich konformen Grund, dies nicht zu tun. Sie sollten sich auf Ihre Inhalte, Kampagnenregeln und die Rechtsgrundlage verlassen können, wenn Sie keine davon einbeziehen. | [Grundlegendes zum Datenwert &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe.html?lang=de){target="_blank"}<br><br>[&#x200B; Abmeldung/Änderung](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe.html?lang=de){target="_blank"} |
+| 3 | **Ausnahmen** | Sind alle erforderlichen Ausschlüsse enthalten (z. B. Konkurrenten, Abmeldevorgänge)? | **Ja oder nicht zutreffend:** <br>Sie müssen Abmeldungen herausgefiltert haben, es sei denn, Sie haben einen sehr guten, gesetzlich konformen Grund, dies nicht zu tun. Sie sollten sich auf Ihre Inhalte, Kampagnenregeln und die Rechtsgrundlage verlassen können, wenn Sie keine davon einbeziehen. | [Grundlegendes zum Datenwert &#x200B;](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe.html?lang=de){target="_blank"}<br><br>[&#x200B; Abmeldung/Änderung](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/understanding-unsubscribe.html?lang=de){target="_blank"} |
 | 4 | **Primäre Listen** | Werden gegebenenfalls primäre Listen/Segmentierungen verwendet? | **Ja oder nicht zutreffend:** Primäre Listen/Segmentierungen wurden entwickelt, um die Anzahl der Felder, auf die Sie verweisen müssen, zu reduzieren und das Risiko menschlichen Fehlers zu reduzieren. Wenn Sie keine primären Listen/Segmentierungen verwenden, sollten Sie Ihre Regeln kennen. | [Definieren von Segmentregeln](https://experienceleague.adobe.com/docs/marketo/using/product-docs/personalization/segmentation-and-snippets/segmentation/define-segment-rules.html?lang=de) |
 
 >[!TAB Zielgruppe]
 
-| # | Prüfungsbereich | Zu stellende Fragen | Akzeptanzkriterien | Weitere Ressourcen |
+| # | Prüfungsbereich | Zu stellende Fragen | Akzeptanzkriterien | Zusätzliche Ressourcen |
 |---|---|---|---|---|
 | 1 | **Rechtsgrundlage:**<br> Sie haben eine geeignete Rechtsgrundlage, um Ihre Audience zu kontaktieren. | <ul><li>**Explicit:** Haben sie sich explizit für den Erhalt von Marketing-Comms von Ihrer Marke entschieden? </li><li>**Abgeleitet (wo konform):** Haben sie Ihnen ihre Kontaktdaten mitgeteilt und können vernünftigerweise erwarten, dass Sie diese Informationen verwenden werden, um sie zu kontaktieren? </li><li>**Als (wo konform) erachtet:** Haben Sie ihre Kontaktdaten aus einer öffentlichen Quelle erhalten und können vernünftigerweise davon ausgehen, dass der Inhalt für sie angesichts der öffentlichen Quelle relevant ist?</li></ul> | **Ja und Grundlage angeben:** Stellen Sie sicher, dass die gewählte Grundlage in Ihrer Compliance-Umgebung gültig ist. Wenn Sie nicht mit „Ja“ antworten können, zögern Sie mit dem Start des Programms und bitten Sie um Klärung der Rechtsgrundlage für die Kontaktaufnahme mit dieser Zielgruppe. | [Datenschutzverwaltung](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/miscellaneous/privacy-management.html?lang=de){target="_blank"} |
 | 2 | **Data Sources** | Wenn Sie Ihre Zielgruppe über eine Importliste identifizieren, ist Ihre Datenquelle dann vertrauenswürdig? | **Ja oder nicht zutreffend:**<br> Wenn Sie nicht mit einem Ja antworten können, suchen Sie nach einer Klarstellung zur Datenquelle. | [Definieren einer Zielgruppe durch Importieren einer Liste](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/email-programs/managing-people-in-email-programs/define-an-audience-by-importing-a-list.html?lang=de){target="_blank"} |
@@ -162,7 +161,7 @@ Möglicherweise fehlen Elemente oder sind nicht anwendbar, wenn Ihr Team diese �
 
 >[!TAB E-Mail-Asset]
 
-| # | Prüfungsbereich | Zu stellende Fragen | Akzeptanzkriterien | Weitere Ressourcen |
+| # | Prüfungsbereich | Zu stellende Fragen | Akzeptanzkriterien | Zusätzliche Ressourcen |
 |---|---|---|---|---|
 | 1 | **Absender-E-Mail-Adresse** | Haben Sie sich mit dem Markeninhaber in Verbindung gesetzt und bestätigt, dass die E-Mail-Adresse sicher ist? | **Ja:** <br>Wenn Sie nicht mit Ja antworten können, sollten Sie die Absender-E-Mail überprüfen, bevor Sie fortfahren. | [E-Mail-Kopfzeile bearbeiten](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.html?lang=de){target="_blank"}<br><br>[&#x200B; Standardeinstellung von E-Mail und Absenderbezeichnung ändern](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/email-setup/change-the-default-from-email-and-from-label.html?lang=de){target="_blank"} |
 | 2 | **Absendername** | Haben Sie sich mit dem Markeninhaber in Verbindung gesetzt und bestätigt, dass der Name sicher ist? | **Ja:** <br>Wenn Sie nicht mit Ja antworten können, sollten Sie dies überprüfen, bevor Sie fortfahren. | [E-Mail-Kopfzeile bearbeiten](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/creating-an-email/edit-your-email-header.html?lang=de){target="_blank"}<br><br>[&#x200B; Standardeinstellung von E-Mail und Absenderbezeichnung ändern](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/email-setup/change-the-default-from-email-and-from-label.html?lang=de){target="_blank"} |
@@ -185,7 +184,7 @@ Möglicherweise fehlen Elemente oder sind nicht anwendbar, wenn Ihr Team diese �
 | 19 | **A/B- und Champ/Challenger-Tests** | Testen Sie die E-Mail mit Champions-/Challenger-Tests? | **Ja oder nein:**<br> Wenn Sie keine Tests durchführen, überlegen Sie, ob Sie möglicherweise eine Gelegenheit verpassen, mehr über Ihre Zielgruppe zu erfahren. | [Erstellen eines A/B-Tests](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/email-marketing/ab-testing-watch.html?lang=de)<br><br>[&#x200B; Hinzufügen eines E-Mail-Champions/Challenger](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/general/functions-in-the-editor/email-tests-champion-challenger/add-an-email-champion-challenger.html?lang=de){target="_blank"} |
 | 20 | **Client-Tests** | Haben Sie die E-Mail über Ihre Client-Testsoftware ausgeführt?<li>Haben Sie Probleme mit der Anzeige bei wichtigen E-Mail-Clients festgestellt? <li>Haben Sie eine nicht dringende Vorlagenbehebung korrigiert oder protokolliert? <li>Haben Sie Probleme mit der Ladegeschwindigkeit erkannt und versucht, diese zu verbessern?<li>Haben Sie Probleme mit der Betreffzeile/der Vorschauzeile identifiziert? Sind sie gelöst? | **Ja oder nicht zutreffend:**<br> Wenn Sie nicht mit einem Ja antworten können (es sei denn, Sie haben keine Testsoftware), sollte dies vor dem Versand geschehen. | Beispiele für Client-Testsoftware sind Litmus oder E-Mail auf Acid oder [Marketo Email Deliverability Power Pack/](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/email-deliverability-power-pack-how-to-import-a-seed-list.html?lang=de)<br><br>[&#x200B; Tracker-Tutorials](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.html?lang=de){target="_blank"} |
 | 21 | **Spam-Tests** | Haben Sie die E-Mail durch den Spam-Prozess geleitet?<li>Gibt es auf die Blockierungsliste setzend Flags für das Bewusstsein?<li>Haben Sie Client-Flags für Inbox-Platzierung/E-Mail identifiziert? <li>Haben Sie nach möglichen Ursachen gesucht und versucht, diese zu beheben? | **Ja oder nicht zutreffend:**<br> Wenn Sie nicht mit einem Ja antworten können (es sei denn, Sie haben keine Testsoftware), sollte dies vor dem Versand geschehen. | Verwenden Sie dazu die Posteingangsverfolgungs-Funktion von [Marketo](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/deliverability/inbox-tracker/inbox-tracker-tutorials.html?lang=de){target="_blank"} wenn Sie sie in Ihrem Vertrag haben oder Tools wie Litmus oder E-Mail auf Acid. |
-| 22 | **Zusätzliche[!DNL Analytics]** | Ist in der E-Mail zusätzlicher Analytics-Code enthalten? | **Ja oder nicht zutreffend:**<br>       Wenn Sie nicht mit einem Ja antworten können (es sei denn, Sie verfügen nicht über zusätzliche Analytics-Software), sollte dies vor dem Versand geschehen. |  |
+| 22 | **Zusätzliche[!DNL Analytics]** | Ist in der E-Mail zusätzlicher Analytics-Code enthalten? | **Ja oder nicht zutreffend:**<br> Wenn Sie nicht mit einem Ja antworten können (es sei denn, Sie verfügen nicht über zusätzliche Analytics-Software), sollte dies vor dem Versand geschehen. |  |
 
 >[!TAB Abschließende Prüfungen]
 
