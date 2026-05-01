@@ -9,18 +9,17 @@ doc-type: Tutorial
 last-substantial-update: 2023-10-16T00:00:00Z
 jira: KT-14103
 thumbnail: KT-14103.jpeg
-hide: false
 exl-id: e127b84d-ef92-4527-a0e6-a36af35b7ee0
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+source-git-commit: d78210c6d6f5ec22430770c752495959303a9519
 workflow-type: tm+mt
-source-wordcount: '874'
+source-wordcount: '936'
 ht-degree: 1%
 
 ---
 
 # Entwickeln eines Instanz-Governance-Handbuchs mit Dokumentation
 
-Wenn Sie eine ältere [!DNL Marketo Engage]-Instanz betreten, ist dies oft mit der Herausforderung verbunden, dass es an aktueller funktionaler und technischer Dokumentation fehlt. Als Administrator ist das Erstellen von Richtlinien zur Sicherstellung einer ordnungsgemäßen Instanz-Governance eine zentrale Aufgabe, die nicht übersehen werden darf. Dies ist eine der kritischen Strategien zur [&#x200B; der Effizienz während der Arbeit in einer etablierten  [!DNL Marketo Engage] Instanz](https://nation.marketo.com/t5/champion-program-blogs/3-tips-to-increase-your-efficiency-in-an-inherited-instance/ba-p/247582).
+Wenn Sie eine ältere [!DNL Marketo Engage]-Instanz betreten, ist dies oft mit der Herausforderung verbunden, dass es an aktueller funktionaler und technischer Dokumentation fehlt. Als Administrator ist das Erstellen von Richtlinien zur Sicherstellung einer ordnungsgemäßen Instanz-Governance eine zentrale Aufgabe, die nicht übersehen werden darf. Dies ist eine der kritischen Strategien zur [ der Effizienz während der Arbeit in einer etablierten  [!DNL Marketo Engage] Instanz](https://nation.marketo.com/t5/champion-program-blogs/3-tips-to-increase-your-efficiency-in-an-inherited-instance/ba-p/247582).
 
 Dieses Schritt-für-Schritt-Tutorial von [!DNL [!DNL Adobe] Marketo Champion] (2018), Nick Hajdin, führt Sie durch diesen Prozess, um die Einrichtung Ihrer Instanz zu umreißen, Ihre wichtigsten operativen Programme zu dokumentieren und eine [!DNL changelog] zur Durchsetzung einer strikten Governance-Richtlinie zu pflegen.
 
@@ -30,7 +29,7 @@ Detaillierte Dokumentationen und ein [!UICONTROL Änderungsprotokoll] sind für 
 
 1. Schulung interner Benutzer einfacher und skalierbar.
 2. Langfristig effizienter in [!DNL Marketo Engage] aufbauen.
-3. Pflegen Sie den Zustand und die Hygiene Ihrer Instanz, um künftig Zeit zu sparen, damit Sie nicht stundenlang E-Mails, [Audit-Protokoll](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html?lang=de) und [Aktivitätsprotokoll](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.html?lang=de) durchforsten müssen.
+3. Pflegen Sie den Zustand und die Hygiene Ihrer Instanz, um künftig Zeit zu sparen, damit Sie nicht stundenlang E-Mails, [Audit-Protokoll](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html) und [Aktivitätsprotokoll](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.html) durchforsten müssen.
 4. Sparen Sie Zeit bei der Übertragung [!DNL Marketo Engage] Wissens an einen neuen [!DNL Marketo Engage], wenn Ihr Team Fluktuation erlebt.
 
 ## [!DNL Marketo Engage]-Governance-Handbuch 101
@@ -78,7 +77,7 @@ Ermitteln Sie zunächst die wichtigsten operationellen Programme mit Auswirkunge
 
 Dokumentieren Sie für jedes ermittelte operationelle Programm seinen aktuellen Stand. Dazu gehören Details über den Zweck des Programms, die Einrichtung, zugehörige intelligente Kampagnen und die Integration mit anderen Tools (falls zutreffend).
 
-### Schritt 4: [!UICONTROL &#x200B; der &#x200B;] erzwingen
+### Schritt 4: [!UICONTROL  der ] erzwingen
 
 Der nächste Schritt besteht darin, eine strikte Governance-Richtlinie für Ihre [!DNL Marketo Engage]-Instanz festzulegen, die die Wartung [!UICONTROL Änderungsprotokolls] erfordert. Diese Richtlinie stellt sicher, dass alle Aktualisierungen an operationellen Programmen in der gesamten Instanz sorgfältig dokumentiert werden.
 
