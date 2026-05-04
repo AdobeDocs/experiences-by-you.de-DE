@@ -28,5 +28,5 @@ ht-degree: 7%
 + [Neue Instanz organisieren und Namenskonventionen festlegen](./organizing-new-instance.md)
 + [Entwerfen von Omni-Channel-Konversationsmarketing mit Dynamic Chat](./designing-omnichannel-conversational-marketing.md)
 + [Erste Schritte mit Instanz-Governance und Dokumentation](./documenting-your-instance.md)
-+ [Tutorials zu [!DNL Marketo Engage]](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/overview)
++ [Tutorials zu [!DNL Marketo Engage]](https://experienceleague.adobe.com/de/docs/marketo-learn/tutorials/overview)
 + [Zurück zu den Perspektiven](https://experienceleague.adobe.com/de/perspectives)
