@@ -13,7 +13,7 @@ kt: 10536
 exl-id: f133d049-9a24-4153-88c5-40ec480d1e4e
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
-source-wordcount: '760'
+source-wordcount: '763'
 ht-degree: 0%
 
 ---
@@ -36,7 +36,7 @@ Im Folgenden finden Sie die Vor- und Nachteile einer einzelnen Report Suite, die
 * NACHTEILE:
    * Wenn Sie über sehr separate Eigenschaften verfügen, bei denen Benutzer nicht von einer zum anderen wechseln und dies nie erwartet wird, sollten Sie separate Report Suites beibehalten.
    * Wenn Ihre Eigenschaften sehr unterschiedliche Tagging- und Reporting-Anforderungen haben, kann es im Interesse der Variableneffizienz sinnvoll sein, separate Report Suites einzurichten. Separate Report Suites bieten Ihnen mehr Flexibilität bei der Verwendung benutzerdefinierter Variablen (mehr eVars).
-   * Überschreiten eindeutiger Werte: In der [!DNL Adobe Analytics] können Sie innerhalb einer Dimension für einen bestimmten Zeitraum nur 500.000 eindeutige Werte anzeigen. Sobald Sie diesen Wert überschreiten, werden die Werte in der Benutzeroberfläche als „Eindeutige Werte überschritten“ oder „geringer Traffic“ gruppiert. Diese Werte stehen Ihnen zwar weiterhin im Backend (d. h. Data Warehouse, Daten-Feeds) zur Verfügung, können jedoch nicht über die Benutzeroberfläche visualisiert werden. Wenn Sie sehr detaillierte Daten haben (z. B. Benutzer-ID, PSN usw.), können Sie diese Ebene leicht erreichen. Separate Report Suites können bei diesem Problem hilfreich sein.
+   * Überschreiten eindeutiger Werte: In der [!DNL Adobe Analytics] können Sie innerhalb einer Dimension für einen bestimmten Zeitraum nur 500.000 eindeutige Werte anzeigen. Sobald Sie diesen Wert überschreiten, werden die Werte in der Benutzeroberfläche als „Eindeutige Werte überschritten“ oder „geringer Traffic“ gruppiert. Diese Werte stehen Ihnen zwar weiterhin im Backend (d. h. Data Warehouse, Daten-Feeds) zur Verfügung, können jedoch nicht in der Benutzeroberfläche visualisiert werden. Wenn Sie sehr detaillierte Daten haben (z. B. Benutzer-ID, PSN usw.), können Sie diese Ebene leicht erreichen. Separate Report Suites können bei diesem Problem hilfreich sein.
 
 **WIE:** Mit einer neuen AA-Implementierung zu beginnen und eine globale Report Suite zu verwenden, ist einfach und unkompliziert. Sie müssen lediglich die globale Report Suite (eine für Entwicklung und eine für Produktion) in der Admin-Benutzeroberfläche von AA erstellen und dieselben Werte der Report Suite-ID (RSID) auf alle Eigenschaften anwenden.
 

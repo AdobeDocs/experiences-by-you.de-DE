@@ -12,14 +12,14 @@ kt: 10132
 exl-id: fa3190e3-836e-4391-9de6-0b733d55825f
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
-source-wordcount: '1281'
+source-wordcount: '1305'
 ht-degree: 0%
 
 ---
 
 # Etwas mitzureden haben
 
->[!VIDEO](https://video.tv.adobe.com/v/3410291/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/3410291/?captions=ger&quality=12&learn=on)
 
 „Etwas mitzureden haben.“ Diese beliebte Phrase ist seit Jahren ein heißes Thema in der Geschäftswelt. Aber was bedeutet das? Wenn Sie einen Platz am Tisch einnehmen, werden Sie in die Konversionen auf höchster Ebene einbezogen. Sie werden nicht nur eingeladen, sondern Ihr Beitrag wird geschätzt und geschätzt. Ich werde Ihnen zeigen, wie Ihr Unternehmen und Ihre Karriere als [!DNL Adobe Analytics]-Power-User profitieren, wenn Sie etwas mitzureden haben. Dabei spielt es keine Rolle, ob auf Ihrer Visitenkarte Administrator, Datenanalyst oder eine andere Bezeichnung steht.
 
@@ -53,6 +53,6 @@ Zeigen Sie dieser Person, dass Sie verstehen, was für sie wichtig ist, und dass
 **Schritt 3: Seien Sie hervorragend -** Nachdem Sie nun Ihre Zielperson(en) identifiziert haben und festgestellt haben, wie sie nützlich sein können, müssen Sie hervorragende Arbeit leisten. Jeder hat seine eigene Vorstellung davon, wie hervorragende Arbeit aussieht. Es könnte für dich ganz anders sein als für mich. Wichtig dabei ist, mehr zu leisten als das, was Sie normalerweise für eine andere Person oder eine andere Anfrage tun würden. Hier sind ein paar Tipps, die mir geholfen haben, hervorragende Arbeit zu leisten.
 
 * **Tipp 1: Achten Sie auf die optische Präsentation.** Ein einfacher Tipp, der viel zu oft ignoriert wird, besteht darin, sich auf die Optik zu konzentrieren. Überlegen Sie, wie Sie Ihre Arbeit präsentieren können, und befolgen Sie die Best Practices für die Gestaltung von Informationen. Dadurch wird sichergestellt, dass Ihre Botschaft leicht verständlich ist. Wenn Sie übermäßig komplexe Arbeiten ohne klare Botschaft präsentieren, kommt sich Ihr Publikum dumm vor. Niemand mag es, wenn er sich dumm vorkommt. Und sie wollen nicht mit jemandem zusammenarbeiten, bei dem sie sich dumm fühlen.
-* **Tipp 2: Machen Sie das Unmögliche möglich.** Haben Sie schon einmal eine Anfrage erhalten, die unmöglich klang? Normalerweise kommen diese von Personen, die nicht verstehen, wie die Daten funktionieren. Es ist einfach, mit Belustigung („Ha, sie haben keine Ahnung wovon sie reden„) oder sogar Ärger („Ich kann nicht glauben, dass sie das von mir verlangen! Das ist unmöglich! „). Ich habe beide Reaktionen schon öfter erlebt, als ich zählen kann. Aber wenn ich einen Schritt zurücktrete und das Problem mit offenem Blick betrachte, bin ich fast immer erstaunt, was mir alles einfällt. Wenn man lange genug an einem Problem festhält, kommt normalerweise etwas Gutes daraus. Denn wenn etwas unmöglich erscheint, muss man über den Tellerrand schauen, um eine Lösung zu finden. Und das führt oft zu exzellenter Arbeit.
+* **Tipp 2: Machen Sie das Unmögliche möglich.** Haben Sie schon einmal eine Anfrage bekommen, die unmöglich klang? Normalerweise kommen diese von Personen, die nicht verstehen, wie die Daten funktionieren. Es ist einfach, mit Belustigung („Ha, sie haben keine Ahnung wovon sie reden„) oder sogar Ärger („Ich kann nicht glauben, dass sie das von mir verlangen! Das ist unmöglich! „). Ich habe beide Reaktionen schon öfter erlebt, als ich zählen kann. Aber wenn ich einen Schritt zurücktrete und das Problem mit offenem Blick betrachte, bin ich fast immer erstaunt, was mir alles einfällt. Wenn man lange genug an einem Problem festhält, kommt normalerweise etwas Gutes daraus. Denn wenn etwas unmöglich erscheint, muss man über den Tellerrand schauen, um eine Lösung zu finden. Und das führt oft zu exzellenter Arbeit.
 
 Ich hoffe, dieser Artikel hat Ihnen geholfen zu erkennen, dass Sie mitreden müssen. Es wird wahrscheinlich Zeit und gezielte Anstrengungen erfordern. Aber wenn Sie sich daran halten und die oben genannten Schritte befolgen, werden Sie sich in einer Position mit mehr Autonomie und Einfluss in Ihrem Unternehmen befinden. Das wird letztendlich zu mehr Erfolg in Ihrer Rolle und einer erfüllteren Karriere führen.

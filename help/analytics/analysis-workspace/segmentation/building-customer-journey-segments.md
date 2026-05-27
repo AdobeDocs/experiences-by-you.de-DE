@@ -12,7 +12,7 @@ thumbnail: KT-13180.jpeg
 exl-id: 34f42d7e-e849-420e-9b3d-f3dcc1882b23
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
-source-wordcount: '1224'
+source-wordcount: '1237'
 ht-degree: 0%
 
 ---
@@ -25,7 +25,7 @@ Erstellen wir bessere Kunden-Journey-Segmente! In dieser Reihe verwenden wir [!D
 
 Heute erstellen wir Platzhalter für unsere ersten Kundensegmente, erstellen eine [!DNL Adobe Analytics] Workspace, mit der wir unsere Journey definieren können, und definieren unser erstes Segment, „One Hit Wonders“.
 
-Am Ende dieser Serie werden Sie in der Lage sein, auf der Grundlage von Verhaltenssignalen Kunden-Journey-Segmente in [!DNL Adobe Analytics] zu erstellen. Sie können die Größe der einzelnen Zielgruppen in jedem Stadium des Journey schätzen und verstehen, mit welcher Geschwindigkeit sich Benutzer zwischen diesen Stadien bewegen. Außerdem können Sie diese Kunden-Journey-Zielgruppen auf [!DNL Adobe] Experience Cloud exportieren, um Personalisierung und Medien-Targeting zu ermöglichen.
+Am Ende dieser Serie werden Sie in der Lage sein, auf der Grundlage von Verhaltenssignalen Kunden-Journey-Segmente in [!DNL Adobe Analytics] zu erstellen. Sie können die Größe der einzelnen Zielgruppen in jedem Stadium des Journey schätzen und verstehen, mit welcher Geschwindigkeit sich Benutzer zwischen diesen Stadien bewegen. Außerdem können Sie diese Kunden-Journey-Zielgruppen in [!DNL Adobe] Experience Cloud exportieren, um Personalisierung und Medien-Targeting zu ermöglichen.
 
 Jedes Unternehmen ist anders, und das bedeutet, dass Ihre Kunden-Journey-Segmente anders aussehen als meine. Anstatt spezifische Formeln für Ihre Segmente vorzuschreiben, schlagen Sie einige Dinge vor, die Sie beachten sollten, und einen allgemeinen Prozess für ihre Erstellung.
 
@@ -41,7 +41,7 @@ Zu meinem ersten Satz von Besuchsabsichtssegmenten gehörten:
 
 * Ein Treffer wundert sich
 * Bewusstheit
-* Hinweis
+* Überlegung
 * Buchung (Kauf)
 * Aufbewahrung (Buchung/Kauf verwalten)
 
@@ -59,7 +59,7 @@ Wie wir sehen werden, ist der Aufbau dieser Segmente ein iterativer und vernetzt
 
 Ich habe einen einfachen Arbeitsbereich verwendet, um sicherzustellen, dass ich meine Besuchsabsichtssegmente gut definiert habe. Denken Sie daran, dass jeder Besuch zu einem und nur einem Segment mit der Besuchsabsicht gehören muss. Der von mir eingerichtete Arbeitsbereich stellt sicher, dass alle Besuche berücksichtigt werden und es keine Überschneidungen zwischen den Segmenten gibt.
 
-Ich habe diesen Arbeitsbereich „DATENQUALITÄT: Besuchsabsichtssegmente“ mit den Tags „Datenqualität“, „Besuchsabsicht“ und „Kunden-Journey&quot; benannt. Später erstellen wir ein „Besuchsabsicht-Dashboard“, sodass das Präfix „DATENQUALITÄT“ anzeigt, dass dieser Arbeitsbereich für die Einrichtung und Verwaltung der Segmente verwendet wird. Es handelt sich dabei um ein administratives Dashboard, das wenig geschäftliche Einblicke bietet, aber wichtig ist, um sicherzustellen, dass die Segmente gepflegt werden. Es empfiehlt sich, routinemäßig zu diesem Dashboard zurückzukehren oder Warnhinweise einzurichten, um sicherzustellen, dass Ihre Segmente korrekt definiert bleiben.
+Ich habe diesen Arbeitsbereich „DATENQUALITÄT: Besuchsabsichtssegmente“ mit den Tags „Datenqualität“, „Besuchsabsicht“ und „Kunden-Journey&quot; benannt. Später erstellen wir ein „Besuchsabsicht-Dashboard“, sodass das Präfix „DATENQUALITÄT“ anzeigt, dass dieser Arbeitsbereich für die Einrichtung und Verwaltung der Segmente verwendet wird. Es handelt sich dabei um ein administratives Dashboard, das über relativ wenig Business-insight verfügt, aber wichtig ist, um sicherzustellen, dass die Segmente gepflegt werden. Es empfiehlt sich, routinemäßig zu diesem Dashboard zurückzukehren oder Warnhinweise einzurichten, um sicherzustellen, dass Ihre Segmente korrekt definiert bleiben.
 
 Die wichtigste Visualisierung in diesem Arbeitsbereich ist die Freiformvisualisierung für Segmentüberschneidungen in der linken Mitte. Erstellen Sie mithilfe der Metrik Besuche Spaltenfilter für jedes Ihrer Besuchsabsichtssegmente plus das Segment Alle Besuche in der Spalte ganz rechts. Erstellen Sie Zeilen für jedes Segment mit Besuchsabsicht auf der linken Seite. Jetzt verfügen Sie über eine tabellenübergreifende Visualisierung. Wenn Ihre Segmente richtig konfiguriert sind, gibt es nur Daten in einer Spalte und einer Zeile, am Schnittpunkt jedes Besuchsabsichtssegments mit sich selbst.
 
@@ -105,6 +105,6 @@ Dieses Dokument wurde verfasst von:
 
 ![Aaron Fossum](assets/aaron-headshot.png)
 
-**Aaron Fossum**, Director, [!DNL Analytics]
+**Aaron Fossum**, Director, Digital [!DNL Analytics]
 
 [!DNL Adobe Analytics] Champion

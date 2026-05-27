@@ -10,14 +10,14 @@ thumbnail: 34749.jpg
 exl-id: 646bdc8f-c95e-40be-b2f7-8e4ba5653d91
 source-git-commit: 02e3a6dfa59df45113242bd8e874e18e9e1efd58
 workflow-type: tm+mt
-source-wordcount: '3323'
-ht-degree: 0%
+source-wordcount: '3354'
+ht-degree: 1%
 
 ---
 
 # Umfassende Anleitung für den Wechsel von Google [!DNL Analytics] zu [!DNL Adobe Analytics]{#comprehensive-guide-for-transitioning-to-adobe-analytics}
 
-## 1. Einführung
+## &#x200B;1. Einführung
 
 Eine der größten Herausforderungen bei der Umstellung von einem Tool auf ein anderes besteht darin, zu lernen, wo die entsprechende Funktionalität zu finden ist und wie man sie effizient nutzt. Diese Ausführungen sind Teil einer umfangreicheren Anleitung, die Benutzern den Umstieg auf [!DNL Adobe Analytics] erleichtern soll (entweder als neuer Benutzer oder als Benutzer, der aus Google [!DNL Analytics] kommt). Ein ausführlicher Vergleich mit GA, dem wahrscheinlich bekanntesten Vergleichs-Tool, wird den Benutzern helfen, ihr vorhandenes Wissen auf das neue Toolset anzuwenden. Wenn es keinen Ersatz für Übung gibt, hilft dies Ihnen, den Einstieg zu finden und Frustrationen, auf die Sie während dieser Zeit stoßen können, zu reduzieren.
 
@@ -27,9 +27,9 @@ Wir sollten kurz die Terminologie vergleichen:
 |--------------------------------------------------------------------------------------------------------------------------------|---------------------|----------------------|
 | Eine Ereignismetrik, die anzeigt, dass eine Seite (oder ein Bildschirm in einer Mobile App) angesehen wurde | Seitenansicht | Seitenansicht |
 | Eine Metrik, die eine Gruppe von Interaktionen auf Ihrer Website oder App darstellt, die im selben Zeitrahmen stattfinden | Besuch | Session |
-| Eine Metrik, die ein identifiziertes Gerät definiert (basierend auf mehreren Kriterien, einschließlich Cookies und anderen Verhaltensmustern, um Benutzerinformationen zusammenzufügen) | Unique Visitor | Benutzer |
+| Eine Metrik, die ein identifiziertes Gerät definiert (basierend auf mehreren Kriterien, einschließlich Cookies und anderen Verhaltensmustern, um Benutzerinformationen zusammenzufügen) | Unique Visitor | Benutzerin bzw. Benutzer |
 
-## 2. Die Schnittstellen
+## &#x200B;2. Die Schnittstellen
 
 Wenn Leute [!DNL Adobe Analytics] und Google [!DNL Analytics] vergleichen, äußern sie, dass [!DNL Adobe] Oberfläche zunächst abschreckend sei. Das stimmt, aber es ist auch - ob Sie es glauben oder nicht - eine Stärke und keine Schwäche. [!DNL Adobe] bietet eine breite Palette von Tools und Flexibilität bei der Datenvisualisierung, sodass Sie viel mehr Freiheit bei der Erstellung dessen haben, was Sie benötigen.
 
@@ -55,7 +55,7 @@ Weitere Informationen zum Arbeitsbereich finden Sie weiter unten in diesem Handb
 
 
 
-##### 2.1.1.2. Startbildschirm-Insights (Google [!DNL Analytics])
+##### 2.1.1.2. Startbildschirm-Einblicke (Google [!DNL Analytics])
 
 * Auf dem Google [!DNL Analytics]-Startbildschirm sind einige Visualisierungen vorkonfiguriert. Diese umfassen u. a. Folgendes:
 * Benutzer, Sitzungen, Absprungrate und Sitzungsdauer in den letzten sieben Tagen
@@ -73,11 +73,11 @@ GA4-Benutzer haben mehr Möglichkeiten, ihre eigenen Berichte anzupassen und zum
 
 Dies ist wahrscheinlich die Sache, die Sie am meisten in [!DNL Adobe Analytics] vermissen. Es gibt keinen vorgefertigten Startbildschirm für Sie. Sie können jedoch ganz einfach eine benutzerdefinierte Workspace einrichten, um das zu replizieren, was Sie aus der obigen Liste benötigen, und es als Ihren Startbildschirm festlegen. Weitere Informationen zu diesem Thema finden Sie später (oder im Abschnitt 2.1.2.1 [!DNL Adobe] Workspace).
 
-#### 2.1.2. Report Builder vor Ort
+#### 2.1.2. In-Site Report Builder
 
 Zusätzlich zu den einfachen Berichten, die die Analyse-Tools bereitstellten, bietet jedes Tool auch leistungsfähigere Tools, mit denen Sie Ihre eigenen benutzerdefinierten Berichte erstellen können.
 
-##### 2.1.2.1. [!DNL Adobe Analytics] Workspace
+##### 2.1.2.1. [!DNL Adobe Analytics] Arbeitsbereich
 
 Dies ist das Kraftzentrale von [!DNL Adobe Analytics], seit seiner Einführung im Jahr 2017 ist es der erste Ort für [!DNL Analytics] Analysen und der Hauptgrund dafür, dass der Abschnitt „Berichte“ demnächst eingestellt wird.
 
@@ -140,7 +140,7 @@ Eine weitere leistungsstarke Funktion von Arbeitsbereichen ist die Möglichkeit,
 >
 >Weitere Informationen zur Verwendung von Dropdown-Menüs und Freiform-Aufschlüsselungen finden Sie unter <https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680?profile.language=de>
 
-##### 2.1.2.2. Google-[!DNL Analytics]: Dashboards, benutzerdefinierte Berichte und gespeicherte Berichte
+##### 2.1.2.2. Google [!DNL Analytics]: Dashboards, benutzerdefinierte Berichte und gespeicherte Berichte
 
 Google verfügt über einige Tools zum Erstellen von Berichten innerhalb der Benutzeroberfläche, die jedoch die gleiche Anzeige und die gleichen Einschränkungen wie der Abschnitt „Berichte“ aufweisen.
 
@@ -166,7 +166,7 @@ Da die meisten der oben genannten Punkte über Arbeitsbereiche zugänglich sind,
 
 Website-Metriken sind das, was Sie erwarten würden, also die Standardmetriken (Seitenansichten, Unique Visitors, Besuche und benutzerdefinierte Ereignisse, die Sie eingerichtet haben). Dies ähnelt dem Verhaltensbericht in GA, enthält aber auch einige der Informationen, die Sie unter Zielgruppe finden würden (da [!DNL Adobe] die Metriktypen nicht aufteilt).
 
-Hier finden Sie Bot-Berichte. Der Traffic von Bots wird aus allen Standardberichten ausgeschlossen. Es gibt jedoch zwei Berichte, die Aufschluss darüber geben, was passiert und welche Bots auf Ihre Site kommen. Dies ist besonders nützlich, wenn Sie benutzerdefinierte Bot-Regeln eingerichtet haben, um bekannte Spam-Bots auszuschließen, die häufig Ihre Website besuchen. Sie können einen Einblick in die Aktivitäten dieser Bots erhalten, ohne dass Ihre Hauptberichte überflutet werden, aber dieser Traffic. Bot-Berichte sind derzeit nicht über Workspace verfügbar (aber neue Berichtsfunktionen, die in Kürze verfügbar sein werden, ermöglichen es Benutzenden, diese Informationen auch dort abzurufen).
+Hier finden Sie Bot-Berichte. Der Traffic von Bots wird aus allen Standardberichten ausgeschlossen. Es gibt jedoch zwei Berichte, die insight darüber informieren, was passiert und welche Bots auf Ihre Site kommen. Dies ist besonders nützlich, wenn Sie benutzerdefinierte Bot-Regeln eingerichtet haben, um bekannte Spam-Bots auszuschließen, die häufig Ihre Website besuchen. Sie können einige insight in das integrieren, was diese Bots tun, ohne dass Ihre Hauptberichte überflutet werden, aber dieser Traffic. Bot-Berichte sind derzeit nicht über Workspace verfügbar (aber neue Berichtsfunktionen, die in Kürze verfügbar sein werden, ermöglichen es Benutzenden, diese Informationen auch dort abzurufen).
 
 Site-Content ist eine Gruppierung [!DNL Adobe] Standarddimensionen: Seitenname, Site-Bereiche, Hierarchien, Server und mehr. Alle diese Dimensionen sind in Workspace verfügbar.
 
@@ -192,7 +192,7 @@ Zielvorgaben ermöglichen es, einen Bericht zu erstellen, der auf einer Zielvorg
 
 Alle Berichte in diesem Bereich können nach mehreren Metrikspalten und Dimensionen aufgeschlüsselt werden. Die Einfachheit der Visualisierungen und die Logik, die sich hinter den möglichen Korrelationen verbirgt, können jedoch manchmal frustrierend sein.
 
-##### 2.1.3.2. Google [!DNL Analytics] Berichte
+##### 2.1.3.2. Google [!DNL Analytics] Reports
 
 Google [!DNL Analytics] unterteilt diese Berichte in die folgenden Abschnitte: Echtzeit, Zielgruppe, Akquise, Verhalten und Gespräche (in GA3) und in Lebenszyklus (mit den Unterabschnitten Akquise, Interaktion, Monetarisierung, Kundenbindung) und Benutzer (mit den Unterabschnitten Demografie und Technik).
 
@@ -204,19 +204,19 @@ So erhalten Sie schnell und einfach Einblicke in Ihre Daten. Sie können jedoch 
 
 Diese sind gut für schnelle analytische Daten, aber wenn Sie wirklich tief graben müssen, leiden sie unter den Einschränkungen.
 
-### 2.2. Erweiterter Zugriff auf Berichte
+### 2.2. Erweiterter Berichtzugriff
 
 Zusätzlich zum „In-Site-Reporting“ bieten die meisten Tools erweiterte Funktionen, mit denen Sie Ihre Analyse außerhalb der Tools durchführen und etwas Individuelleres erstellen können.
 
 #### 2.2.1. [!DNL Adobe Analytics] Report Builder (Microsoft® Excel-Erweiterung)
 
-Workspace ist ein großartiges Tool, aber manchmal müssen Sie Ihre Daten in eine benutzerdefinierte Kalkulationstabelle übertragen, möglicherweise damit Sie mehrere Datenquellen zusammenfügen können. An dieser Stelle kommt der Report Builder ins Spiel.
+Workspace ist ein großartiges Tool, aber manchmal müssen Sie Ihre Daten in eine benutzerdefinierte Kalkulationstabelle übertragen, möglicherweise damit Sie mehrere Datenquellen zusammenfügen können. An dieser Stelle kommt Report Builder ins Spiel.
 
 Report Builder ist ein Plug-in für Microsoft® Excel, mit dem Sie Verbindungen zu Ihren [!DNL Adobe Analytics] erstellen können, um tabellarische Daten zu erhalten, die Sie in Excel bearbeiten können. Um dies effizient zu nutzen, würden Sie im Allgemeinen die Daten in einige Rohdaten-Registerkarten einlesen und dann Zellverweise in Excel verwenden, um die Daten aus diesen Registerkarten in einen einzigen konsolidierten Bericht einzufügen und dann Diagramme und Visualisierungen zu erstellen.
 
 >[!NOTE]
 >
->Der Report Builder verfügt über eine spezielle Berechtigung, die auf Ihre Benutzenden angewendet werden muss, um auf dieses Plug-in zuzugreifen. Diese Berechtigung sollte Benutzern erteilt werden, die gelernt haben, wie man das Tool richtig verwendet.
+>Report Builder verfügt über eine spezielle Berechtigung, die auf Ihre Benutzenden angewendet werden muss, um auf dieses Plug-in zuzugreifen. Diese Berechtigung sollte Benutzern erteilt werden, die gelernt haben, wie man das Tool richtig verwendet.
 
 #### 2.2.2. [!DNL Adobe Analytics] API-Verbindung
 
@@ -239,7 +239,7 @@ Es ist immer noch ein leistungsstarkes Tool, und ich würde niemanden davon abra
 Für meine eigenen Zwecke, wenn ich erweiterte Daten aus Google [!DNL Analytics] abrufen muss, ist mein persönliches Tool der Wahl die Google-Tabellenerweiterung. Obwohl ich mehrere Verbindungen zu meinen GA-Tabellen herstellen muss, kann ich auf die Zellen der Rohdaten verweisen und die benötigten Berichte erstellen. Anschließend visualisiere ich sie mithilfe der Diagrammfunktionen von Google Spreadsheet.
 
 
-## 3. Exporte von Rohdaten
+## &#x200B;3. Exporte von Rohdaten
 
 Wenn Sie wirklich Rohdaten benötigen, bieten sowohl [!DNL Adobe] als auch Google die Möglichkeit, Informationen auf diese Weise abzurufen.
 
@@ -254,13 +254,13 @@ Die Rohdaten-Feeds können so angepasst werden, dass alle Datenspalten oder nur 
 Die Feeds können direkt an FTP, SFTP oder S3 gesendet werden.
 
 
-### 3.2. Google Big Query
+### 3.2. Google BigQuery
 
 Leider ist dies ein Google-Tool, mit dem ich keine Erfahrung habe. Theoretisch sollte er dem Daten-Feed von [!DNL Adobe] ähneln, sodass Ihr Entwicklungsteam auf Rohdaten aus Ihrem Google-[!DNL Analytics] zugreifen kann.
 
 Statt jedoch einen vollständigen Dump der Rohdaten bereitzustellen, ermöglicht es Ihren Ingenieuren, über SQL-Abfragen auf die Daten zuzugreifen, um gezielte Rohdaten oder alle Spalten der Rohdaten abzurufen.
 
-## 4. Schlussfolgerung
+## &#x200B;4. Zusammenfassung
 
 Wie bei jedem System ist Übung erforderlich, um sich mit dem Tool vertraut zu machen. Wir hoffen, dieses Handbuch hilft Ihnen bei den ersten Schritten oder gibt Ihnen Tipps, wie Sie [!DNL Adobe Analytics] besser nutzen können.
 
@@ -268,7 +268,7 @@ Ich möchte jedoch betonen, dass ich empfehlen würde, in Ihrer Implementierungs
 
 Neben diesem Handbuch stehen Ihnen viele weitere Ressourcen zur Verfügung, die Sie bei der Verbesserung Ihrer Strategie unterstützen können:
 
-* [[!DNL Adobe] Experience League](https://experienceleague.adobe.com/de#home) - Enthält Tutorials, Videos, Dokumentation und Community-Foren
+* [[!DNL Adobe] Experience League](https://experienceleague.adobe.com/de?lang=de#home) - Enthält Tutorials, Videos, Dokumentation und Community-Foren
 * [[!DNL Adobe] Benutzergruppen](https://analytics-augs.adobe.com/) - Ein zentraler Treffpunkt für von der Community organisierte Events, die den Benutzern helfen, miteinander in Kontakt zu treten und ihre Implementierungen zu verbessern.
 * [[!DNL Adobe Analytics] YouTube-Kanal für Benutzergruppen](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA) - Konnten Sie keine [!DNL Adobe Analytics] Benutzergruppensitzung erstellen? Sehen Sie sich frühere Benutzergruppensitzungen auf der ganzen Welt an, um mehr darüber zu erfahren, wie Ihre Kollegen das Tool verwenden.
 * [Measure Chat Slack Channel](https://www.measure.chat/) - Treten Sie mit [!DNL Adobe Analytics] Anwendern in der ganzen Welt in Kontakt und tauschen Sie Branchenkenntnisse aus, stellen Sie Fragen an Ihre Kollegen und schließen Sie sich Interessengruppen an.
