@@ -12,14 +12,14 @@ kt: 10128
 exl-id: b26f8b1e-e57d-4684-86c2-7a13f67521e6
 source-git-commit: b2e05ff39e065691dda530ed17762a55cf2e6778
 workflow-type: tm+mt
-source-wordcount: '981'
+source-wordcount: '982'
 ht-degree: 0%
 
 ---
 
 # Übersetzen [!DNL Adobe Analytics] technischen Sprache auf nicht-technische Weise
 
->[!VIDEO](https://video.tv.adobe.com/v/3410292/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/342066/?quality=12&learn=on)
 
 ## Sprechen verschiedener Sprachen
 
@@ -31,7 +31,7 @@ Im Folgenden finden Sie vier Tipps, die mir geholfen haben, meinen Stakeholdern 
 
 Ein solides Onboarding-Programm für Ihre neuen [!DNL Adobe Analytics]-Benutzer ist von Anfang an entscheidend für die Akzeptanz. Oft wird Ihr Onboarding-Programm ihr erster Kontakt mit der wunderbaren Welt der Props und eVars sein. Ihr Onboarding-Programm muss verständlich, relevant und einprägsam sein, damit Ihre Benutzer immer wieder zum Tool zurückkehren können.
 
-Hier ist meine bevorzugte Methode, neuen Analysten eVars und Zuordnungsmethoden näherzubringen: Stellen Sie sich vor, Sie sind auf einem abendlichen Spaziergang in Ihrer Nachbarschaft und, oh nein, Sie treten auf einen Kaugummi. Für den Rest deines Spaziergangs klebt dieser Kaugummi jetzt auf deiner Schuhsohle (wie eine eVar!). Man geht ein paar Schritte weiter und ein weiterer Kaugummi klebt an seinem Schuh. Am Ende des Spaziergangs entscheiden Sie sich, Ihre Schuhe wegzuwerfen. Was hat dich zu dieser Entscheidung gebracht? War es der erste Kaugummi, auf den du getreten bist, der letzte, oder waren beide gleichermaßen schuld?
+Hier ist meine bevorzugte Methode, neuen Analysten eVars und Zuordnungsmethoden näherzubringen: Stellen Sie sich vor, Sie sind auf einem abendlichen Spaziergang in Ihrer Nachbarschaft und, oh nein, Sie treten auf einen Kaugummi. Für den Rest deines Spaziergangs klebt dieser Kaugummi jetzt auf deiner Schuhsohle (wie ein eVar!). Man geht ein paar Schritte weiter und ein weiterer Kaugummi klebt an seinem Schuh. Am Ende des Spaziergangs entscheiden Sie sich, Ihre Schuhe wegzuwerfen. Was hat dich zu dieser Entscheidung gebracht? War es der erste Kaugummi, auf den du getreten bist, der letzte, oder waren beide gleichermaßen schuld?
 
 >[!TIP]
 >
@@ -59,7 +59,7 @@ Bei [!DNL The Home Depot] veranstalteten wir eine [!DNL Adobe Analytics] Challen
 
 >[!TIP]
 >
->**Erstellen Sie mit Anmerkungen versehene lösungsspezifische Workspace-Vorlagen und -Anleitungen**
+>**Erstellen Sie mit Anmerkungen versehene lösungsspezifische Workspace-Vorlagen und -Anleitungen.**
 >Nutzen Sie Unternehmensberichte (Vorlagen) und Textvisualisierungen in Analysis Workspace, um kontextbezogene Leitfäden zu erstellen, die Ihren Rockstars helfen, auf dem richtigen Weg zu bleiben.
 >
 >Dank der Flexibilität von Analysis Workspace können Sie Vorlagen für eine schnellere Analyse sowie für Self-Service und Self-Enablement erstellen. Durch die Kombination von Funktionen wie kuratierte Vorlagen, Anmerkungen und die Verknüpfung zwischen Arbeitsbereichen können Sie effiziente, barrierefreie und leicht zu verbreitende Anleitungen für nichttechnische Benutzende im Kontext von [!DNL Adobe Analytics] erstellen.

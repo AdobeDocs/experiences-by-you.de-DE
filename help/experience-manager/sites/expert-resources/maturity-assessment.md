@@ -11,7 +11,7 @@ last-substantial-update: 2023-11-03T00:00:00Z
 exl-id: 65a12916-27bb-4761-a1d3-da8ff4c51ef8
 source-git-commit: 7bbe86435c683f41509a8cbe6b117b354309644a
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '345'
 ht-degree: 0%
 
 ---
@@ -28,14 +28,14 @@ Reifegradbewertungen ermöglichen die Bewertung und Einhaltung von AEM-Standards
 
 Best Practices für die Verwaltung, Entwicklung oder Inhaltserstellung finden Sie in den folgenden Ressourcen:
 
-* [Best Practices für die Verwaltung](https://experienceleague.adobe.com/docs/experience-manager-65/administering/bestpractices/administer-best-practices.html?lang=de)
-* [Entwicklung von Best Practices](https://experienceleague.adobe.com/docs/experience-manager-65/developing/bestpractices/best-practices.html?lang=de)
-* [Best Practices für die Inhaltserstellung](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/authoring/best-practices.html?lang=de)
+* [Best Practices für die Verwaltung](https://experienceleague.adobe.com/docs/experience-manager-65/administering/bestpractices/administer-best-practices.html?lang=en)
+* [Entwicklung von Best Practices](https://experienceleague.adobe.com/docs/experience-manager-65/developing/bestpractices/best-practices.html?lang=en)
+* [Best Practices für die Inhaltserstellung](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/authoring/best-practices.html?lang=en)
 
 Jeder dieser oben genannten Best Practice-Bereiche umfasst auch weitere Best Practices beim Erstellen, Entwickeln und Bereitstellen von AEM.
 
-In den meisten Fällen wird die AEM-Reifegradbewertung dazu beitragen, eine diagnostische Überprüfung der Best Practices der AEM durchzuführen, und zu einem Fahrplan für die proaktive Erkennung, Lösung und Vermeidung potenzieller Probleme führen. Es wird empfohlen, Bewertungen mit den Teams durchzuführen, die auch an der AEM-Implementierungs-Discovery-Phase (Vor der AEM-Migration) beteiligt waren. Rollen, die einbezogen werden sollten, könnten sein: Anwendungsbesitzer, Site-Eigentümer, Entwicklungs-Teams, Tech Leads, Sicherheits-/Infrastruktur-Teams, SEO-Teams und Support-Teams (z. B. Inhaltsautoren, Administratoren).
+In den meisten Fällen hilft die AEM-Reifegradbewertung dabei, eine diagnostische Überprüfung der Best Practices für AEM durchzuführen, und führt zu einer Roadmap für die proaktive Erkennung, Lösung und Prävention potenzieller Probleme. Es wird empfohlen, Bewertungen mit den Teams durchzuführen, die auch an der AEM-Implementierungs-Discovery-Phase (Migration vor der AEM) beteiligt waren. Rollen, die einbezogen werden sollten, könnten sein: Anwendungsbesitzer, Site-Eigentümer, Entwicklungs-Teams, Tech Leads, Sicherheits-/Infrastruktur-Teams, SEO-Teams und Support-Teams (z. B. Inhaltsautoren, Administratoren).
 
-Empfohlene AEM-Reifegradbewertungen: Design und Architektur, Produktmanagement und -strategie, Digital Asset Management und Bereitstellung, [!DNL Analytics], Tests und Sicherheit.
+Empfohlene AEM-Schwerpunktbereiche für die Reifegradbewertung: Design und Architektur, Produktmanagement und -strategie, Digital Asset Management und Bereitstellung, [!DNL Analytics], Tests und Sicherheit.
 
-Riesiger Ruf an AEM-Champion Greg Dimeris für die Zusammenstellung dieser Informationen aus mehreren Experience League-Artikeln sowie seine eigenen Best Practices!
+Großer Ruf an AEM Champion Greg Dimeris für die Zusammenstellung dieser Informationen aus mehreren Experience League-Artikeln sowie seinen eigenen Best Practices!
