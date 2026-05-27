@@ -45,7 +45,7 @@ Das Wichtigste an [!DNL Adobe Experience Cloud] Lösungen? Sie. Benutzer, die di
   </td>
   <td>
     <a href="/help/marketo/programs/email-programs.md">
-      <img alt="Übersetzen [!DNL Adobe Analytics] technischen Sprache auf nicht-technische Weise" src="https://video.tv.adobe.com/v/342066?format=jpeg" />
+      <img alt="Übersetzen [!DNL Adobe Analytics] technischen Sprache auf nicht-technische Weise" src="https://video.tv.adobe.com/v/3410292?captions=ger&format=jpeg" />
     </a>
     <div>
       <a href="/help/analytics/administration/key-admin-skills/translating-adobe-analytics-technical-language.md">

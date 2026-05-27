@@ -22,7 +22,7 @@ ht-degree: 4%
 
 Erfahren Sie, wie Sie im Abschnitt [!DNL Analytics] und Datenbank navigieren, um verschiedene vordefinierte Berichte in [!DNL Marketo Engage] abzurufen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419295/?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446429/?captions=ger&learn=on){transcript=true}
 
 ## Zusätzliche Ressourcen
 
