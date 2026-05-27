@@ -138,7 +138,7 @@ Eine weitere leistungsstarke Funktion von Arbeitsbereichen ist die Möglichkeit,
 
 >[!IMPORTANT]
 >
->Weitere Informationen zur Verwendung von Dropdown-Menüs und Freiform-Aufschlüsselungen finden Sie unter <https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680>
+>Weitere Informationen zur Verwendung von Dropdown-Menüs und Freiform-Aufschlüsselungen finden Sie unter <https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/the-power-of-dropdown-filters-and-dimension-breakdowns-in-adobe/td-p/434680?profile.language=de>
 
 ##### 2.1.2.2. Google [!DNL Analytics]: Dashboards, benutzerdefinierte Berichte und gespeicherte Berichte
 
@@ -268,7 +268,7 @@ Ich möchte jedoch betonen, dass ich empfehlen würde, in Ihrer Implementierungs
 
 Neben diesem Handbuch stehen Ihnen viele weitere Ressourcen zur Verfügung, die Sie bei der Verbesserung Ihrer Strategie unterstützen können:
 
-* [[!DNL Adobe] Experience League](https://experienceleague.adobe.com/?lang=de#home) - Enthält Tutorials, Videos, Dokumentation und Community-Foren
+* [[!DNL Adobe] Experience League](https://experienceleague.adobe.com/de?lang=de#home) - Enthält Tutorials, Videos, Dokumentation und Community-Foren
 * [[!DNL Adobe] Benutzergruppen](https://analytics-augs.adobe.com/) - Ein zentraler Treffpunkt für von der Community organisierte Events, die den Benutzern helfen, miteinander in Kontakt zu treten und ihre Implementierungen zu verbessern.
 * [[!DNL Adobe Analytics] YouTube-Kanal für Benutzergruppen](https://www.youtube.com/channel/UCQOHnCs7KZgsuFHVzwboQuA) - Konnten Sie keine [!DNL Adobe Analytics] Benutzergruppensitzung erstellen? Sehen Sie sich frühere Benutzergruppensitzungen auf der ganzen Welt an, um mehr darüber zu erfahren, wie Ihre Kollegen das Tool verwenden.
 * [Measure Chat Slack Channel](https://www.measure.chat/) - Treten Sie mit [!DNL Adobe Analytics] Anwendern in der ganzen Welt in Kontakt und tauschen Sie Branchenkenntnisse aus, stellen Sie Fragen an Ihre Kollegen und schließen Sie sich Interessengruppen an.

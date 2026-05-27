@@ -28,9 +28,9 @@ Reifegradbewertungen ermöglichen die Bewertung und Einhaltung von AEM-Standards
 
 Best Practices für die Verwaltung, Entwicklung oder Inhaltserstellung finden Sie in den folgenden Ressourcen:
 
-* [Best Practices für die Verwaltung](https://experienceleague.adobe.com/docs/experience-manager-65/administering/bestpractices/administer-best-practices.html?lang=en)
-* [Entwicklung von Best Practices](https://experienceleague.adobe.com/docs/experience-manager-65/developing/bestpractices/best-practices.html?lang=en)
-* [Best Practices für die Inhaltserstellung](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/authoring/best-practices.html?lang=en)
+* [Best Practices für die Verwaltung](https://experienceleague.adobe.com/docs/experience-manager-65/administering/bestpractices/administer-best-practices.html?lang=de)
+* [Entwicklung von Best Practices](https://experienceleague.adobe.com/docs/experience-manager-65/developing/bestpractices/best-practices.html?lang=de)
+* [Best Practices für die Inhaltserstellung](https://experienceleague.adobe.com/docs/experience-manager-65/authoring/authoring/best-practices.html?lang=de)
 
 Jeder dieser oben genannten Best Practice-Bereiche umfasst auch weitere Best Practices beim Erstellen, Entwickeln und Bereitstellen von AEM.
 
