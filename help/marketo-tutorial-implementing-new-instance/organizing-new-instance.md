@@ -12,7 +12,7 @@ thumbnail: KT-14813.jpeg
 exl-id: 19b3de9e-53f3-4308-b46e-7b8f756c30a0
 source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
 workflow-type: tm+mt
-source-wordcount: '1166'
+source-wordcount: '1291'
 ht-degree: 2%
 
 ---
@@ -115,7 +115,7 @@ Fügen wir nun die Werte in die Formel ein und generieren wir die Programmnamen 
 Es empfiehlt sich, den Programmnamen nicht zu wiederholen und für die zukünftige Verwendung des Klonens kurze und generische Bezeichner zu verwenden. Hier sind einige Tipps, die Sie beachten sollten:
 
 * Nummerieren Sie die Assets basierend auf ihrer Sequenz im Programmprozess.
-* Trennen Sie die Benennungskomponenten mit &quot;-&quot; (Bindestrich) anstelle von &quot;.“(Punkt) oder &quot;\_“ (Unterstrich).
+* Trennen Sie die Benennungskomponenten mit &quot;-&quot; (Bindestrich) anstelle von &quot;.“ (Punkt) oder &quot;\_“ (Unterstrich).
    * Warum? Marketo Engage verwendet einen Punkt, um den Programmnamen vom Kampagnennamen zu trennen. Die Verwendung von &quot;\_“ verhindert, dass es angezeigt wird, wenn das Asset mit einem Hyperlink versehen ist.
 * Verwenden Sie Standardakronyme in den Asset-Namen, um die Referenz zu verkürzen und dennoch eine einfache Erkennung zu ermöglichen.
 
@@ -162,7 +162,7 @@ Vor diesem Hintergrund wenden wir diese Tipps auf die folgenden Assets an und er
 
 ##### Benennen Sie die herunterladbaren Dateien (.pdf) mit der Abkürzung Asset-Typ
 
-| **Asset-Typ** | **Inhaltsbeschreibung** | **\-** | **Abkürzung für Asset-Typ** | **,** | **PDF** |
+| **Asset-Typ** | **Inhaltsbeschreibung** | **\-** | **Abkürzung für Asset-Typ** | **.** | **PDF** |
 | --- | --- | --- | --- | --- | --- |
 | WP - Whitepaper | Inhaltsbeschreibung | \- | WP | . | PDF |
 | CS - Fallstudie | Inhaltsbeschreibung | \- | CS | . | PDF |
@@ -172,7 +172,7 @@ Vor diesem Hintergrund wenden wir diese Tipps auf die folgenden Assets an und er
 | --- |
 | XYZ-Gadget-DS.pdf |
 | Acme-Company-CS.pdf |
-| How-XYZ-Gadgets-make-life-easier-WP.pdf |
+| how-XYZ-Gadgets-make-life-easy-WP.pdf |
 
 >[!CAUTION]
 >

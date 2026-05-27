@@ -13,14 +13,14 @@ thumbnail: KT-13216.jpeg
 exl-id: ea446e58-d9f2-4a21-aa9b-71aa548016e2
 source-git-commit: 07b28edade263aa3c85348716bd45df4a053e239
 workflow-type: tm+mt
-source-wordcount: '876'
+source-wordcount: '879'
 ht-degree: 0%
 
 ---
 
 # Fördern des Erfolgs mit Dashboards mit Executive Summary
 
-_Führungskräfte verfügen häufig nicht über aktuelle und relevante Informationen für ihre Sites und Apps, sondern verlassen sich auf monatliche Excel-Diagramme oder ertrinken in granularen Daten. Die Lösung: Experience Manager Cloud ManagerMarketo EngageExecutive Summary-Dashboard._
+_Führungskräfte verfügen häufig nicht über aktuelle und relevante Informationen für ihre Sites und Apps, sondern verlassen sich auf monatliche Excel-Diagramme oder ertrinken in granularen Daten. Die Lösung: Experience Manager Cloud ManagerMarketo Engage Executive Summary Dashboard._
 
 Stellen Sie sich vor, Sie fahren von Seattle nach San Francisco. Richtungsweisend, ist es ziemlich einfach. Steigen Sie auf die I-5 South für zwölf bis sechzehn Stunden und Sie sind dort. Einfach, oder? Stellen Sie sich vor, ich habe ein Stück Pappe über Ihr Armaturenbrett gelegt, und ich sage Ihnen das am Ende
 Während Ihrer Reise erhalten Sie ein Dashboard, das Ihnen Ihre Geschwindigkeit, Ihren Kraftstoffstand und die zurückgelegte Strecke mitteilt:

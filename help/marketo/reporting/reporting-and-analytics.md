@@ -13,8 +13,8 @@ feature: Reporting
 exl-id: d45b2757-bc7f-4085-b374-ea8c1caf1774
 source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
-source-wordcount: '67'
-ht-degree: 2%
+source-wordcount: '104'
+ht-degree: 4%
 
 ---
 
@@ -22,12 +22,12 @@ ht-degree: 2%
 
 Erfahren Sie, wie Sie im Abschnitt [!DNL Analytics] und Datenbank navigieren, um verschiedene vordefinierte Berichte in [!DNL Marketo Engage] abzurufen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3446429/?learn=on&captions=ger){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3446429/?captions=ger&learn=on){transcript=true}
 
 ## Zusätzliche Ressourcen
 
 * **Produktdokumentation**
 Erfahren Sie mehr über die verschiedenen Berichte, die Sie abrufen können - [Reporting-Übersicht](https://experienceleague.adobe.com/docs/marketo/using/product-docs/reporting/reporting-overview.html?lang=de&sdid=M7K4SLTS&mv=email&mv2=instreml)
 
-* **Expert-Kunden-Blogpost**
+* **Expert-Blogpost für Kunden**
 Erfahren Sie von Champion Chelsea Kiko, wie Sie verschiedene Berichte erstellen [Berichte in verschiedenen  [!DNL Marketo Engage]  erstellen](https://nation.marketo.com/t5/product-blogs/how-marketo-champion-chelsea-kiko-reports-in-various-marketo/ba-p/242627)

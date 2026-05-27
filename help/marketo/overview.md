@@ -8,7 +8,7 @@ solution: Marketo Engage
 exl-id: 5145c189-cc92-4472-bf99-981b43c2c5ba
 source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
 workflow-type: tm+mt
-source-wordcount: '205'
+source-wordcount: '228'
 ht-degree: 16%
 
 ---
@@ -74,7 +74,7 @@ Das Wichtigste an [!DNL Adobe] Experience Cloud-Lösungen? Sie. Benutzer, die di
 
 </div>
 
-## Weitere Ressourcen
+## Zusätzliche Ressourcen
 
 * [Marketo Nation (Communities)](https://nation.marketo.com/)
 * [Dokumentation zu Adobe Marketo Engage](https://experienceleague.adobe.com/docs/marketo-engage.html?lang=de)
