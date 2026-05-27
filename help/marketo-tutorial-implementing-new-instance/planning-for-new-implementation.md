@@ -12,16 +12,16 @@ thumbnail: KT-14808.jpeg
 exl-id: 65119abd-6f13-4acc-9e99-09843369ad28
 source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
-source-wordcount: '1098'
-ht-degree: 5%
+source-wordcount: '1194'
+ht-degree: 9%
 
 ---
 
 # Planen einer neuen Marketo Engage-Implementierung
 
-Die Implementierung einer neuen Marketo Engage-Instanz erfordert eine sorgfältige Planung, die Zusammenarbeit zwischen den Teams und eine kontinuierliche Optimierung. Es gibt zwar kein perfektes Rezept für die Implementierung einer neuen Instanz, aber die meisten Marketo Engage-Administratoren, die es durchlaufen haben, können zustimmen, dass eine vorausschauende Planung den Prozess viel reibungsloser gestalten wird.
+Die Implementierung einer neuen Marketo Engage-Instanz erfordert eine sorgfältige Planung, die Zusammenarbeit zwischen den Teams und eine kontinuierliche Optimierung. Es gibt zwar kein perfektes Rezept für die Implementierung einer neuen Instanz, aber die meisten Marketo Engage-Administratoren, die dies durchlaufen haben, können zustimmen, dass eine vorausschauende Planung den Prozess viel reibungsloser gestalten wird.
 
-In diesem Tutorial gehen wir auf die spezifischen Meilensteine, Teaminteraktionen und Ressourcenzuweisungen ein, die für einen erfolgreichen Marketo Engage-Rollout entscheidend sind.
+In diesem Tutorial gehen wir auf die spezifischen Meilensteine, Teaminteraktionen und Ressourcenzuweisungen ein, die für einen erfolgreichen Rollout von Marketo Engage entscheidend sind.
 
 ## Wichtige Meilensteine während der neuen Marketo Engage-Implementierung
 
@@ -38,7 +38,7 @@ In diesem Tutorial gehen wir auf die spezifischen Meilensteine, Teaminteraktione
 
 ### Phase 3: Erstellung der Programmbibliothek und Einrichtung der Kampagne
 
-- Entwickeln von E-Mail-Vorlagen und Landingpages. Beginnen Sie mit [Importieren von &#x200B;](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program) aus der [Programm-Importbibliothek](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview).
+- Entwickeln von E-Mail-Vorlagen und Landingpages. Beginnen Sie mit [Importieren von ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program) aus der [Programm-Importbibliothek](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview).
 - Einrichten von Segmentierungs- und Personalization-Regeln
 - Erstellen erster Kampagnen für die Lead-Generierung und -Pflege
 
@@ -126,7 +126,7 @@ Die Implementierung einer neuen Instanz erfordert eine sorgfältige Planung und 
 
 ## Peer Perspective - Marketo Engage-Implementierung
 
-Erfahren Sie von Marketo Engage Champion (2019), Kyle McCormick, über seine Onboarding- und Implementierungserfahrungen bei Palotos Networks. Sie erfahren mehr über die Herausforderungen, vor denen er stand, und über seine Ratschläge, wie Sie Ihren Onboarding-Prozess erfolgreich und effizient vorantreiben können.
+Erfahren Sie mehr über Marketo Engage Champion (2019), Kyle McCormick, über seine Onboarding- und Implementierungserfahrungen bei Palotos Networks. Sie erfahren mehr über die Herausforderungen, vor denen er stand, und über seine Ratschläge, wie Sie Ihren Onboarding-Prozess erfolgreich und effizient vorantreiben können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3428771/?quality=12&learn=on)
 
@@ -134,7 +134,7 @@ Erfahren Sie von Marketo Engage Champion (2019), Kyle McCormick, über seine Onb
 
 Erstellen Sie einen neuen Implementierungsprojektplan und einen neuen Zeitplan. Nachfolgend finden Sie eine Beispiel-Projekt-Zeitleiste mit Abschnitten für Beispiel-Meilensteine, Aufgaben, verantwortliche Teams, Fristen und Abhängigkeiten. Verwenden Sie diese Option, um Ihre Marketo Engage-Implementierungs-Journey zu optimieren und einen erfolgreichen Rollout im gesamten Unternehmen sicherzustellen.
 
-Sie können auch das Beispiel zum Bearbeiten und Tracking bestimmter Meilensteinaufgaben ([) &#x200B;](/help/marketo-tutorial-implementing-new-instance/assets/adobe-marketo-engage-implementation-milestones-project-management-template.xlsx).
+Sie können auch das Beispiel zum Bearbeiten und Tracking bestimmter Meilensteinaufgaben ([) ](/help/marketo-tutorial-implementing-new-instance/assets/adobe-marketo-engage-implementation-milestones-project-management-template.xlsx).
 
 <table>
  <thead>
@@ -173,7 +173,7 @@ Sie können auch das Beispiel zum Bearbeiten und Tracking bestimmter Meilenstein
     </tr>
     <tr>
         <td rowspan="4">Adobe Admin Console- und Admin-Setup</td>
-        <td><em>Beispiel -</em> Erstellen von Marketo Engage-Benutzern und -Rollen</td>
+        <td><em>BEISPIEL -</em> Erstellen von Marketo Engage-Benutzern und -Rollen</td>
         <td bgcolor="c6f0cf">Abgeschlossen</td>
         <td>8/27/24</td>
         <td>9/15/24</td>
@@ -198,7 +198,7 @@ Sie können auch das Beispiel zum Bearbeiten und Tracking bestimmter Meilenstein
         <td bgcolor="c6f0cf">Abgeschlossen</td>
         <td>9/7/24</td>
         <td>9/12/24</td>
-        <td>Eingaben von jedem Team mithilfe von Marketo Engage zu Programmtypen und Organisationsanforderungen.</td>
+        <td>Beiträge von jedem Team, das Marketo Engage verwendet, zu Programmtypen und Organisationsanforderungen.</td>
     </tr>
     <tr>
         <td rowspan="2">CRM-Integration (falls zutreffend)</td>
@@ -235,7 +235,7 @@ Sie können auch das Beispiel zum Bearbeiten und Tracking bestimmter Meilenstein
         <td bgcolor="ffeb9c">Bearbeitung läuft</td>
         <td>11/12/24</td>
         <td>K. A.</td>
-        <td>Kreativ-Assets des digitalen Teams für E-Mails und Landingpages.</td>
+        <td>Creative Assets vom -Digitalteam für E-Mails und Landingpages.</td>
     </tr>
     <tr>    
         <td><em>BEISPIEL -</em> Programm für vierteljährlichen Newsletter erstellen</td>
@@ -266,13 +266,13 @@ Sie können auch das Beispiel zum Bearbeiten und Tracking bestimmter Meilenstein
         <td bgcolor="ffc7cf">Nicht gestartet</td>
         <td>12/2/24</td>
         <td>K. A.</td>
-        <td>Erstellen Sie ein Marketo Engage-Governance-Team, um unterstützende Governance-Dokumentationen oder Budgets zu erstellen, um das Governance-Projekt abzuschließen.</td>
+        <td>Erstellen Sie ein Marketo Engage-Governance-Team , um unterstützende Dokumentation zur Governance oder ein Budget zu erstellen, um das Governance-Projekt abzuschließen.</td>
     <tr>
         <td><em>BEISPIEL -</em> Schulung von 4 Benutzern und Bereitstellung des standardmäßigen Marketo-Benutzerzugriffs</td>
         <td bgcolor="ffc7cf">Nicht gestartet</td>
         <td>12/13/24</td>
         <td>K. A.</td>
-        <td>Unterstützung durch VP Marketing, um Schulungen für den Zugriff auf Marketo Engage verpflichtend zu machen.</td>
+        <td>Unterstützung durch VP Marketing, um Schulungen für den Zugriff auf Marketo Engage obligatorisch zu machen.</td>
     <tr>
         <td rowspan="2">Live-Schaltung</td>
         <td><em>BEISPIEL -</em> Ersten Newsletter senden</td>
@@ -294,7 +294,7 @@ Sie können auch das Beispiel zum Bearbeiten und Tracking bestimmter Meilenstein
 >[!NOTE]
 >Die angegebenen Beispiele basieren nicht auf einem echten Implementierungszeitplan. Nutzen Sie diese nicht als Standardzeitplan für Ihr Onboarding mit Marketo Engage, da jede Implementierung mit unterschiedlichen Meilensteinen und Anforderungen entsprechend den Anforderungen Ihres Unternehmens einzigartig ist.
 
-Wenn Sie Unterstützung bei der Implementierung und Anpassung Ihrer Marketo Engage für Ihre Instanz benötigen, wenden Sie sich an das Adobe-Account-Team oder wenden Sie sich an [Adobe Professional Services](https://business.adobe.com/de/customers/consulting-services/main.html){target="_blank"}.
+Wenn Sie Hilfe bei der Implementierung und Anpassung Ihrer Marketo Engage für Ihre Instanz benötigen, wenden Sie sich an das Adobe-Accountteam oder wenden Sie sich an [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ### Autor
 

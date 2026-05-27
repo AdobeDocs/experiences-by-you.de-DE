@@ -12,7 +12,7 @@ thumbnail: KT-15200.jpeg
 exl-id: 1da85e88-64b3-49e5-9bf6-76126ac9f6ad
 source-git-commit: 69fa16c1bf38604e4dabc553baee71598be83db3
 workflow-type: tm+mt
-source-wordcount: '4102'
+source-wordcount: '4166'
 ht-degree: 1%
 
 ---
@@ -60,7 +60,7 @@ Auf den ersten Blick klingen beide gleich… und bei **Treffer** Level-Segmenten
 
 ![Abbildung2-DnceVsExclude-Visit](assets/figure2-dnce-vs-exclude-visit.png)
 
-*Wie oben wird jeder Treffer innerhalb des **Besuchs**&#x200B;mit dem gleichen Wert „true/false“ ausgewertet. Der zurückgegebene Datensatz ist jedoch der des gesamten Besuchs.*
+*Wie oben wird jeder Treffer innerhalb des **Besuchs**mit dem gleichen Wert „true/false“ ausgewertet. Der zurückgegebene Datensatz ist jedoch der des gesamten Besuchs.*
 
 - Bei jedem Treffer enthält „Wert“ kein „Beispiel“ (ja), daher „true“ zurückgeben; ebenso enthält „Beispiel“ kein „Beispiel“ (nein, es enthält es), daher „false“ zurückgeben.
    - Wenn **irgendein** Treffer beim Besuch &quot;**&quot;**, wird der **gesamte Besuch** zurückgegeben.*
@@ -76,7 +76,7 @@ Auf den ersten Blick klingen beide gleich… und bei **Treffer** Level-Segmenten
 
 ![Figure3-DnceVsExclude-Visitor](assets/figure3-dnce-vs-exclude-visitor.png)
 
-*Wie oben wird jeder Treffer, der vom **Besucher**&#x200B;gemacht wird, mit derselben Logik „true/false“ ausgewertet. Jetzt sehen wir uns jedoch alle Treffer an, die dieser Besucher bei allen Besuchen (innerhalb des ausgewählten Datumsbereichs) gemacht hat.*
+*Wie oben wird jeder Treffer, der vom **Besucher**gemacht wird, mit derselben Logik „true/false“ ausgewertet. Jetzt sehen wir uns jedoch alle Treffer an, die dieser Besucher bei allen Besuchen (innerhalb des ausgewählten Datumsbereichs) gemacht hat.*
 
 - Bei jedem Treffer enthält „Wert“ kein „Beispiel“ (ja), daher „true“ zurückgeben; ebenso enthält „Beispiel“ kein „Beispiel“ (nein, es enthält es), daher „false“ zurückgeben.
    - Wenn **vom Besucher** Treffer &quot;**&quot;**, wird der **gesamte Besuch** zurückgegeben.
@@ -162,7 +162,7 @@ Der Umfang eines Containers ist unabhängig von den Eltern, wie ich oben erwähn
 
 >[!NOTE]
 >
->Adobe verfügt über Logiken, um gültige und ungültige Segmente zu verstehen. Sie bieten Ihnen keine Optionen, die *nie* funktionieren könnten. Wenn Sie also die Option sehen, einen Container mit Besucherbereich in einem Segment mit Trefferbereich zu verwenden, bedeutet dies, dass es eine gültige Option ist.
+>Adobe verfügt über Logiken, um gültige und ungültige Segmente zu verstehen. Sie würden Ihnen keine Optionen bereitstellen, die *nie* funktionieren könnten. Wenn Sie also die Option sehen, einen Container mit Besucherbereich in einem Segment mit Trefferbereich zu verwenden, bedeutet dies, dass es eine gültige Option ist.
 
 Genau wie bei einfachen Segmenten müssen Sie, wenn Sie mit der Erstellung eines komplexen Segments mit verschachtelten Containern beginnen, eine klare Vorstellung davon haben, ***Art*** Daten Sie zurückgeben möchten. ***Wie*** Sie diese Daten verwenden? ***Welche*** Metriken planen Sie, eine Kopplung mit dem Segment durchzuführen?
 
@@ -251,11 +251,11 @@ Hier vergleiche ich Treffer zu vorgestellten Angeboten/empfohlenen Inhalten, zu 
 
 ## Attributionsmodell
 
-Die Attributionsmodellierung innerhalb einer Segmentdefinition bezieht sich hauptsächlich auf Dimensionen, die keinen Trefferablauf haben, sodass Props (die immer Trefferebene sind) nicht wirklich ein guter Kandidat sind. Ihre eVars, Marketing-Kanäle usw. Diese Einstellungen sind jedoch genau auf diese Weise konzipiert.
+Die Attributionsmodellierung innerhalb einer Segmentdefinition bezieht sich hauptsächlich auf Dimensionen, die keinen Trefferablauf haben, sodass Props (die immer Trefferebene sind) nicht wirklich ein guter Kandidat sind. Ihre eVars, Marketing-Kanäle usw. sind jedoch genau das, für das diese Einstellungen entwickelt wurden.
 
 Bevor wir uns das Segment ansehen, sollten wir kurz überprüfen, wie die Attributionsmodellierung in einem einfachen Beispiel funktioniert.
 
-Angenommen, wir haben zwei eVars, von denen eine auf Ablauf des Besuchs (eVar1) und eine auf Ablauf von 30 Tagen (eVar2) eingestellt ist. Der Einfachheit halber verfolgen wir eine interne Kampagne (icid).
+Angenommen, wir verfügen über zwei eVars, von denen eine für den Ablauf des Besuchs (eVar1) und die andere für einen Ablauf von 30 Tagen (eVar2) vorgesehen ist. Der Einfachheit halber verfolgen wir eine interne Kampagne (icid).
 
 **Besuch 1**
 
@@ -264,26 +264,26 @@ Angenommen, wir haben zwei eVars, von denen eine auf Ablauf des Besuchs (eVar1) 
    - **eVar2** ist nicht festgelegt
 - Klicken Sie auf Promo-Banner mit ?icid=promo-banner in der URL
 - Seite B
-   - **eVar1** und **eVar2** sind auf „Promo-Banner“ festgelegt
+   - **eVar1** und **eVar** sind auf „Promo-Banner“ eingestellt
    - **Instanz von eVar** wird ausgelöst
    - **Instanz von eVar** wird ausgelöst
 - Seite C
-   - Sowohl **eVar1** als auch **eVar2** behalten den Wert „promo-banner“ bei
+   - Sowohl **eVar1** als auch **eVar** behalten den Wert „promo-banner“ bei
    - Keine der Instanzmetriken für die eVars wird ausgelöst, da beide eVars persistente Werte verwenden
 
 **Besuch 2**
 
 - Seite D
    - **eVar1** ist auf keinen Wert festgelegt und es wird keine **Instanz von eVar** ausgelöst
-   - **eVar2** behält den Wert für „Promo-Banner“ aufgrund des 30-tägigen Ablaufs bei
+   - **eVar2** behält den Wert „Promo-Banner“ aufgrund des 30-tägigen Ablaufs bei
    - **Instanz von eVar** wird nicht ausgelöst, da der Wert persistent und nicht tatsächlich festgelegt ist
 - Klicken Sie auf die Seitenleisten-Promotion mit ?icid=promo-side-rail in der URL
 - Seite E
-   - **eVar1** und **eVar2** sind auf „promo-side-rail“ festgelegt
+   - **eVar1** und **eVar** sind auf „promo-side-rail“ eingestellt
    - **Instanz von eVar** wird ausgelöst
    - **Instanz von eVar** wird ausgelöst
 - Seite F
-   - Sowohl **eVar1** als auch **eVar2** behalten den Wert „promo-side-rail“ bei
+   - Sowohl **eVar1** als auch **eVar** behalten den Wert „promo-side-rail“ bei
    - Keine der Instanzmetriken für die eVars wird ausgelöst, da beide eVars persistente Werte verwenden
 
 Derzeit ist das erwartete Ergebnis dieser beiden Besuche:
@@ -321,9 +321,9 @@ Sehen wir uns nun an, wo Sie die Attribution in Ihrem Segment festlegen können.
 
 *Mit dem Zahnradsymbol auf Ihrer Dimension können Sie die Attribution festlegen. Für jede Option sind Informationen verfügbar, wenn Sie den Mauszeiger über das &quot;?“ bewegen. Symbol. Im Wesentlichen:*
 
-- Das Standardverhalten gibt alle Instanzen der eVar zurück, in denen der Wert festgelegt ist (entweder speziell oder durch die festgelegte Attribution)
-- Die -Instanz gibt nur die Dimension zurück, für die der Wert explizit festgelegt ist (d. h. bei Treffern, bei denen die „Instanz von eVar&quot; ausgelöst wird).
-- Die sich nicht wiederholende Instanz gibt nur das erste Mal zurück, wenn der Wert der Dimension festgelegt wird (im obigen Beispiel also nicht behandelt, stellen Sie sich vor, der Benutzer hat mehrfach auf das Promo-Banner geklickt, dadurch wird auch die „Instanz von eVar&quot; für jedes Mal erhöht, wenn auf das Banner geklickt wird. Diese Einstellung wird nur für die erste eindeutige Instanz von „Promo-Banner“ verwendet und alle nachfolgenden Zählungen dieses Banners werden ignoriert)
+- Das Standardverhalten gibt alle Instanzen der eVar zurück, in denen der Wert festgelegt ist (entweder speziell oder über die festgelegte Attribution)
+- Die -Instanz gibt nur die Dimension zurück, für die der Wert explizit festgelegt ist (d. h. bei Treffern, bei denen die &quot;eVar-Instanz“ ausgelöst wird).
+- Die sich nicht wiederholende Instanz gibt nur das erste Mal zurück, wenn der Wert der Dimension festgelegt wird (im obigen Beispiel also nicht behandelt, stellen Sie sich vor, der Benutzer hat mehrfach auf das Promo-Banner geklickt, dadurch wird auch die &quot;eVar-Instanz“ für jedes Mal erhöht, wenn auf das Banner geklickt wird. Diese Einstellung wird nur für die erste eindeutige Instanz von „Promo-Banner“ verwendet und alle nachfolgenden Zählungen dieses Banners werden ignoriert)
 
 ### Segmentbeispiel 5: Marketing-Kanal „Paid Search“ im Vergleich zu den direkten Instanzen der Paid Search
 
@@ -335,7 +335,7 @@ Lassen Sie uns das ändern und beginnen, indem wir uns die Vergleiche ansehen, d
 
 <table style="border: 0;">
     <tr>
-        <td width="352" style="border: 0;">Die ersten vier Spalten sind nicht segmentiert und sollten leicht verständlich sein. Beachten Sie, dass *„Einträge“* im Grunde ein berechneter Wert ist, der darauf basiert, wo Besucher die Sitzung starten. Ich habe es hier hinzugefügt, um zu zeigen, dass dies nicht die Informationen zurückgibt, nach denen wir suchen, da Benutzer die Website über mehrere Marketing-Kanäle (durch die Anzeige in sozialen Medien, Suchen, Klicken auf Marketing-E-Mails usw.) betreten können. alle innerhalb desselben Besuchs/derselben Sitzung).</td> <td style="border: 0;"><img src="assets/segment-example-5/segment5a-table-comparison-detail1.png" width="352">
+        <td width="352" style="border: 0;">Die ersten vier Spalten sind nicht segmentiert und sollten leicht verständlich sein. Beachten Sie, dass *„Einträge“* im Grunde ein berechneter Wert ist, der darauf basiert, wo Besucher die Sitzung starten. Ich habe sie hier hinzugefügt, um zu zeigen, dass dies nicht die Informationen zurückgibt, nach denen wir suchen, da Benutzer über mehrere Marketing-Kanäle (durch die Anzeige in Social Media, Suchen, Klicken auf Marketing-E-Mails usw.) auf die Website zugreifen können, und zwar alle innerhalb desselben Besuchs/derselben Sitzung.</td> <td style="border: 0;"><img src="assets/segment-example-5/segment5a-table-comparison-detail1.png" width="352">
         </td>
     </tr>
 </table>
