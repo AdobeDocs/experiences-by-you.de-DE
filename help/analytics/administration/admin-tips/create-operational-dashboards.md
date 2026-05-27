@@ -49,7 +49,7 @@ Lassen Sie mich Ihnen die drei operativen Dashboards zeigen, die ich für meine 
 
 Müde von der endlosen Schleife sich wiederholender Antworten? Stopp! Sparen Sie Zeit durch die Erstellung eines häufig gestellten Dashboards. Benutzer können es vor der Anfrage einsehen oder Sie können in Ihren Antworten schnell darauf verlinken.
 
-Erstellen Sie einfach [Textvisualisierungen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/text.html) mit Fragen, die als Titel formatiert sind, und Antworten/Erklärungen als Inhalt, die alle reduziert werden, um nur die Frage anzuzeigen. Gruppieren Sie sie nach Relevanz (z. B. Seiten oder Produkte) oder verwenden Sie Bedienfelder. Halten Sie es einfach und priorisieren Sie allgemeine Abfragen am Anfang.
+Erstellen Sie einfach [Textvisualisierungen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/text.html?lang=de) mit Fragen, die als Titel formatiert sind, und Antworten/Erklärungen als Inhalt, die alle reduziert werden, um nur die Frage anzuzeigen. Gruppieren Sie sie nach Relevanz (z. B. Seiten oder Produkte) oder verwenden Sie Bedienfelder. Halten Sie es einfach und priorisieren Sie allgemeine Abfragen am Anfang.
 
 Aktualisieren Sie Ihr FAQ-Dashboard, anstatt lange E-Mails zu schreiben oder alte Erklärungen wiederzuentdecken. Beginnen Sie jetzt und erweitern Sie im Laufe der Zeit. Verwenden Sie Hyperlinks, um auf andere Dashboards oder zugehörige FAQs in Berichten zu verweisen. Stellen Sie bei Bedarf komplexen Kontext bereit, indem Sie Links von anderen Dashboards zu häufig gestellten Fragen erstellen.
 

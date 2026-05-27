@@ -28,7 +28,7 @@ In diesem Schritt-für-Schritt-Tutorial erfahren Sie, wie Sie Ihr erstes Interak
 
 Weitere Informationen finden Sie in den entsprechenden Produkthandbüchern:
 
-* [Grundlegendes zur Dokumentation von Interaktionsprogrammen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.html?lang=en)
+* [Grundlegendes zur Dokumentation von Interaktionsprogrammen](https://experienceleague.adobe.com/docs/marketo/using/product-docs/email-marketing/drip-nurturing/creating-an-engagement-program/understanding-engagement-programs.html?lang=de)
 
 Erfahren Sie von Ihren Kollegen, wie Sie Interaktionsprogramme verwenden:
 
