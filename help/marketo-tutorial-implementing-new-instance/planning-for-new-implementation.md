@@ -38,7 +38,7 @@ In diesem Tutorial gehen wir auf die spezifischen Meilensteine, Teaminteraktione
 
 ### Phase 3: Erstellung der Programmbibliothek und Einrichtung der Kampagne
 
-- Entwickeln von E-Mail-Vorlagen und Landingpages. Beginnen Sie mit [Importieren von &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program) aus der [Programm-Importbibliothek](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview).
+- Entwickeln von E-Mail-Vorlagen und Landingpages. Beginnen Sie mit [Importieren von &#x200B;](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program) aus der [Programm-Importbibliothek](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview).
 - Einrichten von Segmentierungs- und Personalization-Regeln
 - Erstellen erster Kampagnen für die Lead-Generierung und -Pflege
 
@@ -294,7 +294,7 @@ Sie können auch das Beispiel zum Bearbeiten und Tracking bestimmter Meilenstein
 >[!NOTE]
 >Die angegebenen Beispiele basieren nicht auf einem echten Implementierungszeitplan. Nutzen Sie diese nicht als Standardzeitplan für Ihr Onboarding mit Marketo Engage, da jede Implementierung mit unterschiedlichen Meilensteinen und Anforderungen entsprechend den Anforderungen Ihres Unternehmens einzigartig ist.
 
-Wenn Sie Hilfe bei der Implementierung und Anpassung Ihrer Marketo Engage für Ihre Instanz benötigen, wenden Sie sich an das Adobe-Accountteam oder wenden Sie sich an [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
+Wenn Sie Hilfe bei der Implementierung und Anpassung Ihrer Marketo Engage für Ihre Instanz benötigen, wenden Sie sich an das Adobe-Accountteam oder wenden Sie sich an [Adobe Professional Services](https://business.adobe.com/de/customers/consulting-services/main.html){target="_blank"}.
 
 ### Autor
 
