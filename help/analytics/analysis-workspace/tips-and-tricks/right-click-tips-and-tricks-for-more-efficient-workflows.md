@@ -11,7 +11,7 @@ kt: KT-13087
 exl-id: 2bd7a828-5bb0-43bf-8802-310edd444d62
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
-source-wordcount: '922'
+source-wordcount: '936'
 ht-degree: 0%
 
 ---
@@ -34,7 +34,7 @@ Diese Anmerkung wird dann in Ihren Visualisierungen und Tabellen mit allen von I
 
 ## Tipp #2: Trenddaten für Trichter und Flussberichte
 
-Trichterberichte (Fallout-Berichte) eignen sich hervorragend, wenn Benutzer mehrere Seiten oder Ereignisse durchlaufen. Aber man kann auch einen Trend für diese Abfolge von Ereignissen im Laufe der Zeit feststellen. Dies können Sie ganz einfach tun, indem Sie mit der rechten Maustaste auf eine beliebige Trichterebene klicken und alle Touchpoints oder einen bestimmten Touchpoint in ein Liniendiagramm umwandeln. Dies ist nach % oder nach der Rohanzahl der Besuche oder Besucher möglich.
+Funnel-Berichte (Fallout-Berichte) eignen sich hervorragend, wenn Sie mehrere Seiten oder Ereignisse durchgehen. Aber man kann auch einen Trend für diese Abfolge von Ereignissen im Laufe der Zeit feststellen. Sie können dies einfach tun, indem Sie mit der rechten Maustaste auf eine beliebige Ebene der funnel klicken und alle Touchpoints oder einen bestimmten Touchpoint in ein Liniendiagramm trenden. Dies ist nach % oder nach der Rohanzahl der Besuche oder Besucher möglich.
 
 Dies können Sie auch in Flussberichten tun, indem Sie mit der rechten Maustaste auf einen bestimmten Pfad klicken und „Trend“ auswählen.
 

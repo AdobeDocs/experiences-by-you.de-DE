@@ -14,7 +14,7 @@ thumbnail: KT-13829.jpeg
 exl-id: 8df9e88f-e564-4a8e-b624-026c873d3f19
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
-source-wordcount: '1132'
+source-wordcount: '1145'
 ht-degree: 0%
 
 ---
@@ -28,11 +28,11 @@ Wie viele Administratoren betreibe ich einen internen Info-Hub (Confluence oder 
 
 Mir fiel auf, dass Benutzer meine Verweise auf die Confluence-Website oft ignorierten, z. B. mit Gründen wie „Mein VPN ist ausgeschaltet“ oder „Ich kann es jetzt nicht lesen“. Grundsätzlich bedeutet „Ich werde das Dokument später lesen“, dass es nie gelesen wird und die gleiche Frage wird nächste Woche wieder gestellt werden.
 
-***Der Realisierungserfolg:**&#x200B;Vielseitigkeit von Workspace könnte alles verändern. Anwender bevorzugen schnelle, direkte Antworten innerhalb von Workspace. Lassen Sie sie also dort bleiben, um zusätzliche Schritte zu vermeiden.*
+***Der Realisierungserfolg:**Vielseitigkeit von Workspace könnte alles verändern. Anwender bevorzugen schnelle, direkte Antworten innerhalb von Workspace. Lassen Sie sie also dort bleiben, um zusätzliche Schritte zu vermeiden.*
 
 Ich habe daraufhin betriebliche Dashboards erstellt, um unternehmensweit freizugeben. Bisher haben sie die Nutzer informiert, zentralisiert informiert und die Frustration verringert. Dies ist ein einfacher, sich entwickelnder Prozess, der die Effizienz im Laufe der Zeit steigert.
 
-Die Menschen haben es geschafft, viele gute Informationen ohne mich zu erhalten, Bereiche der Website zu verstehen, zu sehen, wie cool [!DNL Adobe Analytics] ist, und (wichtig für mich ??) stellen Sie mir weniger Fragen und nehmen weniger Zeit.
+Die Menschen haben es geschafft, viele gute Informationen ohne mich zu erhalten, Bereiche der Website zu verstehen, zu sehen, wie cool [!DNL Adobe Analytics] ist, und (wichtig für mich 😊) stellen Sie mir weniger Fragen und nehmen weniger Zeit.
 
 **Es wird dringend empfohlen, Dashboards für alle Eigenschaften oder Hauptbereiche Ihrer Site zu erstellen.** Sie sollten einen Überblick über die Eigenschaft/Site/App/den Fluss geben und über grundlegende Informationen und schnelle Einblicke verfügen. Sie sollten für das gesamte Unternehmen freigegeben werden, sodass alle Benutzer ein Verständnis der Eigenschaft ohne Handhabe erhalten. Für mich beantworten diese Dashboards in der Regel 80% der Fragen, die ich bekomme, und sparen mir wertvolle Zeit.
 
@@ -45,11 +45,11 @@ Lassen Sie mich Ihnen die drei operativen Dashboards zeigen, die ich für meine 
 1. Protokolle zu Fehlern, Funktionen und Hauptversionen
 
 
-## 1. FAQ-Dashboard
+## &#x200B;1. FAQ-Dashboard
 
 Müde von der endlosen Schleife sich wiederholender Antworten? Stopp! Sparen Sie Zeit durch die Erstellung eines häufig gestellten Dashboards. Benutzer können es vor der Anfrage einsehen oder Sie können in Ihren Antworten schnell darauf verlinken.
 
-Erstellen Sie einfach [Textvisualisierungen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/text.html?lang=de) mit Fragen, die als Titel formatiert sind, und Antworten/Erklärungen als Inhalt, die alle reduziert werden, um nur die Frage anzuzeigen. Gruppieren Sie sie nach Relevanz (z. B. Seiten oder Produkte) oder verwenden Sie Bedienfelder. Halten Sie es einfach und priorisieren Sie allgemeine Abfragen am Anfang.
+Erstellen Sie einfach [Textvisualisierungen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/text.html) mit Fragen, die als Titel formatiert sind, und Antworten/Erklärungen als Inhalt, die alle reduziert werden, um nur die Frage anzuzeigen. Gruppieren Sie sie nach Relevanz (z. B. Seiten oder Produkte) oder verwenden Sie Bedienfelder. Halten Sie es einfach und priorisieren Sie allgemeine Abfragen am Anfang.
 
 Aktualisieren Sie Ihr FAQ-Dashboard, anstatt lange E-Mails zu schreiben oder alte Erklärungen wiederzuentdecken. Beginnen Sie jetzt und erweitern Sie im Laufe der Zeit. Verwenden Sie Hyperlinks, um auf andere Dashboards oder zugehörige FAQs in Berichten zu verweisen. Stellen Sie bei Bedarf komplexen Kontext bereit, indem Sie Links von anderen Dashboards zu häufig gestellten Fragen erstellen.
 
@@ -67,7 +67,7 @@ Im Folgenden finden Sie einige Screenshots dazu, wie ein häufig gestelltes Dash
 
 ![Häufig gestellte Fragen zum Tracking von Downloads](assets/track-downloads-faq.png)
 
-## 2. Dashboard für Nachrichten und Ankündigungen
+## &#x200B;2. Dashboard für Nachrichten und Ankündigungen
 
 Ein weiteres nützliches operatives Dashboard ist ein Dashboard für Nachrichten und Ankündigungen. Ich habe dieses Programm gestartet, weil ich Informationen an meine User weitergeben wollte, aber ich hatte das Gefühl, stattdessen habe ich sie gepingt und genervt. Braucht jeder dieses Update? Welche Benutzer? Nur Power-User? Sollte ich einen wöchentlichen Newsletter versenden, den niemand lesen wird? Wenn Sie das Update stattdessen direkt in Workspace haben, können Benutzer es sehen, sobald sie sich anmelden, und ich muss keine weitere Unternehmens-E-Mail versenden, die niemand lesen möchte.
 
@@ -84,7 +84,7 @@ So sieht mein Nachrichten- und Ankündigungs-Dashboard aus:
 
 ![Screenshot 2](assets/screenshot-2.png)
 
-## 3. Protokoll zu Bugs, Features und Hauptversionen
+## &#x200B;3. Protokoll zu Bugs, Features und Hauptversionen
 
 Das Ziel dieses operativen Dashboards ist es, einen zentralen Ort für alle Fehler und Fehler zu haben. Früher habe ich das in Excel verwaltet, aber es war mühsam und schwer zu teilen. Warum nicht direkt in Workspace?
 

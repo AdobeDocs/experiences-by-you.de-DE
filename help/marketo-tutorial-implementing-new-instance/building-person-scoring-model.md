@@ -12,7 +12,7 @@ thumbnail: KT-14810.jpeg
 exl-id: 73976144-f02b-4423-9b4b-410330117ba9
 source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
-source-wordcount: '2055'
+source-wordcount: '2148'
 ht-degree: 2%
 
 ---
@@ -21,13 +21,13 @@ ht-degree: 2%
 
 Mit der Personenbewertung können Sie die Personen identifizieren, die mit Ihrem Unternehmen am meisten interagieren und Ihr ideales Kundenprofil sind, damit Sie diese Leads mit Ihrem Verkaufsteam teilen und Angebote abschließen können! Zusammen mit dem Vertrieb bestimmen Sie mithilfe eines Lead/Personen-Bewertungsprogramms in Adobe Marketo Engage, welche Leads Sie an sie weitergeben möchten. Dies kann entweder durch ein Minimum an Verhaltensbewertung, demografischer Bewertung oder beides bestimmt werden.
 
-In diesem Tutorial führen wir Sie durch drei Übungen, die von den Marketo Engage-Champions Christina Zuniga und Katja Keesom vorgeschlagen wurden. Bestimmen Sie anschließend, welche Aktivitäten und Merkmale wichtige Indikatoren sind, an deren Kauf eine Interessentin interessiert ist (Verhaltens-Scoring), und finden Sie heraus, welche für Sie am besten geeignet sind (demografisches Scoring). Berücksichtigen Sie außerdem die Feinheiten in den verschiedenen Märkten.
+In diesem Tutorial führen wir Sie durch drei von den Marketo Engage-Champions Christina Zuniga und Katja Keesom vorgeschlagene Übungen. Bestimmen Sie anschließend, welche Aktivitäten und Merkmale wichtige Indikatoren sind, an deren Kauf eine Interessentin interessiert ist (Verhaltens-Scoring), und finden Sie heraus, welche für Sie am besten geeignet sind (demografisches Scoring). Berücksichtigen Sie außerdem die Feinheiten in den verschiedenen Märkten.
 
 ## Warum sollte ein Personen-Scoring-Modell entwickelt und verwendet werden?
 
 Sie haben vielleicht viele Leads in Ihrer Datenbank, aber woher wissen Sie, welche jetzt bereit sind, Ihre Produkte und Services zu kaufen? Da Ihr Marketing-Team die Lead-Qualität und die Verkaufsbereitschaft optimieren möchte, kommt hier das Scoring-Modell ins Spiel.
 
-Wenn Sie Personen in Ihrer Marketo Engage-Datenbank bewerten, können Sie messen, wie qualifiziert Ihre generierten Leads sind, und Kriterien festlegen, nach denen sie verkaufsbereit sind. Auf diese Weise kann sich Ihr Vertriebsteam auf die Leads konzentrieren, die am wahrscheinlichsten geschlossen werden, während das Marketing-Team die anderen Personen in der Datenbank über seine Marketing-Programme weiterhin unterstützt.
+Durch die Bewertung von Personen in Ihrer Marketo Engage-Datenbank können Sie messen, wie qualifiziert Ihre generierten Leads sind, und Kriterien festlegen, nach denen sie verkaufsbereit sind. Auf diese Weise kann sich Ihr Vertriebsteam auf die Leads konzentrieren, die am wahrscheinlichsten geschlossen werden, während das Marketing-Team die anderen Personen in der Datenbank über seine Marketing-Programme weiterhin unterstützt.
 
 ## Übung 1: Ermittlung des Käuferinteresses mit Verhaltenscores
 
@@ -38,7 +38,7 @@ Die Verhaltens-Bewertung gibt nachverfolgbaren Aktionen eines potenziellen Kunde
 * Welche Aktivitäten deuten auf einen guten oder schlechten Lead hin?
 * Welche Art von Inhalten, die von einem Lead genutzt werden, haben eine stärkere Kaufabsicht?
 
-**Schritt 2** - Listet Aktionen auf, die darauf hinweisen, dass ein potenzieller Kunde nicht an Ihrem Produkt interessiert ist. Stellen Sie sicher, dass Sie Aktivitäten auflisten, die über Marketo Engage nachverfolgt werden können.
+**Schritt 2** - Listet Aktionen auf, die darauf hinweisen, dass ein potenzieller Kunde nicht an Ihrem Produkt interessiert ist. Stellen Sie sicher, dass Sie Aktivitäten auflisten, die über Marketo Engage verfolgt werden können.
 
 **Beispiel 1a - Aktivitäten, die eine Kaufabsicht anzeigen**
 
@@ -46,7 +46,7 @@ Die Verhaltens-Bewertung gibt nachverfolgbaren Aktionen eines potenziellen Kunde
 | --- | --- |
 | Preisseite besuchen | Keine Interaktion in den letzten 90 Tagen |
 | An jährlicher Kundenveranstaltung teilnehmen | Karriereseite besuchen |
-| Anmeldung zum Webinar | Abo-Stornierungen |
+| Anmeldung zum Webinar | Abmeldungen |
 | Whitepaper herunterladen |     |
 | Füllen Sie das Demoformular für Anfragen aus |     |
 
@@ -100,7 +100,7 @@ Nachdem Sie nun die Aktivitäten definiert haben, die auf Ihre Kaufabsicht hinwe
 | --- | --- |
 | Branche | Luft- und Raumfahrt, verarbeitendes Gewerbe |
 | Unternehmensgröße | 100 - 999, 1.000 - 9.999 |
-| Stellenbezeichnung | Director, Vice President, C-Level |
+| Stellenbezeichnung | Direktor, Vizepräsident, Führungsebene |
 | Abteilung | STD |
 
 **Schritt 2** - Weisen Sie jedem Merkmal einen Wert entsprechend seiner Relevanz in Ihrem idealen Interessentenprofil zu. Verwenden Sie positive Werte für wünschenswerte Eigenschaften und negative Werte für Eigenschaften, die den Lead weniger gut für Ihr Produkt geeignet machen.
@@ -119,7 +119,7 @@ Nachdem Sie nun die Aktivitäten definiert haben, die auf Ihre Kaufabsicht hinwe
 
 Mit den grundlegenden verhaltensbezogenen und demografischen Bewertungsmodellen, die Sie abgeschlossen haben, können Sie es auf die nächste Ebene bringen, indem Sie lokale Flexibilität zulassen. Geschäftswerte können in verschiedenen Märkten variieren, wenn ein Unternehmen global agiert. In der folgenden Übung erfahren Sie, wie Sie Scores anwenden können, um den tatsächlichen Geschäftswert der Lead-Aktivitäten oder -Merkmale in verschiedenen Situationen widerzuspiegeln.
 
-Bevorzugen Sie eine Videoeinführung für diese Übung? Melde dich als Marketo Engage-Champion an Katja Keesom zeigt, wie man lokale Flexibilität in das Scoring-Modell einbaut.
+Bevorzugen Sie eine Videoeinführung für diese Übung? Melden Sie sich an, wie Marketo Engage-Champion Katja Keesom zeigt, wie Sie lokale Flexibilität in das Scoring-Modell integrieren können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3426914/?learn=on)
 
@@ -233,8 +233,8 @@ Bevorzugen Sie eine Videoeinführung für diese Übung? Melde dich als Marketo E
 
 ## Wie geht es weiter?
 
-* Laden Sie das [Übungsblatt zur Personenbewertung](./assets/build-person-scoring-model-and-local-flexibility-in-adobe-marketo-engage.docx){target="_blank} herunter, um Ihr Bewertungsmodell offline zu entwickeln.
-* Erstellen Sie Ihre Personenbewertung in Marketo Engage. Lesen Sie dieses [Tutorial](https://experienceleague.adobe.com/de/docs/marketo-learn/tutorials/lead-and-data-management/lead-scoring-watch){target="_blank} und [Demo](https://experienceleague.adobe.com/de/docs/events/marketo-and-mochas-recordings/2023/lead-scoring){target="_blank}, um loszulegen. Sie können ein Lead/Personen-Bewertungsprogramm [Vorlage](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program){target="_blank} aus der Marketo Engage-Referenzbibliothek importieren, um die Programmerstellung zu beschleunigen.
+* Laden Sie das [Personen-Scoring-Übungsblatt](./assets/build-person-scoring-model-and-local-flexibility-in-adobe-marketo-engage.docx){target=„_blank“} herunter, um Ihr Scoring-Modell offline zu entwickeln.
+* Erstellen Sie Ihr Personen-Scoring in Marketo Engage. Sehen Sie sich dieses [Tutorial](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/lead-and-data-management/lead-scoring-watch){target=„_blank} und [demo](https://experienceleague.adobe.com/en/docs/events/marketo-and-mochas-recordings/2023/lead-scoring){target=„_blank} an, um zu beginnen. Sie können ein Lead/Personen-Scoring-Programm [Vorlage](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program){target=„_blank} aus der Marketo Engage-Referenzbibliothek importieren, um die Erstellung des Programms zu beschleunigen.
 * Erstellen Sie zwei Versionen des Scoring-Programms:
    * Ein zentrales Programm, das die gesamte Bewertung ausführt, die nicht lokal aktualisiert werden kann.
    * Eine lokale Kopie mit den konfigurierbaren Bewertungselementen.
@@ -244,8 +244,8 @@ Bevorzugen Sie eine Videoeinführung für diese Übung? Melde dich als Marketo E
    * Legen Sie fest, welche demografischen und verhaltensbezogenen Aktivitäten nur einmal bewertet werden sollen (d. h. die Branche) und welche jedes Mal bewertet werden sollen, wenn sich ein potenzieller Kunde qualifiziert (d. h. an einem Webinar teilgenommen hat). Dadurch wird sichergestellt, dass potenzielle Kontakte, die durch die Datenwertänderung ausgelöst werden, für den Verkauf relevant sind.
    * Achten Sie darauf, dass sich Ihre Auswahl gegenseitig ausschließt.
    * Nehmen Sie in beiden Flussschritten Aktualisierungen vor, damit der Personenwert auf die gleiche Weise wie der demografische Wert aktualisiert wird. Auf diese Weise bleibt die Personenbewertung auf einer Linie mit der Kombination aus Verhaltensbewertung und demografischem Wert.
-* Testen Sie die intelligente Kampagne, sobald Sie die Erstellung Ihres Programms abgeschlossen haben. Gehen Sie beispielsweise zu Ihrem Demoformular, füllen Sie es mit einer Test-E-Mail aus und überprüfen Sie das Ergebnis Ihrer Testperson in der [Marketo Engage-Datenbank](https://experienceleague.adobe.com/de/docs/marketo/using/getting-started-with-marketo/quick-wins/simple-scoring#step-view-the-person-info){target="_blank}.
-* Nachdem Sie Ihr Modell erstellt haben, sollten Sie einen Warnhinweis einrichten, der an den Verkauf gesendet wird, sobald die Punktzahl der Person Ihren Schwellenwert für die Übergabe des Verkaufs erreicht hat. Weitere Informationen zum Einrichten eines Warnhinweises finden Sie in diesem [Tutorial](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert){target="_blank}.
+* Testen Sie die intelligente Kampagne, sobald Sie die Erstellung Ihres Programms abgeschlossen haben. Wechseln Sie beispielsweise zu Ihrem Demoformular, füllen Sie es mit einer Test-E-Mail aus und überprüfen Sie das Ergebnis Ihrer Testperson in der [Marketo Engage-Datenbank](https://experienceleague.adobe.com/en/docs/marketo/using/getting-started-with-marketo/quick-wins/simple-scoring#step-view-the-person-info){target=„_blank}.
+* Nachdem Sie Ihr Modell erstellt haben, sollten Sie einen Warnhinweis einrichten, der an den Verkauf gesendet wird, sobald die Punktzahl der Person Ihren Schwellenwert für die Übergabe des Verkaufs erreicht hat. Weitere Informationen zum Einrichten eines Warnhinweises finden Sie in diesem [Tutorial](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/smart-campaigns/flow-actions/send-alert){target=„_blank}.
 
 ### Autoren
 

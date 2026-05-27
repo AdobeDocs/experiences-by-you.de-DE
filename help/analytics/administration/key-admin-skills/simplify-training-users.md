@@ -13,14 +13,14 @@ kt: 9779
 exl-id: 9ceef641-3509-4e5e-8c44-bc76502e389b
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
-source-wordcount: '885'
+source-wordcount: '903'
 ht-degree: 0%
 
 ---
 
 # Tipps und Tricks dazu, wie Sie die Einarbeitung von Benutzern vereinfachen und verkürzen können
 
->[!VIDEO](https://video.tv.adobe.com/v/341102/?quality=12&learn=on&captions=ger)
+>[!VIDEO](https://video.tv.adobe.com/v/340458/?quality=12&learn=on)
 
 Entscheidend für den Aufbau einer Kultur datengestützter Entscheidungsfindung ist es, sicherzustellen, dass die Geschäftsanwender in Ihrem Unternehmen über gut geschulte [!DNL Adobe Analytics] verfügen. Benutzer, die in [!DNL Adobe Analytics] leicht Informationen finden können, können einfache Geschäftsfragen selbst beantworten, sodass Analysten mehr Zeit für die Beantwortung herausfordernder Geschäftsfragen haben. Die Weitergabe Ihres Wissens trägt zur Förderung der Datendemokratie bei und ermöglicht es Geschäftsbenutzern, bei leistungsbasierten Entscheidungen unabhängiger zu sein.
 
@@ -53,7 +53,7 @@ Natürlich deckt eine Standard-Basisschulung nicht alle Fragen und jeden Anwendu
 * Zeichnen Sie auch diese Sitzungen auf und stellen Sie sie einzeln beim Erstellen der neuen Inhalte zur Verfügung.
 * Wenn Ihre Implementierung wächst und sich weiterentwickelt, müssen Sie Ihre Schulungssitzungen gelegentlich aktualisieren, um die Inhalte auf dem neuesten Stand zu halten.
 * Je nachdem, wie Ihre Implementierung und Ihr Unternehmen strukturiert sind, kann es wichtig sein, Schulungen für eine bestimmte Abteilung oder Gruppe zu erstellen, z. B. Schulungen für eine IT-Abteilung zur Verwendung von Browsern und Betriebssystemen, Demonstration von Warnhinweisen zur Verfügbarkeit von Websites oder Schulungen für eine Marketing-Abteilung zu Referrern, Marketing-Kanälen und meistbesuchten Inhaltsseiten.
-* Sie müssen nicht alle Inhalte selbst erstellen. [!DNL Adobe] bietet einige hervorragende kostenlose Lernpfade und zusätzliche Schulungsinhalte, die Sie Ihren Benutzern innerhalb von [[!DNL Adobe] Experience League anbieten &#x200B;](https://experienceleague.adobe.com/docs/analytics.html?lang=de).
+* Sie müssen nicht alle Inhalte selbst erstellen. [!DNL Adobe] bietet einige hervorragende kostenlose Lernpfade und zusätzliche Schulungsinhalte, die Sie Ihren Benutzern innerhalb von [[!DNL Adobe] Experience League anbieten ](https://experienceleague.adobe.com/docs/analytics.html?lang=de).
 
 
 

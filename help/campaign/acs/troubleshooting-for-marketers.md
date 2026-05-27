@@ -13,7 +13,7 @@ thumbnail: KT-13256.jpeg
 exl-id: 1f27e284-73e3-4f28-988e-51163775eec8
 source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
 workflow-type: tm+mt
-source-wordcount: '711'
+source-wordcount: '740'
 ht-degree: 2%
 
 ---
@@ -59,7 +59,7 @@ Siehe den Screenshot für die Aktivität „Abstimmung“, wie unten dargestellt
 
 ![Workflow mit Abstimmdetails](/help/_assets/kt-13256/del-persn-error-wf-solution.png)
 
-Weitere Informationen über [Abstimmung](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation.html?lang=de).
+Weitere Informationen über [Abstimmung](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation.html?lang=en).
 
 ## Fehler bei gemeinsamem Feld-Datensatz
 
@@ -83,7 +83,7 @@ Es gibt zwei Möglichkeiten, diesen Fehler zu beheben:
 
 2. Verwenden Sie die JOIN-Ausschlussmethode, um das Feld auszuwählen, auf dessen Grundlage Sie die Datensätze ausschließen möchten.
 
-![Datensatzfehler im allgemeinen Feld - Lösung &#x200B;](/help/_assets/kt-13256/dataset-error-solution.png)
+![Datensatzfehler im allgemeinen Feld - Lösung ](/help/_assets/kt-13256/dataset-error-solution.png)
 
 ## Fehler beim Löschen des Feldnamens
 
@@ -116,7 +116,7 @@ Sie können diesen Fehler auf drei Arten beheben:
 **Ursache:**
 Dies ist ein häufiger Fehler in komplizierten Workflows, bei denen es um Anreicherung oder andere Aktivitäten geht. Dies bedeutet wahrscheinlich, dass einige der Aktivitäts-Workflows bei mehreren Änderungen am Workflow nicht korrekt gespeichert werden.
 
-![Fehler beim Löschen der temporären Tabelle &#x200B;](/help/_assets/kt-13256/temp-table-dropped-error.png)
+![Fehler beim Löschen der temporären Tabelle ](/help/_assets/kt-13256/temp-table-dropped-error.png)
 
 **Lösung:**
 Es gibt viele Möglichkeiten, wie dieser Fehler auftreten kann, sodass es keine einfache Lösung gibt. Wenn es sich um einen einfachen Workflow handelt, ist es besser, die Aktivität neu zu konfigurieren. In einem komplizierten Workflow ist es besser, die Workflow-Aktivitäten in einen neuen Workflow zu kopieren, zu speichern und erneut auszuführen.

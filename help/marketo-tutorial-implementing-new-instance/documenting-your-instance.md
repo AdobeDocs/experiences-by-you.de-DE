@@ -1,6 +1,6 @@
 ---
 title: Erste Schritte mit Instanz-Governance und Dokumentation
-description: Lernen Sie die wichtigsten Strategien und Best Practices für die ersten Schritte mit der Marketo Engage-Governance und -Dokumentation kennen. Erfahren Sie, wie Sie eine skalierbare Dokumentation erstellen, die Benutzerschulung optimieren und sicherstellen können, dass Sie in Ihrer Marketo Engage-Instanz eine Struktur erstellen.
+description: Lernen Sie die wichtigsten Strategien und Best Practices für die ersten Schritte mit der Governance und Dokumentation für Marketo Engage kennen. Erfahren Sie, wie Sie eine skalierbare Dokumentation erstellen, die Benutzerschulung optimieren und sicherstellen können, dass Sie in Ihrer Marketo Engage-Instanz eine Struktur erstellen.
 role: Admin
 level: Beginner
 doc-type: Article
@@ -12,31 +12,31 @@ thumbnail: KT-14815.jpeg
 exl-id: b3dd05e1-c522-4631-a6b4-c0c6309f25d3
 source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
-source-wordcount: '815'
+source-wordcount: '862'
 ht-degree: 0%
 
 ---
 
 # Erste Schritte mit Instanz-Governance und Dokumentation
 
-Eine gute Dokumentation kann fast so wichtig sein wie die eigentliche Instanzimplementierung selbst. Ein Governance-Handbuch ist eine wichtige Ressource, die Details zur Einrichtung Ihrer Marketo Engage-Instanz skizziert und Themen wie Programm-/Ordnerstrukturen, Kommunikationsbeschränkungen und mehr behandelt. Dieses Live-Dokument ist eine Referenz für Ihre Marketo Engage-Admin oder Power-User und zeigt spezifische Best Practices und Steuerungsstandards auf, die auf Ihre Marketo Engage-Instanz und Ihr Unternehmen zugeschnitten sind.
+Eine gute Dokumentation kann fast so wichtig sein wie die eigentliche Instanzimplementierung selbst. Ein Governance-Handbuch ist eine wichtige Ressource, die die Einrichtungsdetails Ihrer Marketo Engage-Instanz skizziert und Themen wie Programm-/Ordnerstrukturen, Kommunikationsbeschränkungen und mehr behandelt. Dieses aktuelle Dokument ist eine Referenz für Ihre Marketo Engage-Admins oder Hauptbenutzer und zeigt spezifische Best Practices und Steuerungsstandards auf, die auf Ihre Marketo Engage-Instanz und -Organisation zugeschnitten sind.
 
-Aber damit nicht genug. Ihr Team benötigt möglicherweise zusätzliche Aktivierungsdokumente oder Schulungsmaterialien, um seine Kenntnisse im Marketo Engage zu verbessern. Zu diesen Ressourcen können interaktive Übungen, Quiz-Tests für den Zugriff oder Richtlinien für zulässige Aktionen innerhalb von Marketo Engage gehören, die allen Marketo Engage-Anwendern in Ihrem Unternehmen zugute kommen. Ob es um die Erstellung eines umfassenden Governance-Handbuchs oder die anfängliche Dokumentation wichtiger Einrichtungsaspekte geht: Die Aufzeichnung von Entscheidungen, die beim Onboarding getroffen wurden, ist der Schlüssel zum Erfolg beim Marketo Engage für Ihr aktuelles Team und zukünftige Generationen neuer Mitarbeiter.
+Aber damit nicht genug. Ihr Team benötigt möglicherweise zusätzliche Aktivierungsdokumente oder Schulungsmaterialien, um seine Kenntnisse in Marketo Engage zu verbessern. Zu diesen Ressourcen können interaktive Übungen, Quizfragen für den Zugriff oder Richtlinien für zulässige Aktionen innerhalb von Marketo Engage gehören, von denen alle Marketo Engage-Benutzenden in Ihrem Unternehmen profitieren. Ob es um die Erstellung eines umfassenden Governance-Handbuchs geht oder um die anfängliche Dokumentation wichtiger Einrichtungsaspekte: Die Aufzeichnung von Entscheidungen, die während des Onboarding getroffen wurden, ist der Schlüssel, um den Erfolg von Marketo Engage für Ihr aktuelles Team und zukünftige Generationen von Neueinstellungen sicherzustellen.
 
-Um die Bedeutung der Dokumentation und Governance zu verstehen, werden in diesem Tutorial die Best Practices behandelt, die von [&#x200B; stammen (Erste Schritte mit Ihrer Marketo Engage-Governance- und Schulungsdokumentation](https://nation.marketo.com/t5/product-blogs/getting-started-on-your-marketo-governance-and-training/ba-p/242421){target="_blank} und [Wie dokumentieren Sie Ihre Instanz?](https://nation.marketo.com/t5/product-discussions/how-do-you-document-your-instance/td-p/72877){target="_blank}, um Sie bei der Einrichtung eines Prozesses zu unterstützen und die Dokumentation zu führen, die für Ihre internen Benutzer relevant ist.
+Um die Bedeutung der Dokumentation und Governance zu verstehen, bietet dieses Tutorial einen Einblick in die Best Practices, die Sie von [ erhalten haben (Erste Schritte mit der Dokumentation zu Marketo Engage-Governance und -Schulungen](https://nation.marketo.com/t5/product-blogs/getting-started-on-your-marketo-governance-and-training/ba-p/242421){target=„_blank} und [Wie dokumentieren Sie Ihre Instanz?](https://nation.marketo.com/t5/product-discussions/how-do-you-document-your-instance/td-p/72877){target=„_blank“}, damit Sie einen Prozess einrichten und die Dokumentation für Ihre internen Anwender behalten können.
 
 ## Warum die Dokumentation von Änderungen und Entscheidungen während der Implementierung der Instanz wichtig ist
 
-Wenden Sie sich an Ihre Marketo Engage-Dokumentation, als würden Sie einen neuen Mitarbeiter, der mit der Technologie nicht vertraut ist, zum Onboarding in die Instanz leiten. Es ist leicht, Grundlagenkenntnisse zu übersehen, sobald Sie Erfahrung mit Marketo Engage gesammelt haben. Als Administrator sollten Sie sicherstellen, dass Ihre Aktivierungs- und Governance-Dokumente für Anfänger geeignet sind. Um das Lernen neuer Benutzer zu erleichtern, ist es eine praktische Methode, Definitionen und Best Practices direkt in Ihre Schulungsmaterialien zu integrieren.
+Wenden Sie sich an Ihre Marketo Engage-Dokumentation, als würden Sie einen neuen Mitarbeiter, der mit der Technologie nicht vertraut ist, zum Onboarding in die Instanz leiten. Es ist einfach, Grundlagenkenntnisse zu übersehen, sobald Sie Erfahrungen mit Marketo Engage gesammelt haben. Als Administrator sollten Sie sicherstellen, dass Ihre Aktivierungs- und Governance-Dokumente für Anfänger geeignet sind. Um das Lernen neuer Benutzer zu erleichtern, ist es eine praktische Methode, Definitionen und Best Practices direkt in Ihre Schulungsmaterialien zu integrieren.
 
 Das Erstellen der Instanzdokumentation während der Instanzeinrichtung bietet mehrere Vorteile:
 
 * Optimieren Sie den Schulungsprozess für neue Benutzer auf skalierbare Weise.
-* Fördern Sie die langfristige Programmentwicklung in Marketo Engage, indem Sie auf einer soliden Dokumentationsgrundlage aufbauen.
+* Erleichtern Sie die langfristige Programmentwicklung in Marketo Engage, indem Sie auf einer soliden Dokumentationsgrundlage aufbauen.
 * Pflegen Sie den Zustand und die Organisation Ihrer Instanz im Laufe der Zeit.
 * Reibungsloser Übergang für neue Marketo Engage-Administratoren bei Teamwechsel.
 
-Letztendlich hilft Ihnen das Aufschreiben der Entscheidungen, die Sie während der Implementierung treffen, und Ihrem Team, mit Marketo Engage erfolgreich zu sein, ohne auf ein oder eine Handvoll von Personen angewiesen zu sein, um die Prozesse durchzusetzen.
+Letztendlich hilft es Ihnen und Ihrem Team, die während der Implementierung getroffenen Entscheidungen aufzuschreiben, um mit Marketo Engage erfolgreich zu sein, ohne auf ein oder mehrere Personen angewiesen zu sein, um die Prozesse durchzusetzen.
 
 ## So erstellen Sie die Governance Ihrer Marketo Engage-Instanz und Dokumentation
 
@@ -46,7 +46,7 @@ Definieren Sie eine Reihe von Standards dafür, was dokumentiert werden soll und
 
 Beginnen Sie Ihren Governance- und Dokumentationsplan, indem Sie mit dem folgenden Beispiel beginnen:
 
-1. Der Zweck des Marketo Engage für unser Unternehmen
+1. Der Zweck von Marketo Engage für unser Unternehmen
 1. Zweck dieser Dokumentation
 1. Der Prozess zur Pflege/Vornahme von Änderungen am Governance-Handbuch
 1. Administrative Einrichtung
@@ -68,7 +68,7 @@ Beginnen Sie Ihren Governance- und Dokumentationsplan, indem Sie mit dem folgend
    * Lebenszyklus von Personen
    * Daten-Management
 1. Erstellen in der Marketo Engage-Instanz
-   * [Kompetenzzentrum (COE)](https://business.adobe.com/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself){target="_blank}
+   * [Center of Excellence (COE)](https://business.adobe.com/blog/perspectives/center-of-excellence-top-10-questions-to-ask-yourself){target=„_blank}
    * Ordnerstruktur
    * Benennungskonventionen
    * Programmorganisation

@@ -21,7 +21,7 @@ ht-degree: 2%
 
 # Aufbau einer gestärkten Community
 
->[!VIDEO](https://video.tv.adobe.com/v/341111/?captions=ger&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/340457/?quality=12&learn=on)
 
 Eine gestärkte Community ist durch einige charakteristische Merkmale gekennzeichnet. Zunächst einmal wird sie von ihren [!DNL Adobe Analytics]-Administratoren unterstützt. Er weiß, wie geschäftliche Anforderungen in der Implementierung dargestellt werden. Und nicht zuletzt verfügt sie über die Mittel, um Analysen auf vertrauliche Weise für datengestützte Entscheidungen zu nutzen. Viele Unternehmen profitieren von der Struktur, die eine interne [!DNL Adobe Analytics]-Benutzergruppe oder eine formellere Community bietet.
 
@@ -39,7 +39,7 @@ Sie können innerhalb Ihrer Organisation eine gestärkte Community aufbauen. So 
 
 * Grundlegendes zur Implementierung:
 
-  Als Best Practice müssen Benutzer allgemeine Kenntnisse von den geschäftlichen Anforderungen haben, die von ihrer Implementierung unterstützt werden. Diese werden in der Regel in einem [Geschäftsanforderungsdokument](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=de) (BRD) und [Referenzdokument für das Lösungs-Design](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-and-maintaining-an-sdr.html?lang=de) (SDR) erfasst. Diese Anforderungen sollten enthalten, was implementiert wurde, und die Geschäftsanforderungen, Berichte, eVars, Ereignisse usw. nach Kategorie definieren.
+  Als Best Practice müssen Benutzer allgemeine Kenntnisse von den geschäftlichen Anforderungen haben, die von ihrer Implementierung unterstützt werden. Diese werden in der Regel in einem [Geschäftsanforderungsdokument](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-a-business-requirements-document.html?lang=en) (BRD) und [Referenzdokument für das Lösungs-Design](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/implementation/implementation-basics/creating-and-maintaining-an-sdr.html?lang=en) (SDR) erfasst. Diese Anforderungen sollten enthalten, was implementiert wurde, und die Geschäftsanforderungen, Berichte, eVars, Ereignisse usw. nach Kategorie definieren.
 
 * Verwenden von Berichtsvorlagen:
 
@@ -115,4 +115,4 @@ Der Aufbau und die Pflege einer starken Community ist sehr arbeitsintensiv. Es i
 
 * Karriereentwicklung - Eine leistungsfähige Community verlagert den Fokus vieler Analyst-Teams von reaktiv und taktisch zu präskriptiv und strategisch. Dadurch eröffnen sich Karrieremöglichkeiten für das Administrations-Projektteam Ihrer Community.
 
-Wenn Sie intern eine [!DNL Adobe Analytics] Benutzergruppe oder eine formellere „Community“ haben oder daran arbeiten, eine solche Gruppe bzw. Community aufzubauen, möchten wir Ihre Story gern im [[!DNL Adobe] Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/bd-p/adobe-analytics-discussions?profile.language=de) hören!
+Wenn Sie intern eine [!DNL Adobe Analytics] Benutzergruppe oder eine formellere „Community“ haben oder daran arbeiten, eine solche Gruppe bzw. Community aufzubauen, möchten wir Ihre Story gern im [[!DNL Adobe] Experience League](https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-discussions/bd-p/adobe-analytics-discussions) hören!
