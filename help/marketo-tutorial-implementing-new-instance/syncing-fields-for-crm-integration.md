@@ -73,7 +73,7 @@ Im Allgemeinen empfiehlt es sich, nur CRM-Felder zu synchronisieren, die für Ma
    * [Veeva](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/crm-sync/veeva-crm-sync/sync-details/default-veeva-field-mapping){target="_blank"}
 
 * Bestätigen Sie, dass jedes Standardfeld in Marketo Engage mit dem Feld in Ihrem CRM übereinstimmt, mit dem Sie synchronisieren möchten. Das Feld „Abgemeldet“ in Marketo Engage könnte beispielsweise das Feld „E-Mail-Abmeldung“ in Ihrem CRM sein.
-* Passen Sie bei Bedarf den CRM-API[Namen, die Berechtigungen und den ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/custom-field-type-glossary){target="_blank"}Datentyp“ an.
+* Passen Sie bei Bedarf den CRM-API[Namen, die Berechtigungen und den &#x200B;](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/administration/field-management/custom-field-type-glossary){target="_blank"}Datentyp“ an.
 
 **Schritt 4:** Hinzufügen zusätzlicher Felder zum Datenwörterbuch
 
