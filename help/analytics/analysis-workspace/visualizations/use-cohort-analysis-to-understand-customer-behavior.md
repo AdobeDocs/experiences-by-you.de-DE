@@ -12,7 +12,7 @@ thumbnail: KT-13213.jpeg
 exl-id: 79392eea-a8b6-4ae2-98ef-6ebbd11d88a0
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
-source-wordcount: '1142'
+source-wordcount: '1151'
 ht-degree: 0%
 
 ---
@@ -133,19 +133,19 @@ Erkunden des Site-Benutzererlebnisses, um Benutzer dazu zu bringen, während des
 
 ![Kohortentabelle 4](assets/cohort4.png)
 
-## Teil 4: Kohorte mit benutzerdefinierter Dimension
+## Teil 4: Benutzerdefinierte Dimension-Kohorte
 
-Kohorte mit benutzerdefinierter Dimension: Erstellen Sie Kohorten basierend auf der ausgewählten Dimension und nicht auf zeitbasierten Kohorten (Standard). Viele Kunden möchten ihre Kohorten nach etwas anderem als der Zeit analysieren, und die neue Funktion für benutzerdefinierte Dimensionen-Kohorten bietet Ihnen die Flexibilität, Kohorten basierend auf Dimensionen ihrer Wahl zu erstellen. Verwenden Sie Dimensionen wie Marketing-Kanal, Kampagne, Produkt, Seite, Region oder jede andere Dimension in [!DNL Adobe Analytics], um zu zeigen, wie sich die Kundenbindung basierend auf den verschiedenen Werten dieser Dimensionen ändert. Die Menüauswahlmöglichkeiten für die 
+Benutzerdefinierte Dimension-Kohorte: Erstellen Sie Kohorten basierend auf der ausgewählten Dimension und nicht auf zeitbasierten Kohorten (Standard). Viele Kunden möchten ihre Kohorten nach etwas anderem als der Zeit analysieren, und die neue Funktion für benutzerdefinierte Dimension-Kohorten bietet Ihnen die Flexibilität, Kohorten basierend auf Dimensionen ihrer Wahl zu erstellen. Verwenden Sie Dimensionen wie Marketing-Kanal, Kampagne, Produkt, Seite, Region oder jede andere Dimension in [!DNL Adobe Analytics], um zu zeigen, wie sich die Kundenbindung basierend auf den verschiedenen Werten dieser Dimensionen ändert. Die Menüauswahlmöglichkeiten für die
 
-Die Definition eines Kohortensegments mit benutzerdefinierter Dimension wendet das Dimensionselement nur als Teil des Einschlusszeitraums an, nicht als Teil der Rückgabedefinition.
+Die benutzerdefinierte Segmentdefinition einer Dimension-Kohorte wendet das Dimensionselement nur als Teil des Einschlusszeitraums an, nicht als Teil der Rückgabedefinition.
 
-Nachdem Sie die Option „Kohorte mit benutzerdefinierter Dimension&quot; ausgewählt haben, können Sie die gewünschte Dimension per Drag-and-Drop in den Ablagebereich ziehen. Auf diese Weise können Sie ähnliche Dimensionselemente über denselben Zeitraum hinweg vergleichen. Beispielsweise können Sie die Leistung von Städten nebeneinander vergleichen
+Nachdem Sie die Option Benutzerdefinierte Dimension-Kohorte ausgewählt haben, können Sie die gewünschte Dimension per Drag-and-Drop in den Ablagebereich ziehen. Auf diese Weise können Sie ähnliche Dimensionselemente über denselben Zeitraum hinweg vergleichen. Beispielsweise können Sie die Leistung von Städten nebeneinander vergleichen
 
 Seite, Produkte, Kampagnen usw. Dadurch werden Ihre 14 wichtigsten Dimensionselemente zurückgegeben. Sie können jedoch einen Filter verwenden (greifen Sie darauf zu, indem Sie den Mauszeiger rechts neben der Dimension bewegen, auf die gezogen wurde), um nur die gewünschten Dimensionselemente anzuzeigen. Eine benutzerdefinierte Dimension-Kohorte kann nicht mit der Latenztabellen-Funktion verwendet werden.
 
 ### Welche Produkte treiben die Website-Klebrigkeit an?
 
-Die Kohortentabelle mit benutzerdefinierter Dimension zeigt Produkte, die zu höheren Kundenbindungsraten als der Durchschnitt führen.  Diese Tabelle hilft bei der Identifizierung Ihrer Top-Produkte, um interne und externe Marketing-Kampagnen mit Top-Aufmerksamkeit-würdigen Produkten zu fördern.
+Die benutzerdefinierte Dimension-Kohortentabelle zeigt Produkte, die zu höheren Kundenbindungsraten als der Durchschnitt führen.  Diese Tabelle hilft bei der Identifizierung Ihrer Top-Produkte, um interne und externe Marketing-Kampagnen mit Top-Aufmerksamkeit-würdigen Produkten zu fördern.
 
 **Im Februar:** 3 Produkte zeichnen sich durch höhere Kundenbindungsraten aus
 
@@ -163,7 +163,7 @@ Die Kohortentabelle mit benutzerdefinierter Dimension zeigt Produkte, die zu hö
 
 ## Zusammenfassung
 
-Die Kohortenanalyse und benutzerdefinierte Dimension sind leistungsstarke Tools, mit denen Sie das Kundenverhalten verstehen und die Digitalleistung verbessern können. Durch die Analyse der Kundenbindungsraten, Anmeldequoten und der Auswirkungen bestimmter Produkte können Unternehmen datengesteuerte Entscheidungen treffen, um das Kundenerlebnis zu verbessern und das Wachstum zu steigern.
+Kohortenanalyse und benutzerdefinierte Dimension-Kohorte sind leistungsstarke Tools, mit denen Sie das Kundenverhalten verstehen und die digitale Leistung verbessern können. Durch die Analyse der Kundenbindungsraten, Anmeldequoten und der Auswirkungen bestimmter Produkte können Unternehmen datengesteuerte Entscheidungen treffen, um das Kundenerlebnis zu verbessern und das Wachstum zu steigern.
 
 ## Autor
 

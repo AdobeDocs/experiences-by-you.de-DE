@@ -12,7 +12,7 @@ thumbnail: KT-13266.jpeg
 exl-id: 301ee179-b154-4cf2-b27e-77f38a8945a0
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
-source-wordcount: '1566'
+source-wordcount: '1572'
 ht-degree: 0%
 
 ---
@@ -27,7 +27,7 @@ Als erweiterte Funktion von [!DNL Adobe Analytics] können Sie mit berechneten M
 
 Um mit berechneten Metriken zu beginnen, sehen wir uns ein einfaches Beispiel an. Angenommen, Sie möchten verstehen, ob Online-Self-Service-Benutzer einen höheren durchschnittlichen Bestellwert (AOV) haben als anrufunterstützte Benutzer. Gehen Sie wie folgt vor, um eine berechnete Metrik zur Beantwortung dieser Frage zu erstellen:
 
-Um den Generator für berechnete Metriken zu öffnen, klicken Sie in der oberen Navigationsleiste auf → **Komponenten** → **Berechnete Metriken** → **+ Hinzufügen.** Sie können auch auf das **+-** über **Metriken** im Bedienfeld „Komponenten“ klicken.
+Um den Generator für berechnete Metriken zu öffnen, klicken Sie in der oberen Navigationsleiste auf → **Komponenten** → **Berechnete Metriken** → **+ Hinzufügen.** Alternativ können Sie im Bedienfeld „Komponenten **auf das**+ **Metriken** klicken.
 
 
 ![Kalkulation 01](assets/calc01.png) ![Kalkulation 02](assets/calc03.png) ![Kalkulation 03](assets/calc02.png)
@@ -38,11 +38,11 @@ Um den Generator für berechnete Metriken zu öffnen, klicken Sie in der oberen 
 
 Nachdem der Generator für berechnete Metriken geöffnet wurde, fügen Sie hinzu und/oder führen Sie die folgenden Schritte aus:
 
-**A.** Ein Name für Ihre berechnete Metrik. Dieser Name wird in der Komponentenliste für Metriken angezeigt. Achten Sie daher darauf, dass Sie und andere ihn klar erkennen können, z. B *„Call Center AOV*.
+**a.** Ein Name für Ihre berechnete Metrik. Dieser Name wird in der Komponentenliste für Metriken angezeigt. Achten Sie daher darauf, dass Sie und andere ihn klar erkennen können, z. B *„Call Center AOV*.
 
 **B.** Eine Beschreibung der berechneten Metrik. **Diese Beschreibung wird angezeigt, wenn Benutzer in der Komponentenliste neben** Metrik auf „i“ klicken. Vergewissern Sie sich also, dass sie informativ ist. Beispiel: Für die Call-Center-AOV können wir hinzufügen *Berechnet die AOV für Call-Center-unterstützte Bestellungen*.
 
-**C.** Das Metrikformat: Wählen Sie Dezimal, Zeit, Prozent oder Währung und fügen Sie Dezimalstellen und Polarität hinzu. Hier wählen wir *Währung für das Format, 0 für die Anzahl der Dezimalstellen und* ⬆ *Gut (Grün) für die Polarität.*
+**C.** Das Metrikformat: Wählen Sie Dezimal, Zeit, Prozent oder Währung und fügen Sie Dezimalstellen und Polarität hinzu. Hier wählen wir &quot;*&quot; für das Format, „0“ für die Anzahl der Dezimalstellen und* &quot;⬆ *(grün) für die Polarität.*
 
 **D**. Wenn Sie Tags verwenden, mit denen Sie Themen anwenden und berechnete Metriken schnell finden können, fügen Sie die Tags hinzu, die hier gelten. Wir haben Tags *AOV* und *Callcenter* hinzugefügt.
 
@@ -64,7 +64,7 @@ In unserem Beispiel sehen wir eine erhebliche Steigerung, wenn Käufer das Callc
 
 ## Verwenden von Segmenten in berechneten Metriken
 
-Sehen wir uns nun an, wie wir Segmente in berechneten Metriken verwenden können, um mehr Einblick in das Kundenverhalten, die Vorlieben und die Motivation zu erhalten. Mit Segmenten und berechneten Metriken können wir ausreichend über Kunden erfahren, um ihre Erlebnisse zu verbessern, den Umsatz zu steigern und die Kundenzufriedenheit und -loyalität zu verbessern.
+Sehen wir uns nun an, wie wir Segmente in berechneten Metriken verwenden können, um mehr insight zum Kundenverhalten, zu Kundenpräferenzen und Kundenmotivationen zu erhalten. Mit Segmenten und berechneten Metriken können wir ausreichend über Kunden erfahren, um ihre Erlebnisse zu verbessern, den Umsatz zu steigern und die Kundenzufriedenheit und -loyalität zu verbessern.
 
 Aus den obigen AOV-Beispielen wissen wir bereits, dass Callcenter-unterstützte Käufe in der Regel eine höhere AOV haben. Andere Metriken zeigen jedoch, dass die meisten Benutzer das Callcenter nicht für Käufe verwenden.
 
@@ -115,21 +115,21 @@ Diese Metriken sind jedoch nicht in allen [!DNL Adobe Analytics] verfügbar. Ber
 Nachdem Sie nun wissen, wie wertvoll berechnete Metriken sein können, werfen wir einen Blick auf einige Best Practices bei ihrer Erstellung.
 
 1. **Überprüfen Sie die Syntax Ihrer Formel.** Stellen Sie sicher, dass die Formelsyntax korrekt ist und der [!DNL Adobe Analytics] Syntax folgt, um sicherzustellen, dass Sie aussagekräftige Informationen erhalten.
-1. **Überprüfen Sie die Reihenfolge der Vorgänge.** Achten Sie darauf, Container sorgfältig zu verwenden und die Dinge in die richtige mathematische Reihenfolge der Vorgänge zu bringen.
+1. **Überprüfen Sie die Reihenfolge der Vorgänge.** Stellen Sie sicher, dass Sie Container vorsichtig verwenden und die Dinge in die richtige mathematische Reihenfolge der Vorgänge bringen.
 1. **Daten nicht doppelt zählen**. Sie können eine doppelte Zählung von Daten vermeiden, indem Sie sicherstellen, dass die in der berechneten Metrik verwendete Formel dieselben Daten nicht mehrmals zählt. Dies wird häufig durch die Kombination von *Einschließen* und *Ausschließen* in der berechneten Metrik oder durch die Verwendung von Segmenten erreicht.
-1. **Überprüfen Sie die Zeitgranularität.** Stellen Sie sicher, dass die berechnete Metrik dieselbe Zeitgranularität wie die in der Formel verwendeten Quellmetriken hat.
+1. **Zeitgranularität überprüfen.** Stellen Sie sicher, dass die berechnete Metrik dieselbe Zeitgranularität wie die in der Formel verwendeten Quellmetriken hat.
 1. **Präzise Daten verwenden** Sie erhalten nur dann wertvolle Ergebnisse, wenn Sie bei der Berechnung genaue und zuverlässige Daten verwenden.
 
 ## Best Practices für benutzerdefinierte Segmente
 
 Beachten Sie beim Erstellen von Segmenten in [!DNL Adobe Analytics] die folgenden Best Practices:
 
-1. **Einfach halten.** vermeiden Sie eine Überkomplikation des Segments. Halten Sie es so einfach wie möglich und verwenden Sie nur die Bedingungen, die für die Genauigkeit erforderlich sind.
+1. **Einfach halten.** Vermeiden Sie eine Überkomplikation des Segments. Halten Sie es so einfach wie möglich und verwenden Sie nur die Bedingungen, die für die Genauigkeit erforderlich sind.
 1. **Verwenden Sie die richtigen Container-Typen**. Stellen Sie sicher, dass Sie den richtigen Container-Typ - Besucher, Besuch oder Treffer - in der Segmentdefinition verwenden, um falsche Ergebnisse zu vermeiden.
 1. **Daten nicht doppelt zählen**. Stellen Sie wie bei berechneten Metriken sicher, dass das Segment nicht mehrmals dieselben Daten zählt. Container ein- und ausschließen können hilfreich sein.
    1. Wenn ein Include-Container verwendet wird, *er* umfasst *den gesamten Inhalt des Besuchs* wenn ein Treffer der Bedingung innerhalb des Besuchs entspricht.
    1. Wenn ein Ausschluss-Container verwendet wird, wird *der gesamte Inhalt des Besuchs ausgeschlossen* wenn ein Treffer der Bedingung innerhalb des Besuchs entspricht.
-1. **Container ordnungsgemäß**. Bestimmen Sie mithilfe des äußersten Containers, welche Daten enthalten sind, und wenden Sie dann verschachtelte Regeln auf die verbleibenden Daten an. Wenn verschachtelte Regeln angewendet werden, fungiert der Segmentfluss als Trichter, und nachfolgende Regeln gelten nicht für Treffer, die durch die erste Regel ausgeschlossen wurden.
+1. **Container ordnungsgemäß**. Bestimmen Sie mithilfe des äußersten Containers, welche Daten enthalten sind, und wenden Sie dann verschachtelte Regeln auf die verbleibenden Daten an. Wenn verschachtelte Regeln angewendet werden, fungiert der Segmentfluss als funnel, und nachfolgende Regeln gelten nicht für Treffer, die durch die erste Regel ausgeschlossen wurden.
 1. **Stellen Sie sicher, dass Ihre Daten auf dem neuesten Stand sind.** Stellen Sie sicher, dass Sie genaue und aktuelle Daten in der Segmentdefinition verwenden, um genaue Ergebnisse zu erhalten.
 1. **Testen Sie das Segment.** Testen Sie das Segment immer, um sicherzustellen, dass es wie beabsichtigt funktioniert, bevor Sie es für andere freigeben.
 1. **Betrachten Sie die Leistung.** Segmente können die Berichtsverarbeitung verlangsamen. Beachten Sie daher diese Auswirkungen beim Erstellen.
