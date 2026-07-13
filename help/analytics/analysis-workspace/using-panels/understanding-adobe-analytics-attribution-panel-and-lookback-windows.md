@@ -12,14 +12,14 @@ thumbnail: KT-13181.jpeg
 exl-id: 2a62e563-bad9-424f-94ca-2af68d4a83b5
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
-source-wordcount: '1658'
+source-wordcount: '1698'
 ht-degree: 0%
 
 ---
 
 # Grundlegendes [!DNL Adobe Analytics] Attributionsbedienfelds und Lookback-Fenster
 
-Als ich zum ersten Mal über das [Attributionsbedienfeld](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=de) und **Lookback-Fenster** nachdachte, wurde ich sofort an das Konzept der *Zeitreise“* erinnert; dann wurde ich natürlich auch an unsere typische Reaktion auf viele neue Tools wie diese erinnert, nämlich den Versuch, sie zu verwenden, einfach zu verschieben, weil sie so kompliziert aussehen.
+Als ich zum ersten Mal über das [Attributionsbedienfeld](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=en) und **Lookback-Fenster** nachdachte, wurde ich sofort an das Konzept der *Zeitreise“* erinnert; dann wurde ich natürlich auch an unsere typische Reaktion auf viele neue Tools wie diese erinnert, nämlich den Versuch, sie zu verwenden, einfach zu verschieben, weil sie so kompliziert aussehen.
 
 Ich meine, ehrlich, schauen Sie sich nur all diese Optionen, Schalter, Bedienfelder, Auslesehilfen und Regler an.  Und ernsthaft, sprechen wir über diese komplizierten Blinklichter, Schläuche, Messgeräte… WARTE!!  Dies ist nicht die Zeit, um abgelenkt zu werden, wenn wir über Zeitmaschinen sprechen, wir haben einfach nicht die Zeit… oder tun wir das?
 
@@ -44,12 +44,12 @@ Jetzt, da wir alle von Zeitreisen begeistert sind, lassen Sie uns einen tiefen A
 
 Überlegen Sie **Attribution** einfach, wie Ereignisse/Aktionen von einer Person, mehreren Personen oder einem der vielen verschiedenen Ereignisse im Laufe der Zeit verursacht werden können.
 
-Laut [[!DNL Adobe]](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/overview.html?lang=de) können *Attribution* Analysten anpassen, wie *Dimensionen*-Elemente für *Erfolgsereignisse* werden.
+Laut [[!DNL Adobe]](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/overview.html?lang=en) können *Attribution* Analysten anpassen, wie *Dimension*-Elemente für *Erfolgsereignisse“* werden.
 
 
 >[!WARNING]
 >
->Nur eine kurze Anmerkung, um darauf hinzuweisen, dass **Attributionsmodelle** so häufig mit **Marketing-Kanälen** verbunden sind, dass ich im obigen Bild absichtlich *durchgestrichen* ❷ KANAL gezeigt habe, um zu veranschaulichen, dass es möglich ist, **Attribution** Analyse für fast jede andere ***Dimension*** durchzuführen.
+>Nur eine kurze Anmerkung, um darauf hinzuweisen, dass **Attributionsmodelle** so häufig mit **Marketing-Kanälen** verbunden sind, dass ich im obigen Bild absichtlich *durchgestrichen* ❷ KANAL gezeigt habe, um zu veranschaulichen, dass es möglich ist, **Attribution** Analyse mit fast jeder anderen ***Dimension*** durchzuführen.
 
 
 Tatsächlich ist ein Journey-Vorgang eines Kunden nur selten wirklich linear und noch seltener vorhersehbar.  Mehr noch, jeder Kunde wird in seinem eigenen Tempo vorgehen; oft verdoppeln sie sich, bleiben stehen, fallen aus oder verhalten sich in anderem nichtlinearen Verhalten. Diese organischen Aktionen machen es schwierig oder praktisch unmöglich, die Auswirkungen von Marketing-Maßnahmen auf der gesamten Kunden-Journey zu kennen. Außerdem werden dadurch die Bemühungen behindert, mehrere Datenkanäle miteinander zu verbinden.
@@ -58,13 +58,13 @@ Das ist richtig.  Lassen Sie Ihre „Domino“-Analogien vor der Tür und öffne
 
 ## **Attributionsmodelle**
 
-Wenn wir das **Attributionsbedienfeld** verwenden, können wir verschiedene Dinge beobachten.  Beispielsweise zeigen uns die **Attributionsmodelle** wie unsere *Konversionen* (d. h. ❶ **Erfolgsmetriken**) auf *Treffer* in einer bestimmten Gruppe verteilt werden können.
+Wenn wir das **Attributionsbedienfeld** verwenden, können wir verschiedene Dinge beobachten.  Beispielsweise zeigen uns die **Attributionsmodelle** wie unsere *Konversionen* ❶ (d. h. **Erfolgsmetriken**) auf *Treffer* in einer bestimmten Gruppe verteilt werden können.
 
 Einfach ausgedrückt, wenn **10 Personen** einen **GROSSEN ROTEN KNOPF** drücken, um durch eine Tür zu treten, werden uns unsere **Attributionsmodelle** sagen, welche dieser **10 Personen** wir „Anerkennung“ zuweisen wollen - oder noch besser gesagt, wie *viel* „Anerkennung“ wir ihnen zuweisen wollen - für das Drücken des besagten Knopfes.
 
 ![Schaltfläche](assets/button.png)
 
-Vor diesem Hintergrund sind hier einige Beispiele, wie sich die ❸ **Attributionsmodelle** auf diese **10 Personen auswirken**:
+Vor diesem Hintergrund sind hier einige Beispiele, wie sich die ❸ **Attributionsmodelle** auf diese **10 Personen auswirken könnte**:
 
 - **First Touch**: Dieses Modell funktioniert genau so, wie es klingt, indem es **100%** die *erste* Person, die durch die Tür ging.  Marketing-Experten verwenden diesen Ansatz eher für Taktiken wie ***Social Media*** oder ***Display***. Es ist jedoch auch eine großartige Taktik, sie häufig für die Effektivität von Produktempfehlungen auf der Site zu verwenden.
 - **Letztkontakt**: Diese Taktik funktioniert auch genau so, wie sie klingt, sondern gibt stattdessen **100%** an die LETZTE Person, die durch die Tür ging.  Dieses Modell wird in der Regel verwendet, um Dinge wie ***natürliche (organische) Suche*** und andere *kurzfristige* Marketing-Zyklus-Kampagnen zu analysieren.
@@ -86,7 +86,7 @@ Vor diesem Hintergrund sind hier einige Beispiele, wie sich die ❸ **Attributio
 
 - **Benutzerdefiniert** Sie wählen aus, wer eine Gutschrift erhalten soll.  Es ist Ihre Kampagne!
 
-Weitere Informationen zu diesen und anderen Attributionsmodellen finden Sie [hier](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=de)
+Weitere Informationen zu diesen und anderen Attributionsmodellen finden Sie [hier](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=en)
 
 Um dies noch interessanter zu machen, lassen Sie uns über das Zurückdrehen der Uhr sprechen!
 
@@ -113,7 +113,7 @@ Was bedeutet das nun für uns Analysten?
 
 Das **Attributionsbedienfeld** und **Lookback-Fenster** geben uns die Möglichkeit, über die banalen Daten auf Oberflächenebene hinauszublicken und tiefer in die Kunden-Journey einzutauchen. Indem wir verstehen, welche Touchpoints die größte Auswirkung auf *Konversionen* hatten, können wir fundierte Entscheidungen über unsere Marketing-Strategien treffen und Ressourcen effektiver zuweisen.
 
-Denken Sie daran, dass Sie nach der Auswahl **Attributionsmodelle** und **Lookback-Fenster** Ihre Daten noch weiter bearbeiten können, indem Sie sie mit einem ❺ (Segment **,** oder einer anderen Komponente filtern, die Sie an dieser Stelle benötigen.  Darüber hinaus stehen Ihnen nach dem Rendern des Bedienfelds alle Funktionen einer herkömmlichen Workspace zur Verfügung.
+Denken Sie daran, dass Sie nach der Auswahl **Attributionsmodelle** und **Lookback-Fenster** ❺ Ihre Daten noch weiter bearbeiten können, indem Sie sie mit einem **Segment,** oder einer anderen Komponente, die Sie an dieser Stelle wünschen, filtern.  Darüber hinaus stehen Ihnen nach dem Rendern des Bedienfelds alle Funktionen einer herkömmlichen Workspace zur Verfügung.
 
 ## **Endlich in die Praxis umsetzen**
 
@@ -122,7 +122,7 @@ Jetzt, da Sie die Konzepte haben, stellen Sie sich vor, Sie führen eine Marketi
 Nachdem Sie nun gesehen haben, was sie kann, lassen Sie sich nicht von den scheinbar komplexen Funktionen des Attributionsbedienfelds täuschen oder einschüchtern.  **Stell dich der Sache**.  *Umarme*.  **Verstehen**.
 ABER VOR ALLEM - *Nutzen Sie es zu Ihrem Vorteil.* Das **Attributionsbedienfeld** und **Lookback-Fenster** sind die Schlüssel für ein tieferes Verständnis Ihrer Kundinnen und Kunden und deren Journey mit Ihrer Marke.
 
-Jetzt können wir mit Zuversicht &quot;[zurück in der &#x200B;](https://youtu.be/gVryJmZNFdU)&quot; reisen und die Leistung unserer vertrauenswürdigen Zeitmaschine (auch ***[!DNL Adobe Analytics]*** genannt) nutzen, um datengesteuerte Entscheidungen zu treffen.
+Jetzt können wir mit Zuversicht &quot;[zurück in der ](https://youtu.be/gVryJmZNFdU)&quot; reisen und die Leistung unserer vertrauenswürdigen Zeitmaschine (auch ***[!DNL Adobe Analytics]*** genannt) nutzen, um datengesteuerte Entscheidungen zu treffen.
 
 ## Autor
 
