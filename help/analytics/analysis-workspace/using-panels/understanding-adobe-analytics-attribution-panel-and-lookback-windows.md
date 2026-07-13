@@ -12,7 +12,7 @@ thumbnail: KT-13181.jpeg
 exl-id: 2a62e563-bad9-424f-94ca-2af68d4a83b5
 source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
 workflow-type: tm+mt
-source-wordcount: '1658'
+source-wordcount: '1698'
 ht-degree: 0%
 
 ---
@@ -44,12 +44,12 @@ Jetzt, da wir alle von Zeitreisen begeistert sind, lassen Sie uns einen tiefen A
 
 Überlegen Sie **Attribution** einfach, wie Ereignisse/Aktionen von einer Person, mehreren Personen oder einem der vielen verschiedenen Ereignisse im Laufe der Zeit verursacht werden können.
 
-Laut [[!DNL Adobe]](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/overview.html?lang=de) können *Attribution* Analysten anpassen, wie *Dimensionen*-Elemente für *Erfolgsereignisse* werden.
+Laut [[!DNL Adobe]](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/overview.html?lang=de) können *Attribution* Analysten anpassen, wie *Dimension*-Elemente für *Erfolgsereignisse“* werden.
 
 
 >[!WARNING]
 >
->Nur eine kurze Anmerkung, um darauf hinzuweisen, dass **Attributionsmodelle** so häufig mit **Marketing-Kanälen** verbunden sind, dass ich im obigen Bild absichtlich *durchgestrichen* ❷ KANAL gezeigt habe, um zu veranschaulichen, dass es möglich ist, **Attribution** Analyse für fast jede andere ***Dimension*** durchzuführen.
+>Nur eine kurze Anmerkung, um darauf hinzuweisen, dass **Attributionsmodelle** so häufig mit **Marketing-Kanälen** verbunden sind, dass ich im obigen Bild absichtlich *durchgestrichen* ❷ KANAL gezeigt habe, um zu veranschaulichen, dass es möglich ist, **Attribution** Analyse mit fast jeder anderen ***Dimension*** durchzuführen.
 
 
 Tatsächlich ist ein Journey-Vorgang eines Kunden nur selten wirklich linear und noch seltener vorhersehbar.  Mehr noch, jeder Kunde wird in seinem eigenen Tempo vorgehen; oft verdoppeln sie sich, bleiben stehen, fallen aus oder verhalten sich in anderem nichtlinearen Verhalten. Diese organischen Aktionen machen es schwierig oder praktisch unmöglich, die Auswirkungen von Marketing-Maßnahmen auf der gesamten Kunden-Journey zu kennen. Außerdem werden dadurch die Bemühungen behindert, mehrere Datenkanäle miteinander zu verbinden.
@@ -58,13 +58,13 @@ Das ist richtig.  Lassen Sie Ihre „Domino“-Analogien vor der Tür und öffne
 
 ## **Attributionsmodelle**
 
-Wenn wir das **Attributionsbedienfeld** verwenden, können wir verschiedene Dinge beobachten.  Beispielsweise zeigen uns die **Attributionsmodelle** wie unsere *Konversionen* (d. h. ❶ **Erfolgsmetriken**) auf *Treffer* in einer bestimmten Gruppe verteilt werden können.
+Wenn wir das **Attributionsbedienfeld** verwenden, können wir verschiedene Dinge beobachten.  Beispielsweise zeigen uns die **Attributionsmodelle** wie unsere *Konversionen* ❶ (d. h. **Erfolgsmetriken**) auf *Treffer* in einer bestimmten Gruppe verteilt werden können.
 
 Einfach ausgedrückt, wenn **10 Personen** einen **GROSSEN ROTEN KNOPF** drücken, um durch eine Tür zu treten, werden uns unsere **Attributionsmodelle** sagen, welche dieser **10 Personen** wir „Anerkennung“ zuweisen wollen - oder noch besser gesagt, wie *viel* „Anerkennung“ wir ihnen zuweisen wollen - für das Drücken des besagten Knopfes.
 
 ![Schaltfläche](assets/button.png)
 
-Vor diesem Hintergrund sind hier einige Beispiele, wie sich die ❸ **Attributionsmodelle** auf diese **10 Personen auswirken**:
+Vor diesem Hintergrund sind hier einige Beispiele, wie sich die ❸ **Attributionsmodelle** auf diese **10 Personen auswirken könnte**:
 
 - **First Touch**: Dieses Modell funktioniert genau so, wie es klingt, indem es **100%** die *erste* Person, die durch die Tür ging.  Marketing-Experten verwenden diesen Ansatz eher für Taktiken wie ***Social Media*** oder ***Display***. Es ist jedoch auch eine großartige Taktik, sie häufig für die Effektivität von Produktempfehlungen auf der Site zu verwenden.
 - **Letztkontakt**: Diese Taktik funktioniert auch genau so, wie sie klingt, sondern gibt stattdessen **100%** an die LETZTE Person, die durch die Tür ging.  Dieses Modell wird in der Regel verwendet, um Dinge wie ***natürliche (organische) Suche*** und andere *kurzfristige* Marketing-Zyklus-Kampagnen zu analysieren.
@@ -113,7 +113,7 @@ Was bedeutet das nun für uns Analysten?
 
 Das **Attributionsbedienfeld** und **Lookback-Fenster** geben uns die Möglichkeit, über die banalen Daten auf Oberflächenebene hinauszublicken und tiefer in die Kunden-Journey einzutauchen. Indem wir verstehen, welche Touchpoints die größte Auswirkung auf *Konversionen* hatten, können wir fundierte Entscheidungen über unsere Marketing-Strategien treffen und Ressourcen effektiver zuweisen.
 
-Denken Sie daran, dass Sie nach der Auswahl **Attributionsmodelle** und **Lookback-Fenster** Ihre Daten noch weiter bearbeiten können, indem Sie sie mit einem ❺ (Segment **,** oder einer anderen Komponente filtern, die Sie an dieser Stelle benötigen.  Darüber hinaus stehen Ihnen nach dem Rendern des Bedienfelds alle Funktionen einer herkömmlichen Workspace zur Verfügung.
+Denken Sie daran, dass Sie nach der Auswahl **Attributionsmodelle** und **Lookback-Fenster** ❺ Ihre Daten noch weiter bearbeiten können, indem Sie sie mit einem **Segment,** oder einer anderen Komponente, die Sie an dieser Stelle wünschen, filtern.  Darüber hinaus stehen Ihnen nach dem Rendern des Bedienfelds alle Funktionen einer herkömmlichen Workspace zur Verfügung.
 
 ## **Endlich in die Praxis umsetzen**
 

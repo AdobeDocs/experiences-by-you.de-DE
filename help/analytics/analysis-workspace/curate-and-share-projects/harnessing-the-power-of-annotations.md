@@ -1,5 +1,5 @@
 ---
-title: Analytische Einblicke erschließen; die Macht von Anmerkungen nutzen
+title: Ermöglichen von analytischem insight; Nutzen der Möglichkeiten von Anmerkungen
 description: Entdecken Sie die entscheidende Rolle, die Anmerkungen im Adobe Analysis Workspace spielen, und erhalten Sie praktische Tipps zur Maximierung ihrer Nutzung. Erweitern Sie Ihr Datenverständnis und Ihre Zusammenarbeit auf ein neues Niveau, indem Sie unterwegs umfassendere analytische Einblicke gewinnen.
 feature: Annotations
 role: User
@@ -12,18 +12,18 @@ thumbnail: KT-15331.jpeg
 exl-id: a7e06ac7-cc06-47e5-a4d7-834a5a7f8351
 source-git-commit: 41e1153f92ceed71831cb89c9619c375f2304194
 workflow-type: tm+mt
-source-wordcount: '682'
+source-wordcount: '716'
 ht-degree: 3%
 
 ---
 
-# Analytische Einblicke erschließen; die Macht von Anmerkungen nutzen
+# Ermöglichen von analytischem insight; Nutzen der Möglichkeiten von Anmerkungen
 
-Die Datenkomponente Anmerkungen ist eine der einfachsten, aber langfristig gesehen, eine der zeitsparendsten Funktionen, die beim Adobe von Analysis Workspace angeboten werden. Im Gegensatz zu anderen Funktionen in Workspace dient sie Ihnen und Ihren Kollegen von Workspace als erzählerischer Verlaufsspeicher.
+Die Datenkomponente „Anmerkungen“ ist eine der einfachsten, jedoch langfristig gesehen, eine der zeitsparendsten Funktionen, die in Adobe Analysis Workspace angeboten werden. Im Gegensatz zu anderen Funktionen in Workspace dient sie Ihnen und Ihren Kollegen von Workspace als erzählerischer Verlaufsspeicher.
 
 ![1stgraph](assets/1stgraph.png)
 
-Einfach ausgedrückt: Anmerkungen sind kurze Beschreibungstexte, die zu Trend-Daten in Adobe Workspace hinzugefügt werden können. Anmerkungen bieten allen Benutzern von Analysis Workspace einen Kontext, der dazu beiträgt, den Datenverlauf Ihres Unternehmens zu verstehen, die Performance schneller zu analysieren und all Ihren Berichten ein hochgradig benutzerdefiniertes Gefühl zu geben.
+Einfach ausgedrückt: Anmerkungen sind kurze Beschreibungstexte, die zu Daten mit Trendtrends in Adobe Workspace hinzugefügt werden können. Anmerkungen bieten allen Benutzern von Analysis Workspace einen Kontext, der dazu beiträgt, den Datenverlauf Ihres Unternehmens zu verstehen, die Performance schneller zu analysieren und all Ihren Berichten ein hochgradig benutzerdefiniertes Gefühl zu geben.
 
 ## Anwendungsfälle
 
@@ -31,7 +31,7 @@ Es gibt mehrere Situationen, in denen Anmerkungen besonders praktisch sind:
 
 - **Ausreißer (Spitzen und Täler)** - Wenn Sie den Grund für die Hauptspitzen und Täler von Trend-Daten kennen, klicken Sie mit der rechten Maustaste schnell auf den Ausreißer-Datenpunkt und wählen Sie „Auswahl kommentieren“, um dieses Wissen mit allen zu teilen.
 
-- **Wichtige Marketing-Kampagnen und -**: Da Marketing-Kampagnen und -Tests (A/B, Multivarianz usw.) sich direkt auf den Traffic und die Leistung auswirken können, ist es ein einfacher Vorteil für alle, den Zeitrahmen dieser Kampagnen und Tests in Anmerkungen zu dokumentieren.
+- **Wichtige Marketing-Kampagnen und -**: als Marketing-Kampagnen und -Tests (A/B, Multivarianz usw.) Sie können sich direkt auf den Traffic und die Leistung auswirken. Es ist ein einfacher Vorteil für alle, den Zeitrahmen dieser Kampagnen und Tests in Anmerkungen zu dokumentieren.
 
 - **Externe Faktoren und Ereignisse** - Bei allem, von wichtigen einmaligen Ereignissen bis hin zu Wettbewerbsaktionen, neuen Produktversionen und relevanten globalen oder nationalen Ereignissen, müssen Sie sicherstellen, dass Sie Anmerkungen alle datenrelevanten externen Faktoren hinzufügen.
 
@@ -41,10 +41,10 @@ Es gibt mehrere Situationen, in denen Anmerkungen besonders praktisch sind:
 
 Das Erstellen und Bearbeiten von Anmerkungen ist intuitiv und fast selbsterklärend. Klicken Sie entweder mit der rechten Maustaste auf einen Datenpunkt in einer Trend-Datumsvisualisierung oder Freiformtabelle und wählen Sie „Anmerkungsauswahl“, um eine Anmerkung zu erstellen, oder verwenden Sie die Hauptnavigation zu „Komponenten“ > „Anmerkungen“, um Anmerkungen zu erstellen und zu bearbeiten.
 
-![2ndImage](assets/2ndimage.png){width="70%"}![3rdimage](assets/3rdimage.png){width="30%"}
+![2ndimage](assets/2ndimage.png){width="70%"}![3rdimage](assets/3rdimage.png){width="30%"}
 
 
-Alle Details zur Funktionsweise von Anmerkungen finden Sie im [Video-Tutorial auf Experience League](https://experienceleague.adobe.com/de/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace).
+Alle Details zur Funktionsweise von Anmerkungen finden Sie im [Video-Tutorial zu Experience League](https://experienceleague.adobe.com/de/docs/analytics-learn/tutorials/analysis-workspace/navigating-workspace-projects/annotations-in-analysis-workspace).
 
 ## Tipps und Tricks für den Einstieg
 

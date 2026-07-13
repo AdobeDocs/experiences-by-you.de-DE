@@ -12,7 +12,7 @@ thumbnail: KT-14963.jpeg
 exl-id: 563941cc-30a2-45d2-8634-0bde3b539ffd
 source-git-commit: 02e3a6dfa59df45113242bd8e874e18e9e1efd58
 workflow-type: tm+mt
-source-wordcount: '1394'
+source-wordcount: '1404'
 ht-degree: 0%
 
 ---
@@ -69,7 +69,7 @@ Seien Sie ehrlich, Leute!  Wir haben alle Ausreden dafür gehört, warum sie üb
 
 ## Inhalt der Toolbox
 
-**Adobe** hat WE THE PEOPLE sogar den Dienst erwiesen, eine ausgewählte Reihe von #TAGS direkt vorkonfiguriert zu erstellen, weil, nun ja… sie uns irgendwo anfangen mussten.  Ich werde einige zusätzliche Einschränkungen in nur ein wenig, aber was ich zuerst demonstriere, wird Ihnen den größten Effekt für Ihr Geld!
+**Adobe** hat WE THE PEOPLE sogar den Dienst erwiesen, eine Reihe von #TAGS direkt vorkonfiguriert zu erstellen, weil, nun ja… sie uns irgendwo anfangen mussten.  Ich werde einige zusätzliche Einschränkungen in nur ein wenig, aber was ich zuerst demonstriere, wird Ihnen den größten Effekt für Ihr Geld!
 
 Bevor Sie eigene Tags erstellen, müssen Sie zunächst wissen, wie Sie nach vorhandenen (**)**:
 
@@ -77,7 +77,7 @@ Bevor Sie eigene Tags erstellen, müssen Sie zunächst wissen, wie Sie nach vorh
 
 Unabhängig davon, ob Sie sich in einem neuen oder vorhandenen Projekt befinden, müssen Sie nur zur Komponentensuchleiste gehen, eine #hashtag zusammen mit einem dieser Hauptbegriffe eingeben (sehen Sie sich einfach das Video an) und die EINGABETASTE drücken; oder Sie können einfach scrollen, bis Sie einen erkennbaren Begriff finden.
 
-ERSTER VORBEHALT: Beachten Sie Folgendes: Wenn Sie bei der Erstellung Ihrer *eigenen*-Tags die richtigen Benennungskonventionen einhalten, *fast jedes großgeschriebene*-Tag, das Sie sehen *sollte*, und ich bin vorsichtig mit dem Wort „sollte“, sei ein **Adobe**, vorkonfiguriertes getaggtes Element.  Das heißt, stellen Sie sicher, dass alle von Ihnen erstellten Tags **Kleinbuchstaben** sind.
+ERSTER VORBEHALT: Beachten Sie Folgendes: Wenn Sie bei der Erstellung Ihrer *eigenen*-Tags die richtigen Benennungskonventionen einhalten, *fast jedes großgeschriebene*-Tag, das Sie sehen *sollte*, und ich bin vorsichtig mit dem Wort „sollte“, sei ein vorkonfiguriertes, getaggtes **Adobe**-Element.  Das heißt, stellen Sie sicher, dass alle von Ihnen erstellten Tags **Kleinbuchstaben** sind.
 
 ## Erstellen eines eigenen persönlichen Assistenten
 
