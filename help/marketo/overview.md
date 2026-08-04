@@ -8,14 +8,14 @@ solution: Marketo Engage
 exl-id: 5145c189-cc92-4472-bf99-981b43c2c5ba
 source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '265'
 ht-degree: 16%
 
 ---
 
 # Marketo by You: Ressourcen nach Benutzern, für Benutzer.
 
-Das Wichtigste an [!DNL Adobe] Experience Cloud-Lösungen? Sie. Benutzer, die die Produkte nehmen, sich eingehend damit beschäftigen und sie auf verblüffende, innovative Weise anwenden, um bedeutsame Erfahrungen und Ergebnisse zu schaffen. „Experiences by You“ enthält Inhalte, die von alltäglichen Anwendern erstellt wurden, die mit ihren [!DNL Adobe] Experience Cloud-Lösungen ein gewisses Maß an Fachwissen und Einfluss erlangt haben. Dieses Peer-to-Peer-Wissen fördert die Zusammenarbeit und Entdeckung und ermöglicht es Ihnen - und allen anderen Anwendern -, die Inspiration zu finden, die Sie benötigen, um Ihr Produkterfahrungsniveau zu steigern.
+Das Wichtigste an [!DNL Adobe] Experience Cloud-Lösungen? Sie. Benutzer, die die Produkte nehmen, sich eingehend damit beschäftigen und sie auf verblüffende, innovative Weise anwenden, um bedeutsame Erfahrungen und Ergebnisse zu schaffen. Experience Manager by You enthält Inhalte, die von alltäglichen Benutzern erstellt wurden, die mit ihren [!DNL Adobe] Experience Cloud-Lösungen ein gewisses Maß an Fachwissen und Einfluss erlangt haben. Dieses Peer-to-Peer-Wissen fördert die Zusammenarbeit und Entdeckung und ermöglicht es Ihnen - und allen anderen Anwendern -, die Inspiration zu finden, die Sie benötigen, um Ihr Produkterfahrungsniveau zu steigern.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -32,7 +32,7 @@ Das Wichtigste an [!DNL Adobe] Experience Cloud-Lösungen? Sie. Benutzer, die di
 <tr>
   <td>
     <a href="/help/marketo/fundamentals/ui-navigation.md">
-      <img alt="Navigieren in der [!DNL Marketo Engage] Benutzeroberfläche" src="https://video.tv.adobe.com/v/3450435?captions=ger&format=jpeg" />
+      <img alt="Navigieren in der [!DNL Marketo Engage] Benutzeroberfläche" src="https://video.tv.adobe.com/v/3419131?format=jpeg" />
     </a>
     <div>
       <a href="/help/marketo/fundamentals/ui-navigation.md">
@@ -45,7 +45,7 @@ Das Wichtigste an [!DNL Adobe] Experience Cloud-Lösungen? Sie. Benutzer, die di
   </td>
   <td>
     <a href="/help/marketo/reporting/reporting-and-analytics.md">
-      <img alt="Reporting und Analysen" src="https://video.tv.adobe.com/v/3446429?captions=ger&format=jpeg" />
+      <img alt="Reporting und Analysen" src="https://video.tv.adobe.com/v/3419295?format=jpeg" />
     </a>
     <div>
       <a href="/help/marketo/reporting/reporting-and-analytics.md">
@@ -58,7 +58,7 @@ Das Wichtigste an [!DNL Adobe] Experience Cloud-Lösungen? Sie. Benutzer, die di
   </td>
   <td>
     <a href="/help/marketo/programs/email-programs.md">
-      <img alt="E-Mail-Programme" src="https://video.tv.adobe.com/v/3453376?captions=ger&format=jpeg" />
+      <img alt="E-Mail-Programme" src="https://video.tv.adobe.com/v/3419440?format=jpeg" />
     </a>
     <div>
       <a href="/help/marketo/programs/email-programs.md">
@@ -77,6 +77,6 @@ Das Wichtigste an [!DNL Adobe] Experience Cloud-Lösungen? Sie. Benutzer, die di
 ## Zusätzliche Ressourcen
 
 * [Marketo Nation (Communities)](https://nation.marketo.com/)
-* [Dokumentation zu Adobe Marketo Engage](https://experienceleague.adobe.com/docs/marketo-engage.html?lang=de)
-* [Adobe Marketo Engage-Tutorials](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html?lang=de)
-* [Adobe Marketo Engage-Produktinformationen](https://business.adobe.com/de/products/marketo/adobe-marketo.html)
+* [Dokumentation zu Adobe Marketo Engage](https://experienceleague.adobe.com/docs/marketo-engage.html)
+* [Adobe Marketo Engage-Tutorials](https://experienceleague.adobe.com/docs/marketo-learn/tutorials/overview.html)
+* [Adobe Marketo Engage-Produktinformationen](https://business.adobe.com/products/marketo/adobe-marketo.html)

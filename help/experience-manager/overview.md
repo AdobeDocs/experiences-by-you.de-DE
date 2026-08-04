@@ -8,14 +8,14 @@ solution: Experience Manager
 exl-id: f6aa9dbd-fb4f-40fa-b607-174755a1ca9f
 source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
 workflow-type: tm+mt
-source-wordcount: '188'
-ht-degree: 20%
+source-wordcount: '274'
+ht-degree: 27%
 
 ---
 
 # Experience Manager by You: Ressourcen nach Benutzern, für Benutzer.
 
-Das Wichtigste an [!DNL Adobe] Experience Cloud-Lösungen? Sie. Benutzer, die die Produkte nehmen, sich eingehend damit beschäftigen und sie auf verblüffende, innovative Weise anwenden, um bedeutsame Erfahrungen und Ergebnisse zu schaffen. „Experiences by You“ enthält Inhalte, die von alltäglichen Anwendern erstellt wurden, die mit ihren [!DNL Adobe] Experience Cloud-Lösungen ein gewisses Maß an Fachwissen und Einfluss erlangt haben. Dieses Peer-to-Peer-Wissen fördert die Zusammenarbeit und Entdeckung und ermöglicht es Ihnen - und allen anderen Anwendern -, die Inspiration zu finden, die Sie benötigen, um Ihr Produkterfahrungsniveau zu steigern.
+Das Wichtigste an [!DNL Adobe] Experience Cloud-Lösungen? Sie. Benutzer, die die Produkte nehmen, sich eingehend damit beschäftigen und sie auf verblüffende, innovative Weise anwenden, um bedeutsame Erfahrungen und Ergebnisse zu schaffen. Experience Manager by You enthält Inhalte, die von alltäglichen Benutzern erstellt wurden, die mit ihren [!DNL Adobe] Experience Cloud-Lösungen ein gewisses Maß an Fachwissen und Einfluss erlangt haben. Dieses Peer-to-Peer-Wissen fördert die Zusammenarbeit und Entdeckung und ermöglicht es Ihnen - und allen anderen Anwendern -, die Inspiration zu finden, die Sie benötigen, um Ihr Produkterfahrungsniveau zu steigern.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
@@ -58,7 +58,7 @@ Das Wichtigste an [!DNL Adobe] Experience Cloud-Lösungen? Sie. Benutzer, die di
   </td>
   <td>
     <a href="/help/experience-manager/sites/expert-resources/champion-tips-2.md">
-      <img alt="Tipps und Tricks" src="https://video.tv.adobe.com/v/3439846?captions=ger&format=jpeg" />
+      <img alt="Tipps und Tricks" src="https://video.tv.adobe.com/v/3409427?format=jpeg" />
     </a>
     <div>
       <a href="/help/experience-manager/sites/expert-resources/champion-tips-2.md">
@@ -74,9 +74,9 @@ Das Wichtigste an [!DNL Adobe] Experience Cloud-Lösungen? Sie. Benutzer, die di
 
 </div>
 
-## Weitere Ressourcen
+## Zusätzliche Ressourcen
 
 * [Experience Manager Communities](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=de)
 * [Dokumentation zu Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=de)
-* [Experience Manager-Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/aem-tutorials/overview.html?lang=de)
+* [Experience Manager-Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/aem-tutorials/overview.html)
 * [Experience Manager-Produktinformationen](https://business.adobe.com/de/products/experience-manager/adobe-experience-manager.html)

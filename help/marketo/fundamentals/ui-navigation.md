@@ -13,8 +13,8 @@ feature: Modern UX
 exl-id: b1bb3d32-bbf3-48e5-999b-102ddd501124
 source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
 workflow-type: tm+mt
-source-wordcount: '66'
-ht-degree: 27%
+source-wordcount: '90'
+ht-degree: 20%
 
 ---
 
@@ -22,11 +22,11 @@ ht-degree: 27%
 
 Erfahren Sie, wie Sie die Benutzeroberfläche navigieren, und machen Sie sich vertraut mit der [!DNL Marketo Engage]-Plattform.
 
->[!VIDEO](https://video.tv.adobe.com/v/3450435/?learn=on&captions=ger){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3419131/?learn=on){transcript=true}
 
 ## Zusätzliche Ressourcen
 
-* [[!DNL Marketo Engage] Glossar](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/marketo-glossary.html?lang=de)
+* [[!DNL Marketo Engage] Glossar](https://experienceleague.adobe.com/docs/marketo/using/getting-started-with-marketo/marketo-glossary.html?lang=en)
 Definitionen für viele Begriffe, die bei der Verwendung von Marketo auftreten können.
-* [Symbol-Glossar](https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-engage-modern-ux/icon-glossary.html?lang=de)
+* [Symbol Glossar](https://experienceleague.adobe.com/docs/marketo/using/product-docs/marketo-engage-modern-ux/icon-glossary.html?lang=en)
 Glossar der Symbole für die [!DNL Marketo Engage].

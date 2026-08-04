@@ -26,7 +26,7 @@ In diesem Tutorial werden der Denkprozess und die wichtigsten Anwendungsfälle b
 
 Besucher können Ihre Website aus einem bestimmten Grund durchsuchen. Möglicherweise suchen sie nach Inhalten zu Ihren Produkten oder Services oder suchen Kontaktinformationen, um mit Ihren Vertriebsmitarbeitern zu sprechen. Es könnten auch Ihre Kunden sein, die nach zusätzlichen Produktinformationen suchen. Der Chat ermöglicht es den Besuchern Ihrer Website, sich selbst zu bedienen und sich selbst zu qualifizieren, wenn sie bereit sind, mit Ihrem Verkaufsteam zu sprechen.
 
-Als Sara Barriuso Dynamic Chat implementierte, zeichnete sie sich durch die nahtlose Integration mit Marketo Engage und den [vordefinierten Aktivitäts-Trigger &#x200B;](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities){target="_blank"} die Marketo Engage-Programme aktivieren und umgekehrt. Sie entwickelte ihre Strategien zur konversativen Interaktion mit drei Zielgruppensegmenten:
+Als Sara Barriuso Dynamic Chat implementierte, zeichnete sie sich durch die nahtlose Integration mit Marketo Engage und den [vordefinierten Aktivitäts-Trigger ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/dynamic-chat-activities){target="_blank"} die Marketo Engage-Programme aktivieren und umgekehrt. Sie entwickelte ihre Strategien zur konversativen Interaktion mit drei Zielgruppensegmenten:
 
 1. Unbekannte Interessenten: Bieten Sie proaktiv Demo-Aufrufe an, um neue Leads zu generieren.
 2. Bekannte Leads/Kunden: Verlängern Sie die Besuchszeit für das Durchsuchen von Inhalten und bieten Sie Demo-Aufrufe an, um Upsell- und Crosssell-Möglichkeiten zu generieren.
@@ -49,7 +49,7 @@ Sehen wir uns diese Anwendungsfälle in Aktion an, während Sara ihren Prozess p
 
 Dieses Dialogfeld bietet fünf erste Optionen für Website-Besuchende, aus denen sie wählen können, sodass sie ein selbstgesteuertes Erlebnis erhalten, das ihnen hilft, die benötigten Informationen basierend auf ihrer Rolle zu finden. Zunächst sollten Sie Ihren E-Mail-Posteingang „Kontakt“ erkunden, um allgemeine Themen zu identifizieren und sie in Dialogoptionen zu kategorisieren, die für Ihre Site-Besucher gelten. Sehen Sie sich die Demo an und führen Sie die folgenden Schritte aus, um Ihr standardmäßiges Catch-All-Dialogfeld zu erstellen:
 
->[!VIDEO](https://video.tv.adobe.com/v/3453739/?captions=ger&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3429194/?learn=on)
 
 >[!BEGINTABS]
 
@@ -193,7 +193,7 @@ Erweitern der Interaktion mit Campaign-Inhalten - Konfiguration:
 
 ## Wie geht es weiter?
 
-* Ordnen Sie Ihren Gesprächsfluss in [Stream Designer](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer){target="_blank"} oder einem Flussdiagramm offline zu.
+* Ordnen Sie Ihren Gesprächsfluss in [Stream Designer](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/demand-generation/dynamic-chat/automated-chat/stream-designer){target="_blank"} oder einem Flussdiagramm offline zu.
 * Erstellen Sie in Dynamic Chat ein standardmäßiges Dialogfeld für alle Fälle.
 * Aktivieren Sie die Konversationen nach der Kampagneninteraktion mithilfe von Automatisierungs-Triggern in Marketo Engage.
 
