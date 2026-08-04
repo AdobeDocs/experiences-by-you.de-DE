@@ -78,5 +78,5 @@ Das Wichtigste an [!DNL Adobe] Experience Cloud-Lösungen? Sie. Benutzer, die di
 
 * [Experience Manager Communities](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=de)
 * [Dokumentation zu Experience Manager](https://experienceleague.adobe.com/docs/experience-manager-cloud-service.html?lang=de)
-* [Experience Manager-Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/aem-tutorials/overview.html)
+* [Experience Manager-Tutorials](https://experienceleague.adobe.com/docs/experience-manager-learn/aem-tutorials/overview.html?lang=de)
 * [Experience Manager-Produktinformationen](https://business.adobe.com/de/products/experience-manager/adobe-experience-manager.html)
