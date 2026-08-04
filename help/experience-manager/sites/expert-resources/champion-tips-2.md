@@ -19,4 +19,4 @@ ht-degree: 0%
 
 # Tipps und Tricks von AEM Champions: Sitzung 2
 
->[!VIDEO](https://video.tv.adobe.com/v/3409427?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439480?captions=ger&quality=12&learn=on)

@@ -20,4 +20,4 @@ ht-degree: 0%
 
 # Tipps und Tricks von AEM Champions: Bearbeitbare Vorlagen
 
->[!VIDEO](https://video.tv.adobe.com/v/3409424?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439846?captions=ger&quality=12&learn=on)

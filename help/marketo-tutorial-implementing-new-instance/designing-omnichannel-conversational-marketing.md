@@ -49,7 +49,7 @@ Sehen wir uns diese Anwendungsfälle in Aktion an, während Sara ihren Prozess p
 
 Dieses Dialogfeld bietet fünf erste Optionen für Website-Besuchende, aus denen sie wählen können, sodass sie ein selbstgesteuertes Erlebnis erhalten, das ihnen hilft, die benötigten Informationen basierend auf ihrer Rolle zu finden. Zunächst sollten Sie Ihren E-Mail-Posteingang „Kontakt“ erkunden, um allgemeine Themen zu identifizieren und sie in Dialogoptionen zu kategorisieren, die für Ihre Site-Besucher gelten. Sehen Sie sich die Demo an und führen Sie die folgenden Schritte aus, um Ihr standardmäßiges Catch-All-Dialogfeld zu erstellen:
 
->[!VIDEO](https://video.tv.adobe.com/v/3429194/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446484/?captions=ger&learn=on)
 
 >[!BEGINTABS]
 
@@ -86,7 +86,7 @@ Dieses Dialogfeld bietet fünf erste Optionen für Website-Besuchende, aus denen
 
 Sie können den standardmäßigen Catch-All-Dialog weiter verbessern, indem Sie branchenspezifische Inhalte integrieren, wodurch die Konversationen für Besuchende noch nützlicher werden. Schlagen Sie beispielsweise branchenspezifische Whitepapers oder Fallstudien vor, die Ihre Besucher herunterladen können. Sehen Sie sich die Demo an und führen Sie die folgenden Schritte aus, um ein standardmäßiges Sammeldialogfeld für Account-basiertes Marketing zu erstellen:
 
->[!VIDEO](https://video.tv.adobe.com/v/3429195/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3441394/?captions=ger&learn=on)
 
 >[!BEGINTABS]
 
@@ -111,7 +111,7 @@ Sie können den standardmäßigen Catch-All-Dialog weiter verbessern, indem Sie 
 
 Veranstaltungen und Webinare sind beliebte Marketing-Taktiken für B2B-Unternehmen, um Nachfrage zu generieren. Sie bieten ansprechende Erlebnisse und umfangreiche Informationen, die potenzielle Kunden anziehen. Wenn Sie Ihre Website-Besucher mit anstehenden Veranstaltungen und Webinaren verbinden, können Sie potenzielle Kunden noch schneller qualifizieren. Die Erstellung dieses Dialogfelds ist mit geringem Aufwand und geringen Kosten verbunden und kann schnell den Erfolg demonstrieren, sodass Sie Unterstützung von Marketing-Stakeholdern erhalten, um Ihrem Omni-Channel-Automatisierungsplan Gesprächsinteraktionen hinzuzufügen. Sehen Sie sich die Demo an und führen Sie die folgenden Schritte aus, um Ihr Ereignis-/Webinar-Promotion-Dialogfeld zu erstellen:
 
->[!VIDEO](https://video.tv.adobe.com/v/3429196/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445099/?captions=ger&learn=on)
 
 >[!BEGINTABS]
 
@@ -150,7 +150,7 @@ Sie können Besuchenden der Website ein noch besseres Erlebnis bieten, indem Sie
 >[!NOTE]
 >Beachten Sie das potenzielle Sicherheitsrisiko in bestimmten Schutzstaaten/Ländern und setzen Sie diese Personalisierung sorgfältig durch Beratung mit Ihrer Rechtsabteilung um.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429197/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3437098/?captions=ger&learn=on)
 
 >[!BEGINTABS]
 
@@ -173,11 +173,11 @@ Sie können Besuchenden der Website ein noch besseres Erlebnis bieten, indem Sie
 
 Stellen Sie sich ein fesselndes Schaufenster vor, das Sie ins Auge fasst und in einen Laden zieht. Wenn Ihnen ein Rezeptionist bei der Auswahl der Produkte hilft oder Ihre Fragen beantwortet, könnten Sie sich wohler fühlen, wenn Sie einen Kauf tätigen. Um dieses Erlebnis online zu replizieren, können Sie Ihr Dynamic Chat-Dialogfeld auf den Web-Seiten anzeigen lassen, auf denen Ihre Marketing-Kampagnen Besucher anleiten. Wenn Benutzende mit den Web-Inhalten interagieren, zeigt Dynamic Chat sofort relevante Unterhaltungen an, schlägt zusätzliche Inhalte vor oder adressiert potenzielle Fragen. Dies wird durch die Nutzung von Automatisierungs-Trigger erreicht, um Dynamic Chat-Kampagnen auf der Grundlage der Benutzerinteraktion innerhalb von Marketo Engage-Programmen zu aktivieren. Lassen Sie uns nun sehen, wie wir diesen Anwendungsfall zum Leben erwecken.
 
->[!VIDEO](https://video.tv.adobe.com/v/3429199/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3437588/?captions=ger&learn=on)
 
 Erweitern der Interaktion mit Campaign-Inhalten - Konfiguration:
 
->[!VIDEO](https://video.tv.adobe.com/v/3429200/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439505/?captions=ger&learn=on)
 
 >[!BEGINTABS]
 

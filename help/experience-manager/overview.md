@@ -32,7 +32,7 @@ Das Wichtigste an [!DNL Adobe] Experience Cloud-Lösungen? Sie. Benutzer, die di
 <tr>
   <td>
     <a href="/help/experience-manager/sites/expert-resources/champion-tips-1.md">
-      <img alt="Tipps und Tricks zu bearbeitbaren Vorlagen" src="https://video.tv.adobe.com/v/3409424?format=jpeg" />
+      <img alt="Tipps und Tricks zu bearbeitbaren Vorlagen" src="https://video.tv.adobe.com/v/3439846?captions=ger&format=jpeg" />
     </a>
     <div>
       <a href="/help/experience-manager/sites/expert-resources/champion-tips-1.md">
@@ -58,7 +58,7 @@ Das Wichtigste an [!DNL Adobe] Experience Cloud-Lösungen? Sie. Benutzer, die di
   </td>
   <td>
     <a href="/help/experience-manager/sites/expert-resources/champion-tips-2.md">
-      <img alt="Tipps und Tricks" src="https://video.tv.adobe.com/v/3409427?format=jpeg" />
+      <img alt="Tipps und Tricks" src="https://video.tv.adobe.com/v/3439480?captions=ger&format=jpeg" />
     </a>
     <div>
       <a href="/help/experience-manager/sites/expert-resources/champion-tips-2.md">

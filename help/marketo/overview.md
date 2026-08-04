@@ -32,7 +32,7 @@ Das Wichtigste an [!DNL Adobe] Experience Cloud-Lösungen? Sie. Benutzer, die di
 <tr>
   <td>
     <a href="/help/marketo/fundamentals/ui-navigation.md">
-      <img alt="Navigieren in der [!DNL Marketo Engage] Benutzeroberfläche" src="https://video.tv.adobe.com/v/3419131?format=jpeg" />
+      <img alt="Navigieren in der [!DNL Marketo Engage] Benutzeroberfläche" src="https://video.tv.adobe.com/v/3450435?captions=ger&format=jpeg" />
     </a>
     <div>
       <a href="/help/marketo/fundamentals/ui-navigation.md">
@@ -45,7 +45,7 @@ Das Wichtigste an [!DNL Adobe] Experience Cloud-Lösungen? Sie. Benutzer, die di
   </td>
   <td>
     <a href="/help/marketo/reporting/reporting-and-analytics.md">
-      <img alt="Reporting und Analysen" src="https://video.tv.adobe.com/v/3419295?format=jpeg" />
+      <img alt="Reporting und Analysen" src="https://video.tv.adobe.com/v/3446429?captions=ger&format=jpeg" />
     </a>
     <div>
       <a href="/help/marketo/reporting/reporting-and-analytics.md">
@@ -58,7 +58,7 @@ Das Wichtigste an [!DNL Adobe] Experience Cloud-Lösungen? Sie. Benutzer, die di
   </td>
   <td>
     <a href="/help/marketo/programs/email-programs.md">
-      <img alt="E-Mail-Programme" src="https://video.tv.adobe.com/v/3419440?format=jpeg" />
+      <img alt="E-Mail-Programme" src="https://video.tv.adobe.com/v/3453376?captions=ger&format=jpeg" />
     </a>
     <div>
       <a href="/help/marketo/programs/email-programs.md">
