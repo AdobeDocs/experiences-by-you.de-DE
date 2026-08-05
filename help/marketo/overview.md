@@ -8,14 +8,14 @@ solution: Marketo Engage
 exl-id: 5145c189-cc92-4472-bf99-981b43c2c5ba
 source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
 workflow-type: tm+mt
-source-wordcount: '228'
+source-wordcount: '265'
 ht-degree: 16%
 
 ---
 
 # Marketo by You: Ressourcen nach Benutzern, für Benutzer.
 
-Das Wichtigste an [!DNL Adobe] Experience Cloud-Lösungen? Sie. Benutzer, die die Produkte nehmen, sich eingehend damit beschäftigen und sie auf verblüffende, innovative Weise anwenden, um bedeutsame Erfahrungen und Ergebnisse zu schaffen. „Experiences by You“ enthält Inhalte, die von alltäglichen Anwendern erstellt wurden, die mit ihren [!DNL Adobe] Experience Cloud-Lösungen ein gewisses Maß an Fachwissen und Einfluss erlangt haben. Dieses Peer-to-Peer-Wissen fördert die Zusammenarbeit und Entdeckung und ermöglicht es Ihnen - und allen anderen Anwendern -, die Inspiration zu finden, die Sie benötigen, um Ihr Produkterfahrungsniveau zu steigern.
+Das Wichtigste an [!DNL Adobe] Experience Cloud-Lösungen? Sie. Benutzer, die die Produkte nehmen, sich eingehend damit beschäftigen und sie auf verblüffende, innovative Weise anwenden, um bedeutsame Erfahrungen und Ergebnisse zu schaffen. Experience Manager by You enthält Inhalte, die von alltäglichen Benutzern erstellt wurden, die mit ihren [!DNL Adobe] Experience Cloud-Lösungen ein gewisses Maß an Fachwissen und Einfluss erlangt haben. Dieses Peer-to-Peer-Wissen fördert die Zusammenarbeit und Entdeckung und ermöglicht es Ihnen - und allen anderen Anwendern -, die Inspiration zu finden, die Sie benötigen, um Ihr Produkterfahrungsniveau zu steigern.
 
 <div id="recs-overview-body-1"></div>
 <div id="recs-overview-body-2"></div>
