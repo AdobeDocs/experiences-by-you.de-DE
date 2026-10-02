@@ -4,15 +4,13 @@ description: Erfahren Sie von anderen Adobe-Kunden, wie sie Experience Cloud-Pro
 role: User, Developer, Admin
 level: Beginner
 doc-type: overview
-solution: Experience Cloud
+solution: CX Enterprise
 exl-id: a3e976a1-8bf1-4c18-b5b5-831367a7e8a0
-source-git-commit: 81b3c04ef2daedb5ddb796c5cf74da6dca85dd21
+source-git-commit: 9589a00f530e3a2d2897c9e2bd4efc0baf0ff125
 workflow-type: tm+mt
 source-wordcount: '185'
 ht-degree: 12%
-
 ---
-
 # Erlebnisse nach Ihnen: Ressourcen nach Benutzern, für Benutzer.
 
 Die leistungsfähigste Lösung für [!DNL Adobe] Digital Experience (DX)-Lösungen? Sie. Benutzer, die die Produkte nehmen, sich eingehend damit beschäftigen und sie auf verblüffende, innovative Weise anwenden, um bedeutsame Erfahrungen und Ergebnisse zu schaffen. _Experiences by You_ enthält Inhalte, die von alltäglichen Benutzern erstellt wurden, die mit ihren [!DNL Adobe] DX-Lösungen ein hohes Maß an Fachwissen und Einfluss erlangt haben. Dieses Peer-to-Peer-Wissen fördert die Zusammenarbeit und Entdeckung und ermöglicht es Ihnen - und allen anderen Anwendern -, die Inspiration zu finden, die Sie benötigen, um Ihr Produkterfahrungsniveau zu steigern.
