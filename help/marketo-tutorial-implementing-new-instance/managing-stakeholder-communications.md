@@ -6,17 +6,24 @@ level: Beginner
 doc-type: Article
 solution: Marketo Engage
 duration: 0
-last-substantial-update: 2024-05-03T00:00:00Z
+last-substantial-update: 2024-05-03T00:00:00.000Z
 jira: KT-13284
 thumbnail: KT-13284.jpeg
 exl-id: b5b8a5b6-83d4-48ae-ae83-32c9fbf64df8
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '1838'
 ht-degree: 0%
-
 ---
-
 # Verwalten von Stakeholdern zur Implementierung von Marketo Engage
 
 Die Implementierung von Marketo Engage ist ein entscheidender Schritt beim Ausbau Ihres MarTech-Stacks. Sie kann verschiedene Stakeholder einbeziehen, die Sie vom Marketing über den Vertrieb bis hin zur IT mitbringen müssen. Erfahren Sie, wie Sie Support von Ihrem Unternehmen für Ihre neue Marketo Engage-Instanz erhalten, indem Sie die richtigen Fragen stellen und regelmäßig Updates und Support kommunizieren. Verwenden Sie das Tutorial und die Vorlagen (mit herunterladbaren Versionen), um Ihre interne Kommunikation während der Implementierung und des Onboarding von Benutzern zu leiten.
@@ -30,7 +37,7 @@ Starten Sie Ihre Implementierung, indem Sie sich an Ihren Führungskräften und 
 | **Fragen** | **Beispiele** | **Hilfreiche Ressourcen** |
 | --- | --- | --- |
 | Auf welchen Stakeholder sollten Sie sich konzentrieren? | <ul><li>Verkaufsleiter</li><li>CMO</li><li>CEO</li> |  |
-| Was sind Ihre Hauptziele (Marketing/Vertrieb/Geschäft)? | <ol><li>Stärkere Interaktion mit unseren Kunden und potenziellen Kunden</li><li>Vergrößern Sie Ihre Betriebsabläufe.</li> | <ul><li>[Erfahren Sie mehr über die Entwicklung von Marketing-Zielen und &#x200B;](https://experienceleague.adobe.com/de/docs/marketo-learn/tutorials/fundamentals/goals-and-strategy-learn){target=„_blank“}</li><ul> |
+| Was sind Ihre Hauptziele (Marketing/Vertrieb/Geschäft)? | <ol><li>Stärkere Interaktion mit unseren Kunden und potenziellen Kunden</li><li>Vergrößern Sie Ihre Betriebsabläufe.</li> | <ul><li>[Erfahren Sie mehr über die Entwicklung von Marketing-Zielen und ](https://experienceleague.adobe.com/en/docs/marketo-learn/tutorials/fundamentals/goals-and-strategy-learn){target=„_blank“}</li><ul> |
 | Wie hilft Ihnen Marketo Engage bei der Erreichung dieser Ziele? | <ol><li>Wir können personalisierte Programme mit Token, dynamischen Inhalten und mehr erstellen</li><li> Wir können Programme zur Pflege entwickeln, die es uns ermöglichen, langfristig mit potenziellen Kunden in Kontakt zu bleiben</li><li>Wir können unsere Marketing-Programme automatisieren, um mehr Menschen mit weniger Arbeitsstunden zu erreichen, die in jedes Programm investiert werden.</li></ol> | <ul><li>[Warum Automatisierung für jede Marketing-Strategie wichtig ist](https://business.adobe.com/blog/basics/5-benefits-marketing-automation){target=„_blank“}</li><li>[Tipps zum Erstellen einer Roadmap für die Marketing-Automatisierung](https://nation.marketo.com/t5/champion-program-blogs/tips-for-building-a-marketing-automation-roadmap/ba-p/325345){target=„_blank“}</li></ul> |
 | Welche potenziellen Hindernisse/Hindernisse sehen Sie beim Onboarding und bei der Implementierung vor, die dem Marketing Operation Team/Aktionär bekannt sein sollten? | <ol><li>Viele benutzerdefinierte Objekte in Ihrem CRM</li><li>Keine klar definierte Lead-/Personen-Scoring-Strategie</li><li>Ungültige Daten</li><li>Unrealistische Zeitpläne und/oder Erwartungen des Managements</li><li>Konkurrierende Projekte, die Ressourcen einnehmen</li></ul> | <ul><li>Tipps zur Implementierung von [Marketo Engage](https://nation.marketo.com/t5/product-discussions/5-marketo-engage-new-implementation-tips/td-p/307788){target=„_blank}</li><li>[Tipps für Neulinge, die Marketo zum ersten Mal implementieren und verwalten](https://nation.marketo.com/t5/product-discussions/tips-for-newbie-implementing-and-managing-marketo-for-the-first/m-p/174146#M124169){target=„_blank“}</li><li>[Die 10 beliebtesten Tipps von Kollegen für das Onboarding von Adobe Marketo Engage](https://nation.marketo.com/t5/employee-blogs/top-10-tips-from-peers-for-onboarding-adobe-marketo-engage/ba-p/245098){target=„_blank}</li></ul> |
 | Welche Ressource/welchen Support benötigen Sie und von wem/welchem Teil des Unternehmens? | <ol><li>Zusammenarbeit mit CRM-Administrator</li><li>Regelmäßige Kommunikation mit Vertriebsleitern, um die Scoring-Strategie für Lead/Person zu bestimmen</li><li>Unterstützung durch und regelmäßige Besprechungen mit Ihrem Manager/Ihren Führungskräften</li><li>Anleitung Ihrer Führungskräfte zu Prioritäten und Strategien</li><li>Unterstützung durch IT, SOPs (Standard Operating Procedures), Finanzen usw.</li></ul> | <ul><li>[Universeller Schlüssel zum Erfolg von Marketo: Governance und fortlaufende Schulung](https://nation.marketo.com/t5/employee-blogs/universal-key-to-marketo-success-governance-and-ongoing-training/ba-p/298360){target=„_blank“}</li></ul> |
@@ -182,7 +189,7 @@ Wenn Sie diese umsetzbaren Tipps befolgen und auf die Vorlagen verweisen, sind S
 
 ## Wie geht es weiter?
 
-Laden Sie das [Interne Kommunikationshandbuch und -vorlage“&lbrace;target=„_blank](/help/marketo-tutorial-implementing-new-instance/assets/marketo-engage-new-instance-onboarding-internal-communications-guide-template.xlsx) herunter und verwenden Sie es, um regelmäßige Aktualisierungen zu erstellen und den Fortschritt für Stakeholder zu melden. Schließen Sie wichtige Metriken, Erfolge und bevorstehende Meilensteine ein, um sie auf dem Laufenden zu halten und aktiv zu halten.
+Laden Sie das [Interne Kommunikationshandbuch und -vorlage“{target=„_blank](/help/marketo-tutorial-implementing-new-instance/assets/marketo-engage-new-instance-onboarding-internal-communications-guide-template.xlsx) herunter und verwenden Sie es, um regelmäßige Aktualisierungen zu erstellen und den Fortschritt für Stakeholder zu melden. Schließen Sie wichtige Metriken, Erfolge und bevorstehende Meilensteine ein, um sie auf dem Laufenden zu halten und aktiv zu halten.
 
 ### Autor
 

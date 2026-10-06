@@ -1,6 +1,6 @@
 ---
 title: Mit Daten aussagekräftige Geschichten erzählen
-description: Beim Data Storytelling verschmelzen Kunst und Wissenschaft unter Verwendung von Daten, Visualisierung und Erzählungen.  Wenn wir diese Komponenten nutzen, lassen sich eindrucksvolle Datengeschichten in drei Teile gliedern. Indem Sie eine Geschichte mit Daten effektiv erzählen [!DNL Analytics]  können Sie einer größeren Zielgruppe näher kommen und den Wert steigern, den Sie Ihrem Unternehmen durch datengestützte Entscheidungsfindung bieten.
+description: Beim Data Storytelling verschmelzen Kunst und Wissenschaft unter Verwendung von Daten, Visualisierung und Erzählungen.  Wenn wir diese Komponenten nutzen, lassen sich eindrucksvolle Datengeschichten in drei Teile gliedern. Indem Sie eine Geschichte mit Daten effektiv erzählen, können [!DNL Analytics] einer größeren Zielgruppe zugänglich werden und Sie können den Wert Ihrer Organisation durch datengestützte Entscheidungsfindung steigern.
 solution: Analytics
 feature-set: Analytics
 feature: Admin Tools
@@ -10,13 +10,23 @@ level: Experienced
 thumbnail: impactful-stories.jpg
 kt: 10157
 exl-id: bbbe8514-95d2-4e18-aaa2-6c3bd94816a1
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+    internal-label: Admin Tools
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '450'
 ht-degree: 6%
-
 ---
-
 # Mit Daten aussagekräftige Geschichten erzählen
 
 Beim Data Storytelling verschmelzen Kunst und Wissenschaft unter Verwendung von Daten, Visualisierung und Erzählungen.  Wenn wir diese Komponenten nutzen, lassen sich eindrucksvolle Datengeschichten in drei Teile gliedern. Indem Sie eine Geschichte mit Daten effektiv erzählen, können [!DNL Analytics] einer größeren Zielgruppe zugänglich werden und Sie können den Wert, den Sie Ihrer Organisation durch datengestützte Entscheidungsfindung bieten, steigern.

@@ -1,6 +1,6 @@
 ---
-title: Übersetzen  [!DNL Adobe Analytics]  technischen Sprache auf nicht-technische Weise
-description: Angesichts der steigenden Bedeutung der digitalen Welt steigt auch die Notwendigkeit, die umfangreichen Daten in Ihrem Setup zu verstehen, zu analysieren und  [!DNL Adobe Analytics]  nutzen. Diese erhöhte Aufmerksamkeit könnte eine Reihe von Stakeholdern aufdecken, die mit der Welt der Props und eVars völlig neu sind. Als Experte in  [!DNL Adobe Analytics]  Unternehmen sind Sie der Schlüssel dazu, Ihren Stakeholdern zu helfen, die technischen Details zu verstehen und Ihre  [!DNL Adobe Analytics]  optimal zu nutzen.
+title: Übersetzen [!DNL Adobe Analytics] technischen Sprache auf nicht-technische Weise
+description: Angesichts der steigenden Bedeutung der digitalen Welt steigt auch die Notwendigkeit, die umfangreichen Datenmengen in Ihrem [!DNL Adobe Analytics]-Setup zu verstehen, zu analysieren und zu nutzen. Diese erhöhte Aufmerksamkeit könnte eine Reihe von Stakeholdern aufdecken, die mit der Welt der Props und eVars völlig neu sind. Als [!DNL Adobe Analytics] Ihres Unternehmens sind Sie der Schlüssel dazu, Ihren Stakeholdern zu helfen, die technischen Details zu verstehen und Ihre [!DNL Adobe Analytics] optimal zu nutzen.
 solution: Analytics
 feature-set: Analytics
 feature: Admin Tools
@@ -10,16 +10,26 @@ level: Experienced
 thumbnail: 342066.jpg
 kt: 10128
 exl-id: b26f8b1e-e57d-4684-86c2-7a13f67521e6
-source-git-commit: b2e05ff39e065691dda530ed17762a55cf2e6778
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+    internal-label: Admin Tools
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '982'
+source-wordcount: '1009'
 ht-degree: 0%
-
 ---
-
 # Übersetzen [!DNL Adobe Analytics] technischen Sprache auf nicht-technische Weise
 
->[!VIDEO](https://video.tv.adobe.com/v/3410292/?captions=ger&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342066/?quality=12&learn=on)
 
 ## Sprechen verschiedener Sprachen
 

@@ -7,22 +7,33 @@ feature: Workflows
 role: User
 level: Beginner, Intermediate, Experienced
 doc-type: Article
-last-substantial-update: 2023-05-18T00:00:00Z
+last-substantial-update: 2023-05-18T00:00:00.000Z
 jira: KT-13256
 thumbnail: KT-13256.jpeg
 exl-id: 1f27e284-73e3-4f28-988e-51163775eec8
-source-git-commit: cae626cb3958ebcda16ac30b0a487ebfe06d50f4
+product_v2:
+  - id: f5407121-8933-4ac3-8e06-a9b692a4e88a
+    internal-label: Campaign Standard
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '740'
 ht-degree: 2%
-
 ---
-
 # Fehlerbehebung für Marketing-Fachleute: 5 allgemeine Workflow- und Bereitstellungsfehler
 
 Von: [Suraj Patra](https://www.linkedin.com/in/suraj-p-51612053/){target="_blank"}, Senior Consultant, Meijer
 
-Als Senior Engineer und Kundenexperte für [!DNL Adobe] Experience Cloud-Produkte in den letzten fünf Jahren versetze ich Business-Anwenderinnen und -Anwender bei [Meijer](https://www.meijer.com/){target="_blank"}, einer 1934 gegründeten amerikanischen Supercenter-Kette, in die Lage, komplexe Marketing- und Transaktionskampagnen mit ACS durchzuführen. Zu den Projekten, an denen ich gearbeitet habe, gehören benutzerdefinierte Kampagnen zum Speichern von Angeboten und Bestelldetails für die Personalisierung, die in [!DNL Adobe] Audience Manager integriert sind, und Kunden-insight für die Segmentaufnahme.
+Als Senior Engineer und Kundenexperte für [!DNL Adobe] Experience Cloud-Produkte in den letzten fünf Jahren ermöglichte ich es Geschäftsanwendern von [Meijer](https://www.meijer.com/){target="_blank"}, einer 1934 gegründeten amerikanischen Supercenter-Kette, komplexe Marketing- und Transaktionskampagnen mit ACS durchzuführen. Zu den Projekten, an denen ich gearbeitet habe, gehören benutzerdefinierte Kampagnen zum Speichern von Angeboten und Bestelldetails für die Personalisierung, die in [!DNL Adobe] Audience Manager integriert sind, und Kunden-insight für die Segmentaufnahme.
 
 In meiner Zeit bei der Verwendung von ACS sind Fehler aufgetreten, deren Behebung zeitaufwendig und frustrierend sein kann. Das Wissen um die häufigsten Fehler kann Ihnen helfen, Probleme schneller zu lösen und Ihre Produktivität zu steigern. Im Folgenden finden Sie meine Tipps zur Fehlerbehebung, die Ihnen dabei helfen, ähnliche Fehler bei ihrem Auftreten effektiv zu beheben.
 
@@ -59,7 +70,7 @@ Siehe den Screenshot für die Aktivität „Abstimmung“, wie unten dargestellt
 
 ![Workflow mit Abstimmdetails](/help/_assets/kt-13256/del-persn-error-wf-solution.png)
 
-Weitere Informationen über [Abstimmung](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation.html?lang=de).
+Weitere Informationen über [Abstimmung](https://experienceleague.adobe.com/docs/campaign-standard/using/managing-processes-and-data/data-management-activities/reconciliation.html?lang=en).
 
 ## Fehler bei gemeinsamem Feld-Datensatz
 
@@ -83,7 +94,7 @@ Es gibt zwei Möglichkeiten, diesen Fehler zu beheben:
 
 2. Verwenden Sie die JOIN-Ausschlussmethode, um das Feld auszuwählen, auf dessen Grundlage Sie die Datensätze ausschließen möchten.
 
-![Datensatzfehler im allgemeinen Feld - Lösung &#x200B;](/help/_assets/kt-13256/dataset-error-solution.png)
+![Datensatzfehler im allgemeinen Feld - Lösung ](/help/_assets/kt-13256/dataset-error-solution.png)
 
 ## Fehler beim Löschen des Feldnamens
 
@@ -116,7 +127,7 @@ Sie können diesen Fehler auf drei Arten beheben:
 **Ursache:**
 Dies ist ein häufiger Fehler in komplizierten Workflows, bei denen es um Anreicherung oder andere Aktivitäten geht. Dies bedeutet wahrscheinlich, dass einige der Aktivitäts-Workflows bei mehreren Änderungen am Workflow nicht korrekt gespeichert werden.
 
-![Fehler beim Löschen der temporären Tabelle &#x200B;](/help/_assets/kt-13256/temp-table-dropped-error.png)
+![Fehler beim Löschen der temporären Tabelle ](/help/_assets/kt-13256/temp-table-dropped-error.png)
 
 **Lösung:**
 Es gibt viele Möglichkeiten, wie dieser Fehler auftreten kann, sodass es keine einfache Lösung gibt. Wenn es sich um einen einfachen Workflow handelt, ist es besser, die Aktivität neu zu konfigurieren. In einem komplizierten Workflow ist es besser, die Workflow-Aktivitäten in einen neuen Workflow zu kopieren, zu speichern und erneut auszuführen.

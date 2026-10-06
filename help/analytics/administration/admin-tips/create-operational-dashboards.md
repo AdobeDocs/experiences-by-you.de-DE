@@ -8,17 +8,30 @@ topic: Administration
 role: User
 level: Experienced
 doc-type: Article
-last-substantial-update: 2023-08-18T00:00:00Z
+last-substantial-update: 2023-08-18T00:00:00.000Z
 jira: KT-13829
 thumbnail: KT-13829.jpeg
 exl-id: 8df9e88f-e564-4a8e-b624-026c873d3f19
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+    internal-label: Admin Tools
+subfeature_v2:
+  - id: c510df06-c813-424c-abc1-c7ae8b03e9b3
+    internal-label: Curate and Share
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '1145'
+source-wordcount: '1146'
 ht-degree: 0%
-
 ---
-
 # Erstellen operativer Dashboards in Analysis Workspace
 
 _Erfahren Sie, wie betriebliche Dashboards in [!DNL Adobe Analytics] Workspace die Kommunikation und Effizienz revolutionieren. Erfahren Sie, wie Sie häufig gestellte Fragen, Nachrichten und Ankündigungen sowie Bugs- und Feature-Dashboards erstellen, um vereinfachte Informationen, ein besseres Benutzererlebnis und eine verbesserte Interaktion zu erhalten._
@@ -28,7 +41,7 @@ Wie viele Administratoren betreibe ich einen internen Info-Hub (Confluence oder 
 
 Mir fiel auf, dass Benutzer meine Verweise auf die Confluence-Website oft ignorierten, z. B. mit Gründen wie „Mein VPN ist ausgeschaltet“ oder „Ich kann es jetzt nicht lesen“. Grundsätzlich bedeutet „Ich werde das Dokument später lesen“, dass es nie gelesen wird und die gleiche Frage wird nächste Woche wieder gestellt werden.
 
-***Der Realisierungserfolg:**&#x200B;Vielseitigkeit von Workspace könnte alles verändern. Anwender bevorzugen schnelle, direkte Antworten innerhalb von Workspace. Lassen Sie sie also dort bleiben, um zusätzliche Schritte zu vermeiden.*
+***Der Realisierungserfolg:**Vielseitigkeit von Workspace könnte alles verändern. Anwender bevorzugen schnelle, direkte Antworten innerhalb von Workspace. Lassen Sie sie also dort bleiben, um zusätzliche Schritte zu vermeiden.*
 
 Ich habe daraufhin betriebliche Dashboards erstellt, um unternehmensweit freizugeben. Bisher haben sie die Nutzer informiert, zentralisiert informiert und die Frustration verringert. Dies ist ein einfacher, sich entwickelnder Prozess, der die Effizienz im Laufe der Zeit steigert.
 
@@ -49,7 +62,7 @@ Lassen Sie mich Ihnen die drei operativen Dashboards zeigen, die ich für meine 
 
 Müde von der endlosen Schleife sich wiederholender Antworten? Stopp! Sparen Sie Zeit durch die Erstellung eines häufig gestellten Dashboards. Benutzer können es vor der Anfrage einsehen oder Sie können in Ihren Antworten schnell darauf verlinken.
 
-Erstellen Sie einfach [Textvisualisierungen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/text.html?lang=de) mit Fragen, die als Titel formatiert sind, und Antworten/Erklärungen als Inhalt, die alle reduziert werden, um nur die Frage anzuzeigen. Gruppieren Sie sie nach Relevanz (z. B. Seiten oder Produkte) oder verwenden Sie Bedienfelder. Halten Sie es einfach und priorisieren Sie allgemeine Abfragen am Anfang.
+Erstellen Sie einfach [Textvisualisierungen](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/text.html) mit Fragen, die als Titel formatiert sind, und Antworten/Erklärungen als Inhalt, die alle reduziert werden, um nur die Frage anzuzeigen. Gruppieren Sie sie nach Relevanz (z. B. Seiten oder Produkte) oder verwenden Sie Bedienfelder. Halten Sie es einfach und priorisieren Sie allgemeine Abfragen am Anfang.
 
 Aktualisieren Sie Ihr FAQ-Dashboard, anstatt lange E-Mails zu schreiben oder alte Erklärungen wiederzuentdecken. Beginnen Sie jetzt und erweitern Sie im Laufe der Zeit. Verwenden Sie Hyperlinks, um auf andere Dashboards oder zugehörige FAQs in Berichten zu verweisen. Stellen Sie bei Bedarf komplexen Kontext bereit, indem Sie Links von anderen Dashboards zu häufig gestellten Fragen erstellen.
 

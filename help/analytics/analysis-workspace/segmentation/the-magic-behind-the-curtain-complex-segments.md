@@ -6,17 +6,36 @@ role: User
 level: Experienced
 doc-type: Article
 duration: 36000
-last-substantial-update: 2024-03-25T00:00:00Z
+last-substantial-update: 2024-03-25T00:00:00.000Z
 jira: KT-15200
 thumbnail: KT-15200.jpeg
 exl-id: 1da85e88-64b3-49e5-9bf6-76126ac9f6ad
-source-git-commit: 69fa16c1bf38604e4dabc553baee71598be83db3
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c68cd75e-5bca-4bc3-a60e-9e183f816441
+    internal-label: Experience Manager Cloud Manager
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+feature_v2:
+  - id: ed6be6bb-75bb-4ea9-9a42-3bcaa65e1bcc
+    internal-label: Personalization
+subfeature_v2:
+  - id: a1d50dda-6d94-4e16-8c30-5eb7181c4650
+    internal-label: Segmentation
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '4166'
 ht-degree: 1%
-
 ---
-
 # Die Magie hinter dem Vorhang: Komplexe Segmente: Ausschlüsse, Container und Attribution
 
 _Entdecken Sie die Feinheiten komplexer Datensegmentierung, untersuchen Sie Ausschlüsse, Container und Attributionsmodelle. Wie ein Zauberkünstler befähigt das Beherrschen dieser Techniken Analysten, Datenmagie auszuführen und Erkenntnisse mit Präzision und Finesse zu transformieren._
@@ -60,33 +79,33 @@ Auf den ersten Blick klingen beide gleich… und bei **Treffer** Level-Segmenten
 
 ![Abbildung2-DnceVsExclude-Visit](assets/figure2-dnce-vs-exclude-visit.png)
 
-*Wie oben wird jeder Treffer innerhalb des **Besuchs**&#x200B;mit dem gleichen Wert „true/false“ ausgewertet. Der zurückgegebene Datensatz ist jedoch der des gesamten Besuchs.*
+*Wie oben wird jeder Treffer innerhalb des **Besuchs**mit dem gleichen Wert „true/false“ ausgewertet. Der zurückgegebene Datensatz ist jedoch der des gesamten Besuchs.*
 
 - Bei jedem Treffer enthält „Wert“ kein „Beispiel“ (ja), daher „true“ zurückgeben; ebenso enthält „Beispiel“ kein „Beispiel“ (nein, es enthält es), daher „false“ zurückgeben.
-   - Wenn **irgendein** Treffer beim Besuch &quot;**&quot;**, wird der **gesamte Besuch** zurückgegeben.*
-   - Wenn der Besuch ausschließlich aus Treffern bestand, die „Beispiel“ enthielten, würden keine Treffer den Wert „true“ zurückgeben, sodass dieser Besuch **Ihrem** zurückgegeben würde.
+  - Wenn **irgendein** Treffer beim Besuch &quot;**&quot;**, wird der **gesamte Besuch** zurückgegeben.*
+  - Wenn der Besuch ausschließlich aus Treffern bestand, die „Beispiel“ enthielten, würden keine Treffer den Wert „true“ zurückgeben, sodass dieser Besuch **Ihrem** zurückgegeben würde.
 - Auch hier enthält „Beispiel“ bei jedem Treffer „Beispiel“ (ja) und gibt daher „true“ zurück
-   - Wenn **irgendein Treffer** &quot;**&quot;**, wird der gesamte Besuch **ausgeschlossen**
-   - Wenn **alle Treffer** im Besuch &quot;**&quot;**, wird dieser Besuch in Ihrem Datensatz zurückgegeben
+  - Wenn **irgendein Treffer** &quot;**&quot;**, wird der gesamte Besuch **ausgeschlossen**
+  - Wenn **alle Treffer** im Besuch &quot;**&quot;**, wird dieser Besuch in Ihrem Datensatz zurückgegeben
 - Jetzt können Sie sehen, wo diese Logik zu divergieren beginnt. Im obigen Beispiel gibt es drei verschiedene Besuche:
-   - Bei Verwendung von „Enthält nicht / Gleich“ **zwei der drei** Besuche zurückgegeben.
-   - Bei Verwendung von „Enthält / Gleich ausschließen **wird** dieser Besuche zurückgegeben
+  - Bei Verwendung von „Enthält nicht / Gleich“ **zwei der drei** Besuche zurückgegeben.
+  - Bei Verwendung von „Enthält / Gleich ausschließen **wird** dieser Besuche zurückgegeben
 
 **Abbildung 3: Enthält nicht/ist nicht gleich - Besuchsumfang**
 
 ![Figure3-DnceVsExclude-Visitor](assets/figure3-dnce-vs-exclude-visitor.png)
 
-*Wie oben wird jeder Treffer, der vom **Besucher**&#x200B;gemacht wird, mit derselben Logik „true/false“ ausgewertet. Jetzt sehen wir uns jedoch alle Treffer an, die dieser Besucher bei allen Besuchen (innerhalb des ausgewählten Datumsbereichs) gemacht hat.*
+*Wie oben wird jeder Treffer, der vom **Besucher**gemacht wird, mit derselben Logik „true/false“ ausgewertet. Jetzt sehen wir uns jedoch alle Treffer an, die dieser Besucher bei allen Besuchen (innerhalb des ausgewählten Datumsbereichs) gemacht hat.*
 
 - Bei jedem Treffer enthält „Wert“ kein „Beispiel“ (ja), daher „true“ zurückgeben; ebenso enthält „Beispiel“ kein „Beispiel“ (nein, es enthält es), daher „false“ zurückgeben.
-   - Wenn **vom Besucher** Treffer &quot;**&quot;**, wird der **gesamte Besuch** zurückgegeben.
-   - Wenn der Besucher nie einen Treffer getätigt hat, der „Beispiel“ enthält, geben keine Treffer „true“ zurück, sodass dieser Besucher **nicht zurückgegeben** in Ihrem Datensatz erhalten bleibt.
+  - Wenn **vom Besucher** Treffer &quot;**&quot;**, wird der **gesamte Besuch** zurückgegeben.
+  - Wenn der Besucher nie einen Treffer getätigt hat, der „Beispiel“ enthält, geben keine Treffer „true“ zurück, sodass dieser Besucher **nicht zurückgegeben** in Ihrem Datensatz erhalten bleibt.
 - Auch hier enthält „Beispiel“ bei jedem Treffer „Beispiel“ (ja) und gibt daher „true“ zurück.
-   - Wenn **ein Treffer** &quot;**&quot;**, wird der gesamte Besucher (und anschließend alle seine Besuche) **ausgeschlossen.**
-   - Wenn **alle Treffer** im Besuch &quot;**&quot;**, wird dieser Besucher in Ihrem Datensatz zurückgegeben, wodurch Besucher, die nicht das „X“ getan haben, erfolgreich zurückgegeben werden.
+  - Wenn **ein Treffer** &quot;**&quot;**, wird der gesamte Besucher (und anschließend alle seine Besuche) **ausgeschlossen.**
+  - Wenn **alle Treffer** im Besuch &quot;**&quot;**, wird dieser Besucher in Ihrem Datensatz zurückgegeben, wodurch Besucher, die nicht das „X“ getan haben, erfolgreich zurückgegeben werden.
 - Dies ist eine Erweiterung der Besuchslogik, bei der es noch mehr Überlegungen gibt. Im obigen Beispiel gibt es zwei verschiedene Besucher mit jeweils 3 Besuchen:
-   - Bei Verwendung von „Enthält nicht / Gleich **werden** Besucher zurückgegeben, ebenso wie alle **drei** ihrer Besuche (wobei in Ihren Berichten 2 Besucher und 6 Besuche insgesamt berücksichtigt werden)
-   - Bei Verwendung von „Enthält / Gleich ausschließen **wird nur** einer dieser Besucher zurückgegeben, und nur die drei mit diesem Besucher verknüpften Besuche werden einbezogen (wobei in Ihren Berichten 1 Besucher und 3 insgesamt Besuche berücksichtigt werden)
+  - Bei Verwendung von „Enthält nicht / Gleich **werden** Besucher zurückgegeben, ebenso wie alle **drei** ihrer Besuche (wobei in Ihren Berichten 2 Besucher und 6 Besuche insgesamt berücksichtigt werden)
+  - Bei Verwendung von „Enthält / Gleich ausschließen **wird nur** einer dieser Besucher zurückgegeben, und nur die drei mit diesem Besucher verknüpften Besuche werden einbezogen (wobei in Ihren Berichten 1 Besucher und 3 insgesamt Besuche berücksichtigt werden)
 
 >[!TIP]
 >
@@ -260,31 +279,31 @@ Angenommen, wir verfügen über zwei eVars, von denen eine für den Ablauf des B
 **Besuch 1**
 
 - Seite A
-   - **eVar1** ist nicht festgelegt
-   - **eVar2** ist nicht festgelegt
+  - **eVar1** ist nicht festgelegt
+  - **eVar2** ist nicht festgelegt
 - Klicken Sie auf Promo-Banner mit ?icid=promo-banner in der URL
 - Seite B
-   - **eVar1** und **eVar** sind auf „Promo-Banner“ eingestellt
-   - **Instanz von eVar** wird ausgelöst
-   - **Instanz von eVar** wird ausgelöst
+  - **eVar1** und **eVar** sind auf „Promo-Banner“ eingestellt
+  - **Instanz von eVar** wird ausgelöst
+  - **Instanz von eVar** wird ausgelöst
 - Seite C
-   - Sowohl **eVar1** als auch **eVar** behalten den Wert „promo-banner“ bei
-   - Keine der Instanzmetriken für die eVars wird ausgelöst, da beide eVars persistente Werte verwenden
+  - Sowohl **eVar1** als auch **eVar** behalten den Wert „promo-banner“ bei
+  - Keine der Instanzmetriken für die eVars wird ausgelöst, da beide eVars persistente Werte verwenden
 
 **Besuch 2**
 
 - Seite D
-   - **eVar1** ist auf keinen Wert festgelegt und es wird keine **Instanz von eVar** ausgelöst
-   - **eVar2** behält den Wert „Promo-Banner“ aufgrund des 30-tägigen Ablaufs bei
-   - **Instanz von eVar** wird nicht ausgelöst, da der Wert persistent und nicht tatsächlich festgelegt ist
+  - **eVar1** ist auf keinen Wert festgelegt und es wird keine **Instanz von eVar** ausgelöst
+  - **eVar2** behält den Wert „Promo-Banner“ aufgrund des 30-tägigen Ablaufs bei
+  - **Instanz von eVar** wird nicht ausgelöst, da der Wert persistent und nicht tatsächlich festgelegt ist
 - Klicken Sie auf die Seitenleisten-Promotion mit ?icid=promo-side-rail in der URL
 - Seite E
-   - **eVar1** und **eVar** sind auf „promo-side-rail“ eingestellt
-   - **Instanz von eVar** wird ausgelöst
-   - **Instanz von eVar** wird ausgelöst
+  - **eVar1** und **eVar** sind auf „promo-side-rail“ eingestellt
+  - **Instanz von eVar** wird ausgelöst
+  - **Instanz von eVar** wird ausgelöst
 - Seite F
-   - Sowohl **eVar1** als auch **eVar** behalten den Wert „promo-side-rail“ bei
-   - Keine der Instanzmetriken für die eVars wird ausgelöst, da beide eVars persistente Werte verwenden
+  - Sowohl **eVar1** als auch **eVar** behalten den Wert „promo-side-rail“ bei
+  - Keine der Instanzmetriken für die eVars wird ausgelöst, da beide eVars persistente Werte verwenden
 
 Derzeit ist das erwartete Ergebnis dieser beiden Besuche:
 
@@ -319,7 +338,7 @@ Sehen wir uns nun an, wo Sie die Attribution in Ihrem Segment festlegen können.
 
 ![Abbildung4-AttributionModel](assets/figure4-attribution-model.png)
 
-*Mit dem Zahnradsymbol auf Ihrer Dimension können Sie die Attribution festlegen. Für jede Option sind Informationen verfügbar, wenn Sie den Mauszeiger über das &quot;?“ bewegen. Symbol. Im Wesentlichen:*
+*Mit dem Zahnradsymbol auf Ihrer Dimension können Sie die Attribution festlegen. Für jede Option sind Informationen verfügbar, wenn Sie den Mauszeiger über das &quot;?“ bewegen. . Im Wesentlichen:*
 
 - Das Standardverhalten gibt alle Instanzen der eVar zurück, in denen der Wert festgelegt ist (entweder speziell oder über die festgelegte Attribution)
 - Die -Instanz gibt nur die Dimension zurück, für die der Wert explizit festgelegt ist (d. h. bei Treffern, bei denen die &quot;eVar-Instanz“ ausgelöst wird).

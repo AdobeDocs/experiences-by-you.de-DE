@@ -6,20 +6,33 @@ feature: Attribution
 role: User
 level: Experienced
 doc-type: Article
-last-substantial-update: 2023-06-20T00:00:00Z
+last-substantial-update: 2023-06-20T00:00:00.000Z
 jira: KT-13181
 thumbnail: KT-13181.jpeg
 exl-id: 2a62e563-bad9-424f-94ca-2af68d4a83b5
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c68cd75e-5bca-4bc3-a60e-9e183f816441
+    internal-label: Experience Manager Cloud Manager
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '1698'
 ht-degree: 0%
-
 ---
-
 # Grundlegendes [!DNL Adobe Analytics] Attributionsbedienfelds und Lookback-Fenster
 
-Als ich zum ersten Mal über das [Attributionsbedienfeld](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=de) und **Lookback-Fenster** nachdachte, wurde ich sofort an das Konzept der *Zeitreise“* erinnert; dann wurde ich natürlich auch an unsere typische Reaktion auf viele neue Tools wie diese erinnert, nämlich den Versuch, sie zu verwenden, einfach zu verschieben, weil sie so kompliziert aussehen.
+Als ich zum ersten Mal über das [Attributionsbedienfeld](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/panels/attribution.html?lang=en) und **Lookback-Fenster** nachdachte, wurde ich sofort an das Konzept der *Zeitreise“* erinnert; dann wurde ich natürlich auch an unsere typische Reaktion auf viele neue Tools wie diese erinnert, nämlich den Versuch, sie zu verwenden, einfach zu verschieben, weil sie so kompliziert aussehen.
 
 Ich meine, ehrlich, schauen Sie sich nur all diese Optionen, Schalter, Bedienfelder, Auslesehilfen und Regler an.  Und ernsthaft, sprechen wir über diese komplizierten Blinklichter, Schläuche, Messgeräte… WARTE!!  Dies ist nicht die Zeit, um abgelenkt zu werden, wenn wir über Zeitmaschinen sprechen, wir haben einfach nicht die Zeit… oder tun wir das?
 
@@ -44,7 +57,7 @@ Jetzt, da wir alle von Zeitreisen begeistert sind, lassen Sie uns einen tiefen A
 
 Überlegen Sie **Attribution** einfach, wie Ereignisse/Aktionen von einer Person, mehreren Personen oder einem der vielen verschiedenen Ereignisse im Laufe der Zeit verursacht werden können.
 
-Laut [[!DNL Adobe]](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/overview.html?lang=de) können *Attribution* Analysten anpassen, wie *Dimension*-Elemente für *Erfolgsereignisse“* werden.
+Laut [[!DNL Adobe]](https://experienceleague.adobe.com/docs/analytics-platform/using/cja-workspace/attribution/overview.html?lang=en) können *Attribution* Analysten anpassen, wie *Dimension*-Elemente für *Erfolgsereignisse“* werden.
 
 
 >[!WARNING]
@@ -76,9 +89,9 @@ Vor diesem Hintergrund sind hier einige Beispiele, wie sich die ❸ **Attributio
 
 - **U-förmig**: Dieser Ansatz weist **40%** des Kredits der *ersten Person* in der Tür zu, verteilt **20%** des Kredits auf *alle dazwischen* und gibt dann **40%** an **letzte**. Dieses Modell wird am häufigsten in Situationen verwendet, in denen Sie einen **langen Konversions-/Verkaufszyklus** mit *mehreren Touchpoints* unterwegs haben.  In diesem Fall besteht Ihr Ziel darin, in erster Linie die Marketing ***Taktiken &quot;***&quot; und &quot;***&quot;***, die zur Konversion beim Kunden beigetragen haben.
 - **J**-**Shaped** und **Inverse J**:
-   - Denken Sie an **U-förmig**, aber stattdessen weist dieses Modell dem *letzten Person*, der durch die Tür geht, **60%**, **20%** dem *zuerst* zu und dann *teilt* die verbleibenden **20%** über *alle anderen*.  **Umgekehrt J** macht genau das Gegenteil.
+  - Denken Sie an **U-förmig**, aber stattdessen weist dieses Modell dem *letzten Person*, der durch die Tür geht, **60%**, **20%** dem *zuerst* zu und dann *teilt* die verbleibenden **20%** über *alle anderen*.  **Umgekehrt J** macht genau das Gegenteil.
 
-     Das Ziel hier ist es, den größten Teil des Schwerpunkts zu setzen, entweder am *Anfang* oder am *Ende* der Kampagne. Allerdings möchten Sie dem beitragenden Element am anderen Ende dennoch einen bestimmten Betrag zuweisen, während Sie die „kleinen Leute“ auf dem Weg anerkennen.
+    Das Ziel hier ist es, den größten Teil des Schwerpunkts zu setzen, entweder am *Anfang* oder am *Ende* der Kampagne. Allerdings möchten Sie dem beitragenden Element am anderen Ende dennoch einen bestimmten Betrag zuweisen, während Sie die „kleinen Leute“ auf dem Weg anerkennen.
 
 - **Zeitverfall**: Nun, ich wäre nachlässig, wenn ich dieses hier nicht teilen würde. Dieses Modell hat buchstäblich eine Halbwertszeit, die exponentiell zerfällt - mit der Zeit!  In diesem Fall beträgt der *Standard*-Parameter für die Halbwertszeit dieses Modells **7 Tage**.  Es funktioniert folgendermaßen: Wenden Sie *Gewichtung* auf jeden **Marketing-Kanal** an *basierend auf der Zeit* die nach dem *ersten Touchpoint* vergeht, wenn der Kunde konvertiert.
 
@@ -86,7 +99,7 @@ Vor diesem Hintergrund sind hier einige Beispiele, wie sich die ❸ **Attributio
 
 - **Benutzerdefiniert** Sie wählen aus, wer eine Gutschrift erhalten soll.  Es ist Ihre Kampagne!
 
-Weitere Informationen zu diesen und anderen Attributionsmodellen finden Sie [hier](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=de)
+Weitere Informationen zu diesen und anderen Attributionsmodellen finden Sie [hier](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/attribution/models.html?lang=en)
 
 Um dies noch interessanter zu machen, lassen Sie uns über das Zurückdrehen der Uhr sprechen!
 
@@ -122,7 +135,7 @@ Jetzt, da Sie die Konzepte haben, stellen Sie sich vor, Sie führen eine Marketi
 Nachdem Sie nun gesehen haben, was sie kann, lassen Sie sich nicht von den scheinbar komplexen Funktionen des Attributionsbedienfelds täuschen oder einschüchtern.  **Stell dich der Sache**.  *Umarme*.  **Verstehen**.
 ABER VOR ALLEM - *Nutzen Sie es zu Ihrem Vorteil.* Das **Attributionsbedienfeld** und **Lookback-Fenster** sind die Schlüssel für ein tieferes Verständnis Ihrer Kundinnen und Kunden und deren Journey mit Ihrer Marke.
 
-Jetzt können wir mit Zuversicht &quot;[zurück in der &#x200B;](https://youtu.be/gVryJmZNFdU)&quot; reisen und die Leistung unserer vertrauenswürdigen Zeitmaschine (auch ***[!DNL Adobe Analytics]*** genannt) nutzen, um datengesteuerte Entscheidungen zu treffen.
+Jetzt können wir mit Zuversicht &quot;[zurück in der ](https://youtu.be/gVryJmZNFdU)&quot; reisen und die Leistung unserer vertrauenswürdigen Zeitmaschine (auch ***[!DNL Adobe Analytics]*** genannt) nutzen, um datengesteuerte Entscheidungen zu treffen.
 
 ## Autor
 

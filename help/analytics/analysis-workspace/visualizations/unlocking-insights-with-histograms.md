@@ -1,27 +1,40 @@
 ---
-title: Ermöglichen von Einblicken mit Histogrammen; über die Durchschnittswerte hinaus in [!DNL Analytics]
+title: Ermöglichen von Einblicken mit Histogrammen; über die Durchschnittswerte in [!DNL Analytics]
 description: Entdecken Sie die Auswirkungen von Histogrammen in der Analyse für Erkenntnisse, die über Durchschnittswerte hinausgehen.
 feature-set: Analytics
 feature: Visualizations
 role: User
 level: Experienced
 doc-type: Article
-last-substantial-update: 2023-08-18T00:00:00Z
+last-substantial-update: 2023-08-18T00:00:00.000Z
 jira: KT-13833
 thumbnail: KT-13833.jpeg
 exl-id: 46a9dab2-17f8-435e-949c-45d4a60343f0
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c68cd75e-5bca-4bc3-a60e-9e183f816441
+    internal-label: Experience Manager Cloud Manager
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '1105'
 ht-degree: 1%
-
 ---
-
 # Erschließen von Einblicken mit Histogrammen: Über die Durchschnittswerte in [!DNL Analytics]
 
 _Entdecken Sie die Auswirkungen von Histogrammen in Analytics für Einblicke über den Durchschnitt hinaus. Histogramme zeigen Datenmuster beim Kundenverhalten, bei der Besucherinteraktion, bei der technischen Leistung und bei Formularfehlern auf und ermöglichen tiefere Einblicke sowie fundierte Entscheidungen in [!DNL Adobe] Workspace._
 
-Springen wir gleich rein. Sie sollten &quot;[&quot; &#x200B;](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html?lang=de). Ich werde erklären warum, aber ich will Ihre erste Frage beantworten: Was in aller Welt ist ein Histogramm? Ich verstehe. Meistens denkt man, wenn man einige Balken nach oben sieht, dass es ein Balkendiagramm ist. Ja, Histogramme sehen ähnlich aus, aber ich versichere Ihnen, sie sind unterschiedlich. Ein Balkendiagramm vergleicht die Dinge, während ein Histogramm zeigt, wie oft eine Variable aufgetreten ist. Sehen Sie selbst. Hier ist ein Balkendiagramm:
+Springen wir gleich rein. Sie sollten &quot;[&quot; ](https://experienceleague.adobe.com/docs/analytics/analyze/analysis-workspace/visualizations/histogram.html). Ich werde erklären warum, aber ich will Ihre erste Frage beantworten: Was in aller Welt ist ein Histogramm? Ich verstehe. Meistens denkt man, wenn man einige Balken nach oben sieht, dass es ein Balkendiagramm ist. Ja, Histogramme sehen ähnlich aus, aber ich versichere Ihnen, sie sind unterschiedlich. Ein Balkendiagramm vergleicht die Dinge, während ein Histogramm zeigt, wie oft eine Variable aufgetreten ist. Sehen Sie selbst. Hier ist ein Balkendiagramm:
 
 ![Balkendiagramm 1](assets/bar-chart-1.png)
 

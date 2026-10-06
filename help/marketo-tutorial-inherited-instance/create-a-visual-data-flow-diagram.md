@@ -6,17 +6,35 @@ feature: Administration
 role: Admin
 level: Intermediate, Experienced
 doc-type: Tutorial
-last-substantial-update: 2023-10-16T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00.000Z
 jira: KT-13877
 thumbnail: KT-13877.jpeg
 exl-id: 088bdcf1-4e49-44a7-ac78-a03742ff680b
-source-git-commit: d78210c6d6f5ec22430770c752495959303a9519
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c68cd75e-5bca-4bc3-a60e-9e183f816441
+    internal-label: Experience Manager Cloud Manager
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '599'
+source-wordcount: '627'
 ht-degree: 1%
-
 ---
-
 # Erstellen eines Datenflussdiagramms, um den technischen Stapel Ihres Marketing zu verstehen
 
 Als Administrator, der eine [!DNL Marketo Engage] Instanz übernimmt, die seit Jahren live ist, ist es wie eine Mission unmöglich, die Instanz effizient zu überprüfen und aufzuräumen. Als [!DNL Adobe] [!DNL Marketo Champion] (2019), Kelly Jo Horton, in eine alteingesessene Instanz trat, nahm sie diese Herausforderung an, indem sie [ein Diagramm von „Lead und Datenquellen“ erstellte](https://nation.marketo.com/t5/employee-blogs/understand-your-marketing-technology-and-data-create-this/ba-p/296774){target="_blank"} um sich mit dem Datenuniversum vertraut zu machen. In diesem Tutorial erfahren Sie, wie Sie Ihr eigenes Datenflussdiagramm erstellen, indem Sie auf den Beispielen von Kelly Jo Horton aufbauen. Lernen wir Ihr MarTech-Ökosystem kennen!
@@ -25,7 +43,7 @@ Als Administrator, der eine [!DNL Marketo Engage] Instanz übernimmt, die seit J
 
 1. **Machen Sie sich mit dem Marketing-Technologie-Stack vertraut, den Sie von einer Live-Instanz geerbt haben.** Allen Marketing-Operations-Managern/Platform Operations-Managern wird empfohlen, diese Übung durchzuführen, wenn sie bei einem neuen Unternehmen beginnen. Dieser Erstellungsprozess ermöglicht es Admin-Benutzern, sich einen Überblick über die Daten und Aktivitäten zu verschaffen, die von externen Integrationen an [!DNL Marketo Engage] gesendet werden, und API-Fehler einfach zu beheben.
 2. **Machen Sie sich mit den wichtigsten Stakeholdern vertraut, die die externen Integrationen verwalten.** Ein Tipp, den Kelly Jo Horton verwendet, um die Stakeholder schnell zu identifizieren, besteht darin, auf die Liste der API-Benutzer zu verweisen.
-   1. **Navigieren Sie im Abschnitt „Admin“ zur Registerkarte „Integration>LaunchPoint“.** Erfahren Sie mehr darüber, wie Sie zur Registerkarte „LaunchPoint“ navigieren: [Erstellen eines benutzerdefinierten Services zur Verwendung mit der REST-API](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.html?lang=de){target="_blank"}.
+   1. **Navigieren Sie im Abschnitt „Admin“ zur Registerkarte „Integration>LaunchPoint“.** Erfahren Sie mehr darüber, wie Sie zur Registerkarte „LaunchPoint“ navigieren: [Erstellen eines benutzerdefinierten Services zur Verwendung mit der REST-API](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/additional-integrations/create-a-custom-service-for-use-with-rest-api.html){target="_blank"}.
    2. Auf der Registerkarte Integration > Web-Services im Abschnitt API-Aufrufinformationen können Sie API-Nutzungsstatistiken nach API-Benutzer finden. Durch Klicken auf die API-Aufrufnummer können Sie die spezifischen individuellen Aufrufe der einzelnen Benutzenden anzeigen.
 
 ## Wie Sie diese visuelle Datenflussdiagramm-Übung durchführen

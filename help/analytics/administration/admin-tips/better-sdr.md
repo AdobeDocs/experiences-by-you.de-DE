@@ -7,17 +7,30 @@ role: User
 level: Experienced
 doc-type: Article
 duration: 72000
-last-substantial-update: 2024-04-25T00:00:00Z
+last-substantial-update: 2024-04-25T00:00:00.000Z
 jira: KT-15338
 thumbnail: KT-15338.jpeg
 exl-id: 99fcf68f-5698-4270-9055-ab224e6323a1
-source-git-commit: b2e05ff39e065691dda530ed17762a55cf2e6778
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c68cd75e-5bca-4bc3-a60e-9e183f816441
+    internal-label: Experience Manager Cloud Manager
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '1647'
+source-wordcount: '1692'
 ht-degree: 0%
-
 ---
-
 # Aufbau einer Datenkultur und eine bessere Referenz für das Lösungsdesign
 
 _Revolutionieren Sie Ihre Datenstrategie und ermöglichen Sie Ihrem Team die Erstellung eines soliden Referenzdokuments für das Lösungs-Design (Solution Design Reference, SDR). Beseitigung von Messlücken und Förderung einer kollaborativen Datenkultur durch schrittweise Methoden._
@@ -26,7 +39,7 @@ Es ist endlich Zeit. Man stellt eine solide SZR zusammen. Ein SDR ist das Handbu
 
 Von einem Team hört man Klagen wie:
 
-„Warum kann ich die Konversionsrate in diesem Trichter nicht ermitteln?“
+„Warum kann ich die Konversionsrate auf dieser funnel nicht ermitteln?“
 
 „Warum gibt es dafür keine Metrik?“
 
@@ -48,7 +61,7 @@ Ich möchte Ihnen eine Methode vorstellen, die meine Kollegen und ich entwickelt
 
 ## Die Show
 
-_Erfahren Sie mehr über die Messkonferenz. Verwenden Sie eine Trichterkarte, um jeden Schritt Ihres Plans zu visualisieren. Erstellen Sie Pseudo-Dashboards, um sie als Gruppe zu überprüfen. Erstellen Sie ein Datenwörterbuch für Benutzer._
+_Erfahren Sie mehr über die Messkonferenz. Verwenden Sie eine funnel-Karte, um jeden Schritt Ihres Plans zu visualisieren. Erstellen Sie Pseudo-Dashboards, um sie als Gruppe zu überprüfen. Erstellen Sie ein Datenwörterbuch für Benutzer._
 
 ### Die Messkonferenz
 
@@ -59,19 +72,19 @@ _Erfahren Sie mehr über die Messkonferenz. Verwenden Sie eine Trichterkarte, um
 1. Lassen Sie die Stakeholder für Metriken und Dimensionen mit niedrigen Stimmen, die darum gebeten haben, erklären, warum diese Komponenten verwendet werden. Wenn es einen guten Anwendungsfall gibt, behalten Sie diese Komponenten bei. Wenn es eine bessere Möglichkeit gibt, an diese Daten zu gelangen, oder niemand erklären kann, wie diese Daten umsetzbar sind, oder wenn es einen anderen guten Grund gibt, die Metriken und Dimensionen zu entfernen, tun Sie dies.
 1. Fügen Sie diese Metriken und Dimensionen Ihrer SDR hinzu, um eine erste Überprüfung durch die anwesenden Stakeholder durchzuführen.
 
-### Die Trichterkarte
+### Die funnel-Karte
 
 1. Erhalten Sie eine Visualisierung aller Trichter, Schritt für Schritt mit jedem Status enthalten.
-1. Führen Sie mit den Designern und Produkt-Managern jeden Schritt durch und besprechen Sie, was jeder als Erfolg in diesem Trichter betrachtet. Ist es die Konversionsrate? Wählt sie einen bestimmten Pfad? Verwendet es bestimmte Funktionen?
-1. Stellen Sie Fragen dazu, welche Metriken und Dimensionen erforderlich sind, um die Trichterleistung bei jedem Schritt des Trichters und insgesamt zu verstehen.
-1. Fügen Sie über jedem Schritt des Trichters die Metriken und Dimensionen hinzu, die bei diesem Schritt gemessen werden, einschließlich der berechneten Metriken.
-1. Schreiben Sie zu Beginn jedes Trichters die Berichte in das Dashboard, die der Produkt-Manager verwenden kann, um die Leistung zu verfolgen. Diese Berichte enthalten einen [Fallout](https://experienceleague.adobe.com/de/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow), [aktuellen Monat](https://experienceleague.adobe.com/de/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges), [Trend-Konversionsraten](https://experienceleague.adobe.com/de/docs/analytics/analyze/analysis-workspace/visualizations/line) und alles, was speziell für diesen Trichter gilt.
+1. Führen Sie mit den Designern und Produktmanagern jeden Schritt durch und besprechen Sie, was jeder als Erfolg in dieser funnel betrachtet. Ist es die Konversionsrate? Wählt sie einen bestimmten Pfad? Verwendet es bestimmte Funktionen?
+1. Stellen Sie Fragen dazu, welche Metriken und Dimensionen erforderlich sind, um die Leistung von funnel bei jedem Schritt der funnel und insgesamt zu verstehen.
+1. Fügen Sie über jedem Schritt der funnel die Metriken und Dimensionen hinzu, die bei diesem Schritt gemessen werden, einschließlich der berechneten Metriken.
+1. Schreiben Sie zu Beginn jeder funnel die Berichte in das Dashboard, die der Produkt-Manager verwenden kann, um die Leistung zu verfolgen. Diese Berichte enthalten einen [Fallout](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/visualizations/fallout/fallout-flow), [aktuellen Monat](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/components/calendar-date-ranges/custom-date-ranges), [Trend-Konversionsraten](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/visualizations/line) und alles, was für diese funnel spezifischer ist.
 1. Fügen Sie die neuen Metriken und Dimensionen, die Sie erkannt haben, zur SDR hinzu und senden Sie sie zur zweiten Überprüfung an die Stakeholder.
 
 ### Die Vorschau-Dashboards
 
-1. Erstellen Sie Mockup-Dashboards anhand der Trichterzuordnung als Anleitung.
-1. Es sollte eine Gesamtansicht vorhanden sein, z. B[&#x200B; ein &#x200B;](driving-success-with-executive-summary-dashboards.md)Executive Summary Dashboard) und Dashboards für jeden Trichter.
+1. Erstellen Sie Mockup-Dashboards mithilfe der funnel-Zuordnung als Anleitung.
+1. Es sollte eine Gesamtansicht vorhanden sein, z. B[ ein ](driving-success-with-executive-summary-dashboards.md)Executive Summary Dashboard) und Dashboards für jeden Trichter.
 1. Es gibt auch einige spezifischere Optionen für Ihre Site oder Ihr Programm, z. B. Produkt- oder Inhaltsleistung.
 1. Verteilen Sie diese an die relevanten Stakeholder und erhalten Sie Feedback zum Design.
 1. Nehmen Sie die angeforderten Aktualisierungen vor und fügen Sie neue Metriken oder Dimensionen zu Ihrer SDR hinzu, wenn Sie sie benötigen.
@@ -115,7 +128,7 @@ Eigenverantwortlichkeit ist das Produkt eines tiefen Denkens und der Arbeit, die
 
 ### Vereinfachen der Daten
 
-Sie haben ihnen auch gezeigt, wie sie den Prozess verwenden werden und wie er durch die [Vorschau-Dashboards“ aussehen &#x200B;](#the-preview-dashboards). Jede neue Lösung ist _schwer_. Es gibt so viel zu lernen. Und angesichts der enormen Anpassbarkeit von [!DNL Adobe Analytics] kann die Lernkurve steil sein. Sie haben aber 80 % davon entfernt. Noch bevor die erste Code-Zeile geschrieben wurde, wissen Ihre Stakeholder, wie ihre Dashboards aussehen werden. Sie werden wissen, wie sie sie lesen und was sie ihnen bedeuten. Sie wissen, wie Erfolg buchstäblich aussieht, weil sie Ihnen gesagt haben, welche Metriken und Dimensionen Erfolg definieren. Und ihr habt ihnen gesagt, wie dieser Erfolg für sie visualisiert wird. Die Bereitstellung der eigentlichen Dashboards ist eine Auffrischung und keine beängstigende neue Lernaufgabe.
+Sie haben ihnen auch gezeigt, wie sie den Prozess verwenden werden und wie er durch die [Vorschau-Dashboards“ aussehen ](#the-preview-dashboards). Jede neue Lösung ist _schwer_. Es gibt so viel zu lernen. Und angesichts der enormen Anpassbarkeit von [!DNL Adobe Analytics] kann die Lernkurve steil sein. Sie haben aber 80 % davon entfernt. Noch bevor die erste Code-Zeile geschrieben wurde, wissen Ihre Stakeholder, wie ihre Dashboards aussehen werden. Sie werden wissen, wie sie sie lesen und was sie ihnen bedeuten. Sie wissen, wie Erfolg buchstäblich aussieht, weil sie Ihnen gesagt haben, welche Metriken und Dimensionen Erfolg definieren. Und ihr habt ihnen gesagt, wie dieser Erfolg für sie visualisiert wird. Die Bereitstellung der eigentlichen Dashboards ist eine Auffrischung und keine beängstigende neue Lernaufgabe.
 
 Das ist nicht unbedingt der schnellste Weg, um ein SZR zusammenzubekommen. Das ist sehr arbeitsintensiv und erfordert viel Koordination der Zeitpläne, zumal es wichtig ist, dass einige Führungskräfte im Mix sind. Am Ende bedeutet eine Enterprise-Analyselösung jedoch eine enorme Investition von Zeit und Geld, und Sie möchten sicherstellen, dass Akzeptanz und Zufriedenheit hoch sind. Diese Methode trägt viel dazu bei, dass dies geschieht.
 

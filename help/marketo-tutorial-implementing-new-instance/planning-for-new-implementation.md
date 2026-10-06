@@ -10,13 +10,20 @@ last: substantial-update- 2024-05-01
 jira: KT-14808
 thumbnail: KT-14808.jpeg
 exl-id: 65119abd-6f13-4acc-9e99-09843369ad28
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '1194'
 ht-degree: 9%
-
 ---
-
 # Planen einer neuen Marketo Engage-Implementierung
 
 Die Implementierung einer neuen Marketo Engage-Instanz erfordert eine sorgfältige Planung, die Zusammenarbeit zwischen den Teams und eine kontinuierliche Optimierung. Es gibt zwar kein perfektes Rezept für die Implementierung einer neuen Instanz, aber die meisten Marketo Engage-Administratoren, die dies durchlaufen haben, können zustimmen, dass eine vorausschauende Planung den Prozess viel reibungsloser gestalten wird.
@@ -38,7 +45,7 @@ In diesem Tutorial gehen wir auf die spezifischen Meilensteine, Teaminteraktione
 
 ### Phase 3: Erstellung der Programmbibliothek und Einrichtung der Kampagne
 
-- Entwickeln von E-Mail-Vorlagen und Landingpages. Beginnen Sie mit [Importieren von &#x200B;](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program) aus der [Programm-Importbibliothek](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview).
+- Entwickeln von E-Mail-Vorlagen und Landingpages. Beginnen Sie mit [Importieren von ](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/working-with-programs/import-a-program) aus der [Programm-Importbibliothek](https://experienceleague.adobe.com/en/docs/marketo/using/product-docs/core-marketo-concepts/programs/program-library/program-import-library-overview).
 - Einrichten von Segmentierungs- und Personalization-Regeln
 - Erstellen erster Kampagnen für die Lead-Generierung und -Pflege
 
@@ -128,13 +135,13 @@ Die Implementierung einer neuen Instanz erfordert eine sorgfältige Planung und 
 
 Erfahren Sie mehr über Marketo Engage Champion (2019), Kyle McCormick, über seine Onboarding- und Implementierungserfahrungen bei Palotos Networks. Sie erfahren mehr über die Herausforderungen, vor denen er stand, und über seine Ratschläge, wie Sie Ihren Onboarding-Prozess erfolgreich und effizient vorantreiben können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3447939/?captions=ger&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3428771/?quality=12&learn=on)
 
 ## Wie geht es weiter?
 
 Erstellen Sie einen neuen Implementierungsprojektplan und einen neuen Zeitplan. Nachfolgend finden Sie eine Beispiel-Projekt-Zeitleiste mit Abschnitten für Beispiel-Meilensteine, Aufgaben, verantwortliche Teams, Fristen und Abhängigkeiten. Verwenden Sie diese Option, um Ihre Marketo Engage-Implementierungs-Journey zu optimieren und einen erfolgreichen Rollout im gesamten Unternehmen sicherzustellen.
 
-Sie können auch das Beispiel zum Bearbeiten und Tracking bestimmter Meilensteinaufgaben ([) &#x200B;](/help/marketo-tutorial-implementing-new-instance/assets/adobe-marketo-engage-implementation-milestones-project-management-template.xlsx).
+Sie können auch das Beispiel zum Bearbeiten und Tracking bestimmter Meilensteinaufgaben ([) ](/help/marketo-tutorial-implementing-new-instance/assets/adobe-marketo-engage-implementation-milestones-project-management-template.xlsx).
 
 <table>
  <thead>
@@ -294,7 +301,7 @@ Sie können auch das Beispiel zum Bearbeiten und Tracking bestimmter Meilenstein
 >[!NOTE]
 >Die angegebenen Beispiele basieren nicht auf einem echten Implementierungszeitplan. Nutzen Sie diese nicht als Standardzeitplan für Ihr Onboarding mit Marketo Engage, da jede Implementierung mit unterschiedlichen Meilensteinen und Anforderungen entsprechend den Anforderungen Ihres Unternehmens einzigartig ist.
 
-Wenn Sie Hilfe bei der Implementierung und Anpassung Ihrer Marketo Engage für Ihre Instanz benötigen, wenden Sie sich an das Adobe-Accountteam oder wenden Sie sich an [Adobe Professional Services](https://business.adobe.com/de/customers/consulting-services/main.html){target="_blank"}.
+Wenn Sie Hilfe bei der Implementierung und Anpassung Ihrer Marketo Engage für Ihre Instanz benötigen, wenden Sie sich an das Adobe-Accountteam oder wenden Sie sich an [Adobe Professional Services](https://business.adobe.com/customers/consulting-services/main.html){target="_blank"}.
 
 ### Autor
 

@@ -1,6 +1,6 @@
 ---
 title: Etwas mitzureden haben
-description: Etwas mitzureden haben. Diese beliebte Phrase ist seit Jahren ein heißes Thema in der Geschäftswelt. Aber was bedeutet das? Wenn Sie einen Platz am Tisch einnehmen, werden Sie in die Konversionen auf höchster Ebene einbezogen. Sie werden nicht nur eingeladen, sondern Ihr Beitrag wird geschätzt und geschätzt. Ich werde Ihnen zeigen, wie Sie Ihrem Unternehmen und Ihrer Karriere als Administrator helfen können, wenn Sie etwas mitzureden  [!DNL Adobe Analytics] .
+description: Etwas mitzureden haben. Diese beliebte Phrase ist seit Jahren ein heißes Thema in der Geschäftswelt. Aber was bedeutet das? Wenn Sie einen Platz am Tisch einnehmen, werden Sie in die Konversionen auf höchster Ebene einbezogen. Sie werden nicht nur eingeladen, sondern Ihr Beitrag wird geschätzt und geschätzt. Ich werde Ihnen zeigen, wie Ihr Unternehmen und Ihre Karriere als [!DNL Adobe Analytics]-Administrator profitieren, wenn Sie etwas mitzureden haben.
 solution: Analytics
 feature-set: Analytics
 feature: Admin Tools
@@ -10,16 +10,26 @@ level: Experienced
 thumbnail: 342070.jpg
 kt: 10132
 exl-id: fa3190e3-836e-4391-9de6-0b733d55825f
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+    internal-label: Admin Tools
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '1305'
+source-wordcount: '1306'
 ht-degree: 0%
-
 ---
-
 # Etwas mitzureden haben
 
->[!VIDEO](https://video.tv.adobe.com/v/3410291/?captions=ger&quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/342070/?quality=12&learn=on)
 
 „Etwas mitzureden haben.“ Diese beliebte Phrase ist seit Jahren ein heißes Thema in der Geschäftswelt. Aber was bedeutet das? Wenn Sie einen Platz am Tisch einnehmen, werden Sie in die Konversionen auf höchster Ebene einbezogen. Sie werden nicht nur eingeladen, sondern Ihr Beitrag wird geschätzt und geschätzt. Ich werde Ihnen zeigen, wie Ihr Unternehmen und Ihre Karriere als [!DNL Adobe Analytics]-Power-User profitieren, wenn Sie etwas mitzureden haben. Dabei spielt es keine Rolle, ob auf Ihrer Visitenkarte Administrator, Datenanalyst oder eine andere Bezeichnung steht.
 
@@ -44,7 +54,7 @@ Jetzt, da Sie verstehen, warum Sie einbezogen werden müssen, ist es an der Zeit
 * Wird diese Person ein guter Partner sein? Dies ist wahrscheinlich die am schwersten zu beantwortende Frage, könnte aber die wichtigste sein. Am meisten suche ich nach Offenheit und Selbstvertrauen. Berücksichtigt er ernsthaft alternative Standpunkte, wenn er durch stichhaltige Belege untermauert wird? Verfügen sie über das Selbstbewusstsein, das erforderlich ist, um die Anerkennung für gute Arbeit mit ihnen zu teilen? (Denken Sie daran, dass diese Person, wenn Sie nicht am Tisch sitzen, wahrscheinlich die ganze Anerkennung erntet.) Dies sind einige der Fragen, die Sie sich stellen können, wenn Sie nach einem guten Partner suchen.
 * BONUS - Leistet diese Person wirkungsvolle Arbeit? Seien wir ehrlich, nicht jeder leistet wirkungsvolle Arbeit. Es gibt sehr „erfolgreiche“ Personen, die keine spürbare Wirkung auf das Unternehmen haben. Findet jemanden, der etwas bewirkt. Ihre Arbeit wird viel erfüllender sein, wenn Sie bemerken, dass Sie damit etwas verändern können.
 
-Die obigen Fragen sollten dazu beitragen, die Liste einzugrenzen. Mittlerweile sollten Sie ein oder zwei Personen haben, auf die Sie sich für die nächsten beiden Schritte konzentrieren können. Ich werde das Konzept der nächsten beiden Schritte von dem kürzlich geladenen Gast [[!DNL Analytics] Power Hour - Cassie Kozyrkov“ &#x200B;](https://analyticshour.io/2021/12/14/182-making-better-decisions-and-being-useful-with-cassie-kozyrkov/). Sie fasste es so treffend zusammen, als sie sagte, man müsse „nützlich und hervorragend sein“.
+Die obigen Fragen sollten dazu beitragen, die Liste einzugrenzen. Mittlerweile sollten Sie ein oder zwei Personen haben, auf die Sie sich für die nächsten beiden Schritte konzentrieren können. Ich werde das Konzept der nächsten beiden Schritte von dem kürzlich geladenen Gast [[!DNL Analytics] Power Hour - Cassie Kozyrkov“ ](https://analyticshour.io/2021/12/14/182-making-better-decisions-and-being-useful-with-cassie-kozyrkov/). Sie fasste es so treffend zusammen, als sie sagte, man müsse „nützlich und hervorragend sein“.
 
 **Schritt 2: Seien Sie nützlich -** Der nächste Schritt besteht darin herauszufinden, wie Sie den in Schritt 1 identifizierten Entscheidungsträgern so nützlich wie möglich sein können. Wichtig hier ist, sich in ihre Lage zu versetzen. Was kümmert sie das? Worüber machen sie sich Sorgen? Welche Unbekannten können Sie beleuchten, die ihnen helfen, ihre Arbeit besser zu machen?
 

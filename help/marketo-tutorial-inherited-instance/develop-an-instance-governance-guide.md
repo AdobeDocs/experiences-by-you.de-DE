@@ -1,25 +1,43 @@
 ---
 title: Entwickeln eines Instanz-Governance-Handbuchs mit Dokumentation
-description: Erfahren Sie, wie Sie ein robustes Verfahren für das Erstellen und Verwalten der Dokumentation und des Änderungsprotokolls für Ihre Instanz  [!DNL Marketo Engage] .
+description: Erfahren Sie, wie Sie ein robustes Verfahren zum Erstellen und Verwalten der Dokumentation und des Änderungsprotokolls für Ihre [!DNL Marketo Engage]-Instanz einrichten.
 feature-set: Marketo Engage
 feature: Administration
 role: Admin
 level: Intermediate, Experienced
 doc-type: Tutorial
-last-substantial-update: 2023-10-16T00:00:00Z
+last-substantial-update: 2023-10-16T00:00:00.000Z
 jira: KT-14103
 thumbnail: KT-14103.jpeg
 exl-id: e127b84d-ef92-4527-a0e6-a36af35b7ee0
-source-git-commit: d78210c6d6f5ec22430770c752495959303a9519
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c68cd75e-5bca-4bc3-a60e-9e183f816441
+    internal-label: Experience Manager Cloud Manager
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+feature_v2:
+  - id: d1d0a9cd-295d-4976-8c39-ddae266f240e
+    internal-label: Administration
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: b5a62a22-46f7-4f0d-b151-3fc640bef588
+    internal-label: Intermediate
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '936'
+source-wordcount: '937'
 ht-degree: 1%
-
 ---
-
 # Entwickeln eines Instanz-Governance-Handbuchs mit Dokumentation
 
-Wenn Sie eine ältere [!DNL Marketo Engage]-Instanz betreten, ist dies oft mit der Herausforderung verbunden, dass es an aktueller funktionaler und technischer Dokumentation fehlt. Als Administrator ist das Erstellen von Richtlinien zur Sicherstellung einer ordnungsgemäßen Instanz-Governance eine zentrale Aufgabe, die nicht übersehen werden darf. Dies ist eine der kritischen Strategien zur [&#x200B; der Effizienz während der Arbeit in einer etablierten  [!DNL Marketo Engage] Instanz](https://nation.marketo.com/t5/champion-program-blogs/3-tips-to-increase-your-efficiency-in-an-inherited-instance/ba-p/247582).
+Wenn Sie eine ältere [!DNL Marketo Engage]-Instanz betreten, ist dies oft mit der Herausforderung verbunden, dass es an aktueller funktionaler und technischer Dokumentation fehlt. Als Administrator ist das Erstellen von Richtlinien zur Sicherstellung einer ordnungsgemäßen Instanz-Governance eine zentrale Aufgabe, die nicht übersehen werden darf. Dies ist eine der kritischen Strategien zur [ der Effizienz während der Arbeit in einer etablierten  [!DNL Marketo Engage] Instanz](https://nation.marketo.com/t5/champion-program-blogs/3-tips-to-increase-your-efficiency-in-an-inherited-instance/ba-p/247582).
 
 Dieses Schritt-für-Schritt-Tutorial von [!DNL [!DNL Adobe] Marketo Champion] (2018), Nick Hajdin, führt Sie durch diesen Prozess, um die Einrichtung Ihrer Instanz zu umreißen, Ihre wichtigsten operativen Programme zu dokumentieren und eine [!DNL changelog] zur Durchsetzung einer strikten Governance-Richtlinie zu pflegen.
 
@@ -29,7 +47,7 @@ Detaillierte Dokumentationen und ein [!UICONTROL Änderungsprotokoll] sind für 
 
 1. Schulung interner Benutzer einfacher und skalierbar.
 2. Langfristig effizienter in [!DNL Marketo Engage] aufbauen.
-3. Pflegen Sie den Zustand und die Hygiene Ihrer Instanz, um künftig Zeit zu sparen, damit Sie nicht stundenlang E-Mails, [Audit-Protokoll](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html?lang=de) und [Aktivitätsprotokoll](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.html?lang=de) durchforsten müssen.
+3. Pflegen Sie den Zustand und die Hygiene Ihrer Instanz, um künftig Zeit zu sparen, damit Sie nicht stundenlang E-Mails, [Audit-Protokoll](https://experienceleague.adobe.com/docs/marketo/using/product-docs/administration/audit-trail/audit-trail-overview.html) und [Aktivitätsprotokoll](https://experienceleague.adobe.com/docs/marketo/using/product-docs/core-marketo-concepts/smart-lists-and-static-lists/managing-people-in-smart-lists/locate-the-activity-log-for-a-person.html) durchforsten müssen.
 4. Sparen Sie Zeit bei der Übertragung [!DNL Marketo Engage] Wissens an einen neuen [!DNL Marketo Engage], wenn Ihr Team Fluktuation erlebt.
 
 ## [!DNL Marketo Engage]-Governance-Handbuch 101
@@ -54,22 +72,22 @@ Ein Governance-Handbuch dient als Quell der Wahrheit über die Einrichtung der I
 Das Format variiert von einer Cloud-basierten Plattform zu einem freigegebenen Dokument. Sie können das Format entwerfen, das den Anforderungen Ihres Unternehmens entspricht. [Hier finden Sie eine einfache Dokumentation und eine Excel](/help/marketo-tutorial-inherited-instance/_assets/downloads/Adobe_Marketo_Engage_Inherited_Instance_Documentation-Changlog.xlsx)Änderungsprotokollvorlage, die die wichtigen Elemente abdeckt, mit denen Sie beginnen können. Dazu gehören:
 
 * Dokumentation
-   * Name der Programmvorlage
-   * Kanal
-   * Erstellt am
-   * Erstellt von
-   * Zweck des Programms
-   * Status
-   * Verknüpfung zu Programmvorlage
-   * Hinweis
+  * Name der Programmvorlage
+  * Kanal
+  * Erstellt am
+  * Erstellt von
+  * Zweck des Programms
+  * Status
+  * Verknüpfung zu Programmvorlage
+  * Hinweis
 * Änderungsprotokoll
-   * Name der Programmvorlage
-   * Änderungsdatum
-   * Aktualisiert von
-   * Zweck der Aktualisierung
-   * Erlebnis vor Änderung (einschließlich Links/Screenshots)
-   * Erlebnis nach Änderung (einschließlich Links/Screenshots)
-   * URL für Programm
+  * Name der Programmvorlage
+  * Änderungsdatum
+  * Aktualisiert von
+  * Zweck der Aktualisierung
+  * Erlebnis vor Änderung (einschließlich Links/Screenshots)
+  * Erlebnis nach Änderung (einschließlich Links/Screenshots)
+  * URL für Programm
 
 ### Schritt 3: Identifizieren und dokumentieren Sie den aktuellen Stand der primären operationellen Programme
 
@@ -77,7 +95,7 @@ Ermitteln Sie zunächst die wichtigsten operationellen Programme mit Auswirkunge
 
 Dokumentieren Sie für jedes ermittelte operationelle Programm seinen aktuellen Stand. Dazu gehören Details über den Zweck des Programms, die Einrichtung, zugehörige intelligente Kampagnen und die Integration mit anderen Tools (falls zutreffend).
 
-### Schritt 4: [!UICONTROL &#x200B; der &#x200B;] erzwingen
+### Schritt 4: [!UICONTROL  der ] erzwingen
 
 Der nächste Schritt besteht darin, eine strikte Governance-Richtlinie für Ihre [!DNL Marketo Engage]-Instanz festzulegen, die die Wartung [!UICONTROL Änderungsprotokolls] erfordert. Diese Richtlinie stellt sicher, dass alle Aktualisierungen an operationellen Programmen in der gesamten Instanz sorgfältig dokumentiert werden.
 
