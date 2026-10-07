@@ -1,6 +1,6 @@
 ---
-title: Umfassende Anleitung für den Wechsel von  [!DNL Adobe Analytics]  zu Google [!DNL Analytics]
-description: Erfahren Sie, wo äquivalente Funktionen zu finden sind und wie Sie diese beim Wechsel von Google  [!DNL Analytics]  effizient nutzen können [!DNL Adobe Analytics]
+title: Umfassende Anleitung für den Wechsel von Google [!DNL Analytics] zu [!DNL Adobe Analytics]
+description: Erfahren Sie, wo äquivalente Funktionen zu finden sind und wie Sie diese beim Wechsel von Google [!DNL Analytics] zu [!DNL Adobe Analytics] effizient nutzen können
 solution: Analytics
 feature: Third-party Integration
 role: User
@@ -8,13 +8,26 @@ level: Beginner
 kt: 9830
 thumbnail: 34749.jpg
 exl-id: 646bdc8f-c95e-40be-b2f7-8e4ba5653d91
-source-git-commit: 02e3a6dfa59df45113242bd8e874e18e9e1efd58
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: eb9732ab-8232-4b21-bc4c-89de86dbe4d7
+    internal-label: Integrations
+subfeature_v2:
+  - id: 518ed3bf-6fcd-5452-90d0-bba80603b0d5
+    internal-label: Third-party Integration
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '3354'
+source-wordcount: '3364'
 ht-degree: 1%
-
 ---
-
 # Umfassende Anleitung für den Wechsel von Google [!DNL Analytics] zu [!DNL Adobe Analytics]{#comprehensive-guide-for-transitioning-to-adobe-analytics}
 
 ## &#x200B;1. Einführung
@@ -94,19 +107,19 @@ Benutzern stehen eine Vielzahl von Visualisierungen zur Verfügung:
 * Fallout
 * Fluss
 * Diagramme
-   * Bereich (gestapelt und ungestapelt)
-   * Zeile
-   * Streuung
-   * Balken (gestapelt und ungestapelt)
-   * Horizontales Säulendiagramm
-   * Ringdiagramm
-   * Histogramm
-   * Horizontalbalken (gestapelt und ungestapelt)
+  * Bereich (gestapelt und ungestapelt)
+  * Zeile
+  * Streuung
+  * Balken (gestapelt und ungestapelt)
+  * Horizontales Säulendiagramm
+  * Ringdiagramm
+  * Histogramm
+  * Horizontalbalken (gestapelt und ungestapelt)
 * Zuordnung
 * Zusammenfassungsblöcke
-   * Zusammenfassungsänderung
-   * Zusammenfassender Text
-   * Text (freies Textfeld zur Eingabe zusätzlicher Informationen, um den Kontext zu verdeutlichen)
+  * Zusammenfassungsänderung
+  * Zusammenfassender Text
+  * Text (freies Textfeld zur Eingabe zusätzlicher Informationen, um den Kontext zu verdeutlichen)
 * Venn
 
 Jeder Bereich und jede Visualisierung kann betitelt und mit einer Beschreibung versehen werden, um den Kontext der angezeigten Informationen zu verdeutlichen.

@@ -1,6 +1,6 @@
 ---
 title: Wie man eine gestärkte Community aufbaut
-description: Erfahren Sie mehr über den Aufbau einer starken Community. Eine leistungsfähige Community wird von ihren  [!DNL Adobe Analytics]  unterstützt, kennt sich aus damit, wie geschäftliche Anforderungen innerhalb ihrer Implementierung dargestellt werden, und verfügt über die Mittel, Analysen auf vertrauliche Weise für datengestützte Entscheidungsfindungen zu nutzen.
+description: Erfahren Sie mehr über den Aufbau einer starken Community. Eine leistungsfähige Community wird von ihren [!DNL Adobe Analytics]-Administratoren unterstützt, kennt sich aus damit, wie geschäftliche Anforderungen innerhalb ihrer Implementierung dargestellt werden, und verfügt über die Mittel, Analysen auf vertrauliche Weise für datengestützte Entscheidungsfindungen zu nutzen.
 solution: Analytics
 feature-set: Analytics
 feature: Admin Tools
@@ -12,13 +12,23 @@ level: Experienced
 thumbnail: 340457.jpg
 kt: 9780
 exl-id: 0e45d8ba-a08d-4b5d-8a12-326e01c29505
-source-git-commit: efd84b4fa04ca4d7bd8f4b8b5ad69b6a24f5e8c6
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+    internal-label: Admin Tools
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '1574'
+source-wordcount: '1575'
 ht-degree: 2%
-
 ---
-
 # Aufbau einer gestärkten Community
 
 >[!VIDEO](https://video.tv.adobe.com/v/341111/?captions=ger&quality=12&learn=on)
@@ -53,13 +63,13 @@ Sie können innerhalb Ihrer Organisation eine gestärkte Community aufbauen. So 
 
 * Legen Sie fest, wer beteiligt ist und welche Rollen und Verantwortlichkeiten es gibt:
 
-   * **Projektteam für die Verwaltung:** Das Team, das die Benutzergruppe oder Community des Unternehmens verwaltet, ist in der Regel für die Definition der Opportunity verantwortlich, z. B. über eine Projektcharta, die Erstellung des Inhaltsplans (zumindest anfangs) und die Festlegung der Kommunikationsmittel (z. B. Microsoft®-Team, E-Mail-Verteilung, vierteljährlicher Aufruf usw.).
+  * **Projektteam für die Verwaltung:** Das Team, das die Benutzergruppe oder Community des Unternehmens verwaltet, ist in der Regel für die Definition der Opportunity verantwortlich, z. B. über eine Projektcharta, die Erstellung des Inhaltsplans (zumindest anfangs) und die Festlegung der Kommunikationsmittel (z. B. Microsoft®-Team, E-Mail-Verteilung, vierteljährlicher Aufruf usw.).
 
-   * **Sponsor aus der Führungsebene:** Es ist von entscheidender Bedeutung, einen Sponsor aus der Führungsebene zu haben, der den Erfolg der internen Benutzergruppe oder Community Ihres Unternehmens unterstützt. Diese Rolle ist für die Unterstützung von Meilensteinen, die Kommunikation, die Sicherstellung der Priorisierung innerhalb des gesamten Teams und das Änderungs-Management von entscheidender Bedeutung.
+  * **Sponsor aus der Führungsebene:** Es ist von entscheidender Bedeutung, einen Sponsor aus der Führungsebene zu haben, der den Erfolg der internen Benutzergruppe oder Community Ihres Unternehmens unterstützt. Diese Rolle ist für die Unterstützung von Meilensteinen, die Kommunikation, die Sicherstellung der Priorisierung innerhalb des gesamten Teams und das Änderungs-Management von entscheidender Bedeutung.
 
-   * **Zuständigkeiten für unterstützende Funktionen:** Je nach Größe und Struktur Ihres Unternehmens kann es von Vorteil sein, Teams wie Web-Entwicklung, Personalization, Tests usw. einzubinden.
+  * **Zuständigkeiten für unterstützende Funktionen:** Je nach Größe und Struktur Ihres Unternehmens kann es von Vorteil sein, Teams wie Web-Entwicklung, Personalization, Tests usw. einzubinden.
 
-   * **Tool-Benutzer** Jeder, der das Potenzial hat, Daten zu beeinflussen, die auf die [!DNL Adobe Analytics] Implementierung Ihres Unternehmens ausgerichtet sind, hat die Möglichkeit, sich zu beteiligen - unabhängig von Titel oder Rolle!
+  * **Tool-Benutzer** Jeder, der das Potenzial hat, Daten zu beeinflussen, die auf die [!DNL Adobe Analytics] Implementierung Ihres Unternehmens ausgerichtet sind, hat die Möglichkeit, sich zu beteiligen - unabhängig von Titel oder Rolle!
 
 * Denken Sie daran: „Was ist für sie drin?“ Wenn Sie Ihre Community auf geschäftliche Anwendungsfälle und Prioritäten ausrichten, können Sie Interaktion und Erfolg sicherstellen!
 
@@ -69,25 +79,25 @@ Sie können innerhalb Ihrer Organisation eine gestärkte Community aufbauen. So 
 
   Eine Projektcharta ist oft eine gute Möglichkeit, Ihr Unternehmen auf die Möglichkeit einer internen, leistungsfähigen Community auszurichten. Wenn Sie die folgenden Fragen beantworten, haben Sie das, was Sie für den Entwurf Ihrer Charta benötigen:
 
-   * Was ist die Problemstellung, die Sie zu lösen versuchen? Was ist das Ziel Ihrer Community und was sehen Sie als innerhalb oder außerhalb des Projektumfangs liegend an?
-   * „Was ist für mich drin?“ Welches sind die potenziellen Vorteile oder Kosten, wie lässt sich der Erfolg messen, und welche Risiken bestehen?
-   * Wie lange dauert es, bis eine Community live gehen kann? Welche Einrichtungsarbeiten sind aus Sicht der Einarbeitung, des Tools, der Admin-Benutzergruppen usw. erforderlich? In der Regel ist es am besten, Basisressourcen für die Einarbeitung zu entwickeln, bevor eine größere Initiative gestartet wird.
-   * Wie wirksam werden die Mitglieder des Kernteams für den Erfolg der Community sein, und wer wird im Rahmen der Initiative unterstützt?
-   * Und schließlich: Wer ist Ihr Executive Sponsor? Wir können nicht genug betonen, wie wichtig es ist, einen starken Sponsor in der Führungsebene zu haben, jemanden, der die Arbeit und ihren Wert befürwortet.
+  * Was ist die Problemstellung, die Sie zu lösen versuchen? Was ist das Ziel Ihrer Community und was sehen Sie als innerhalb oder außerhalb des Projektumfangs liegend an?
+  * „Was ist für mich drin?“ Welches sind die potenziellen Vorteile oder Kosten, wie lässt sich der Erfolg messen, und welche Risiken bestehen?
+  * Wie lange dauert es, bis eine Community live gehen kann? Welche Einrichtungsarbeiten sind aus Sicht der Einarbeitung, des Tools, der Admin-Benutzergruppen usw. erforderlich? In der Regel ist es am besten, Basisressourcen für die Einarbeitung zu entwickeln, bevor eine größere Initiative gestartet wird.
+  * Wie wirksam werden die Mitglieder des Kernteams für den Erfolg der Community sein, und wer wird im Rahmen der Initiative unterstützt?
+  * Und schließlich: Wer ist Ihr Executive Sponsor? Wir können nicht genug betonen, wie wichtig es ist, einen starken Sponsor in der Führungsebene zu haben, jemanden, der die Arbeit und ihren Wert befürwortet.
 
 * Inhaltsplan erstellen - Ihre Community wird zwar auch Ideen für Inhalte für Sie haben, aber Sie sollten auch Ideen haben, um die Interaktion zu fördern. Eine gute Faustregel ist, dass zu einem bestimmten Zeitpunkt mindestens 6-12 Monate an Inhalten erstellt werden.
 
-   * Gibt es Themen, die mit größeren Geschäftsinitiativen verknüpft sein könnten, z. B. wichtigen Ereignissen, größeren Programmen, Planungszeiträumen usw.?
-   * Wer ist am besten geeignet, um über solche Themen zu sprechen? Wie könnten sie von der Interaktion mit der Community profitieren?
-   * Welche Inhalte sollte die Präsentation idealerweise enthalten und welche Fragen könnte sie beantworten?
+  * Gibt es Themen, die mit größeren Geschäftsinitiativen verknüpft sein könnten, z. B. wichtigen Ereignissen, größeren Programmen, Planungszeiträumen usw.?
+  * Wer ist am besten geeignet, um über solche Themen zu sprechen? Wie könnten sie von der Interaktion mit der Community profitieren?
+  * Welche Inhalte sollte die Präsentation idealerweise enthalten und welche Fragen könnte sie beantworten?
 
 * Kommunikationsplan erstellen - Ein solider Kommunikationsplan ist der Schlüssel zur Interaktion mit Ihrer Community und zum Gesamterfolg. Bei der Erstellung Ihres Plans sollten Sie unter anderem folgende Fragen berücksichtigen:
 
-   * Welche Teams werden von Ihrer Community betroffen sein, wer ist Ihre Zielgruppe (z. B. Führungskräfte, Manager, Frontline-Analysten)?
-   * Welches sind die Schwerpunkte Ihrer Botschaften, welche Botschaften werden benötigt, was ist für Ihre Zielgruppe (WIFM) drin und welche Anfragen haben Sie?
-   * Welche Kommunikationsmittel sollten vor oder nach dem Start der Community eingesetzt werden (z. B. E-Mail, Slack, Video, Meetings usw.)? Werden Sie beispielsweise E-Mails über das [!DNL Adobe Analytics] Admin-Tool senden? Oder sollte Ihr Onboarding-Prozess für neue Benutzer jetzt die Pflege einer internen E-Mail-Verteilerliste umfassen, die für Newsletter usw. verwendet werden kann?
-   * Wer wird Nachrichten versenden?
-   * Wann? Es ist wichtig, sowohl die Kommunikation vor dem Start der Community als auch die fortlaufende Kommunikation nach dem Start zu berücksichtigen.
+  * Welche Teams werden von Ihrer Community betroffen sein, wer ist Ihre Zielgruppe (z. B. Führungskräfte, Manager, Frontline-Analysten)?
+  * Welches sind die Schwerpunkte Ihrer Botschaften, welche Botschaften werden benötigt, was ist für Ihre Zielgruppe (WIFM) drin und welche Anfragen haben Sie?
+  * Welche Kommunikationsmittel sollten vor oder nach dem Start der Community eingesetzt werden (z. B. E-Mail, Slack, Video, Meetings usw.)? Werden Sie beispielsweise E-Mails über das [!DNL Adobe Analytics] Admin-Tool senden? Oder sollte Ihr Onboarding-Prozess für neue Benutzer jetzt die Pflege einer internen E-Mail-Verteilerliste umfassen, die für Newsletter usw. verwendet werden kann?
+  * Wer wird Nachrichten versenden?
+  * Wann? Es ist wichtig, sowohl die Kommunikation vor dem Start der Community als auch die fortlaufende Kommunikation nach dem Start zu berücksichtigen.
 
 * Nutzen Sie Ihr Community-Fahrzeug, um live zu gehen! Je nach Technologie-Stack Ihres Unternehmens sollten Sie auch ein Tool oder ein Vehikel für Ihre Community auswählen. Dies wird für Ihr Unternehmen individuell festgelegt, aber viele finden, dass Microsoft Teams gut funktioniert.
 
@@ -95,9 +105,9 @@ Sie können innerhalb Ihrer Organisation eine gestärkte Community aufbauen. So 
 
 * Zeit reservieren - Fügen Sie Community-Meetings zu Kalendern hinzu, um die Zeit im Voraus zu blockieren. Wiederkehrende Meetings sind nach Möglichkeit eine gute Idee und helfen dabei, Ihren Content-Plan umzusetzen. Im Folgenden finden Sie einige Ideen für die Agenda, die Ihnen bei den ersten Schritten helfen können:
 
-   * Wenn Ihr Unternehmen virtuelle Events durchführt, welche digitalen Erkenntnisse und Einblicke können auf breiterer Basis geteilt werden?
-   * Wenn Ihre Website interaktive Tools verwendet (z. B. Chatbots, Sparrechner, Demos usw.), wie werden die Leistungsdaten genutzt? Welche Erkenntnisse können gewonnen werden, um Kunden und die Kunden-Journey besser zu unterstützen?
-   * Wie nutzt Ihr Unternehmen die vorhandenen Funktionen, um die Erkenntnisse zur Zielgruppe zu verbessern und zu nutzen? Nutzt Ihr Unternehmen beispielsweise die neue Integration von [!DNL Adobe Analytics] und Marketo? Welche Erkenntnisse und Einblicke können auf breiterer Basis geteilt werden?
+  * Wenn Ihr Unternehmen virtuelle Events durchführt, welche digitalen Erkenntnisse und Einblicke können auf breiterer Basis geteilt werden?
+  * Wenn Ihre Website interaktive Tools verwendet (z. B. Chatbots, Sparrechner, Demos usw.), wie werden die Leistungsdaten genutzt? Welche Erkenntnisse können gewonnen werden, um Kunden und die Kunden-Journey besser zu unterstützen?
+  * Wie nutzt Ihr Unternehmen die vorhandenen Funktionen, um die Erkenntnisse zur Zielgruppe zu verbessern und zu nutzen? Nutzt Ihr Unternehmen beispielsweise die neue Integration von [!DNL Adobe Analytics] und Marketo? Welche Erkenntnisse und Einblicke können auf breiterer Basis geteilt werden?
 
 * Erwartungen definieren - Nutzen Sie weiterhin Ihren Projekt- und Kommunikationsplan, um die Erwartungen zu definieren, was Ihre Community ist und was nicht. Entscheidend ist die Konsistenz!
 * Interaktion planen - In der Anfangsphase der Community kann es von Vorteil sein, jemanden zu bestimmen, der Teams überwacht und während Meetings und über die Kommunikationsmittel der Community mit ihnen interagiert.

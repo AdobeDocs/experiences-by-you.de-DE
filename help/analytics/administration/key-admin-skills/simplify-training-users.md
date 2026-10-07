@@ -1,6 +1,6 @@
 ---
 title: Tipps und Tricks dazu, wie Sie die Einarbeitung von Benutzern vereinfachen und verkürzen können
-description: Entscheidend für den Aufbau einer Kultur der datengesteuerten Entscheidungsfindung  [!DNL Adobe Analytics]  es, sicherzustellen, dass die Geschäftsbenutzer in Ihrem Unternehmen gut geschult sind. Benutzer, die problemlos Informationen in finden [!DNL Adobe Analytics]  können einfache Geschäftsfragen selbst beantworten, sodass Analysten mehr Zeit für die Beantwortung herausfordernder Geschäftsfragen haben. Die Weitergabe Ihres Wissens trägt zur Förderung der Datendemokratie bei und ermöglicht es Geschäftsbenutzern, bei leistungsbasierten Entscheidungen unabhängiger zu sein.
+description: Entscheidend für den Aufbau einer Kultur datengestützter Entscheidungsfindung ist es, sicherzustellen, dass die Geschäftsanwender in Ihrem Unternehmen über gut geschulte [!DNL Adobe Analytics] verfügen. Benutzer, die in [!DNL Adobe Analytics] leicht Informationen finden können, können einfache Geschäftsfragen selbst beantworten, sodass Analysten mehr Zeit für die Beantwortung herausfordernder Geschäftsfragen haben. Die Weitergabe Ihres Wissens trägt zur Förderung der Datendemokratie bei und ermöglicht es Geschäftsbenutzern, bei leistungsbasierten Entscheidungen unabhängiger zu sein.
 solution: Analytics
 feature-set: Analytics
 feature: Admin Tools
@@ -11,13 +11,23 @@ level: Experienced
 thumbnail: 340458.jpg
 kt: 9779
 exl-id: 9ceef641-3509-4e5e-8c44-bc76502e389b
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+    internal-label: Admin Tools
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '903'
+source-wordcount: '905'
 ht-degree: 0%
-
 ---
-
 # Tipps und Tricks dazu, wie Sie die Einarbeitung von Benutzern vereinfachen und verkürzen können
 
 >[!VIDEO](https://video.tv.adobe.com/v/341102/?captions=ger&quality=12&learn=on)

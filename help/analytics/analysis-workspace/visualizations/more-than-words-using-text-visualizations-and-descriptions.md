@@ -6,17 +6,30 @@ feature: Visualizations
 role: User
 level: Beginner
 doc-type: Article
-last-substantial-update: 2023-05-16T00:00:00Z
+last-substantial-update: 2023-05-16T00:00:00.000Z
 jira: KT-13267
 thumbnail: KT-13267.jpeg
 exl-id: ddcffb53-bcfb-4fc4-858a-ae191285fe66
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+product_v2:
+  - id: fd1f54a9-f50c-467d-8956-cebbaf4f3eb8
+    internal-label: Experience Manager
+  - id: c68cd75e-5bca-4bc3-a60e-9e183f816441
+    internal-label: Experience Manager Cloud Manager
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+  - id: dfc56824-e8b9-499e-85d4-21aedb507314
+    internal-label: Campaign
+role_v2:
+  - id: b69b2659-1057-424e-8fc5-ed9e016dc554
+    internal-label: User
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '487'
+source-wordcount: '491'
 ht-degree: 0%
-
 ---
-
 # Mehr als nur Wörter - Verwenden von Textvisualisierungen und Beschreibungen in Analysis Workspace
 
 Als [!DNL Adobe Analytics] Analysis Workspace-Anwender ist es normal, dass Ihr Fokus oft auf Ihre Daten und Datenvisualisierungen gerichtet ist - jeder kann eine Zusammenfassung eingeben, nicht wahr? Wenn Sie jedoch Funktionen in Analysis Workspace wie die Textvisualisierung oder die Visualisierungsbeschreibungen übersehen, kann dies bedeuten, dass Sie eine wertvolle Gelegenheit verpassen, Ihre Einblicke mit wertvollem Text, Bildern, GIFs und Links zu kombinieren. Indem Sie Verweise und mehr Kontext bereitstellen, um Ihre Benutzer über die Bedeutung Ihrer Daten zu informieren, können diese effektiver und wirkungsvoller werden.
@@ -48,13 +61,13 @@ Wenn Sie es vorziehen, den Inhalt direkt in Ihren Bericht einzufügen, können S
 
 ![Text 06](assets/t06.png)
 
-Sie können ein Bild zu Ihrem Bericht hinzufügen, auf das über eine beliebige öffentliche URL zugegriffen werden kann, sofern die URL im *https*-Format vorliegt und als .png, .jpeg, .jpg oder .gif formatiert ist. Dies kann zwar restriktiv klingen, aber alle Online-Tools zum Freigeben von Bildern oder GIF wie imgur oder GIPHY können eine schnelle Methode zum Hochladen von Workspace-zugänglichen Dateien über einen Freigabe-Link bereitstellen.
+Sie können ein Bild zu Ihrem Bericht hinzufügen, auf das über eine beliebige öffentliche URL zugegriffen werden kann, sofern die URL im *https*-Format vorliegt und als .png, .jpeg, .jpg oder .gif formatiert ist. Dies kann zwar restriktiv klingen, aber alle Online-Tools zum Freigeben von Bildern oder GIFs wie imgur oder GIPHY können eine schnelle Methode zum Hochladen von Dateien bereitstellen, auf die über Workspace zugegriffen werden kann, indem ein Freigabe-Link verwendet wird.
 
 Das Ergebnis? Sie können die Webseite anzeigen, auf die Ihre Daten direkt in Ihrem Projekt verweisen:
 
 ![Text 07](assets/t07.png)
 
-Sie können GIF in Ihren Projekten auch verwenden, um bewegte Bilder wie eine Site-exemplarische Vorgehensweise, einen Idealpfad durch Ihre Site oder eine Aufgabe in Ihre App einzuschließen, oder einfach Ihrem Team zeigen, wie ***überwältigend*** Ihre Berichte jetzt geworden sind:
+Sie können GIFs auch in Ihren Projekten verwenden, um bewegte Bilder wie eine Site-exemplarische Vorgehensweise, einen idealen Pfad durch Ihre Site oder eine Aufgabe in Ihre App einzuschließen, oder einfach Ihrem Team zeigen, wie ***überwältigend*** Ihre Berichte jetzt geworden sind:
 
 ![Text 08](assets/t08.png)
 

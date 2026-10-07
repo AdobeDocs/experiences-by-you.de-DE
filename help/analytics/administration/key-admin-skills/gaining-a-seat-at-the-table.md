@@ -1,6 +1,6 @@
 ---
 title: Etwas mitzureden haben
-description: Etwas mitzureden haben. Diese beliebte Phrase ist seit Jahren ein heißes Thema in der Geschäftswelt. Aber was bedeutet das? Wenn Sie einen Platz am Tisch einnehmen, werden Sie in die Konversionen auf höchster Ebene einbezogen. Sie werden nicht nur eingeladen, sondern Ihr Beitrag wird geschätzt und geschätzt. Ich werde Ihnen zeigen, wie Sie Ihrem Unternehmen und Ihrer Karriere als Administrator helfen können, wenn Sie etwas mitzureden  [!DNL Adobe Analytics] .
+description: Etwas mitzureden haben. Diese beliebte Phrase ist seit Jahren ein heißes Thema in der Geschäftswelt. Aber was bedeutet das? Wenn Sie einen Platz am Tisch einnehmen, werden Sie in die Konversionen auf höchster Ebene einbezogen. Sie werden nicht nur eingeladen, sondern Ihr Beitrag wird geschätzt und geschätzt. Ich werde Ihnen zeigen, wie Ihr Unternehmen und Ihre Karriere als [!DNL Adobe Analytics]-Administrator profitieren, wenn Sie etwas mitzureden haben.
 solution: Analytics
 feature-set: Analytics
 feature: Admin Tools
@@ -10,13 +10,23 @@ level: Experienced
 thumbnail: 342070.jpg
 kt: 10132
 exl-id: fa3190e3-836e-4391-9de6-0b733d55825f
-source-git-commit: 058d26bd99ab060df3633fb32f1232f534881ca4
+product_v2:
+  - id: e55547f1-a1ff-40c6-8978-026e40ab7fa4
+    internal-label: Analytics
+feature_v2:
+  - id: ff9b434a-2221-4df7-81d1-5bcbf5f80bce
+    internal-label: Admin Tools
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: d378ca77-2da1-4f39-ad92-1917fe974a38
+    internal-label: Experienced
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
-source-wordcount: '1305'
+source-wordcount: '1306'
 ht-degree: 0%
-
 ---
-
 # Etwas mitzureden haben
 
 >[!VIDEO](https://video.tv.adobe.com/v/3410291/?captions=ger&quality=12&learn=on)

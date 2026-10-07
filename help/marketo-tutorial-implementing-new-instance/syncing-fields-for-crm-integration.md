@@ -6,17 +6,24 @@ level: Beginner
 doc-type: Article
 solution: Marketo Engage
 duration: 0
-last-substantial-update: 2024-05-04T00:00:00Z
+last-substantial-update: 2024-05-04T00:00:00.000Z
 jira: KT-14811
 thumbnail: KT-14811.jpeg
 exl-id: 42b7ca3d-e445-4c11-ad3d-d4e70c101c8e
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '2235'
 ht-degree: 0%
-
 ---
-
 # Synchronisieren von Feldern für die nativen CRM-Connectoren
 
 Verwenden Sie Salesforce oder Microsoft Dynamics in Ihrem Unternehmen? Wenn ja, können Sie mit den nativen CRM-Connectoren von Marketo Engage (d. h. Salesforce, Microsoft Dynamics und Veeva) Marketing- und Vertriebsaktivitäten koordinieren, indem Sie relevante Informationen nahtlos zwischen Marketo Engage und CRM austauschen. Bevor Sie die anfängliche CRM-Synchronisierung konfigurieren, stellen Sie sicher, dass Sie die Felder identifizieren, die Sie zwischen den beiden Systemen synchronisieren möchten, um Ihre Marketo Engage-Datenbank sauber zu halten.
@@ -56,10 +63,10 @@ Im Allgemeinen empfiehlt es sich, nur CRM-Felder zu synchronisieren, die für Ma
 
 * Da Marketo Engage eine flache Datenbank verwendet, wird empfohlen, das Datenwörterbuch wie folgt zu formatieren:
 
-   * Erste Spalte: Marketo Engage-Feldnamen
-   * Zweite Spalte: Marketo Engage-API-Namen
-   * Dritte Spalte: [Marketo Engage-](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/field-management/custom-field-type-glossary){target="_blank"} (d. h. Boolesch, Währung, Datum usw.)
-   * In den nachfolgenden Spalten wiederholen Sie den Vorgang für die CRM-Objekttypen (Lead, Kontakt, Konto, Opportunity) mit einer zusätzlichen Spalte für die Zugriffsebene, die Marketo Engage haben soll (d. h. Lesen, Schreiben, Bearbeiten)
+  * Erste Spalte: Marketo Engage-Feldnamen
+  * Zweite Spalte: Marketo Engage-API-Namen
+  * Dritte Spalte: [Marketo Engage-](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/field-management/custom-field-type-glossary){target="_blank"} (d. h. Boolesch, Währung, Datum usw.)
+  * In den nachfolgenden Spalten wiederholen Sie den Vorgang für die CRM-Objekttypen (Lead, Kontakt, Konto, Opportunity) mit einer zusätzlichen Spalte für die Zugriffsebene, die Marketo Engage haben soll (d. h. Lesen, Schreiben, Bearbeiten)
   <br>
 
   Im Folgenden finden Sie ein Beispiel dafür, wie sie aussehen würde:
@@ -68,9 +75,9 @@ Im Allgemeinen empfiehlt es sich, nur CRM-Felder zu synchronisieren, die für Ma
 
 * Fügen Sie zunächst die Standardfelder hinzu, die automatisch für Ihr CRM-System zugeordnet werden:
 
-   * [Salesforce](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/default-salesforce-field-mapping){target="_blank"}
-   * [Microsoft Dynamics](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/microsoft-dynamics-sync-details/default-dynamics-field-mapping){target="_blank"}
-   * [Veeva](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/crm-sync/veeva-crm-sync/sync-details/default-veeva-field-mapping){target="_blank"}
+  * [Salesforce](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/crm-sync/salesforce-sync/sfdc-sync-details/default-salesforce-field-mapping){target="_blank"}
+  * [Microsoft Dynamics](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/microsoft-dynamics-sync-details/default-dynamics-field-mapping){target="_blank"}
+  * [Veeva](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/crm-sync/veeva-crm-sync/sync-details/default-veeva-field-mapping){target="_blank"}
 
 * Bestätigen Sie, dass jedes Standardfeld in Marketo Engage mit dem Feld in Ihrem CRM übereinstimmt, mit dem Sie synchronisieren möchten. Das Feld „Abgemeldet“ in Marketo Engage könnte beispielsweise das Feld „E-Mail-Abmeldung“ in Ihrem CRM sein.
 * Passen Sie bei Bedarf den CRM-API[Namen, die Berechtigungen und den &#x200B;](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/administration/field-management/custom-field-type-glossary){target="_blank"}Datentyp“ an.
@@ -90,9 +97,9 @@ Im Allgemeinen empfiehlt es sich, nur CRM-Felder zu synchronisieren, die für Ma
 * Erstellen Sie Felder im CRM für diejenigen, die bereits in Marketo Engage vorhanden sind, und aktualisieren Sie das Datenwörterbuch mit den Anzeige- und API-Namen für das neue CRM-Feld.
 * Feldzuordnung zwischen Lead- und Kontaktobjekten in Ihrem CRM durchführen ([Salesforce](https://nation.marketo.com/t5/product-blogs/instructions-for-creating-a-custom-sync-rule/ba-p/242758){target="_blank"} | [Microsoft Dynamics](https://community.dynamics.com/blogs/post/?postid=8a91d93e-2181-45dd-a8fb-1092010bc8f1){target="_blank"}). Wenn ein Lead in einen Kontakt konvertiert wird, wird sichergestellt, dass die Felder in Marketo Engage zu einem einzigen Feld zusammengefasst werden können.
 * Stellen Sie sicher, dass das Marketo-Synchronisierungsprofil über die entsprechenden Berechtigungen für jedes Feld verfügt, wie im Datenwörterbuch angegeben:
-   * [Festlegen von Profilberechtigungen in Salesforce](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited#set-profile-permissions){target="_blank"}
-   * [Festlegen von Profilberechtigungen in Microsoft Dynamics](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up#create-application-user-in-microsoft){target="_blank"}
-   * [Festlegen von Profilberechtigungen in Veeva](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/crm-sync/veeva-crm-sync/setup/step-2-of-3-create-a-veeva-crm-user-for-marketo-engage#set-profile-permissions){target="_blank"}
+  * [Festlegen von Profilberechtigungen in Salesforce](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/crm-sync/salesforce-sync/setup/enterprise-unlimited-edition/step-2-of-3-create-a-salesforce-user-for-marketo-enterprise-unlimited#set-profile-permissions){target="_blank"}
+  * [Festlegen von Profilberechtigungen in Microsoft Dynamics](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/crm-sync/microsoft-dynamics/sync-setup/microsoft-dynamics-365-with-s2s-connection/step-2-of-3-set-up#create-application-user-in-microsoft){target="_blank"}
+  * [Festlegen von Profilberechtigungen in Veeva](https://experienceleague.adobe.com/de/docs/marketo/using/product-docs/crm-sync/veeva-crm-sync/setup/step-2-of-3-create-a-veeva-crm-user-for-marketo-engage#set-profile-permissions){target="_blank"}
 
 **Schritt 6:** Erste Synchronisierung durchführen
 
@@ -105,17 +112,17 @@ Im Allgemeinen empfiehlt es sich, nur CRM-Felder zu synchronisieren, die für Ma
 
 * Bestätigen/aktualisieren Sie die Anzeige- und API-Namen für die neuen synchronisierten Felder.
 * Identifizieren Sie alle doppelten Felder, die möglicherweise neu zugeordnet werden müssen. Duplizierte Felder treten in einigen Szenarien auf:
-   * Benutzerdefinierte Felder im CRM würden bei der ersten Synchronisierung in Marketo Engage ein neues (potenziell doppeltes) Feld erstellen, wenn bereits ein entsprechendes Feld in Marketo Engage vorhanden wäre.
-   * Benutzerdefinierte Felder, die nur Marketo-Engage enthalten (d. h. ein Feld, das direkt in Marketo Engage erstellt wurde), und möglicherweise wird ein äquivalentes Feld vom CRM synchronisiert.
+  * Benutzerdefinierte Felder im CRM würden bei der ersten Synchronisierung in Marketo Engage ein neues (potenziell doppeltes) Feld erstellen, wenn bereits ein entsprechendes Feld in Marketo Engage vorhanden wäre.
+  * Benutzerdefinierte Felder, die nur Marketo-Engage enthalten (d. h. ein Feld, das direkt in Marketo Engage erstellt wurde), und möglicherweise wird ein äquivalentes Feld vom CRM synchronisiert.
 
 
 
 **Schritt 8:** Wenden Sie sich an den Adobe-Support, um eine Neuzuordnung durchzuführen, wenn doppelte Felder angezeigt werden
 
 * Wenden Sie sich mit den folgenden Informationen an den Support für Felder, die neu zugeordnet werden müssen:
-   * Anzeige- und API-Namen für neue doppelte Felder, die vom CRM erstellt wurden.
-   * Anzeigename für das Marketo Engage-Feld, dem das CRM-Feld zugeordnet werden soll.
-   * Siehe dieses Beispiel [HIER](https://nation.marketo.com/t5/knowledgebase/re-mapping-sfdc-marketo-fields/ta-p/299284){target="_blank"}.
+  * Anzeige- und API-Namen für neue doppelte Felder, die vom CRM erstellt wurden.
+  * Anzeigename für das Marketo Engage-Feld, dem das CRM-Feld zugeordnet werden soll.
+  * Siehe dieses Beispiel [HIER](https://nation.marketo.com/t5/knowledgebase/re-mapping-sfdc-marketo-fields/ta-p/299284){target="_blank"}.
 * Sobald die Neuzuordnung abgeschlossen ist, überprüfen Sie die API-Namen für die neu zugeordneten Felder in Marketo Engage und aktualisieren Sie die Werte in der Spalte „API-Name“ Ihres Datenwörterbuchs, um sicherzustellen, dass es die genauesten Informationen enthält.
 
 ## Wie geht es weiter?

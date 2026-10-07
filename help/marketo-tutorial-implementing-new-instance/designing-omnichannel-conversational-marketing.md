@@ -6,16 +6,23 @@ level: Beginner
 doc-type: Article
 solution: Marketo Engage
 duration: 0
-last-substantial-update: 2024-05-23T00:00:00Z
+last-substantial-update: 2024-05-23T00:00:00.000Z
 jira: KT-14814
 exl-id: 160dfb25-9f54-4dce-a08a-4a8d3c4c5368
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '1458'
 ht-degree: 0%
-
 ---
-
 # Entwerfen von Omni-Channel-Konversationsmarketing mit Dynamic Chat
 
 Marketing-Experten und -Expertinnen können Ihre Website entscheidend dazu beitragen, Leads zu generieren, Konversionen zu steigern und Verkaufszyklen zu beschleunigen. Durch die Interaktion mit Besuchern in Echtzeit auf Ihrer Website kann Ihr Vertriebsteam Käufer effizienter qualifizieren. Adobe Dynamic Chat, der native Chat-Kanal innerhalb Ihres Adobe Marketo Engage-Abonnements, ermöglicht Ihnen die Automatisierung von Konversationen zur Erweiterung der Funktionen von Marketo Engage.

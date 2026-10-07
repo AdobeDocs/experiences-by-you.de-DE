@@ -6,17 +6,24 @@ level: Beginner
 doc-type: Article
 solution: Marketo Engage
 duration: 0
-last-substantial-update: 2024-05-03T00:00:00Z
+last-substantial-update: 2024-05-03T00:00:00.000Z
 jira: KT-13284
 thumbnail: KT-13284.jpeg
 exl-id: b5b8a5b6-83d4-48ae-ae83-32c9fbf64df8
-source-git-commit: 1205848b1985a99b91f9d4d25e1a79f0df379589
+product_v2:
+  - id: b27e5950-9033-45ac-9f86-eb22e567f615
+    internal-label: Marketo Engage
+role_v2:
+  - id: c66ffd68-0f65-42bb-aa23-b4020f12e0bd
+    internal-label: Admin
+level_v2:
+  - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
+    internal-label: Beginner
+source-git-commit: 749b293ab38b8ea5a5f72517bd5c3455399137c2
 workflow-type: tm+mt
 source-wordcount: '1838'
 ht-degree: 0%
-
 ---
-
 # Verwalten von Stakeholdern zur Implementierung von Marketo Engage
 
 Die Implementierung von Marketo Engage ist ein entscheidender Schritt beim Ausbau Ihres MarTech-Stacks. Sie kann verschiedene Stakeholder einbeziehen, die Sie vom Marketing über den Vertrieb bis hin zur IT mitbringen müssen. Erfahren Sie, wie Sie Support von Ihrem Unternehmen für Ihre neue Marketo Engage-Instanz erhalten, indem Sie die richtigen Fragen stellen und regelmäßig Updates und Support kommunizieren. Verwenden Sie das Tutorial und die Vorlagen (mit herunterladbaren Versionen), um Ihre interne Kommunikation während der Implementierung und des Onboarding von Benutzern zu leiten.
