@@ -5,16 +5,14 @@ source-git-commit: 80fc3ded085ce416e9a26aec96f1293701f7d268
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 1%
-
 ---
-
 # Snippets
 
 ## Amy Chiu {#amy-chiu}
 
 ![Amy Chiu](/help/marketo-tutorial-implementing-new-instance/assets/amy-chiu.png){width="150"}
 
-**Amy**, Adoption &amp; Retention Marketing Manager, Adobe
+**Amy Chiu**, Adoption &amp; Retention Marketing Manager, Adobe
 
 ## Naomi Liu {#naomi-liu}
 
