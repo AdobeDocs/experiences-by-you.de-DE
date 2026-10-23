@@ -45,7 +45,7 @@ In diesem Artikel teilt Christian seine Best Practices, die [!DNL Adobe] [!DNL C
 
 ## &#x200B;1. Einen umfassenden und kohärenten Marketing- und Versandplan erstellen
 
-Der erste Schritt für Ihren Erfolg mit [!DNL [!DNL Adobe] [!DNL Campaign]] besteht darin, Ihre Tools und Kundenerwartungen zu verstehen - und das gilt für jede Art von Marketing. Definieren und verstehen Sie die Kanäle, die Sie zum Kontakt mit Ihren Kundinnen und Kunden verwenden, und überlegen Sie, wann und warum Sie diese Kanäle nutzen.
+Der erste Schritt für Ihren Erfolg mit [!DNL [!DNL Adobe] [!DNL Campaign]] besteht darin, Ihre Tools und Kundenerwartungen zu verstehen - und das gilt für jede Art von Marketing. Definieren und verstehen Sie die Kanäle, die Sie zum Kontakt mit Ihren Verbrauchenden verwenden, und überlegen Sie, wann und warum Sie diese Kanäle nutzen.
 
 [!DNL Adobe] [!DNL Campaign] ist ein flexibles Tool, mit dem Sie Ihre Kommunikation auf vielfältige Weise ausführen und steuern können. [Die Hälfte der Personen interagiert während jeder kaufbezogenen Journey mit drei bis fünf Kanälen](https://www.mckinsey.com/capabilities/operations/our-insights/redefine-the-omnichannel-approach-focus-on-what-truly-matters). Um das Potenzial Ihrer Plattform voll auszuschöpfen und mit Ihren Kundinnen und Kunden optimal zu kommunizieren, ist es daher von entscheidender Bedeutung, diese Kanäle im Voraus zu verstehen und zu planen.
 
