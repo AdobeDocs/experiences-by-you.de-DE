@@ -58,7 +58,7 @@ Das Wichtigste an [!DNL Adobe] Experience Cloud-Lösungen? Sie. Benutzer, die di
   </td>
   <td>
     <a href="/help/experience-manager/cloud-service/expert-resources/aem-champions/onboarding-playbook.md">
-      <img alt="Cloud Manager Onboarding-Playbook" src="https://video.tv.adobe.com/v/3419299?format=jpeg" />
+      <img alt="Cloud Manager Onboarding-Playbook" src="https://video.tv.adobe.com/v/3506884?captions=ger&format=jpeg" />
     </a>
     <div>
       <a href="/help/experience-manager/cloud-service/expert-resources/aem-champions/onboarding-playbook.md">
