@@ -48,7 +48,7 @@ Das Onboarding-Playbook hilft Ihnen, als neuer Administrator und Entwickler für
 
 Sehen Sie sich diese Tipps von Ihrem technischen Leiter Rakesh Pasupuleti an. Rakesh ist ein [!DNL Adobe] Experience Manager-Champion und er teilt Ideen, wie man das Onboarding-Playbook verwenden kann.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419299?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3506884?captions=ger&quality=12&learn=on)
 
 ## Weitere Ressourcen {#additional-resources}
 
